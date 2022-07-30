@@ -6,8 +6,10 @@
 TheGlory—MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Achmadcstllo" target="_blank">Achmadcstllo</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
+```
 <p align="center">
 . <a href="https://chat.whatsapp.com/D9rcnX7Xzq2COqGjk2kL5o/">Group WhatsApp</a>
+```
 
 ## ` BUILDPACKS`
 
