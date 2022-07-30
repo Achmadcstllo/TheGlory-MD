@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-the-gloryMulti Multi Device is a automated whatsapp bot created by <a href="https://github.com/Achmadcstllo" target="_blank">Achmadcstllo</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+TheGlory—MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Achmadcstllo" target="_blank">Achmadcstllo</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
