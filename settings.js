@@ -66,11 +66,11 @@ global.ownertag = '6285773400911' //ur tag number
 global.botname = 'TheGlory—MD' //ur bot name
 global.linkz = "https://saweria.co/Achmdcstllo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://trakteer.id/Achmdcstllo" //ur website to be displayed
-global.botscript = 'https://github.com/Achmadcstllo' //script link
-global.reactmoji = "⚔️" //ur menu react emoji
+global.botscript = 'https://github.com/Achmadcstllo/TheGlory—MD' //script link
+global.reactmoji = "😱" //ur menu react emoji
 global.themeemoji = "🗡️" //ur theme emoji
-global.packname = "Venom—MD Stickers\n\n\n\n\n\n\n\n\n\n\n• " //ur sticker watermark packname
-global.author = "Achmadcstllo" //ur sticker watermark author
+global.packname = "TheGlory—MD/n• " //ur sticker watermark packname
+global.author = "Achmadcstllo official" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
