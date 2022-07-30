@@ -11,7 +11,6 @@ Base Ori : https://github.com/DGXeon/CheemsBot-MD4
 
 <p align=canter">
 <a href="https://https://chat.whatsapp.com/D9rcnX7Xzq2COqGjk2kL5o/">Group WhatsApp</a>
-</p>
 
 ## ` BUILDPACKS`
 
