@@ -7,10 +7,7 @@ TheGlory—MD Multi Device is a automated whatsapp bot created by <a href="https
 </p>
 
 <p align="center">
-Base Ori : https://github.com/DGXeon/CheemsBot-MD4
-
-<p align="center">
-<a href="https://chat.whatsapp.com/D9rcnX7Xzq2COqGjk2kL5o/">Group WhatsApp</a>
+. <a href="https://chat.whatsapp.com/D9rcnX7Xzq2COqGjk2kL5o/">Group WhatsApp</a>
 
 ## ` BUILDPACKS`
 
