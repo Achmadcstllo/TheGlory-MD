@@ -1,1 +1,10676 @@
-var _0xf04b=["1X(\'./aO\')1n{JV,xx,xy,lA,JW,xz,JX,xA,xB}=1X(\'@JY/JZ\')1n fs=1X(\'fs\')1n 6r=1X(\'6r\')1n 7c=1X(\'7c\')1n{7H,K0,K1}=1X(\"xC\")1n 2E=1X(\'2E\')1n lB=1X(\'lB\')1n lC=1X(\'K2-lC\')1n os=1X(\'os\')1n 3w=1X(\'K3\')1n hx=1X(\"K4-8c\")1n 2X=1X(\'2X-xD\')1n{K5}=1X(\'K6\')1n 8D=1X(\'h6-d9\')1n{h6}=1X(\'K7\')1n{xE}=1X(\'K8-3Z\')1n 3Z=3I xE()1n{K9,h7,eX,Ka,Kb,5Y,7I,lD,eY,4O,2n,3a,6s,c8,a4}=1X(\'./3z/Kc\')1n 8E=1X(\'Kd-8c\')1n h8=1X(\"h8\")1n{h9}=1X(\'./3z/Kf\')D{Kg}=1X(\'./3z/Kh\')D{ha}=1X(\'./3z/ha.js\')1n{hb}=1X(\"2W-8c\")1n 2W=3I hb()1n lE=1X(\'hc-Ki\')1n{xF}=1X(\'./3z/Kj.js\')1n 1g=1X(\'./3z/1g\')1n{xG}=1X(\'./3z/eZ.js\')1n{xH}=1X(\"./3z/Kk.js\")1n{lF}=1X(\'./3z/lF\')1n hf=1X(\"Kl-8c\")1n{7J}=1X(\"./3z/7J\")1n xI=1X(\'@Km/Kn-Ko-js\')1n{f0}=1X(\'./3z/Kp.js\')1n{xJ,Kq,Kr,xK,xL,Ks,xM,xN,xO,xP,xQ,xR,xS,xT,xU,xV,Kt,Ku,xW,xX,Kv,Kw,Kx,Ky,Kz,KA,KB,KC,KD,xY,KE,KF,KG,KH,KI,xZ,KJ,y0,KK,y1}=1X(\"KL-8c\")lG,y2,y3,lH,hg}=1X(\'./7d/1S/y4.js\')1n{y5,f1,y6,y7,y8,y9,yb,yc,yd,ye,KM,yf,hh,hj,hk,lI,hl}=1X(\'./7d/1S/KN.js\')1n{lJ,yg,9k,hm,7e}=1X(\'./7d/1S/KO.js\')1n{KP,yh,yi,KQ,hn}=1X(\'./7d/1S/9l.js\')1n{yj,f2,yk,yl,ym,yn,yo,yp,yq,yr,ys,yu,yv,yw,hp,hq,hr,hs,ht,hu}=1X(\'./7d/1S/KR.js\')D lK=U.KS.KT 1n lL=y2(m.1d)1n f3=hg(m.1d)1n KU=lI(m.1d)1n yx=hl(m.1d)1n yz=hp(m.1d)1n yA=hq(m.1d)1n yB=hr(m.1d)1n yC=hs(m.1d)1n yD=ht(m.1d)1n yE=hu(m.1d)1n hw=7e(m.1d)1n KV=hn(m.1d)1n yF=hh(m.1d)1n yG=hj(m.1d)1n yH=hk(m.1d)1n f4=y5(m.1d)1n f5=yj(m.1d)1n KW=yh(m.1d)1n lM=yg(m.1d)1n yI=[\'\ud83d\udc1f\',\'\ud83d\udc20\',\'\ud83d\udc21\']D yJ=5Z.8F(fs.4a(\'./7d/1S/KX.5k\'));D KY=5Z.8F(fs.4a(\'./7d/1S/y4.5k\'))D yK=5Z.8F(fs.4a(\'./6K/9m/7f-lN-lO-Ke-lP/2s.5k\'));D yL=5Z.8F(fs.4a(\'./6K/9m/7f-lN-lO-Ke-lP/1e.5k\'));D yM=5Z.8F(fs.4a(\'./6K/9m/7f-lN-lO-Ke-lP/2k.5k\'));D 5d=5Z.8F(fs.4a(\'./5A/5d.5k\'));1n hy=5Z.8F(fs.4a(\'./5A/lQ.5k\'));D c9=5Z.8F(fs.4a(\'./5A/c9.5k\'));D aP=5Z.8F(fs.4a(\'./5A/M.5k\'));D ca=5Z.8F(fs.4a(\'./lR/8d/ca.5k\'))D cb=db.Z.2F.9n=[]D 9o=db.Z.2F.cc=[]D 8G=db.Z.2F.8G=[]D 9p=db.Z.2F.9p=[]D 9q=db.Z.2F.KZ=[]D da=db.Z.2F.L0=[]D a5=db.Z.2F.L1=[]D 9r=db.Z.2F.L2=[]D hz=db.Z.2F.L3=[]D 3e=db.Z.L4.3e=[]L5.L6=E=2p(E,m,yN,cd)=>{5u{1t 4P=(m.9s===\'yO\')?m.1l.yO:(m.9s==\'lS\')?m.1l.lS.1i:(m.9s==\'f6\')?m.1l.f6.1i:(m.9s==\'a6\')?m.1l.a6.G:(m.9s==\'lT\')?m.1l.lT.yP:(m.9s==\'lU\')?m.1l.lU.yQ.yR:(m.9s==\'yS\')?m.1l.yS.L7:(m.9s===\'L8\')?(m.1l.lT?.yP||m.1l.lU?.yQ.yR||m.G):\'\'1t 3J=(dc m.G==\'yT\'?m.G:\'\')1t j=yU?/^[\xB0\u2022\u03c0\xF7\xD7\xB6\u2206\xA3\xA2\u20ac\xA5\xAE\u2122+\u27131Q=|~!?@#$%^&.\xA9^]/gi.1m(4P)?4P.lV(/^[\xB0\u2022\u03c0\xF7\xD7\xB6\u2206\xA3\xA2\u20ac\xA5\xAE\u2122+\u27131Q=|~!?@#$%^&.\xA9^]/gi)[0]:\"\":yU??U.j 1n 7K=4P.aQ(j)1n S=4P.3A(j,\'\').6t().1p(/ +/).yV().3W()1n 1j=4P.6t().1p(/ +/).8e(1)1n 6u=m.hA||\"No 4Q\"1n 7g=F E.L9(E.1S.id)1n 2C=[7g,...U.2m].2P(v=>v.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\').2a(m.1d)1n La=m.1d==7g?2u:1N 1n G=q=1j.2l(\" \")1n Q=m.Q?m.Q:m 1n 2K=(Q.6L||Q).4p||\'\'1n yW=/1e|2k|4e|2s/.1m(2K)1n 1f=lW.3f.8H 1n 1r=4R.a7(lW.1l)[0]1n 8I=5Z.dd(lW.1l)1n yX=4P.8e(0).6t().1p(/ +/).yV().3W()1n yY=m.1Y?5K.lX:\'\'1n 4S=m.1Y?F 5K.4S:\'\'1n lY=m.1Y?F 4S.6a(v=>v.2H!==ce).2P(v=>v.id):\'\'1n Lb=m.1Y?5K.2m:\'\'1n 3s=m.1Y?lY.2a(7g):1N 1n 3k=m.1Y?lY.2a(m.1d):1N 1n hB=2C||U.lZ.2P(v=>v.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\').2a(m.1d)||1N 1n hC=m.1Y?hD.2a(1f):1N 1n hE=m.1Y?hF.2a(1f):1N 1n hG=m.1Y?hH.2a(1f):1N 1n hI=m.1Y?de.2a(1f):1N 1n hJ=m.1Y?hK.2a(1f):1N 1n hL=m.1Y?hM.2a(1f):1N 1n f7=m.1Y?yZ.2a(1f):1N 1n f8=m.1Y?hN.2a(1f):1N 1n m0=m.1Y?hO.2a(1f):1N 1n f9=m.1Y?m1.2a(1f):1N 1n hP=m.1Y?fa.2a(1f):1N 1n hQ=m.1Y?hR.2a(1f):1N 1n 8J=m.1Y?hS.2a(1f):1N 1n m2=hy.2a(1f)1n m3=m.1Y?5d.2a(1f):1N 1n cf=m.1Y?hT.2a(1f):2u 1n K=c9.2a(m.1d)1n L=m.1Y?aP.2a(1f):1N z0=2u D 4F=z1[1J.2x(1J.2c()*z1.1P)]5u{D hU=x=>dc x===\'df\'&&!Lc(x)D fc=hB?U.hV.lZ:U.hV.3B D 1S=U.db.Z.4T[m.1d]if(dc 1S!==\'m4\')U.db.Z.4T[m.1d]={}if(1S){if(!hU(1S.8f))1S.8f=-1 if(!(\'aR\'in 1S))1S.aR=\'\'if(!hU(1S.9l))1S.9l=fc}1z U.db.Z.4T[m.1d]={8f:-1,aR:\'\',9l:fc,}D 5L=U.db.Z.5L[m.P]if(dc 5L!==\'m4\')U.db.Z.5L[m.P]={}if(5L){if(!(\'6M\'in 5L))5L.6M=1N}1z U.db.Z.5L[m.P]={6M:1N,}D 5v=U.db.Z.aO[7g]if(dc 5v!==\'m4\')U.db.Z.aO[7g]={}if(5v){if(!hU(5v.2D))5v.2D=0 if(!(\'m5\'in 5v))5v.m5=1N if(!(\'8K\'in 5v))5v.8K=1N if(!(\'8L\'in 5v))5v.8L=1N if(!(\'8M\'in 5v))5v.8M=1N if(!(\'aS\'in 5v))5v.aS=1N if(!(\'9t\'in 5v))5v.9t=2u}1z U.db.Z.aO[7g]={2D:0,m5:1N,8K:1N,8L:1N,8M:1N,aS:1N,9t:2u,}}1u(1k){1T.3O(1k)}1n Ld=(1o)=>{E.W(m.P,{G:1o,},{Q:m,3P:fs.4a(\'./6K/1e/Le.m6\')})}1n Lf={3f:{6N:`0@s.2J.3b`,...(1f?{8H:`aT-Lg@g.us`}:{})},1l:{\'Lh\':{\'Li\':`${6u}`,\'Lj\':`Lk:Ll\\Lm:3.0\\nN:XL;${6u},1n Ln={3f:{4u:1N,6N:`0@s.2J.3b`,...(1f?{8H:\"Lo@s.2J.3b\"}:{})},1l:{\"Lp\":{\"Lq\":{\"Lr\":{\"4p\":\"1e/z2\",\"4f\":4v},\"1O\":`${U.3X}`,\"3x\":`${U.1q}`,\"Ls\":\"Lt\",\"Lu\":\"7L\",\"Lv\":`${U.aU}`,\"Lw\":1},\"Lx\":`0@s.2J.3b`}}}1n fd={3f:{6N:\'0@s.2J.3b\'},1l:{z3:{z4:1,2D:1,z5:1,1l:`${U.3X}`,z6:`${U.1q}`,3P:4v,z7:\'0@s.2J.3b\'}}}1n Ly={3f:{6N:\'0@s.2J.3b\'},1l:{Lz:{2i:`${U.fe}`,4f:4v}}}1n z8={3f:{6N:\'0@s.2J.3b\'},1l:{LA:{1O:`${U.1q}`,4f:4v}}}1n LB={3f:{4u:1N,6N:`0@s.2J.3b`,...(1f?{8H:\"aT-hW@g.us\"}:{})},1l:{\"f6\":{\"1O\":`${U.1q}`,\"h\":`${U.3X}`,\'8N\':\'30\',\'1i\':`${U.aU}`,\'4f\':4v}}}1n LC={\"3f\":{\"4u\":1N,\"6N\":\"0@s.2J.3b\",\"8H\":\"0@s.2J.3b\"},\"1l\":{\"LD\":{\"LE\":\"aT-LF@g.us\",\"LG\":`${U.3X}`,\"yY\":`${U.1q}`,\"1i\":`${U.aU}`,\'4f\':4v}}}1n LH={3f:{4u:1N,6N:`0@s.2J.3b`,...(1f?{8H:\"aT-hW@g.us\"}:{})},1l:{\"f6\":{\"1O\":`${U.1q}`,\"h\":`${U.3X}`,\'8N\':\"30\",\'hX\':\'2u\',\'1i\':`${U.aU}`,\'4f\':4v}}}1n LI={3f:{4u:1N,6N:`0@s.2J.3b`,...(1f?{8H:\"aT-hW@g.us\"}:{})},1l:{\"a6\":{\"G\":`${U.3X}`,\"1O\":`${U.1q}`,\'4f\':4v}}}1n LJ={3f:{4u:1N,6N:`0@s.2J.3b`,...(1f?{8H:\"aT-hW@g.us\"}:{})},1l:{\"z9\":{\"4p\":\"2s/LK; LL=LM\",\"8N\":\"LN\",\"cg\":\"2u\"}}}E.W(m.P,{G:1o,2L:{\"6v\":{\"1O\":`${U.1q}`,\"4P\":`${3X}`,\"za\":\"zb\",\"zc\":``,\"3P\":fs.4a(`./6K/9m/hY.6w`),\"6x\":`${zd}`}}},{Q:m})}1n 1a=(1o)=>{E.W(m.P,{G:1o,2L:{\"6v\":{\"1O\":`${U.1q}`,\"4P\":`${3X}`,\"za\":\"zb\",\"zc\":``,\"3P\":fs.4a(`./6K/9m/hY.6w`),\"6x\":`${zd}`}}},{Q:m})}if(!m.3f.4u)z}1T.1U(7c.hZ(7c.LO(\'[ LP ]\')),7c.hZ(7c.LQ(3I 3T)),7c.hZ(7c.LR(3J||m.9s))+\'\\n\'+7c.LS(\'=> 8g\'),7c.ff(6u),7c.LT(m.1d)+\'\\n\'+7c.LU(\'=> In\'),7c.ff(m.1Y?6u:\'LV 7h\',m.P))}LW.LX(\'LY 12 * * *\',()=>{D 1S=4R.a7(U.db.Z.4T)D fc=hB?U.hV.lZ:U.hV.3B 1R(D i0 of 1S)U.db.Z.4T[i0].9l=fc 1T.1U(\'a8 LZ\')},{M0:2u,xD:\"m7/m8\"})U.ze={}if(7K){Z=F 4O(\'Y://8c.M1.M2/ze/M3/M4\')zf=`${Z.fg}`zg=F 4O(`Y:zh=`${zg.fg}`}D 5v=U.db.Z.aO[7g]if(3I 3T()*1-5v.2D>ch){D fh=F eY(i1.fh())F E.zi(`${E.1S.2i}|M5:${eY(fh)}`)5v.2D=3I 3T()*1}}if(z0){if(1f===\'2D@i2\'){E.M6(1f)}}if(U.M7){if(S){F E.i3(\'zj\',m.P)E.i4(1f,m.1d,[m.3f.id])}}if(U.M8){if(m.1Y){E.i4(m.P,m.1d,[m.3f.id])}}if(U.M9){if(m.P){E.i3(\'Ma\',m.P)}}if(U.Mb){if(m.P){E.i3(\'zj\',m.P)}}if(U.zk){if(m.P){E.i3(\'zk\',m.P)}}if(m3){if(/1e/.1m(2K)&&!/7i/.1m(2K)){D aV=F Q.7M()F E.8O(1f,aV,m,{4b:U.4b,2Q:U.2Q})1T.1U(`dg 4e zl`)}1z if(/2k/.1m(2K)){if((Q.6L||Q).8N>11)z D aV=F Q.7M()F E.i5(1f,aV,m,{4b:U.4b,2Q:U.2Q})}}if(m2){if(/1e/.1m(2K)&&!/7i/.1m(2K)){D aV=F Q.7M()F E.8O(1f,aV,m,{4b:U.4b,2Q:U.2Q})1T.1U(`dg 4e zl`)}1z if(/2k/.1m(2K)){if((Q.6L||Q).8N>11)z D aV=F Q.7M()F E.i5(1f,aV,m,{4b:U.4b,2Q:U.2Q})}}if(hC){Mc=F E.zm(1f)if(3J.2a(`Y:l(`\\`\\`\\`\u300c4g 2M 4J\u300d\\`\\`\\`\\n\\zn zo\'t be 4U by a 7j 7N 6y 1h 3n is a V to 1B 1H`)\x0A} 1z if (5Y(m.G)) {\x0A2R = `\\`\\`\\`\u300c 4g 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a V, 2H is 3B to i6 5l V`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\').1F((1E) => l(3a(1E))).1u((1k) => l(3a(1k)))\x0AE.W(1f, {G:`\\`\\`\\`\u300c 4g 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A}\x0A  // Md by 6O\x0A  if (f9)\x0A  if (3J.2a(`wa.me`)) {\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c Wa.me 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a wa.me V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c Wa.me 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 5m 2k V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A  if (f9)\x0A  if (3J.2a(`zp://wa.me`)) {\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c Wa.me 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a wa.me V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c Wa.me 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 5m 2k V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//zq by 6O\x0A  if (hQ) {\x0A  if (3J.1P > Mf) {\x0A  l(`Mg Mh zr!! Mi as a9\u26a0\ufe0f\\n`.Mj(Mk))\x0A  l(`\\`\\`\\`\u300c m9 4J \u300d\\`\\`\\`\\n\\Ml 2w zs Be Mm !`)\x0A  if (!3s) z l(B.4q)\x0A  E.6c(m.P, [m.1d], \'5w\')\x0A  }\x0A  }\x0A//Mn ca fj by 6O\x0Aif (hP)\x0Aif (ca.2a(yX)) {\x0Amb = [\'Mo,Mp 2T Mq\',\'Mr 6d Ms dh to Mt?\',\'ci zt 8d my fk\ud83e\udd22\',\'zu be 8d\ud83e\udd84\']\x0Amd =  mb[1J.2x(1J.2c() * (mb.1P))]\x0Al(md)\x0Aif (m.G) {\x0A2R = `\\`\\`\\`\u300c mg fl 4J \u300d\\`\\`\\`\\n\\zn 6z fm ca di 8R 1h 6z an 2H 6P\'s i7 i zo\'t i8 1h\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c mg fl 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 8h 4U 7N of fm ca fj in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})}\x0A}\x0A//4K 5m 2k by 6O\x0Aif (hE)\x0Aif (3J.2a(\"Y://Mu.be/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c zv 5f 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 5m 2k V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c 3R 5f 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 5m 2k V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 5m aW by 6O\x0Aif (hG)\x0A   if (3J.2a(\"Y://5m.3C/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c zv fn 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 5m aW V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c 3R fn 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 5m aW V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 7k by 6O\x0Aif (hI)\x0A   if (3J.2a(\"Y://fo.7k.3C/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c dj 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 7k V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c dj 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 7k V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 7l by 6O\x0Aif (hJ)\x0A   if (3J.2a(\"Y://7l.3C/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c dk 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 7l V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c dk 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 7l V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K dl by 6O\x0Aif (f7)\x0A   if (3J.2a(\"Y://t.me/\")){\x0Aif (f7)\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c i9 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a dl V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c i9 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q dl V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 6e by 6O\x0Aif (hL)\x0A   if (3J.2a(\"Y://fo.6e.3C/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c fp 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 6e V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c fp 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 6e V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 8i by 6O\x0Aif (f8)\x0A   if (3J.2a(\"Y://8i.3C/\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c cj 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a 8i V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c fp 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q 8i V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A//4K 8j by 6O\x0Aif (m0)\x0A   if (3J.2a(\"Y://\")){\x0Aif (!3s) z\x0A2R = `\\`\\`\\`\u300c 2M 4J \u300d\\`\\`\\`\\n\\8P 6b 7O a V, 2H is 3B to 3n 5l V\ud83d\ude07`\x0Aif (3k) z l(2R)\x0Aif (m.3f.4u) z l(2R)\x0Aif (2C) z l(2R)\x0A2S = m.1d\x0AF E.6c(m.P, [2S], \'5w\')\x0AE.W(1f, {G:`\\`\\`\\`\u300c 2M 4J \u300d\\`\\`\\`\\n\\n@${2S.1p(\"@\")[0]} 5e 6d 4U 7N of 8Q V in 1B 1H`, 2L:{2I:[2S]}}, {Q:m})\x0A} 1z {\x0A}\x0A                //fq l by 6O\x0A  //if (cf) //5w ia ib to 7P it 9u on 1C\x0A        1R (D mh of Mv){\x0A\x09\x09\x09\x09if (3J === mh){\x0A\x09\x09\x09\x09\x091v = fs.4a(`./6K/4e/${mh}.7i`)\x0A\x09\x09\x09\x09\x09E.W(m.P, { 4e: 1v }, { Q: m })\x0A\x09\x09\x09\x09\x09}\x0A\x09\x09\x09}\x0A\x09\x09\x09  //if (cf) //5w ia ib to 7P it 9u on 1C\x0A\x09\x09\x091R (D mi of yK){\x0A\x09\x09\x09\x09if (3J === mi){\x0A\x09\x09\x09\x09\x091v = fs.4a(`./6K/2s/${mi}.aX`)\x0A\x09\x09\x09\x09\x09E.W(m.P, { 2s: 1v, 4p: \'2s/5g\', cg: 2u }, { Q: m })     \x0A\x09\x09\x09\x09\x09}\x0A\x09\x09\x09}\x0A\x09\x09\x09  //if (cf) //5w ia ib to 7P it 9u on 1C\x0A\x09\x09\x091R (D dm of yL){\x0A\x09\x09\x09\x09if (3J === dm){\x0A\x09\x09\x09\x09\x091v = fs.4a(`./6K/1e/${dm}.6w`)\x0A\x09\x09\x09\x09\x09E.W(m.P, { 1e: 1v }, { Q: m })\x0A\x09\x09\x09\x09\x09}\x0A\x09\x09\x09}\x0A\x09\x09\x09  //if (cf) //5w ia ib to 7P it 9u on 1C\x0A\x09\x09\x09\x09\x091R (D dm of yM){\x0A\x09\x09\x09\x09if (3J === dm){\x0A\x09\x09\x09\x09\x091v = fs.4a(`./6K/2k/${dm}.5g`)\x0A\x09\x09\x09\x09\x09E.W(m.P, { 2k: 1v }, { Q: m })\x0A\x09\x09\x09\x09\x09}\x0A\x09\x09\x09\x09  }\x0A//2W \x0A1n 7m = (mj, zw) => {\x0A5u{\x09    \x0A1n { hb } = 1X(\"2W-8c\");\x0A1n 2W = 3I hb();\x0A2W.2q(mj)\x0A.1F(2W => {\x0A1n 1x = [{1A: \"y\", 1y: {1c:mj}, 1r: 1}]\x0A1n 2N = {1e: {R: 2W.ck[zw].R},1i: \"1V 1h go!\",zx: `${1q}`,1x: 1x,2h: 4}\x0AE.W(1f, 2N, {Q:m})\x0A})\x0A} 1u (e) {\x0Al(\"Mw 3O, mk zy Mx 2W\\Mz : zz zy 1 2W\")\x0A}\x0A}\x0A      //zA 7h\\      if (db.Z.5L[m.P].6M && !3k && !2C) {\x0A      z\x0A      }\x0A        \x0A        //2e MA \\\x09\x091n MC = 1r === \'a6\' && 8I.2a(\'lS\')\x0A\x09\x091n ml = 1r === \'a6\' && 8I.2a(\'f6\')\x0A\x09\x091n mn = 1r === \'a6\' && 8I.2a(\'z9\')\x0A\x09\x091n MD = 1r === \'a6\' && 8I.2a(\'ME\')\x0A        \x0A        //MF MG 6f 2e\\        if (yW && m.6L.aY && (m.6L.aY.5n(\'fr\') in U.db.Z.4e)) {\x0A        D 6Q = U.db.Z.4e[m.6L.aY.5n(\'fr\')]\x0A        D { G, 2I } = 6Q\x0A        D aa = F xz(m.P, { G: G, 5o: 2I }, {\x0A            ft: E.1S.id,\x0A            Q: m.Q && m.Q.zB\x0A        })\x0A        aa.3f.4u = xA(m.1d, E.1S.id)\x0A        aa.3f.id = m.3f.id\x0A        aa.hA = m.hA\x0A        if (m.1Y) aa.6N = m.1d\x0A        D 6L = {\x0A            ...yN,\x0A            aa: [lA.MH.zC(aa)],\x0A            1r: \'MI\'\x0A        }\x0A        E.ev.MJ(\'aa.MK\', 6L)\x0A        }\x0A\x09    \x0A\x09if ((\'9n\'+m.P in cb) && 7K) {\x0A            ab = 2u\x0A            D 1K = cb[\'9n\'+m.P]\x0A            D 1o = 3J.3W().3A(/[^\\w\\s\\-]+/, \'\')\x0A            D dn = /^((me)?mo up|zD?zE)$/i.1m(m.G)\x0A            if (!dn) {\x0A                D 9v = 1K.3y.ML(v => v.3W().3A(/[^\\w\\s\\-]+/, \'\') === 1o)\x0A                if (1K.aZ[9v]) z !0\x0A                1K.aZ[9v] = m.1d\x0A            }\x0A            D b0 = 1K.aZ.1P === 1K.aZ.6a(v => v).1P\x0A            D 1i = `\x0A4r 1L ic zF :\\n${1K.cl}\\n\\n\\ie Is ${1K.3y.1P} 4r ${1K.3y.6g(v => v.2a(\'\')) ? `(zG mp 4w zH)` : \'\'}\x0A${b0 ? `ac mp MN` : dn ? \'MO!\' : \'\'}\x0A${zI.1f(1K.3y, (3y, 9v) => {\x0A        z dn || 1K.aZ[9v] ? `(${9v + 1}) ${3y} ${1K.aZ[9v] ? \'@\' + 1K.aZ[9v].1p(\'@\')[0] : \'\'}`.6t() : 1N\x0A    }).6a(v => v).2l(\'\\n\')}\x0A    ${dn ? \'\' : `MP MQ`}`.6t()\x0A            E.2y(m.P, 1i, m, { 2L: { 2I: c8(1i) }}).1F(MR => { z cb[\'9n\'+m.P].zJ = MS }).1u(1Q => 1Q)\x0A            if (b0 || dn) 3r cb[\'9n\'+m.P]\x0A        }\x0A        if (ad.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = ad[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h 6R\', 1y: { 1c: \'5x 1L MT\' }, 1r: 1 }], `\ud83c\udfae 5x 1L MU \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r ad[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (9o.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = 9o[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F l(`\ud83c\udfae 1J MV \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 2Y ${j}cc mq`)\x0A                3r 9o[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (8G.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = 8G[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h ae\', 1y: { 1c: \'5x 1L zK\' }, 1r: 1 }], `\ud83c\udfae 5x 1L zK \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r 8G[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (9p.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = 9p[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h di\', 1y: { 1c: \'5x 1L fl\' }, 1r: 1 }], `\ud83c\udfae 5x 1L fl \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r 9p[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (9q.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = 9q[m.1d.1p(\'@\')[0]]\x0A\x09    fu = da[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h MW\', 1y: { 1c: \'5x 1L zL\' }, 1r: 1 }], `\ud83c\udfae 5x 1L zL \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n*${fu}*\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r 9q[m.1d.1p(\'@\')[0]]\x0A\x09\x093r da[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (a5.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = a5[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h ih\', 1y: { 1c: \'5x 1L mr\' }, 1r: 1 }], `\ud83c\udfae 5x 1L mr \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r a5[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        if (9r.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = 9r[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h 8n\', 1y: { 1c: \'5x 1L ii\' }, 1r: 1 }], `\ud83c\udfae 5x 1L ii \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r 9r[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A\x09    \x0A\x09if (hz.5h(m.1d.1p(\'@\')[0]) && 7K) {\x0A            ab = 2u\x0A            3y = hz[m.1d.1p(\'@\')[0]]\x0A            if (3J.3W() == 3y) {\x0A                F E.3g(m.P, [{ 1A: \'6h MX\', 1y: { 1c: \'5x 1L zM\' }, 1r: 1 }], `\ud83c\udfae 5x 1L zM \ud83c\udfae\\n\\b1 4r \ud83c\udf89\\n\\7n To 8k 8l? 8m 1L 6S 7o`, E.1S.2i, m)\x0A                3r hz[m.1d.1p(\'@\')[0]]\x0A            } 1z l(\'*b2 4r!*\')\x0A        }\x0A        \x0A        //fv\\\x09    1B.2F = 1B.2F ? 1B.2F : {}\x0A\x09    D 1K = 4R.7Q(1B.2F).6g(1K => 1K.id && 1K.2F && 1K.7R && 1K.id.aQ(\'cm\') && [1K.2F.ij, 1K.2F.fw].2a(m.1d) && 1K.7R == \'zN\')\x0A\x09    if (1K) {\x0A\x09    D ok\x0A\x09    D b0 = !1\x0A\x09    D ik = !1\x0A\x09    D b3 = !1\x0A\x09    //l(`[MY]\\n${zO(m.G)}`)\x0A\x09    if (!/^([1-9]|(me)?mo up|zD?zE|1C|MZ)$/i.1m(m.G)) z\x0A\x09    b3 = !/^[1-9]$/.1m(m.G)\x0A\x09    if (m.1d !== 1K.2F.il) { \x0A\x09    if (!b3) z !0\x0A\x09    }\x0A\x09    if (!b3 && 1 > (ok = 1K.2F.N0(m.1d === 1K.2F.fw, zO(m.G) - 1))) {\x0A\x09    l({\x0A\x09    \'-3\': \'cn 5e zP\',\x0A\x09    \'-2\': \'fx\',\x0A\x09    \'-1\': \'fx zQ\',\x0A\x09    0: \'fx zQ\',\x0A\x09    }[ok])\x0A\x09    z !0\x0A\x09    }\x0A\x09    if (m.1d === 1K.2F.iq) b0 = 2u\x0A\x09    1z if (1K.2F.N1 === N2) ik = 2u\x0A\x09    D 9w = 1K.2F.zR().2P(v => {\x0A\x09    z {\x0A\x09    X: \'\u274c\',\x0A\x09    O: \'\u2b55\',\x0A\x09    1: \'1\ufe0f\u20e3\',\x0A\x09    2: \'2\ufe0f\u20e3\',\x0A\x09    3: \'3\ufe0f\u20e3\',\x0A\x09    4: \'4\ufe0f\u20e3\',\x0A\x09    5: \'5\ufe0f\u20e3\',\x0A\x09    6: \'6\ufe0f\u20e3\',\x0A\x09    7: \'7\ufe0f\u20e3\',\x0A\x09    8: \'8\ufe0f\u20e3\',\x0A\x09    9: \'9\ufe0f\u20e3\',\x0A\x09    }[v]\x0A\x09    })\x0A\x09    if (b3) {\x0A\x09    1K.2F.ir = m.1d === 1K.2F.ij\x0A\x09    b0 = 2u\x0A\x09    }\x0A\x09    D iq = b3 ? 1K.2F.il : 1K.2F.iq\x0A\x09    D 9x = `zS ID: ${1K.id}\x0A${9w.8e(0, 3).2l(\'\')}\x0A${9w.8e(3, 6).2l(\'\')}\x0A${9w.8e(6).2l(\'\')}\x0A${b0 ? `@${iq.1p(\'@\')[0]} N3!` : ik ? `cn dp` : `ms ${[\'\u274c\', \'\u2b55\'][1 * 1K.2F.ir]} (@${1K.2F.il.1p(\'@\')[0]})`}\x0A\u274c: @${1K.2F.ij.1p(\'@\')[0]}\x0A\u2b55: @${1K.2F.fw.1p(\'@\')[0]}\x0AN4 *iu* to iu 3K N5 zT`\x0A\x09    if ((1K.2F.ir ^ b3 ? 1K.x : 1K.o) !== m.P)\x0A\x09    1K[1K.2F.ir ^ b3 ? \'x\' : \'o\'] = m.P\x0A\x09    if (1K.x !== 1K.o) F E.2y(1K.x, 9x, m, { 5o: c8(9x) } )\x0A\x09    F E.2y(1K.o, 9x, m, { 5o: c8(9x) } )\x0A\x09    if (ik || b0) {\x0A\x09    3r 1B.2F[1K.id]\x0A\x09    }\x0A\x09    }\x0A        //9y zU\\\x09    1B.5B = 1B.5B ? 1B.5B : {}\x0A\x09    D 1Z = 4R.7Q(1B.5B).6g(1Z => 1Z.id && 1Z.2D && [1Z.p, 1Z.p2].2a(m.1d))\x0A\x09    if (1Z) {\x0A\x09    D 9z = \'\'\x0A\x09    D fy = 1N\x0A\x09    if (m.1d == 1Z.p2 && /^(N6(N7)?|N8|mt|N9?|mu|no|zV|zW(k.)?mt|y)/i.1m(m.G) && m.1Y && 1Z.2D == \'1D\') {\x0A\x09    if (/^(mu|no|zV|n|zW(k.)?mt)/i.1m(m.G)) {\x0A\x09    E.dq(m.P, `@${1Z.p2.1p`@`[0]} Na 9y, 9y zX`, m)\x0A\x09    3r 1B.5B[1Z.id]\x0A\x09    z !0\x0A\x09    }\x0A\x09    1Z.2D = \'6A\'\x0A\x09    1Z.zY = m.P\x0A\x09    zZ(1Z.b4)\x0A\x09    //3r 1Z[1Z.id].b4\x0A\x09    E.2y(m.P, `9y 5e fz iv To 7h\x0A@${1Z.p.1p`@`[0]} Nb \x0A@${1Z.p2.1p`@`[0]}\x0A4x dr A 9y In 1L Nc 7h\"\x0Ads Y://wa.me/${7g.1p`@`[0]}`, m, { 5o: [1Z.p, 1Z.p2] })\x0A\x09    if (!1Z.8S) E.2y(1Z.p, `4x iw \\n\\Nd\ud83d\uddff\\A0\ud83d\udcc4\\A1\u2702\ufe0f`, m)\x0A\x09    if (!1Z.ag) E.2y(1Z.p2, `4x iw \\n\\Ne\ud83d\uddff\\A0\ud83d\udcc4\\A1\u2702\ufe0f`, m)\x0A\x09    1Z.A2 = 5M(() => {\x0A\x09    if (!1Z.8S && !1Z.ag) E.2y(m.P, `Nf Ng 7p\'t 6T To 8k,\\Nh zX`)1z if(!1Z.8S||!1Z.ag){9z=!1Z.8S?1Z.p2:1Z.p E.dq(m.P,`@${(1Z.8S?1Z.p2:1Z.p).1p`@`[0]}Ni\'t dr 9y, cn dp!`, m)\x0A\x09    }\x0A\x09    3r 1B.5B[1Z.id]\x0A\x09    z !0\x0A\x09    }, 1Z.ix)\x0A\x09    }\x0A\x09    D A3 = m.1d == 1Z.p\x0A\x09    D A4 = m.1d == 1Z.p2\x0A\x09    D g = /A5/i\x0A\x09    D b = /9A/i\x0A\x09    D k = /co/i\x0A\x09    D fA = /^(A5|9A|co)/i\x0A\x09    if (A3 && fA.1m(m.G) && !1Z.8S && !m.1Y) {\x0A\x09    1Z.8S = fA.7H(m.G.3W())[0]\x0A\x09    1Z.G = m.G\x0A\x09    l(`2w 4w A6 ${m.G} ${!1Z.ag ? `\\n\\A7 3L 1L iy To dr` : \'\'}`)\x0A\x09    if (!1Z.ag) E.2y(1Z.p2, \'A8 iy 5e A9\\Aa It Is 2O ms\', 0)\x0A\x09    }\x0A\x09    if (A4 && fA.1m(m.G) && !1Z.ag && !m.1Y) {\x0A\x09    1Z.ag = fA.7H(m.G.3W())[0]\x0A\x09    1Z.Ab = m.G\x0A\x09    l(`2w 4w A6 ${m.G} ${!1Z.8S ? `\\n\\A7 3L 1L iy To dr` : \'\'}`)\x0A\x09    if (!1Z.8S) E.2y(1Z.p, \'A8 iy 5e A9\\Aa It Is 2O ms\', 0)\x0A\x09    }\x0A\x09    D b5 = 1Z.8S\x0A\x09    D b6 = 1Z.ag\x0A\x09    if (1Z.8S && 1Z.ag) {\x0A\x09    zZ(1Z.A2)\x0A\x09    if (b.1m(b5) && g.1m(b6)) 9z = 1Z.p\x0A\x09    1z if (b.1m(b5) && k.1m(b6)) 9z = 1Z.p2\x0A\x09    1z if (g.1m(b5) && k.1m(b6)) 9z = 1Z.p\x0A\x09    1z if (g.1m(b5) && b.1m(b6)) 9z = 1Z.p2\x0A\x09    1z if (k.1m(b5) && b.1m(b6)) 9z = 1Z.p\x0A\x09    1z if (k.1m(b5) && g.1m(b6)) 9z = 1Z.p2\x0A\x09    1z if (b5 == b6) fy = 2u\x0A\x09    E.2y(1Z.zY, `1Q*9y 8o*1Q${fy ? \'\\Nj\' : \'\'}\x0A@${1Z.p.1p`@`[0]} (${1Z.G}) ${fy ? \'\' : 1Z.p == 9z ? ` Ac \\n` : ` mv \\n`}\x0A@${1Z.p2.1p`@`[0]} (${1Z.Ab}) ${fy ? \'\' : 1Z.p2 == 9z ? ` Ac \\n` : ` mv \\n`}\x0A`.6t(), m, { 5o: [1Z.p, 1Z.p2] })\x0A\x09    3r 1B.5B[1Z.id]\x0A\x09    }\x0A\x09    }\x0A\x09    \x0A\x09    D Ad = [...3I Ae([...(m.2I || []), ...(m.Q ? [m.Q.1d] : [])])]\x0A\x09    1R (D i0 of Ad) {\x0A            D 1S = U.db.Z.4T[i0]\x0A            if (!1S) Af\x0A            D 8f = 1S.8f\x0A            if (!8f || 8f < 0) Af\x0A            D cq = 1S.aR || \'\'\x0A            l(`\x0A7p\'t 3S cr!He\'s in Ag/Ai ${cq ? \'Nk Nl\' + cq : \'no cq\'}\x0AIt\'s 6d ${lD(3I 3T-8f)}`.6t())}if(db.Z.4T[m.1d].8f>-1){D 1S=U.db.Z.4T[m.1d]l(`2w Nm Nn Aj 8g Ag${1S.aR?\' iz \'+1S.aR:\'\'}In ${lD(3I 3T-1S.8f)}`.6t())1S.8f=-1 1S.aR=\'\'}1n Ak={fB:{G:1j[0],3f:{8H:m.P,4u:2u,id:Q.id}}}1n Al=8D();1n Am=8D()-Al 1n fC=`\u250c\u2500\u2756\u2502\u300cHi\ud83d\udc4b\u300d\u2514\u252c\u2756\u300c${6u}\u300d\u250c\u2524\u2711fD 6B 2w?\ud83d\ude04\u2502\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2508\u2cf9\u2502\u2514\u2500\u300c\ud835\ude3d\ud835\ude4a\ud835\ude4f\ud835\ude44\ud835\ude49\ud835\ude41\ud835\ude4a\u300d\u2502\ud835\udde6\ud835\uddfd\ud835\uddf2\ud835\uddf2\ud835\uddf1:${Am.fE(4)}Np\u2502\ud835\udde5\ud835\ude02\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2:${eY(i1.fh())}\u2502\ud835\uddd5\ud835\uddfc\ud835\ude01\ud835\udde1\ud835\uddee\ud835\uddfa\ud835\uddf2:${U.1q}\u2502\ud835\udde2\ud835\ude04\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\udde1\ud835\uddee\ud835\uddfa\ud835\uddf2:${U.3X}\u2502\ud835\udde2\ud835\ude04\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\udde1\ud835\uddfc.:${U.2m}\u2502\ud835\udddb\ud835\uddfc\ud835\ude00\ud835\ude01\ud835\udde1\ud835\uddee\ud835\uddfa\ud835\uddf2:${os.Nq()}\u2502\ud835\udde3\ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa:${os.Nr()}\u2502\ud835\udde7\ud835\uddfc\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\udde8\ud835\ude00\ud835\uddf2\ud835\uddff:${4R.a7(U.db.Z.4T).1P}\u2502\ud835\udde7\ud835\uddfc\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\udddb\ud835\uddf6\ud835\ude01:${zf}\u2502\ud835\udde7\ud835\uddfc\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\udddb\ud835\uddf6\ud835\ude01\ud835\udde7\ud835\uddfc\ud835\uddf1\ud835\uddee\ud835\ude06:${zh}\u2514\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2508\u2cf9\u2502\u27114x iw\u2502\u27111L 6S 7o\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2508\u2cf9`ah dt(8p){z 8p[1J.2x(8p.1P*1J.2c())]}D Ao=[Ns,Nt,Nu,Nv,Nw,Nx]D Ap=dt(Ao)2p ah b7(fF){z 3I Ny((mw,mu)=>{D 1O=fF.3W().3A(/[()*]/g,\"\")D 7S=1O.3A(/\\s/g,\"-\")D fG=1J.2x(1J.2c()*5)2E.2q(\'zp://Nz.3C/fF/b7-\'+7S+\'/fG/\'+fG).1F((2q)=>{D $=h8.Aq(2q.Z)D V=[]$(\'du.i6\').NA(ah(a,b){V.3o($(b).6g(\'a\').NB(\'NC\'))})D 2c=V[1J.2x(1J.2c()*V.1P)]2E.2q(2c).1F((1E)=>{D $$=h8.Aq(1E.Z)D iA={1O:$$(\'#8I > du > h1\').G(),2Q:$$(\'#8I > du\').G().1p(\'ND ai: \')[1].1p(\'9B: \')[0],b8:$$(\'#8I > du\').G().1p(\'9B: \')[1].1p(\'\\n\')[0],cs:$$(\'#8I > du\').G().1p(\'NE NF on: \')[1].1p(\'\\n\')[0],ct:$$(\'#8I > du > p\').G()}mw(iA)})})})}NG(S){C\'aP\':{if(K)z l(B.H)if(!2C)z 1a(B.2m)if(1j[0]===\"on\"){if(L)z 1a(\'4c NH\')aP.3o(1f)1a(\'3U in NI 1s gc\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\NJ 7j 6b 6d NK in 1B 1H,d9 no 8T 6U NL to mx 1s 7j in 1B 1H!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!L)z 1a(\'4c NM\')D 1C=aP.5N(1f)aP.5O(1C,1)1a(\'3U in NN 1s gc\')}1z{D iB=[{1A:`${S}on`,1y:{1c:\'Ar\'},1r:1},{1A:`${S}1C`,1y:{1c:\'NO\'},1r:1}]F E.3g(m.P,iB,`4x 6i 1s 4G 4H\\n\\NP to Ar\\NQ to Au`,`${U.1q}`,m)}}J C\'H\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(B.2m)if(!1j[0])z 1a(`iw 7T or b9(7T to H,b9 to Au),3L 1W:2U*${j}H 7T*to 1s 1S u 8q to H`)if(1j[1]){fH=1j[1]+\"@s.2J.3b\"}1z if(m.Q){fH=m.Q.1d}1n mz=c9.2a(fH)if(1j[0]===\"7T\"){if(mz)z Av(\'mA 8h Aw Ax\')c9.3o(fH)1a(`6j Ax 1s 1S`)}1z if(1j[0]===\"b9\"){if(!mz)z Av(\'mA 8h Aw Ay\')D Az=c9.5N(fH)c9.5O(Az,1)1a(`6j Ay 1s 1S`)}1z{1a(\"2v\")}}J C\'NR\':C\'AA\':C\'mB\':{if(K)z l(B.H)if(L)z l(B.M)if(q.2a(\'--dv\'))z l(fI)if(!lL){lG(m.1d,lK)}if(!f4){f1(m.1d)}if(!f5){f2(m.1d)}1t E=F 2n(4F+`mA\'s NS`)\x0A     D 4A = `1Q[ \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbcAB AC\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbc ]1Q\\n\\n`\x0A     4A += `*\u2764\ufe0f2O iC* : ${hg(m.1d)}\\n`\x0A     4A += `*\u25fb\ufe0f\ufe0f2O fJ* : ${hh(m.1d)}\\n`\x0A     4A += `*\ud83c\udf1f2O fK* : ${hj(m.1d)}\\n`\x0A     4A += `*\ud83d\udc8e2O fL* : ${hk(m.1d)}\\n`\x0A     4A += `*\u23fa\ufe0f2O a8* : ${hn(m.1d)}\\n`\x0A     4A += `*\ud83e\uddea2O iD* : ${hl(m.1d)}\\n\\n`\x0A     4A += `1Q[ \ud83d\udc3aAD mC\ud83d\udc3a ]1Q\\n`\x0A     4A += `*\ud83d\udc1fdw* : ${hp(m.1d)}\\n`\x0A     4A += `*\ud83d\udc14dx* : ${hq(m.1d)}\\n`\x0A     4A += `*\ud83d\udc07dy* : ${hr(m.1d)}\\n`\x0A     4A += `*\ud83d\udc11dz* : ${hs(m.1d)}\\n`\x0A     4A += `*\ud83d\udc04cu* : ${ht(m.1d)}\\n`\x0A     4A += `*\ud83d\udc18dA* : ${hu(m.1d)}\\n\\n`\x0A     4A += `1Q*${6u}*1Q`\x0A     F E.4s(1f, `` + \'\' + 4A, `\xA9 ${1q}`, E, [{\"2r\": {\"1c\": \"3R\ud83d\udccd\",\"R\": `${2Z}`}}])\x0A  }\x0A  J\x0A        C \'NT\': \x0A        if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A{      \x0A   D 2j = `\u300c *NU NV AC* \u300d\\n\\n`\x0A     1R (D i of NW){\x0A     2j += `\u27b8 *ID :* @${i.id.1p(\"@\")[0]}\\n\u27b8 *a8* : ${i.9l}\\n`\x0A     }\x0A    l(2j)       \x0A  }\x0A J\x0A C \'AE\':\x0A if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A{      \x0A   D 2j = `\u300c *NX* \u300d\\n\\n`\x0A     1R (D i of yJ){\x0A     2j += `\u27b8 *ID :* ${i.id}\\n`\x0A     2j += `*\ud83d\udc1fdw* : ${i.yI}\\n`\x0A     2j += `*\ud83d\udc14dx* : ${i.iE}\\n`\x0A     2j += `*\ud83d\udc07dy* : ${i.iF}\\n`\x0A     2j += `*\ud83d\udc11dz* : ${i.fM}\\n`\x0A     2j += `*\ud83d\udc04cu* : ${i.iG}\\n`\x0A     2j += `*\ud83d\udc18dA* : ${i.iH}\\n\\n`\x0A     }\x0A    l(2j)       \x0A  }\x0A J\x0AC \'NY\': C \'AF\':{\x0A\x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (q.2a(\'--dv\')) z l(fI) \x0A  if (!f4){ f1(m.1d) }\x0A  if (f3 < 1) z l(`2w\'re NZ!,iI To mD AG AH`)D mE=[1,2,5,0,3,0,1,1,4,1,5,0,0]D mF=[0,1,2,3,0,0,0,1,1,0,0,2]D fN=[0,0,1,0,0,1,0,2,1,0,0,1]1t mG=mE[1J.2x(1J.2c()*mE.1P)]1t mH=mF[1J.2x(1J.2c()*mF.1P)]1t mI=fN[1J.2x(1J.2c()*fN.1P)]5M(()=>{D 1i=`[O0 mC]\\n*fJ*:${mG}\\n*fK*:${mH}\\n*fL*:${mI}`D 1x=[{1A:`${j+S}`,1y:{1c:\'O1 8l\u26cf\ufe0f\'},1r:1},]D 2N={1e:{R:\'./7d/1e/O2.6w\'},1i:1i,2f:6u,1x:1x,2h:4}E.W(1f,2N,{Q:m})},O3)5M(()=>{l(`@${m.1d.1p(\"@\")[0]}AI O4\ud83c\udfa3`)},cv)lH(m.1d,10)y6(m.1d,mG)y7(m.O5,mH)y8(m.1d,mI)}J if(K)z l(B.H)if(L)z l(B.M)if(q.2a(\'--dv\'))z l(fI)if(!f5){f2(m.1d)}if(!lM){lJ(m.1d)}if(!f4){f1(m.1d)}if(!q)z l(`3D Do 2w 6T To O6?\\n\\n1.mJ\\n2.iJ\\n3.9l\\n\\7r:${j+S}iJ`)1t N=1j[1]if(1j[0]===\'mJ\'){D 6V=iK*N if(!1j[1])z l(`1W:${j+S}mJ 2\\n 1 iD=iK 4L`)if(hw<6V)z l(\'2O 4Z 4L Is 7s mK 3L 4I mL\')hm(m.1d,6V)1t dB=N*1 yb(m.1d,dB)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O iD*:${hl(m.1d)}`)},7L)}1z if(1j[0]===\'iJ\'){D 6V=iL*N if(!1j[1])z l(`1W:${j+S}iJ 2\\n 1 AJ AK=mM 4L`)if(hw<6V)z l(\'2O 4Z 4L Is 7s mK 3L 4I mL\')hm(m.1d,6V)1t dB=N*1 y9(m.1d,dB)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O AJ AK*:${lI(m.1d)}`)},7L)}1z if(1j[0]===\'9l\'){D 6V=AL*N if(!1j[1])z l(`1W:${j+S}9l 2\\n 1 a8=AL 4L`)if(hw<6V)z l(\'2O 4Z 4L Is 7s mK 3L 4I mL\')hm(m.1d,6V)1t dB=N*1 yi(m.1d,dB)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O a8*:${hn(m.1d)}`)},7L)}1z{l(\"AN mN!\")}}J C\'O7\':C\'O8\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`3D Do 2w 6T To O9??\\7r:${j+S}iM 2`)if(!f5){f2(m.1d)}if(!lM){lJ(m.1d)}if(!f4){f1(m.1d)}1t N=1j[1]if(1j[0]===\'iM\'){if(yz<N)z l(`2w 7p\'t 4w 9C dw(es) 3L 4I 5i`)\x0A if (!1j[1]) z l(`1W : ${j + S} iM 2\\n 1 dw = cv 4L`)\x0A yq(m.1d, N)\x0A D 5P = cv * N\x0A 9k(m.1d, 5P)\x0A  5M( () => {\x0A  l(`5i 6C \u2714\ufe0f\\n*2O 4Z 4L* : ${7e(m.1d)}\\n*2O 4Z dw(es)* : ${hp(m.1d)}`)\x0A  }, 7L) \x0A } 1z\x0A if (1j[0] === \'mO\'){\x0A if (yA < N) z l(`2w 7p\'t 4w 9C dx(s)3L 4I 5i`)if(!1j[1])z l(`1W:${j+S}mO 2\\n 1 dx=mM 4L`)yr(m.1d,N)D 5P=mM*N 9k(m.1d,5P)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O 4Z dx*:${hq(m.1d)}`)},7L)}1z if(1j[0]===\'AO\'){if(yB<N)z l(`2w 7p\'t 4w 9C dy(s) 3L 4I 5i`)\x0A if (!1j[1]) z l(`1W : ${j + S} AO 2\\n 1 dy = AP 4L`)\x0A ys(m.1d, N)\x0A D 5P = AP * N\x0A 9k(m.1d, 5P)\x0A  5M( () => {\x0A  l(`5i 6C \u2714\ufe0f\\n*2O 4Z 4L* : ${7e(m.1d)}\\n*2O 4Z dy(s)* : ${hr(m.1d)}`)\x0A  }, 7L) \x0A } 1z\x0A if (1j[0] === \'Oa\'){\x0A if (yC < N) z l(`2w 7p\'t 4w 9C dz(s)3L 4I 5i`)if(!1j[1])z l(`1W:${j+S}fM 2\\n 1 dz=iL iN`)yu(m.1d,N)D 5P=iL*N 9k(m.1d,5P)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O 4Z dz(s)*:${hs(m.1d)}`)},7L)}1z if(1j[0]===\'AQ\'){if(yD<N)z l(`2w 7p\'t 4w 9C cu(s) 3L 4I 5i`)\x0A if (!1j[1]) z l(`1W : ${j + S} AQ 2\\n 1 cu = AR 4L`)\x0A yv(m.1d, N)\x0A D 5P = AR * N\x0A 9k(m.1d, 5P)\x0A  5M( () => {\x0A  l(`5i 6C \u2714\ufe0f\\n*2O 4Z 4L* : ${7e(m.1d)}\\n*2O 4Z cu(s)* : ${ht(m.1d)}`)\x0A  }, 7L) \x0A } 1z\x0A if (1j[0] === \'AS\'){\x0A if (yE < N) z l(`2w 7p\'t 4w 9C dA(s)3L 4I 5i`)if(!1j[1])z l(`1W:${j+S}AS 2\\n 1 dA=mP 4L`)yw(m.1d,N)D 5P=mP*N 9k(m.1d,5P)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4Z 4L*:${7e(m.1d)}\\n*2O 4Z dA(s)*:${hu(m.1d)}`)},7L)}1z if(1j[0]===\'AT\'){if(yF<N)z l(`2w 7p\'t 4w 9C fJ(s) 3L 4I 5i`)\x0A if (!1j[1]) z l(`1W : ${j + S} AT 2\\n 1 fJ = mP 4L`)\x0A yc(m.1d, N)\x0A D 5P = Ob * N\x0A 9k(m.1d, 5P)\x0A  5M( () => {\x0A  l(`5i 6C \u2714\ufe0f\\n*2O 4Z 4L* : ${7e(m.1d)}\\n*2O 4Z fJ(s)* : ${hh(m.1d)}`)\x0A  }, 7L) \x0A } 1z\x0A if (1j[0] === \'iO\'){\x0A if (yG < N) z l(`2w 7p\'t 4w 9C fK(s)3L 4I 5i`)if(!1j[1])z l(`1W:${j+S}iO 2\\n 1 fK=AU 4L`)yd(m.1d,N)D 5P=AU*N 9k(m.1d,5P)5M(()=>{l(`5i 6C\u2714\ufe0f\\n*2O 4L*:${7e(m.1d)}\\n*2O 4Z fK(s)*:${hj(m.1d)}`)},7L)}1z if(1j[0]===\'fN\'){if(yH<N)z l(`2w 7p\'t 4w 9C fL(s) 3L 4I 5i`)\x0A if (!1j[1]) z l(`1W : ${j + S} fN 2\\n 1 fL = iK 4L`)\x0A ye(m.1d, N)\x0A D 5P = iK * N\x0A 9k(m.1d, 5P)\x0A  5M( () => {\x0A  l(`5i 6C \u2714\ufe0f\\n*2O 4Z 4L* : ${7e(m.1d)}\\n*2w 7p\'t 4w 9C fL(s)3L 4I 5i*:${hk(m.1d)}`)},7L)}1z{l(\"AN mN!\")}}J C\'AV\':{if(K)z l(B.H)if(L)z l(B.M)if(q.2a(\'--dv\'))z l(fI)if(!f3<1)z l(\'2w 8U Oc mD fO 2O iC Is 0\')if(f3>100)z l(\'2O iC Is AW\')if(yx<1)z l(`2w 7p\'t 4w A iD, iI Od It 4I Oe #Og Oh`) \x0A y3(m.1d, 100)\x0A yf(m.1d, 1)\x0A l(\'3U!2O Oi Is AW\')\x0A }\x0A J\x0A C \'AX\': C \'iP\': {\x0A \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (q.2a(\'--dv\')) z l(fI) \x0A if (!lL){ lG(m.1d, lK) }\x0A if (f3 < 1) z l(\'2O iC Is AY,iI To mD AG AH\') \x0A if (!f5){ f2(m.1d) } \x0A  D mQ = [\"Oj by a Ol 3h iP\",\"Om Oo 1s Op 3h iP\",\"Oq by a Os AZ\",\"7s Ot\",\"Ou in Ov\",\"Ow 3h iP\"]\x0A  D fe = [\"B0\",\"B1 dC\",\"B2 dC\",\"B3\",\"B4 dC\",\"B5\"]\x0A   1t mR = 1J.mS(1J.2c() * 10)\x0A   1t iE = 1J.mS(1J.2c() * 8)\x0A   1t iF = 1J.mS(1J.2c() * 7)\x0A   1t mT = [3,0,4,0,5,4,6,0,1,0,2,3,0,3,0,1]\x0A   1t mU = [2,0,3,0,4,0,5,0,1,0,2,0,3,0,1]\x0A   1t mV = [1,0,4,0,2,0,1,0,2,1,3,0,1]\x0A   1t fM = mT[1J.2x(1J.2c() * mT.1P)] \x0A   1t iG = mU[1J.2x(1J.2c() * mU.1P)] \x0A   1t iH = mV[1J.2x(1J.2c() * mV.1P)]    \x0A   1t B6 = mQ[1J.2x(1J.2c() * mQ.1P)]\x0A   1t aj = fe[1J.2x(1J.2c() * fe.1P)]\x0A if (aj === \'B0\') {\x0A    1t 1e = \'./7d/1e/Ox.6w\'\x0A   } 1z\x0A if (aj === \'B1 dC\') {\x0A    1t 1e =  \'./7d/1e/Oy.6w\'\x0A   } 1z\x0A if (aj === \'B2 dC\') {\x0A    1t 1e = \'./7d/1e/Oz.6w\'\x0A   } 1z\x0A if (aj === \'B3\') {\x0A    1t 1e = \'./7d/1e/OA.6w\'\x0A   } 1z\x0A if (aj === \'B4 dC\') {\x0A    1t 1e = \'./7d/1e/OB.6w\'\x0A   } 1z\x0A if (aj === \'B5\') {\x0A   1t 1e = \'./7d/1e/OC.6w\'\x0A   }\x0A 5M( () => {\x0A  D 4A = `1Q[ AD mC ]1Q\\n`\x0A     4A += `*\ud83d\udc1fdw* : ${mR}\\n`\x0A     4A += `*\ud83d\udc14dx* : ${iE}\\n`\x0A     4A += `*\ud83d\udc07dy* : ${iF}\\n`\x0A     4A += `*\ud83d\udc11dz* : ${fM}\\n`\x0A     4A += `*\ud83d\udc04cu* : ${iG}\\n`\x0A     4A += `*\ud83d\udc18dA* : ${iH}\\n\\n`\x0A     4A += `1Q[ AB ]1Q\\n`\x0A     4A += `*OD* : ${aj}\\n`\x0A     4A += `*OE* : ${B6}, 7U - 10\\n`\x0A     4A += `*4Z 7U* : ${hg(m.1d)}\\n`\x0A    D 1x = [\x0A      {\x0A       1A: `${j + S}`, \x0A       1y: {\x0A        1c: \'OF 8l\ufe0f\ud83c\udff9\'\x0A      }, 1r: 1},\x0A    ]\x0A    D 2N = {\x0A      1e: { R: 1e },\x0A      1i: 4A,\x0A      2f: 6u,\x0A      1x: 1x,\x0A      2h: 4\x0A     }\x0A     E.W(1f, 2N, { Q: m })      \x0A  }, iL)  \x0A 5M( () => {\x0A  l(`@${m.1d.1p(\"@\")[0]} AI OG In ${aj}`)     \x0A  }, ch) \x0A yk(m.1d, mR) \x0A   yl(m.1d, iE) \x0A   ym(m.1d, iF)\x0A   yn(m.1d, fM)\x0A   yo(m.1d, iG)\x0A  yp(m.1d, iH)\x0A lH(m.1d, 10)\x0A }\x0A J\x0AC \'OH\':\x0AC \'OI\':\x0AC \'OJ\':\x0AC \'OK\':\x0AC \'OL\':\x0AC \'mW\':\x0AC \'OM\':\x0AC \'ON\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!m.1Y) z 1a(B.1H)\x0Aif (!3s) z 1a(B.4q)\x0Aif (!3k && !2C) z 1a(B.2H)\x0AE.OO(m.P)\x0A}\x0AJ\x0A\x09    C \'mX\': {\x0A\x09\x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A                D 1S = U.db.Z.4T[m.1d]\x0A                1S.8f = + 3I 3T\x0A                1S.aR = G\x0A                l(`${m.hA} 5e AY OP/Ai${G ? \':\' + G : \'\'}`)\x0A            }\x0A            J\x09\x0A        C \'OQ\': C \'OR\': C \'cm\': {\x0A        \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A            D fv = 1X(\"./3z/cm\")\x0A            1B.2F = 1B.2F ? 1B.2F : {}\x0A            if (4R.7Q(1B.2F).6g(1K => 1K.id.aQ(\'cm\') && [1K.2F.ij, 1K.2F.fw].2a(m.1d))) z 1a(`2w 6B fP In 1L cn`)\x0A            D 1K = 4R.7Q(1B.2F).6g(1K => 1K.7R === \'dD\' && (G ? 1K.2i === G : 2u))\x0A            if (1K) {\x0A            l(\'7t mY!\')\x0A            1K.o = m.P\x0A            1K.2F.fw = m.1d\x0A            1K.7R = \'zN\'\x0A            D 9w = 1K.2F.zR().2P(v => {\x0A            z {\x0A            X: \'\u274c\',\x0A            O: \'\u2b55\',\x0A            1: \'1\ufe0f\u20e3\',\x0A            2: \'2\ufe0f\u20e3\',\x0A            3: \'3\ufe0f\u20e3\',\x0A            4: \'4\ufe0f\u20e3\',\x0A            5: \'5\ufe0f\u20e3\',\x0A            6: \'6\ufe0f\u20e3\',\x0A            7: \'7\ufe0f\u20e3\',\x0A            8: \'8\ufe0f\u20e3\',\x0A            9: \'9\ufe0f\u20e3\',\x0A            }[v]\x0A            })\x0A            D 9x = `zS ID: ${1K.id}\x0A${9w.8e(0, 3).2l(\'\')}\x0A${9w.8e(3, 6).2l(\'\')}\x0A${9w.8e(6).2l(\'\')}\x0AB7 @${1K.2F.il.1p(\'@\')[0]}\x0A5y *iu* to iu 3K OS zT`\x0A            if (1K.x !== 1K.o) F E.2y(1K.x, 9x, m, { 5o: c8(9x) } )\x0A            F E.2y(1K.o, 9x, m, { 5o: c8(9x) } )\x0A            } 1z {\x0A            1K = {\x0A            id: \'cm-\' + (+3I 3T),\x0A            x: m.P,\x0A            o: \'\',\x0A            2F: 3I fv(m.1d, \'o\'),\x0A            7R: \'dD\'\x0A            }\x0A            if (G) 1K.2i = G\x0A            l(\'B7 3L 7t\' + (G ? ` 5y 1L dE 7o ${j}${S} ${G}` : \'\'))\x0A            1B.2F[1K.id] = 1K\x0A            }\x0A            }\x0A            J\x0A            C \'OT\': C \'mZ\': {\x0A            \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A            1B.2F = 1B.2F ? 1B.2F : {}\x0A            5u {\x0A            if (1B.2F) {\x0A            3r 1B.2F\x0A            E.2y(m.P, `6j B8 1L fv 6W`, m)\x0A            } 1z if (!1B.2F) {\x0A            l(`fv\ud83c\udfae 6W OU 7s OV`)\x0A            } 1z l(\'?\')\x0A            } 1u (e) {\x0A            l(\'OW\')\x0A            }\x0A            }\x0A            J\x0A            C \'n0\': C \'5B\': {\x0A            \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A            1B.5B = 1B.5B ? 1B.5B : {}\x0A            D B9 = 10\x0A            D Ba = 10\x0A            D ix = ba\x0A            if (4R.7Q(1B.5B).6g(1Z => 1Z.id.aQ(\'5B\') && [1Z.p, 1Z.p2].2a(m.1d))) z 1a(`OX 2O OY 9y`)\x0A\x09    if (m.2I[0] === m.1d) z l(`8U\'t 8k 3l OZ!`)if(!m.2I[0])z l(`P0 Do 2w 6T To P1?1Q\\P2 1L Bb..\\n\\7r:${j}5B@${2m[1]}`,m.P,{5o:[2m[1]+\'@s.2J.3b\']})if(4R.7Q(1B.5B).6g(1Z=>1Z.id.aQ(\'5B\')&&[1Z.p,1Z.p2].2a(m.2I[0])))l(`1L Bb 2w 6B P3 Is P4 9y 3l dF P5:(`)D id=\'P6\'+3I 3T()*1 D 1i=`1Q*P7 zU*1Q@${m.1d.1p`@`[0]}P8@${m.2I[0].1p`@`[0]}To 8k 9y 4x@${m.2I[0].1p`@`[0]}To 5y P9/Pa`1B.5B[id]={P:F E.2y(m.P,1i,m,{5o:c8(1i)}),id:id,p:m.1d,p2:m.2I[0],2D:\'1D\',b4:5M(()=>{if(1B.5B[id])E.2y(m.P,`Pb 8V Pc`,m)3r 1B.5B[id]},ba),B9,Ba,ix}}J C\'P\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(`${B.2m}`)if(!q)z 1a(`Pd:1.6M\\n2.Bc\\n3.fQ\\n4.Bd\\n5.a9\\n6.iQ\\n7.3r`)if(1j[0]===\'6M\'){E.cw({6M:\'Pe\'},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'Bc\'){E.cw({6M:ce},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'fQ\'){E.cw({fQ:2u},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'Bd\'){E.cw({fQ:1N},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'a9\'){E.cw({Bf:2u},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'iQ\'){E.cw({Bf:1N},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'3r\'){E.cw({Pf:{1l:{id:m.Q.id,4u:2u}}},m.P,[]).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}}J C\'9n\':{if(K)z l(B.H)if(L)z l(B.M)if(\'9n\'+m.P in cb){l(\'bb 6B fP Bg Bh!\')l(1N)}D N=F 4O(\'Y://8r.8W.3C/iR/5A/iS/iT/9n.5k\')D 2c=N[1J.2x(1J.2c()*N.1P)]D iA=`*4r 1L ic zF:*\\n${2c.cl}\\n\\ie Is*${2c.3y.1P}*4r ${2c.3y.6g(v=>v.2a(\' \'))?`(zG mp 4w zH)`:\'\'}`.6t()cb[\'9n\'+m.P]={id:\'9n\'+m.P,zJ:F E.2y(m.P,iA,m),...2c,aZ:zI.1f(2c.3y,()=>1N),Pg:6,}}J C\'Ph\':C\'Pi\':C\'Pj\':C\'Pk\':C\'Pl\':if(K)z l(B.H)if(L)z l(B.M)if(!m.Q&&!G)z 1a(`2Y/2U 6k 3l 3E ${j+S}`)n8=S[1].3W()Bi=m.Q?m.Q.G?m.Q.G:q?q:m.G:q?q:m.G l(Bi.3A(/[Pm]/g,n8).3A(/[Pn]/g,n8.iU()))J C\'6h\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z 1a(`1W:${j+S}6R\\n\\Po:\\n1.6R\\n2.ae\\n3.dG\\n4.ih\\n5.8n\\n6.Pp`)if(1j[0]===\"6R\"){if(ad.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://Pq.Bj.io/ad.5k\')D 1v=N[1J.2x(1J.2c()*N.1P)]D 6L=F E.W(m.P,{2s:{R:1v.Pr},4p:\'2s/ak\'},{Q:m})E.2y(m.P,`3D is 1s 2i of 1B 6R?\\n\\Ps:${1v.Pt}\\al:dJ`,6L).1F(()=>{ad[m.1d.1p(\'@\')[0]]=1v.3y.3W()})F 7I(ba)if(ad.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h 6R\',1y:{1c:\'5x 1s 6R\'},1r:1}],`8V 6b Bk fR\\6l:${ad[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r ad[m.1d.1p(\'@\')[0]]}}1z if(1j[0]===\'ae\'){if(8G.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://8r.8W.3C/iR/5A/iS/iT/8G.5k\')D 1v=N[1J.2x(1J.2c()*N.1P)]E.cx(m.P,1v.8s,`4x n9 1s na Pu\\n\\Bl:${1v.fu}\\al:dJ`,m).1F(()=>{8G[m.1d.1p(\'@\')[0]]=1v.3y.3W()})F 7I(ba)if(8G.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h ae\',1y:{1c:\'5x 1s ae\'},1r:1}],`8V 6b Bk fR\\6l:${8G[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r 8G[m.1d.1p(\'@\')[0]]}}1z if(1j[0]===\'di\'){if(9p.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://8r.8W.3C/dL/Bm/cy/Pv.js\')D 1v=N[1J.2x(1J.2c()*N.1P)]E.2y(m.P,`4x n9 1s fS na\\n\\n${1v.cl}\\al:dJ`,m).1F(()=>{9p[m.1d.1p(\'@\')[0]]=1v.3y.3W()})F 7I(ba)if(9p.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h di\',1y:{1c:\'5x 1L fl\'},1r:1}],`8V fT\\6l:${9p[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r 9p[m.1d.1p(\'@\')[0]]}}1z if(1j[0]===\'ih\'){if(a5.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://8r.8W.3C/dL/Bm/cy/Pw.js\')D 1v=N[1J.2x(1J.2c()*N.1P)]E.2y(m.P,`4x n9 1s fS na\\n\\n${1v.cl}\\al:dJ`,m).1F(()=>{a5[m.1d.1p(\'@\')[0]]=1v.3y.3W()})F 7I(ba)if(a5.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h ih\',1y:{1c:\'5x 1s mr\'},1r:1}],`8V fT\\6l:${a5[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r a5[m.1d.1p(\'@\')[0]]}}1z if(1j[0]===\'8n\'){if(9r.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://8r.8W.3C/iR/5A/iS/iT/9r.5k\')D 1v=N[1J.2x(1J.2c()*N.1P)]E.2y(m.P,`Px 1s Py 8n 4H:*${1v.cl}*?\\al:dJ`,m).1F(()=>{9r[m.1d.1p(\'@\')[0]]=1v.3y.3W()})F 7I(ba)if(9r.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h 8n\',1y:{1c:\'5x 1L ii\'},1r:1}],`8V fT\\6l:${9r[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r 9r[m.1d.1p(\'@\')[0]]}}1z if(1j[0]===\'6h dG\'){if(9q.5h(m.1d.1p(\'@\')[0]))z 1a(\"bb 6z 9D dH dI!\")D N=F 4O(\'Y://8r.8W.3C/iR/5A/iS/iT/9q.5k\')D 1v=N[1J.2x(1J.2c()*N.1P)]E.2y(m.P,`*4r 1s fS Pz:*\\n${1v.cl}*\\al:dJ`,m).1F(()=>{9q[m.1d.1p(\'@\')[0]]=1v.3y.3W()da[m.1d.1p(\'@\')[0]]=1v.fu})F 7I(ba)if(9q.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)E.3g(m.P,[{1A:\'6h dG\',1y:{1c:\'5x 1L PA\'},1r:1}],`8V fT\\6l:${9q[m.1d.1p(\'@\')[0]]}\\Bl:${da[m.1d.1p(\'@\')[0]]}\\n\\7n to 6A?dK 1s 4G 4H`,`${U.1q}`,m)3r 9q[m.1d.1p(\'@\')[0]]3r da[m.1d.1p(\'@\')[0]]}}}J C\'fB\':{if(K)z l(B.H)if(L)z l(B.M)E.W(m.P,Ak)}J C\'9o\':C\'cc\':{if(K)z l(B.H)if(L)z l(B.M)if(9o.5h(m.1d.1p(\'@\')[0]))z 1a(`bb 6B fP Bg Bh!`)D{Bn,Bo}=1X(\'./3z/cc\')if(!G)z 1a(`nb:${4R.a7(Bo).2l(\' | \')}\\PB PC:${j}cc PD`)D 1v=F Bn(G.3W())E.2y(m.P,`*3D Is 1L nc Of:${1v.cl.3W()}*?\\n\\al:${(1v.b4/ch).fE(2)}nd`,m).1F(()=>{9o[m.1d.1p(\'@\')[0]]=1v.3y})F 7I(1v.b4)if(9o.5h(m.1d.1p(\'@\')[0])){1T.1U(\"4r: \"+1v.3y)l(\"8V fT\\6l: \"+9o[m.1d.1p(\'@\')[0]])3r 9o[m.1d.1p(\'@\')[0]]}}J C\'ne\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)D 6D=4S.2P(u=>u.id)D me=m.1d D ao=6D[1J.2x(1J.2c()*6D.1P)]D dM=`\ud83d\udc6b2O PE Is@${me.1p(\'@\')[0]}\u2764\ufe0f@${ao.1p(\'@\')[0]}`D iV=[me,ao]D 1x=[{1A:\'\u2764\ufe0f\',1y:{1c:\'\u2764\ufe0f\'},1r:1}]F E.3g(m.P,1x,dM,E.1S.2i,m,{5o:iV})}J C\'nf\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)D 6D=4S.2P(u=>u.id)D ng=6D[1J.2x(1J.2c()*6D.1P)]D ao=6D[1J.2x(1J.2c()*6D.1P)]D dM=`@${ng.1p(\'@\')[0]}\u2764\ufe0f@${ao.1p(\'@\')[0]}PF,3D\'s PG On\u2764\ufe0f\ud83d\udc96\ud83d\udc40`\x0A            D Bp = [ng, ao]\x0A            D 1x = [\x0A                        { 1A: \'\u2764\ufe0f\', 1y: { 1c: \'\u2764\ufe0f\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, dM, E.1S.2i, m, {5o: Bp})\x0A            }\x0A            J\x0A            C \'is\':\x0A            if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A\x09\x09\x09\x09if (!G) z 1a(`2z 6k, 1W : ${j + S} he nh `)\x0A\x09\x09\x09\x09\x091n fU = [`PH`, `No`, `It PI Be`, `PJ PK`]\x0A\x09\x09\x09\x09\x091n Bq = fU[1J.2x(1J.2c() * fU.1P)]\x0AE.W(1f, { G: `fV : Is ${q}\\6l : ${Bq}` }, { Q: m })\x0A\x09\x09\x09\x09\x09J\x0A\x09\x09\x09\x09\x09            C \'6y\':\x0A\x09\x09\x09\x09\x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A\x09\x09\x09\x09if (!G) z 1a(`2z 6k, 1W : ${j + S} he nh `)\x0A\x09\x09\x09\x09\x091n ni = [`Br 2O Gf`, `I zu Bs`, `I 7p\'t Bs,Br 2O PL`]1n Bt=ni[1J.2x(1J.2c()*ni.1P)]E.W(1f,{G:`fV:3D ${q}\\6l:${Bt}`},{Q:m})J C\'5Q\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`2z 6k,1W:${j+S}1h nj cz PM`)1n nk=[`8U`,`8U\'t`,`fW`,`Of PN 2w 8U!!!`]\x0A\x09\x09\x09\x09\x091n ga = nk[1J.2x(1J.2c() * nk.1P)]\x0AE.W(1f, { G: `fV : 8U ${q}\\6l : ${ga}` }, { Q: m })\x0A\x09\x09\x09\x09\x09J\x0AC \'dh\':\x0Aif (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A\x09\x09\x09\x09if (!G) z 1a(`2z 6k, 1W : ${j + S} is my Bu`)\x0A\x09\x09\x09\x09\x091n nl = [`It\'s PO`,`It\'s PP Bv`, `Bw 9E 8U\'t 4r`,`iI Bx On Bz`,`PQ cu!PR???`,`PS Ah`,`PT I PU:(`,`1L PV,PW:(`,`fD 6B 2w?`]1n ya=nl[1J.2x(1J.2c()*nl.1P)]E.W(1f,{G:`fV:${q}\\6l:fD ${ya}`},{Q:m})J C\'nm\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`2z 6k,1W:${j+S}My Dp`)1n ra=[\'1\',\'2\',\'3\',\'4\',\'5\',\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\',\'13\',\'14\',\'15\',\'16\',\'17\',\'18\',\'19\',\'20\',\'21\',\'22\',\'23\',\'24\',\'25\',\'26\',\'27\',\'28\',\'29\',\'30\',\'31\',\'32\',\'33\',\'34\',\'35\',\'36\',\'37\',\'38\',\'39\',\'40\',\'41\',\'42\',\'43\',\'44\',\'45\',\'46\',\'47\',\'48\',\'49\',\'50\',\'51\',\'52\',\'53\',\'54\',\'55\',\'56\',\'57\',\'58\',\'59\',\'60\',\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\',\'71\',\'72\',\'73\',\'74\',\'75\',\'76\',\'77\',\'78\',\'79\',\'80\',\'81\',\'82\',\'83\',\'84\',\'85\',\'86\',\'87\',\'88\',\'89\',\'90\',\'91\',\'92\',\'93\',\'94\',\'95\',\'96\',\'97\',\'98\',\'99\',\'100\']1n te=ra[1J.2x(1J.2c()*ra.1P)]E.W(1f,{G:`PX:${q}\\6l:*${te}%*`},{Q:m})J C\'PY\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`fX dF,1W:${j+S}@fY`)1n nn=[\'1\',\'2\',\'3\',\'4\',\'5\',\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\',\'13\',\'14\',\'15\',\'16\',\'17\',\'18\',\'19\',\'20\',\'21\',\'22\',\'23\',\'24\',\'25\',\'26\',\'27\',\'28\',\'29\',\'30\',\'31\',\'32\',\'33\',\'34\',\'35\',\'36\',\'37\',\'38\',\'39\',\'40\',\'41\',\'42\',\'43\',\'44\',\'45\',\'46\',\'47\',\'48\',\'49\',\'50\',\'51\',\'52\',\'53\',\'54\',\'55\',\'56\',\'57\',\'58\',\'59\',\'60\',\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\',\'71\',\'72\',\'73\',\'74\',\'75\',\'76\',\'77\',\'78\',\'79\',\'80\',\'81\',\'82\',\'83\',\'84\',\'85\',\'86\',\'87\',\'88\',\'89\',\'90\',\'91\',\'92\',\'93\',\'94\',\'95\',\'96\',\'97\',\'98\',\'99\',\'100\']1n BA=nn[1J.2x(1J.2c()*nn.1P)]E.W(1f,{G:`*${S}*\\n\\iW:${q}\\6l:*${BA}%*`},{Q:m})J C\'np\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`fX dF,1W:${j+S}@fY`)1n 5Q=[\'1\',\'2\',\'3\',\'4\',\'5\',\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\',\'13\',\'14\',\'15\',\'16\',\'17\',\'18\',\'19\',\'20\',\'21\',\'22\',\'23\',\'24\',\'25\',\'26\',\'27\',\'28\',\'29\',\'30\',\'31\',\'32\',\'33\',\'34\',\'35\',\'36\',\'37\',\'38\',\'39\',\'40\',\'41\',\'42\',\'43\',\'44\',\'45\',\'46\',\'47\',\'48\',\'49\',\'50\',\'51\',\'52\',\'53\',\'54\',\'55\',\'56\',\'57\',\'58\',\'59\',\'60\',\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\',\'71\',\'72\',\'73\',\'74\',\'75\',\'76\',\'77\',\'78\',\'79\',\'80\',\'81\',\'82\',\'83\',\'84\',\'85\',\'86\',\'87\',\'88\',\'89\',\'90\',\'91\',\'92\',\'93\',\'94\',\'95\',\'96\',\'97\',\'98\',\'99\',\'100\']1n iX=5Q[1J.2x(1J.2c()*5Q.1P)]E.W(1f,{G:`*${S}*\\n\\PZ:${q}\\6l:*${iX}%*`},{Q:m})J C\'nq\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`fX dF,1W:${j+S}@fY`)1n nr=[\'Q0\',\'Q1\',\'Q2\',\'Q3\',\'Q4\',\'ns\',\'Q5\',\'Q6-Q7\',\'Q8\',\'Q9\',\'BB, Qa\',\'Qb\']1n BC=nr[1J.2x(1J.2c()*nr.1P)]E.W(1f,{G:`cA BD:${q}\\6l:*${BC}*`},{Q:m})J C\'nt\':C\'Qc\':C\'nu\':C\'nv\':C\'Qd\':C\'nw\':C\'nx\':C\'ny\':C\'nz\':C\'nA\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`fX dF,1W:${j+S}@fY`)1n nB=[\'1\',\'2\',\'3\',\'4\',\'5\',\'6\',\'7\',\'8\',\'9\',\'10\',\'11\',\'12\',\'13\',\'14\',\'15\',\'16\',\'17\',\'18\',\'19\',\'20\',\'21\',\'22\',\'23\',\'24\',\'25\',\'26\',\'27\',\'28\',\'29\',\'30\',\'31\',\'32\',\'33\',\'34\',\'35\',\'36\',\'37\',\'38\',\'39\',\'40\',\'41\',\'42\',\'43\',\'44\',\'45\',\'46\',\'47\',\'48\',\'49\',\'50\',\'51\',\'52\',\'53\',\'54\',\'55\',\'56\',\'57\',\'58\',\'59\',\'60\',\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\',\'71\',\'72\',\'73\',\'74\',\'75\',\'76\',\'77\',\'78\',\'79\',\'80\',\'81\',\'82\',\'83\',\'84\',\'85\',\'86\',\'87\',\'88\',\'89\',\'90\',\'91\',\'92\',\'93\',\'94\',\'95\',\'96\',\'97\',\'98\',\'99\',\'100\']1n BE=nB[1J.2x(1J.2c()*nB.1P)]E.W(1f,{G:`*${S}*\\n\\iW:${q}\\6l:*${BE}%*`},{Q:m})J C\'Qe\':C\'nC\':C\'nD\':C\'iY\':C\'nE\':C\'Qf\':C\'iZ\':C\'nF\':C\'j0\':C\'nj\':C\'Qg\':C\'j1\':C\'Qh\':C\'j2\':C\'nG\':C\'nH\':C\'nI\':C\'nJ\':C\'j3\':C\'nK\':C\'BF\':C\'nL\':C\'fZ\':C\'BG\':C\'Qi\':C\'Qj\':C\'Qk\':C\'Ql\':C\'Qm\':C\'j4\':C\'j5\':C\'Qn\':C\'Qo\':C\'Qp\':C\'Qq\':C\'Qr\':C\'Qs\':C\'Qt\':C\'Qu\':C\'Qv\':C\'nM\':C\'j6\':C\'Qw\':C\'Qx\':C\'Qy\':C\'j6\':C\'mc\':C\'Qz\':C\'QA\':C\'QB\':C\'QC\':C\'QD\':C\'QE\':C\'nO\':C\'QF\':C\'j4\':C\'j5\':C\'nP\':C\'nQ\':C\'nR\':C\'nS\':C\'nT\':C\'nU\':C\'nV\':C\'nW\':C\'nX\':C\'nY\':C\'nZ\':C\'o0\':C\'j7\':C\'o1\':C\'mf\':C\'o2\':C\'QG\':C\'QH\':C\'QI\':C\'QJ\':C\'QK\':C\'o3\':C\'o4\':C\'o5\':C\'o6\':C\'o7\':C\'g0\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)D 6D=4S.2P(u=>u.id)D me=m.1d D ao=6D[1J.2x(1J.2c()*6D.1P)]D dM=`1L QL*${S}*1V Is@${ao.1p(\'@\')[0]}`D iV=[me,ao]D 1x=[{1A:\'\ud83d\udc40\',1y:{1c:\'\ud83d\udc40\ud83d\ude02\'},1r:1}]F E.3g(m.P,1x,dM,1q,m,{5o:iV})}J C\'ap\':if(K)z l(B.H)if(L)z l(B.M)1n ap=[\"QM 2 QN of QO dN 5l QP QQ, if it\'s QR 1h 5Q QS\",\"QT dO 4h 7P 1h QU\",\"bd 9F/QV d9 3K 3n ss\",\"o8 o9 7m QW bh 1h 1r on gc/pc 1R 1 g1.\",\"7V j8 to 9G QX To Be a QY! to 8j 1s oa 1h 6m\",\"bd ex dG BH\",\"j9 1s QZ of 1s 5p 6R 1h R0\",\"vn 2T ex/9F/g2, BI hi (2i), R1 to bd, ob a 2X. I BH\ud83e\udd7a\ud83d\udc49\ud83c\udffc\ud83d\udc48\ud83c\udffc\",\"R2 on 1s R3 (ja is at BJ) R4 1h 2q R5 1R zt R6\",\"BK 2c dO R7 8h ob BL I 8h 2T R8 jc, we R9, 1F I g3 Ra Rb. oc 1B is 1s 8t Rc bi\",\"Rd ex\'s 2i\",\"7P 1 Re 1R 1s 4k!\",\"3n ur 2J P 8p\",\"P 2c dO 6f Rf Rg 1F ss 7u\",\"g4 2T BM Rh of od BN\",\"3S 1s 7v 1h BO\",\"Ri to be jd, 1R BP: jd by j0, jd by Rj, jd by Rk, Rl.\",\"9H 2i to *I AM Rm* 1R 24 g5\",\"je *ma oe ma oe ma oe* in jf of 2T Rn\",\"og/i6 jg cB/9F\",\"g4 me 2T jg 1r!\",\"7V *i hv 9F on 1h, do 1h 8q to be my g2?* to 1s Ro Rp, 1s 5p bh 1h Rq (Rr on wa/Rs), 1D 1R cr to l, if 1h 6m, o8 7u\",\"Rt ur 8u 6P a9 *jh ke BQ do jh, jh ke Ru do jh*\",\"Rv P ex 3K 7V *i 8v u, mk Rw Rx.* dN dG ap!\",\"P to BR wa in 1s Ry Rz to 2T RA %, 1F g4 cr *i am RB to hv 1h!*\",\"9H 1s 2i to *I am a RC of BG* 1R 5 g5\",\"1r in RD 24 g5\",\"2z RE RF cB 1R 3 oh\",\"o8 a 6R BS 1F 3S a RG 6D 1R 6P BS\",\"3n 8u 9I dG 5Q i bd u BT?\",\"ss RH bd 2J\",\"BU *BV BW SO BX oi\'T RI* to RJ!\",\"BY to a 1H 6D, 3K 7V nj 1h\",\"RK 7w a mO in jf of ur g6\",\"RL up a 2c RM 3K a9 8T fG fR BZ in vn n 3n it 7u\",\"oj 2T jf RN 3K RO 7w a g7 1R 10 8N\",\"RP an od RQ 3K RR it on 2T mB ae\",\"RS 1s 1H aq a di 3K a RT RU 6R. 2w 6m to j9 6P 6R 3K 3n it in 8u 9I\",\"RV on 2T RW 3K RX 1R as ol as 1h 5Q\",\"j9 RY RZ in 8u 9I\",\"S0 1R 30 8N in 1s S1 1K\ud83d\ude02\",\"BK 1s S2 C0 1h S3\",\"7P a S4 dP 2k 3K 8X it on 2D 1R S5\",\"S6 a 8r S7 of S8\",\"S9 1s 5p C1 dO 1h Sa 3K 6y 1s aa Sb\",\"8X 2T Sc 2i on 2D 1R cC\",\"7P a Sd dP 2k dN 5l 6a ob 6f a C2 3K 8X it on ur 2D 1R cC\",\"bd ur C3, Se\",\"8X 2T cB dN 6a on ur 2D 1R Sf\",\"7V i 8v Sg Sh in 8u 9I\ud83e\udd23\ud83e\udd23\",\"2Y a 1l to 2T ex 3K 7V I 9D 7w 1h\",\"bd Si/g2/C3 d9 3K C4 7u\",\"BY to 8T of 1s 1H 6D om P 3K BU 1h BF Sj\",\"7V BV BW BX/Sk to 8T of 7v 4h is in BB of ur Sl or 1s jc 7v on ur Sm\",\"3n 8u Sn 3K 7V, 5Q i bd u BT, if u r bk 3S cD/if cD 3S bk\",\"bl i 8v 1h (2c cE 6D 2i, 4h is 1M) in om P, (if u r bk bl cD 2i/if cD bl bk 2i) g8 a og of 1s C5 3K 3n it 7u\",\"mx 5l So Sp cB as ur Sq 1R 3 oh\",\"8X 2T 9F cB on 2D 6f 1i, 1B is my 9F\",\"9H 2i to I AM Sr 1R 5 g5\",\"P to 5l BR in 2J 3K 7V i 6U be ur bf/gf 1R Ss\",\"3n 8u 9I BI i hv 9F on 1h, 8q to be my g2/jg or 4M? to 5l 2c 7v 1f 1s cE(if u cD aq bk, if bk aq cD\",\"cF ur St Su 3n 1s C6 of cF dQ 8u 9I\ud83d\ude02\",\"7R ur gf/bf 1r 3K 3n 1s cB 7u 6f 1i, Sv cD/bk in 1s Sw\",\"je Sx 3K 3n 7u dQ 8u 9I\",\"og 2T Bu 1F 3n it 7u\",\"2Y 2T cB 6f a 1i, i am fZ\",\"je fm Sy fj 3K 3n it 7u dQ vn\",\"je 1h iZ in jf of 2T C7/C8\",\"9H 1s 2i to i am iY 1R 24 g5\",\"cF Sz SA 3K 3n 1s C6 of cF dQ 8u 9I\ud83d\ude02\",\"7V i 8v 1s 7j 2m 6O dQ 8u 9I\",\"3n 2T gf/bf C5 7u\",\"7P 5l 6e dP SB 2k 3K 8X it on 2D, u 5Q 3r it iz cC\",\"SC 6f 2T SD fk 1R cC dN C9 cr/cz 6P Ca a ap\",\"g4 8T of 2T SE 6P u 8v cr/cz 3K Cb SF cr/cz, dN C9 cr/cz 6P Ca a ap\",\"7V i 8v SG SH dQ 8u 9I\",\"bl i am SI j2 3K 8X it on 2D, u 5Q 3r it o9 iz cC\",\"bl i am fZ 3K 8X it on 2D, u 5Q 3r o9 iz cC\",\"ji 2T SJ or C8 3K 7V i 8v 1h\ud83d\ude0c\",\"8X 2T Cc 2i on 2D 1R cC\",\"3n SK fj in 5l cE, SL 1B cE, 3K 3n C4 SM 7u\"]1n Cd=ap[1J.2x(1J.2c()*ap.1P)]8w=F 2n(`Y:E.W(1f,{1e:8w,1i:\'Ce aq SN\\n\'+Cd},{Q:m})J J C\'dR\':if(K)z l(B.H)if(L)z l(B.M)1n dR=[\"4w 1h 4N g9 Cf? fD ol?\",\"If 1h 5Q or if 1h 8q, ja gc/SP gc cG 1h 7P Cg 6f? (Ch SQ/SR 1r)\",\"fU SS ST SU?\",\"4w 1h 4N g9 dS 3K Ci 6P 7v Cj 1h jj?\",\"3D is 1s 2i of 2T fk\'s ex-g2 6P 1h jk to SV 7w?\",\"4w 1h 4N Ck iN 1f 2T Cc or C7? 1L cq?\",\"3D oo 1h cH dT 1h\'re op?\",\"SW g3 a 8T SX 8v? if so 4h? dh Cl it Cm oq?\",\"6d dS\'s SY?\",\"1s 8t SZ bi\",\"9G is 1s 8t T0 7v in 2T ot?\",\"6y Cn bi ou 1h 2q 1B jl\",\"9G is 1s 7v 4h 5Q 7P 1h T1\",\"9G is 1s 7v 4h 6b 4N gb 1h T2 cH?\",\"9G is T3 to 2T T4 1r of T5 7u\",\"9G do 1h 7w to 6A 6f??\",\"4w 1h 4N T6 dO? 1s cq i7?\",\"Co an Cp 6P gb 1h Cq 6P 1h 9D Cr\",\"3D Cs 6m 1h ov 1B jl??\",\"3D\'s 2T ow Ct at jm??\",\"3D 6R do 1h j9 8t in 1s T7\",\"4w 1h 4N g3 a T8-T9 Ta\",\"fO 8h 1s 5p bh 1h Tb Tc Td. Te?\",\"9G is 1s 5p 7v 4h Tf 1h\",\"Do 1h 6m 5l Tg Th, 3D 6z Ti\",\"3D di do 1h BO 1s 8t?\",\"3D is 1s 5p 3R 2k 1h Tj?\",\"3D is 1s 5p bi 1h Tk\",\"9G in 1B 1H cG 1h 8q to Tl Tm 6f 1R a Tn\",\"3D is 1s Tp bi Tq 4N Tr to 1h\",\"4w 1h 4N Ts 3K Tt it on dS 1z\",\"fO is 1s 5p bh 1h gb dS 1z jn\",\"4w 1h 4N Tu a fk\",\"4w 1h 4N Tv a Tw 4P\",\"ox of 2T Cu 4k Tx 1h 1s 8t 3K i7\",\"If 1h g3 to 3r 8T Cv 1f 2T Ty, ja 8T cG it be\",\"3D Cv do 1h Tz 1s 8t bh on\",\"4w 1h 4N TA TB to 2q BJ 1f jm\",\"3D is 1s 8t od TC in 2T 1K\",\"3D C1 TD cG 1h TE if 1h ov TF on a TG TH\",\"4w 1h 4N TI so TJ 1h Cw 2T TK\",\"Do 1h oy 2T BM TL\",\"6m u 4N Cw on 1s TM 3h TN \xF0\u0178\xA4\xA3\xF0\u0178\xA4\xA3\",\"3D is 1s jo TO 1h 6m 4N gb\",\"4w 1h 4N Cx in an TP\",\"3D is 1s ow bi 1h 6m 4N TQ\",\"fO 8h 1s 5p bh 1h TR\",\"Cy do 1h 8v 1s 8t TS ur g6\",\"do u TT 8X ur TU in ur TV\xF0\u0178\xA4\xA3\",\"4h 8h ur 9F TW 1s jm oh\",\"g4 TX, do u 7w 5l bk in 1B cE\",\"6m 1h 4N g9 Cf? dh ol?\",\"do 1h 6m gf/bf\',\'6y is 2T jo TY?\",\"6m 1h 4N g9 dS 3K Ci 6P 7v Cj 1h jj?\",\"3D is 1s 2i of 2T ex jg of 2T fk 6P 1h TZ g9 U0?\",\"4N ou 1h U1 2T U2 iN or 2T U3 iN\",\"6y oo 1h cH dT 1h 6z op\",\"do 1h 7w dS 4h is in 1B cE? if 1h 1F 4h?\",\"6m 1h 4N 6d Cx on by dO?\",\"4h is 1s 8t U4 7v in 2T ot\",\"6y Cn BN ou 1h 2q 1B jl\",\"4h is 1s 7v 4h 5Q 7P 1h cH dT u r op\",\"4h is 1s 7v 4h 4N gb 1h Cm U5\",\"6m 1h 4N U6 to 2T g6\",\"do 1h 9D 7w ur ex\",\"4h do 1h 7w to 6A U7 6f?\",\"6m 1h 4N Ck U8 bi in ur ot? 1s cq i7?\",\"Co 1s Cp 6P oo 1h Cq 6P 1h 9D Cr\",\"6y Cs 6m 1h ov 1B jl?\",\"6y 8h 2T ow Ct at jm?\",\"do 1h 8v 1s 7j jp, 6O?\xF0\u0178\xA6\u201e\",\"6m 1h 4N U9 of Ua Ub 1f ur Uc?\",\"do 1h 7w Ud Ue Uf of ur Cz\",\"1h Ug CA or CA\",\"if 1h CB be Uh, 6y is 1s jc bi 1h cG do\",\"6y is a CC 1h Ui 1f 2T g6\",\"9G is 2T CC 9F\",\"Uj 1s 5p 7v 1h Uk on Ul 2e\",\"If a Um Un 1h Uo Up, 6y cG 1h Uq 1R\",\"3D is 2T jo Ur\",\"3D AZ do 1h Us 1h 8t Ut 7w\",\"fD Uu Uv do 1h g8 a g1\",\"3D 8h 2T Uw Ux Uy\",\"if 1h CB be a Uz CD 1R a g1, 4h cG 1h aq\",\"Cy do 1h G 1s 8t\",\"3D is 1s jo UA 1h 4N BL 2T g6\",\"9G is 2T UB 9F\",\"UC 1s UD UE 1h 6m 4N g3\",\"do 1h 6A UF, if 1h 1F 3n ur id df\"]1n CE=dR[1J.2x(1J.2c()*dR.1P)]8w=F 2n(`Y:E.W(1f,{1e:8w,1i:\'Ce aq UG\\n\'+CE},{Q:m})J C\'dT\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`2z 6k,1W:${j+S}6U i 2q nh`)1n oz=[\'5 3m 5C\',\'10 3m 5C\',\'15 3m 5C\',\'20 3m 5C\',\'25 3m 5C\',\'30 3m 5C\',\'35 3m 5C\',\'40 3m 5C\',\'45 3m 5C\',\'50 3m 5C\',\'55 3m 5C\',\'60 3m 5C\',\'65 3m 5C\',\'70 3m 5C\',\'75 3m 5C\',\'80 3m 5C\',\'85 3m 5C\',\'90 3m 5C\',\'100 3m 5C\',\'5 5D 3m\',\'10 5D 3m\',\'15 5D 3m\',\'20 5D 3m\',\'25 5D 3m\',\'30 5D 3m\',\'35 5D 3m\',\'40 5D 3m\',\'45 5D 3m\',\'50 5D 3m\',\'55 5D 3m\',\'60 5D 3m\',\'65 5D 3m\',\'70 5D 3m\',\'75 5D 3m\',\'80 5D 3m\',\'85 5D 3m\',\'90 5D 3m\',\'100 5D 3m\',\'1 3m oA\',\'2 3m dU\',\'3 3m dU\',\'4 3m dU\',\'5 3m dU\',\'CF\',\'1L ar CG CF\',`CG 4I dE,2w UH ${q}`]1n CH=oz[1J.2x(1J.2c()*oz.1P)]E.W(1f,{G:`fV:${q}\\6l:*${CH}*`},{Q:m})J C\'oB\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`2z 6k,1W:${j+S}UI`)qq=q.iU()CI=`${qq}${qq}${qq}\u2764\ufe0f\u2764\ufe0f\u2764\ufe0fjq jq jq jq HU HA HU HA HU HA,CJ 1s oy of oC ${qq}UJ i 8q to oy 1s UK ${qq}UL~UM oC....CJ i 8q to UN cz oC jj~~UO ${qq}jc bh fR in 7W is j3 jj\u2764\ufe0f\u2764\ufe0f\u2764\ufe0fso UP ${qq}UQ UR............${qq}US\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f6y?${qq}it\'s 4M CK ? zz UT 1h 7V ? no, no no no no no no no no no no no no no no no !! I oi\'T CL UU CM UV,I oi\'T CL. \u2764\ufe0f \u2764\ufe0f \u2764\ufe0f ${qq} me ... ${qq} on 1s UW UX me, ${qq} .. 1h UY in me ? UZ V0 ${q} I 9J\'t 8q to mo up ${qq}V1\u2764\ufe0f\u2764\ufe0f\u2764\ufe0fV2 I V3 V4 ${qq}V5 V6 CM V7 V8`l(CI)J C\'V9\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z 1a(`2z dF\'s 4Q, 1W : ${j + S} 9E`)\x0A              oD = F 2E.2q(`Y://8c.Va.io/?2i=${q}`)\x0A              l(`4Q : ${oD.Z.2i}\\n*Vb At Vc :* ${oD.Z.BQ} oA.\\n\\Vd, Ve, Vf Bv, Vg No CN Vh Vi Vj`)\x0A              J  \x0A            C \'2l\': {\x0A            \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A                if (!2C) z 1a(`${B.2m}`)\x0A                if (!G) z 1a(`5E 1L 4g 2M!`)\x0A                if (!5Y(1j[0]) && !1j[0].2a(\'2J.3C\')) z 1a(`fx 2M!`)\x0A                l(B.1D)\x0A                D 1v = 1j[0].1p(\'Y:F E.Vk(1v).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'oE\':C\'Vl\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)if(!2C)z 1a(`${B.2m}`)F E.Vm(m.P).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'oF\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(`${B.2m}`)if(!G)z 1a(`1W:${j+S}4b|2Q`)U.4b=G.1p(\"|\")[0]U.2Q=G.1p(\"|\")[1]l(`Vn 5e fz 6j Vo to\\n\\n${1b}Vp:${U.4b}\\n${1b}7X:${U.2Q}`)}J C\'i8\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)D 4T=m.2I[0]?m.2I[0]:m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.6c(m.P,[4T],\'5w\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'7T\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)D 4T=m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.6c(m.P,[4T],\'7T\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'jr\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)D 4T=m.2I[0]?m.2I[0]:m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.6c(m.P,[4T],\'jr\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'jt\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)D 4T=m.2I[0]?m.2I[0]:m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.6c(m.P,[4T],\'jt\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'ju\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(`${B.2m}`)D 4T=m.2I[0]?m.2I[0]:m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.CO(4T,\'ju\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'jv\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(`${B.2m}`)D 4T=m.2I[0]?m.2I[0]:m.Q?m.Q.1d:G.3A(/[^0-9]/g,\'\')+\'@s.2J.3b\'F E.CO(4T,\'jv\').1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}J C\'oG\':C\'Vq\':C\'Vr\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)1a(`${B.2H}`)if(!G)1a(`5q Is 1L 6k?`)F E.Vs(m.P,G).1F((1E)=>l(B.6n)).1u((1k)=>l(3a(1k)))}J C\'oH\':C\'Vt\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)1a(`${B.2H}`)if(!G)1a(`5q Is 1L 6k?`)F E.Vu(m.P,G).1F((1E)=>l(B.6n)).1u((1k)=>l(3a(1k)))}J C\'CP\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(`${B.2m}`)if(!Q)z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(!/1e/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(/7i/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)D 2e=F E.5r(Q)F E.oI(7g,{R:2e}).1u((1k)=>fs.4i(2e))l(B.6n)}J C\'Vv\':C\'Vw\':C\'oJ\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3k)z 1a(`${B.2H}`)if(!Q)z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(!/1e/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(/7i/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)D 2e=F E.5r(Q)F E.oI(m.P,{R:2e}).1u((1k)=>fs.4i(2e))l(B.6n)}J C\'oK\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)D 1o=`\u255a\xBB\u02d9\u0387\u0660\u2022\u25cf\u2665fX ac\u2665\u25cf\u2022\u0660\u0387\u02d9\xAB\u255d\u27b2*5s:${q?q:\'no 1l\'}*\\n\\n`1R(D oL of 4S){1o+=`${1b}@${oL.id.1p(\'@\')[0]}\\n`}E.W(m.P,{G:1o,5o:4S.2P(a=>a.id)},{Q:m})}J C\'oM\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)E.W(m.P,{G:q?q:\'\',5o:4S.2P(a=>a.id)},{Q:m})}J C\'5F\':C\'gd\':{if(K)z l(B.H)if(L)z l(B.M)if(!hB&&U.db.Z.4T[m.1d].9l<1)z l(B.Vx)D{gd}=1X(\'./3z/8Y\')if(!G)z 1a(`5E dV 6k!`)D N=F gd(G)D 1o=`Vy 6k ${G}\\n\\n`1R(D i of N){1o+=`${1b}*${i.2i}*:${i.1v}\\n\\n`}l(1o)}J C\'3e\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(m.P in 3e)1a(`Vz 6B fP VA In 4I 7h!1Q\\n\\n*${j}au*-To bm 9K 6W`)if(!G)z 1a(`5E dW 3L 9K,1W:*${j+S}VB 3V*`)l(`av VC!\\n\\n*${j}aw*-3L jw\\n*${j}ax*-3L jx\\n*${j}jy*-To BD 1L 9K\\n*${j}au*-To bm 9K 6W`)3e[m.P]=[q,[],[]]F 7I(ch)aw=3e[m.P][1]ax=3e[m.P][2]bn=`*\u300cjz\u300d**dW:*${3e[m.P][0]}\u250c\u3014jA\u3015\u2502\u2503\u25608Z:${3e[m.P][1].1P}\u2502\u2502\u2514\u2500\u2500\u2500\u2500\u250c\u3014jB\u3015\u2502\u2503\u25608Z:${3e[m.P][2].1P}\u2502\u2502\u2514\u2500\u2500\u2500\u2500*${j}au*-To bm 9K 6W`D CQ=[{1A:`${j}aw`,1y:{1c:\'jw\'},1r:1},{1A:`${j}ax`,1y:{1c:\'jx\'},1r:1}]D CR={G:bn,2f:E.1S.2i,1x:CQ,2h:1}E.W(m.P,CR)}J C\'aw\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!(m.P in 3e))z 1a(`1Q*No av In 4I 4g!*1Q\\n\\n*${j}3e*-To bo av`)jC=3e[m.P][1].jD(3e[m.P][2])jE=jC.2a(m.1d)if(jE)1a(`2w\'ve CS`)\x0A            3e[m.P][1].3o(m.1d)\x0A            jF = 3e[m.P][1].jD(3e[m.P][2])\x0A            bn = `*\u300c jz \u300d*\x0A*dW:* ${3e[m.P][0]}\x0A\u250c\u3014 jA \u3015\x0A\u2502 \x0A\u2503\u2560 8Z: ${3e[m.P][1].1P}\x0A${3e[m.P][1].2P((v, i) => `\u2503\u2560 ${i + 1}. @${v.1p`@`[0]}`).2l(\'\\n\')}\x0A\u2502 \x0A\u2514\u2500\u2500\u2500\u2500\x0A\u250c\u3014 jB \u3015\x0A\u2502 \x0A\u2503\u2560 8Z: ${3e[m.P][2].1P}\x0A${3e[m.P][2].2P((v, i) => `\u2503\u2560 ${i + 1}. @${v.1p`@`[0]}`).2l(\'\\n\')}\x0A\u2502 \x0A\u2514\u2500\u2500\u2500\u2500\x0A*${j}au* - To bm 9K 6W`\x0A            D CT = [\x0A              {1A: `${j}aw`, 1y: {1c: \'jw\'}, 1r: 1},\x0A              {1A: `${j}ax`, 1y: {1c: \'jx\'}, 1r: 1}\x0A            ]\x0A            D CU = {\x0A                G: bn,\x0A                2f: E.1S.2i,\x0A                1x: CT,\x0A                2h: 1,\x0A                5o: jF\x0A             }\x0A            E.W(m.P, CU)\x0A\x09    }\x0A             J\x0A                C \'ax\': {\x0A                \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A            if (!m.1Y) z 1a(`${B.1H}`)\x0A            if (!(m.P in 3e)) z 1a(`1Q*No av In 4I 4g!*1Q\\n\\n*${j}3e* - To bo av`)\x0A            jC = 3e[m.P][1].jD(3e[m.P][2])\x0A            jE = jC.2a(m.1d)\x0A            if (jE) z 1a(`2w\'ve CS`)3e[m.P][2].3o(m.1d)jF=3e[m.P][1].jD(3e[m.P][2])bn=`*\u300cjz\u300d**dW:*${3e[m.P][0]}\u250c\u3014jA\u3015\u2502\u2503\u25608Z:${3e[m.P][1].1P}${3e[m.P][1].2P((v,i)=>`\u2503\u2560${i+1}.@${v.1p`@`[0]}`).2l(\'\\n\')}\u2502\u2514\u2500\u2500\u2500\u2500\u250c\u3014jB\u3015\u2502\u2503\u25608Z:${3e[m.P][2].1P}${3e[m.P][2].2P((v,i)=>`\u2503\u2560${i+1}.@${v.1p`@`[0]}`).2l(\'\\n\')}\u2502\u2514\u2500\u2500\u2500\u2500*${j}au*-To bm 9K 6W`D CV=[{1A:`${j}aw`,1y:{1c:\'jw\'},1r:1},{1A:`${j}ax`,1y:{1c:\'jx\'},1r:1}]D CW={G:bn,2f:E.1S.2i,1x:CV,2h:1,5o:jF}E.W(m.P,CW)}J C\'jy\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!(m.P in 3e))z 1a(`1Q*No av In 4I 4g!*1Q\\n\\n*${j}3e*-To bo av`)bn=`*\u300cjz\u300d**dW:*${3e[m.P][0]}\u250c\u3014jA\u3015\u2502\u2503\u25608Z:${aw.1P}${3e[m.P][1].2P((v,i)=>`\u2503\u2560${i+1}.@${v.1p`@`[0]}`).2l(\'\\n\')}\u2502\u2514\u2500\u2500\u2500\u2500\u250c\u3014jB\u3015\u2502\u2503\u25608Z:${ax.1P}${3e[m.P][2].2P((v,i)=>`\u2503\u2560${i+1}.@${v.1p`@`[0]}`).2l(\'\\n\')}\u2502\u2514\u2500\u2500\u2500\u2500*${j}au*-To bm 9K 6W\xA9${E.1S.id}`E.dq(m.P,bn,m)J C\'VD\':C\'au\':C\'VE\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!(m.P in 3e))z 1a(`1Q*No av In 4I 4g!*1Q\\n\\n*${j}3e*-To bo av`)3r 3e[m.P]l(\'6j B8 1L 9K 6W In 4I 4g\')}J C\'1H\':C\'cE\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)if(1j[0]===\'ay\'){F E.jG(m.P,\'VF\').1F((1E)=>l(`6C VG 1L 4g`)).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'bp\'){F E.jG(m.P,\'VH\').1F((1E)=>l(`6C VI 1L 4g`)).1u((1k)=>l(3a(1k)))}1z{D 1x=[{1A:\'1H bp\',1y:{1c:\'oj\'},1r:1},{1A:\'1H ay\',1y:{1c:\'CX\'},1r:1}]F E.3g(m.P,1x,`4g nb`,E.1S.2i,m)}}J C\'ge\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)if(1j[0]===\'bp\'){F E.jG(m.P,\'VJ\').1F((1E)=>l(`6j VK oN 4g bq`)).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'ay\'){F E.jG(m.P,\'dX\').1F((1E)=>l(`6j VL oN 4g bq`)).1u((1k)=>l(3a(1k)))}1z{D 1x=[{1A:\'ge bp\',1y:{1c:\'oj\'},1r:1},{1A:\'ge ay\',1y:{1c:\'CX\'},1r:1}]F E.3g(m.P,1x,`nb oN bq`,E.1S.2i,m)}}J C\'5d\':C\'VM\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z l(B.4q)if(!3k&&!2C)z l(B.2H)if(1j.1P<1)z l(\'1r fq 4e on to 5R\\CY fq 4e 1C to 5G\')if(1j[0]===\'on\'){if(m3)z l(`4c 5H`)5d.3o(1f)fs.jH(\'./5A/5d.5k\',5Z.dd(5d))l(\'5d 5H\')}1z if(1j[0]===\'1C\'){D N=5d.5N(1f)5d.5O(N,1)fs.jH(\'./5A/5d.5k\',5Z.dd(5d))l(\'fq 4e 6o\')}J C\'CZ\':C\'VO\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(1j.1P<1)z l(\'1r 5d on to VP\\CY 5d 1C to 5G\')if(1j[0]===\'on\'){if(m2)z l(`4c 5H`)hy.3o(1f)fs.jH(\'./5A/lQ.5k\',5Z.dd(5d))l(\'5d pc 5H\')}1z if(1j[0]===\'1C\'){D N=5d.5N(1f)hy.5O(N,1)fs.jH(\'./5A/lQ.5k\',5Z.dd(5d))l(\'5d pc 6o\')}J C\'gg\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hC)z 1a(\'4c 5H\')hD.3o(1f)1a(\'3U in 4B on 1H P 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 1H V in 1B 1H or u 6U be 4U 8x`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hC)z 1a(\'4c 6o\')D 1C=hD.5N(1f)hD.5O(1C,1)1a(\'3U in 4B 1C 1H P 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VQ\':C\'VR\':C\'gh\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hE)z 1a(\'4c 5H\')hF.3o(1f)1a(\'3U in 4B on 5m 2k 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 5m 2k V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hE)z 1a(\'4c 6o\')D 1C=hF.5N(1f)hF.5O(1C,1)1a(\'3U in 4B 1C 5m 2k 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VS\':C\'VT\':C\'gj\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hG)z 1a(\'4c 5H\')hH.3o(1f)1a(\'3U in 4B on 5m aW 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 5m aW V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hG)z 1a(\'4c 6o\')D 1C=hH.5N(1f)hH.5O(1C,1)1a(\'3U in 4B 1C 5m aW 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VU\':C\'gk\':C\'VV\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hI)z 1a(\'4c 5H\')de.3o(1f)1a(\'3U in 4B on 7k 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 7k V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hI)z 1a(\'4c 6o\')D 1C=de.5N(1f)de.5O(1C,1)1a(\'3U in 4B 1C 7k 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VW\':C\'gl\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hJ)z 1a(\'4c 5H\')hK.3o(1f)1a(\'3U in 4B on 7l 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 7l V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hJ)z 1a(\'4c 6o\')D 1C=hK.5N(1f)hK.5O(1C,1)1a(\'3U in 4B 1C 7l 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VX\':C\'gm\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(f7)z 1a(\'4c 5H\')yZ.3o(1f)1a(\'3U in 4B on dl 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s dl V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!f7)z 1a(\'4c 6o\')D 1C=de.5N(1f)de.5O(1C,1)1a(\'3U in 4B 1C dl 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VY\':C\'gn\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hL)z 1a(\'4c 5H\')hM.3o(1f)1a(\'3U in 4B on 6e 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 6e V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hL)z 1a(\'4c 6o\')D 1C=hM.5N(1f)hM.5O(1C,1)1a(\'3U in 4B 1C 6e 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'VZ\':C\'W0\':C\'gp\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(f8)z 1a(\'4c 5H\')hN.3o(1f)1a(\'3U in 4B on 8i 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 1s 8i V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!f8)z 1a(\'4c 6o\')D 1C=hN.5N(1f)hN.5O(1C,1)1a(\'3U in 4B 1C 8i 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'gq\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(f8)z 1a(\'4c 5H\')hO.3o(1f)1a(\'3U in 4B on 8j 4K in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\az 1h\'re 4M an 2H, 9J\'t 3n 5l V in 1B 1H or u 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!m0)z 1a(\'4c 6o\')D 1C=hO.5N(1f)hO.5O(1C,1)1a(\'3U in 4B 1C 8j 4K in 1B 1H\')}1z{D 5S=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,5S,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'cI\':C\'zq\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hQ)z 1a(\'4c 5H\')hR.3o(1f)1a(\'3U in 4B on cI in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\W1 4P is oO to 3n zr in 1B 1H,6D 4h 3n 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hQ)z 1a(\'4c 6o\')D 1C=hR.5N(1f)hR.5O(1C,1)1a(\'3U in 4B 1C cI 1B 1H\')}1z{D D0=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,D0,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'9u\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(cf)z 1a(\'4c 5H\')hT.3o(1f)1a(\'3U in 4B on 1s 9u in 1B 1H\')}1z if(1j[0]===\"1C\"){if(!cf)z 1a(\'4c 6o\')D 1C=hT.5N(1f)hT.5O(1C,1)1a(\'3U in 4B 1C 9u in 1B 1H\')}1z{D D1=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,D1,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'cJ\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(hP)z 1a(\'4c 5H\')fa.3o(1f)1a(\'3U in 4B on cJ in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\D2 is oO to mx ca fj in 1B 1H,8T 4h W2 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!hP)z 1a(\'4c 6o\')D 1C=fa.5N(1f)fa.5O(1C,1)1a(\'3U in 4B 1C cJ in 1B 1H\')}1z{D W3=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,W4,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'cK\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(f9)z 1a(\'4c 5H\')m1.3o(1f)1a(\'3U in 4B on cK in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\D2 is oO to 3n wa.me in 1B 1H,8T 4h W5 6U be 4U 8x!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!f9)z 1a(\'4c 6o\')D 1C=fa.5N(1f)m1.5O(1C,1)1a(\'3U in 4B 1C cK in 1B 1H\')}1z{D D3=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,D3,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'7Y\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!3s)z 1a(B.4q)if(!3k&&!2C)z 1a(B.2H)if(1j[0]===\"on\"){if(8J)z 1a(\'4c 5H\')hS.3o(1f)1a(\'3U in 4B on 7Y in 1B 1H\')1t 4y=F E.5K(1f)1t 4k=4y[\'4S\']1t 3p=[]4k.2P(2p 4z=>{3p.3o(4z.id.3A(\'c.us\',\'s.2J.3b\'))})E.W(1f,{G:`\\`\\`\\`\u300c\u26a0\ufe0f7q\u26a0\ufe0f\u300d\\`\\`\\`\\n\\W6(4M W7 1R W8)D4 6b 6d W9 in 1B 1H,ja Wb 8T 5Q Wc Wd We 1f 1s 7j!`,2L:{2I:3p}},{Q:m})}1z if(1j[0]===\"1C\"){if(!8J)z 1a(\'4c 6o\')D 1C=hS.5N(1f)hS.5O(1C,1)1a(\'3U in 4B 1C 7Y in 1B 1H\')}1z{D iB=[{1A:`${S}on`,1y:{1c:\'On\'},1r:1},{1A:`${S}1C`,1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,iB,`4x 6i 1s 4G 4H\\n\\7x to 5R\\7y to 5G`,`${U.1q}`,m)}}J C\'6M\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)if(1j[0]===\"on\"){if(db.Z.5L[m.P].6M)z l(`D5 Wf`)db.Z.5L[m.P].6M=2u l(`${E.1S.2i}5e fz Wg In 4I 4g!`)}1z if(1j[0]===\"1C\"){if(!db.Z.5L[m.P].6M)z l(`D5 Wh`)db.Z.5L[m.P].6M=1N l(`${E.1S.2i}5e fz Wi In 4I 4g!`)}1z{D 1x=[{1A:\'6M on\',1y:{1c:\'On\'},1r:1},{1A:\'6M 1C\',1y:{1c:\'6X\'},1r:1}]F E.3g(m.P,1x,`zA 9E`,E.1S.2i,m)}}J C\'oP\':C\'CP\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(B.2m)if(!Q)z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(!/1e/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(/7i/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)D 2e=F E.5r(Q)F E.oI(7g,{R:2e}).1u((1k)=>fs.4i(2e))1a(B.6n)}J C\'Wj\':C\'Wk\':C\'Wl\':C\'oQ\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(`${B.1H}`)D Wm=F E.zm(m.P)E.2y(m.P,`Y:}J C\'oR\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)1a(`${B.1H}`)if(!3s)z 1a(`${B.4q}`)if(!3k)z 1a(`${B.2H}`)if(!G)z 1a(`5E 1L 5R/5G Wn`)if(1j[0]===\'5R\'){F E.W(m.P,{D6:xx}).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}1z if(1j[0]===\'5G\'){F E.W(m.P,{D6:1N}).1F((1E)=>l(3a(1E))).1u((1k)=>l(3a(1k)))}}J C\'Wo\':C\'D7\':{if(K)z l(B.H)if(L)z l(B.M)D 8y=[]D 3C=[`1H bp`,`5d on`,`D8 on`,`gg on`,`gm on`,`gn on`,`gj on`,`gh on`,`gk on`,`gl on`,`gp on`,`gq on`,`cK on`,`cJ on`,`cI on`,`9u on`,`1H bp`]D D9=[`1H ay`,`5d 1C`,`D8 1C`,`gg 1C`,`gm on`,`gn on`,`gj on`,`gh on`,`gk on`,`gl on`,`gp on`,`gq on`,`cK on`,`cJ on`,`cI on`,`9u on`,`1H ay`]D Da=[`4g bp/ay`,`dg-9L on/1C`,`j8/oS on/1C`,`5T 4g on/1C`,`5T i9 on/1C`,`5T fp on/1C`,`5T gr fn on/1C`,`5T gr 5f on/1C`,`5T dj on/1C`,`5T dk on/1C`,`5T cj on/1C`,`5T ac on/1C`,`dY Db on/1C`,`dY Dc on/1C`,`dY m9 on/1C`,`dg 2U on/1C`,`4g bp/ay`]D oT=[`Wp`,`Wq`]D oU=[`4g`,`dg 9L`,`j8`,`5T 4g`,`5T i9`,`5T fp`,`5T gr fn`,`5T gr 5f`,`5T dj`,`5T dk`,`5T cj`,`5T ac`,`dY Db`,`dY Dc`,`dY m9`,`dg 2U`,`4g`]D Dd=0;D De=0;D Df=0;D aA=0 D Wr=1 1R(D x of 3C){1n yy={1O:`${Da[Dd++]}`,br:[{1O:`${oT[0]}`,3x:`Ws ${oU[De++]}`,3Y:`${j}${x}`},{1O:`${oT[1]}`,3x:`Wt ${oU[Df++]}`,3Y:`${j}${D9[aA++]}`}]}8y.3o(yy)}1n oV=E.W(1f,{G:\"4g Wu\",2f:1q,1O:\"Ae 2T 1H aO 7u......\",1y:\"ds 6S\",8y},{Q:m})}J C\'3r\':C\'b9\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)l(1N)D{P,4u,id,jI}=m.Q if(!jI)z 1a(`1L 5s Wv 7s iv By A 9E!`)E.W(m.P,{3r:{8H:m.P,4u:2u,id:m.Q.id,6N:m.Q.1d}})}J C\'Ww\':C\'oW\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(B.2m)if(!1j.2l(\" \"))z 1a(`5q is 1s G?\\n\\7r:${j+S}${U.3X}`)D Dg=F E.Wx()D oa=4R.oX(Dg).8e(0).2P(Dh=>Dh[1])D N=oa.2P(v=>v.id)1a(`2Y i2 to ${N.1P}1H P,bh\'s up ${N.1P * 1.5} nd`)\x0A1R (D i of N) {\x0AF 7I(cv)\x0AD aB = [{\x0A2r: {\x0A1c: \'3R\ud83c\udf53\',\x0AR: `${U.2Z}`\x0A}\x0A}, {\x0A2r: {\x0A1c: \'4l\ud83c\udf5c\',\x0AR: `${U.4m}`\x0A}\x0A}, {\x0A2o: {\x0A1c: \'9E dZ\ud83d\ude80\',\x0Aid: \'e0\'\x0A}\x0A}, {\x0A2o: {\x0A1c: \'2g\ud83d\udc30\',\x0Aid: \'5I\'\x0A}  \x0A}, {\x0A2o: {\x0A1c: \'3V\ud83d\ude08\',\x0Aid: \'2m\'\x0A}\x0A}]\x0AD 2j = `*\u300c ${U.3X}\'s 7z\u300d*\\n\\n${G}`E.4s(i,2j,`${U.1q}`,4v,aB,aC)}1a(`6j iv 7z To ${N.1P}4g`)}J C\'bc\':C\'i2\':C\'oY\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(B.2m)if(!1j.2l(\" \"))z 1a(`5q is 1s G??\\n\\7r:${j+S}${U.3X}`)D N=F cd.5L.8j().2P(v=>v.id)1a(`2Y 7z To ${N.1P}7h\\al\'s up ${N.1P * 1.5} nd`)\x0A1R (D jJ of N) {\x0AF 7I(cv)\x0AD aB = [{\x0A2r: {\x0A1c: \'3R\ud83c\udf53\',\x0AR: `${U.2Z}`\x0A}\x0A}, {\x0A2r: {\x0A1c: \'4l\ud83c\udf5c\',\x0AR: `${U.4m}`\x0A}\x0A}, {\x0A2o: {\x0A1c: \'9E dZ\ud83d\ude80\',\x0Aid: \'e0\'\x0A}\x0A}, {\x0A2o: {\x0A1c: \'2g\ud83d\udc30\',\x0Aid: \'5I\'\x0A}  \x0A}, {\x0A2o: {\x0A1c: \'3V\ud83d\ude08\',\x0Aid: \'2m\'\x0A}\x0A}]\x0AD 2j = `*\u300c ${U.3X}\'s 7z\u300d*\\n\\n${G}`E.4s(jJ,2j,`${U.1q}`,4v,aB,aC)}1a(\'7z 3U\')}J C\'oZ\':C\'p0\':C\'p1\':{if(K)z l(B.H)if(L)z l(B.M)if(!2C)z 1a(B.2m)if(!/2k/.1m(2K)&&!/1e/.1m(2K)&&!/2s/.1m(2K))z l(`*2Y/2U 5f/6E/3M 2w 6T to 7z 3l 3E*${j+S}`)D N=F cd.5L.8j().2P(v=>v.id)D fd={3f:{4u:1N,\"6N\":\"0@s.2J.3b\",\"8H\":\"aT-Wy@g.us\"},\"1l\":{z3:{z4:Wz,2D:Di,3P:fs.4a(\'./6K/9m/hY.6w\'),z5:Di,1l:`${3X}\'s 7z`, z6: `${1q}`, z7: \'0@s.2J.3b\'}}, 2L: {\"jK\":p3,\"jL\":2u},WA: 2u}\x0A                l(`*2Y 7z To* ${N.1P} *4g 7h, 8V ${N.1P * 1.5} WB*`)\x0A                1R (D i of N) {\x0A                    F 7I(cv)\x0A                    D Dj = [{\x0A                                2r: {\x0A                                1c: \'3R\ud83c\udf53\',\x0AR: `${U.2Z}`\x0A                                }\x0A                            }, {\x0A2r: {\x0A1c: \'4l\ud83c\udf5c\',\x0AR: `${U.4m}`\x0A}\x0A}, {\x0A2o: {\x0A1c: \'9E dZ\ud83d\ude80\',\x0Aid: \'e0\'\x0A}\x0A}, {\x0A2o: {\x0A1c: \'2g\ud83d\udc30\',\x0Aid: \'5I\'\x0A}  \x0A}, {\x0A2o: {\x0A1c: \'3V\ud83d\ude08\',\x0Aid: \'2m\'\x0A}\x0A}]\x0A                    D 2e = F E.5r(Q)\x0A                    D 8w = fs.4a(2e)\x0A                    if (/7i/.1m(2K)) {\x0A                    E.W(i, { 4e: { R: 2e } }, { Q: fd })\x0A                    } 1z if (/1e/.1m(2K)) {\x0A                    D dL = `*\u300c ${U.3X}\'s 7z\u300d*${G?\'\\n\\n\'+G:\'\'}`E.4s(i,dL,`${U.1q}`,8w,Dj)}1z if(/2k/.1m(2K)){D dL=`*\u300c${U.3X}\'s 7z\u300d*${G ? \'\\n\\n\' + G : \'\'}`\x0A                    E.W(i, {2k: 8w, 1i: `${dL}`}, { Q: fd })\x0A                    } 1z if (/2s/.1m(2K)) {\x0A                    E.W(i, {2s: 8w, 4p: \'2s/ak\'}, { Q : fd })\x0A                    } 1z {\x0A                    l(`*2Y/2U 5f/6E/3M 2w 6T to 7z 3l 3E* ${j + S}`)\x0A                    }\x0A                    F fs.4i(2e)\x0A                    }\x0A                l(` *2Y 7z To* ${N.1P} *WC*`)\x0A            }\x0A            J\x0AC \'jM\': {\x0Aif (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!2C) z 1a(B.2m)\x0A                if (!G) z l(`2z ${j}jM G\\n\\7r : ${j + S} WD WE`)\x0A                D N = F cd.5L.8j().2P(v => v.id)\x0A                D [Dk, Dl] = G.1p`|`\x0A                l(`*2Y 7z To* ${N.1P} 7h\\al ${N.1P * 1.5} WF`)\x0A\x09     \x091R (D jJ of N) {\x0A\x09     \x09F 7I(cv)\x0A\x09\x09    1t 4G = [{ 1A: `${j}ho`, 1y: { 1c: `${Dl}` }, 1r: 1 }]              \x0A            E.W(jJ, { 1i: `${Dk}`, fe: { 4f: F 2n(4F+`${3X}\'s 7z`)},1x:4G,2f:`${1q}`,5o:[m.1d]})}}J C\'gs\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)1a(\'2U 5s\')D 6L=F m.Dm()if(!m.Q.jI)z 1a(\'1L 1l 8h 4M 7O by a 7j!\')D 1o=\'\'1R(D i of 6L.WG){D a9=i.WH D iQ=i.WI D b4=a9?a9:iQ 1o+=`${U.1b}@${i.ft.1p(\'@\')[0]}\\n`1o+=`\u2517\u2501${U.1b}*8V:*${2X(b4*ch).6s(\'DD/MM/YY HH:mm:ss\')}${U.1b}*dZ:*${a9?\'Dn\':\'iv\'}\\n\\n`}E.dq(m.P,1o,m)}J C\'q\':C\'Q\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)z 1a(\'2U 5s!!\')D p4=F E.WJ(F m.Dm())if(!p4.Q)z 1a(\'1L 1l 1h WK to Cl 4M WL a l\')F p4.Q.jN(m.P,2u)}J C\'p5\':{if(K)z l(B.H)if(L)z l(B.M)D N=F cd.5L.8j().6a(v=>v.id.jO(\'.3b\')).2P(v=>v)D 1o=`\u300cWM 7h 3N\u300d\\n\\ie 6z ${N.1P}4T fm 7j in om P`1R(D i of N){1o+=`\\n\\WN:@${i.id.1p(\'@\')[0]}\\WO:${i.WP}\\WQ:${2X(i.WR*ch).tz(\"m7/m8\").6s(\"DD/MM/Dq HH:mm:ss\")}`}E.dq(m.P,1o,m)}J C\'p6\':{if(K)z l(B.H)if(L)z l(B.M)D N=F cd.5L.8j().6a(v=>v.id.jO(\'@g.us\')).2P(v=>v.id)D 1o=`\u300c4g 7h\u300d\\n\\ie 6z ${N.1P}4T fm 7j in 1H P`1R(D i of N){D 9a=F E.5K(i)if(9a.2m===\"9b\"){jP=1N}1z{jP=9a.2m}1o+=`\\n\\iW:${9a.lX?9a.lX:\"9b\"}\\WS:${jP?\'@\'+jP.1p(\"@\")[0]:\"9b\"}\\WT:${9a.id?9a.id:\"9b\"}\\WU:${9a.p7?2X(9a.p7*ch).tz(\'m7/m8\').6s(\'DD/MM/Dq HH:mm:ss\'):\"9b\"}\\WV:${9a.4S.1P?9a.4S.1P:\"9b\"}`}E.dq(m.P,1o,m)}J C\'WW\':C\'WX\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)D id=1j&&/\\d+\\-\\d+@g.us/.1m(1j[0])?1j[0]:m.P D 1M=[...4R.a7(cd.WY[id]),7g]D Dr=1 E.2y(m.P,\'     \u300c Aj 3N \u300d\\n\\n\'+1M.2P(v=>`${Dr++}.@`+v.3A(/@.+/,\'\')).2l`\\n`,m,{5o:1M})}J C\'p8\':C\'WZ\':{if(K)z l(B.H)if(L)z l(B.M)1t bs=F 4O(\'Y://8r.8W.3C/jQ/Z/cy/X0\')1t 8z=bs.1p(\'\\n\')1t bt=8z[1J.2x(1J.2c()*8z.1P)]5U=F E.8O(1f,bt,m,{4b:U.4b,2Q:U.2Q,})F fs.4i(5U)}J C\'X1\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}G`)F E.p9(m.P,`Y:}J C\'jR\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)l(`2z ${j}jR pa\\n*1W:${j+S}${3X}*`)F E.p9(m.P,`Y:}J C\'pb\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`*1W:${j+S}pa*`)F E.p9(m.P,`Y:}J C\'gt\':C\'X2\':{if(!G)z l(B.e1)if(!5Y(1j[0])&&!1j[0].2a(\'gt.3C\'))z l(`*7s a gt V*`)8E.X3(`${G}`).1F(2p(Z)=>{D 2j=`*X4 9M*\\n\\n`2j+=`*${1b}4j:*${Z.1O}\\n`2j+=`*${1b}bu:*${Z.3i[0].6p}\\n`2j+=`*${1b}5y:*${Z.3i[0].jS}\\n`2j+=`*${1b}e2:*${Z.3i[0].cL}\\n`2j+=`*${1b}4V jT:*${Z.R}\\n\\n`2j+=`*${1q}*`5a=F 2n(Z.3P)E.W(m.P,{1e:{R:Z.3P},4f:5a,1i:`${2j}`},{Q:m}).1u((1k)=>l(B.3O))E.W(m.P,{2s:{R:Z.3i[0].R},4p:\'2s/ak\',aD:Z.1O+\'.X5\'},{Q:m})}).1u((1k)=>{l(B.3O)})}J C\'X6\':C\'X7\':C\'pd\':{if(K)z l(B.H)if(L)z l(B.M)1t bs=F 4O(\'Y://8r.8W.3C/jQ/Z/cy/X8\')1t 8z=bs.1p(\'\\n\')1t bt=8z[1J.2x(1J.2c()*8z.1P)]5U=F E.8O(1f,bt,m,{4b:U.4b,2Q:U.2Q,})F fs.4i(5U)}J C\'pe\':C\'X9\':{if(K)z l(B.H)if(L)z l(B.M)1t bs=F 4O(\'Y://8r.8W.3C/jQ/Z/cy/Xa\')1t 8z=bs.1p(\'\\n\')1t bt=8z[1J.2x(1J.2c()*8z.1P)]5U=F E.8O(1f,bt,m,{4b:U.4b,2Q:U.2Q,})F fs.4i(5U)}J C\'jU\':C\'Xb\':{if(K)z l(B.H)if(L)z l(B.M)1t bs=F 4O(\'Y://8r.8W.3C/jQ/Z/cy/jU\')1t 8z=bs.1p(\'\\n\')1t bt=8z[1J.2x(1J.2c()*8z.1P)]5U=F E.8O(1f,bt,m,{4b:U.4b,2Q:U.2Q,})F fs.4i(5U)}J C\'4e\':C\'s\':C\'Xc\':C\'Xd\':{if(K)z l(B.H)if(L)z l(B.M)if(/1e/.1m(2K)){D 2e=F Q.7M()D 5U=F E.8O(m.P,2e,m,{4b:U.4b,2Q:U.2Q})F fs.4i(5U)}1z if(/2k/.1m(2K)){if((Q.6L||Q).8N>11)z l(\'Ds 10 8N!\')D 2e=F Q.7M()D 5U=F E.i5(m.P,2e,m,{4b:U.4b,2Q:U.2Q})F fs.4i(5U)}1z{l(`2Y 3M/5f 3l 3E ${j+S}\\Dt gu 1-9 Du`)}}J C\'Xe\':C\'g8\':C\'Xf\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z l(`1W:\\Xg ${U.2Q}|${U.4b}`)1n pf=1j.2l(\" \")1n pg=pf.1p(\"|\")[0];1n pi=pf.1p(\"|\")[1];if(m.Q.Xh===2u){E.5r(Q,\"Dv\")E.W(1f,{4e:fs.4a(\"Dv.7i\")},{Q:m})}1z if(/1e/.1m(2K)){D 2e=F Q.7M()D 5U=F E.8O(m.P,2e,m,{4b:pg,2Q:U.pi})F fs.4i(5U)}1z if(/2k/.1m(2K)){if((Q.6L||Q).8N>11)z l(\'Ds 10 8N!\')D 2e=F Q.7M()D 5U=F E.i5(m.P,2e,m,{4b:pg,2Q:pi})F fs.4i(5U)}1z{l(`2Y 3M/5f 3l 3E ${j+S}\\Dt gu 1-9 Du`)}}J C\'pj\':C\'Xi\':C\'Xj\':{if(K)z l(B.H)if(L)z l(B.M)D{7A}=1X(\'./3z/jV\')if(!G)z l(`2Y/2U pk 3l 3E ${j+S}*G*`)if(G.2a(\'|\'))z l(`2Y/2U pk 3l 3E ${j+S}*G*`)if(!/1e/.1m(2K))z l(`2Y/2U pk 3l 3E ${j+S}*G*`)l(B.1D)Dw=F E.5r(Q)oL=F 7A(Dw)gv=`Y:Dx=F E.8O(m.P,gv,m,{4b:U.4b,2Q:U.2Q})F fs.4i(Dx)}J C\'pl\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q.G&&!G)z 1a(`2U 6k 3l 3E ${j+S}`)D{Dy}=1X(\'./3z/Dz\')D 1o=G?G:m.Q&&m.Q.G?m.Q.G:m.G D eb=F Dy(1o)l(eb)}J C\'pm\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q.G&&!G)z 1a(`2U 6k 3l 3E ${j+S}`)D{DA}=1X(\'./3z/Dz\')D 1o=G?G:m.Q&&m.Q.G?m.Q.G:m.G D db=F DA(1o)l(db)}J C\'pn\':if(K)z l(B.H)if(L)z l(B.M)1o=`1V 1h go!`8w=`Y:E.W(1f,{1e:{R:8w},1i:\"1V 1h go!\"},{Q:m})J C\'po\':C\'pp\':C\'pq\':C\'pr\':C\'ps\':5u{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)DB=F 4O(`Y:DC=F 2n(DB.8p.DE)E.W(1f,{1e:DC,1i:`By ${U.1q}`},{Q:m})}1u(e){3O(\"2v!\")}J C\'pt\':C\'pu\':C\'pv\':C\'pw\':C\'px\':C\'pz\':C\'pA\':C\'pB\':C\'pC\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D DF={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,DF,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'pD\':C\'pE\':C\'f0\':C\'pF\':C\'pG\':C\'pH\':C\'pI\':C\'pJ\':C\'pK\':C\'pL\':C\'pM\':C\'pN\':C\'pO\':C\'pP\':C\'pQ\':C\'pR\':C\'pS\':C\'pT\':C\'pU\':C\'Xk\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)5u{l(B.1D)DG=F 4O(`Y:DH=F 2n(DG.1v)E.W(1f,{1e:DH},{Q:m})}1u(e){3O(\"2v\")}J C\'pV\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)l(B.1D)DI=F 2E.2q(`Y:D DJ=F 2n(DI.Z.R)D DK=F DL(DJ)F E.W(m.P,{2k:DK,hX:2u},{Q:m}).1u(1k=>{z l(\'2v!\')})J C\'pW\':C\'bj\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)l(B.1D)DM=F 2E.2q(`Y:D DN=F 2n(DM.Z.R)D DO=F DL(DN)F E.W(m.P,{2k:DO,hX:2u},{Q:m}).1u(1k=>{z l(\'3O..\')})J C\'Xl\':C\'pX\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)l(B.1D)N=F f0()aE=N[1J.2x(1J.2c(),N.1P)]E.W(m.P,{2k:{R:aE.DP},1i:`${1b}4j:${aE.1O}\\n${1b}9B:${aE.fF}\\n${1b}Xm:${aE.1r}\\n${1b}DQ:${aE.Xn}\\n${1b}Xo:${aE.Xp}\\n${1b}jT:${aE.V}\\n${1b}7f 4V:${aE.DP}`},{Q:m})}J C\'jW\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)l(B.1D)2b=F 2E.2q(`Y:D DR=[{1A:`jW`,1y:{1c:`2G\u26a1`},1r:1},]D DS={1e:{R:2b.Z.R},1i:`1V 1h go!`,1x:DR,2h:1}F E.W(m.P,DS,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'f0-e3\':C\'gw\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)2b=F 2E.2q(`Y:D DT=[{1A:`.gw`,1y:{1c:`2G\u26a1`},1r:1},]D DU={1e:{R:2b.Z.R},1i:`1V 1h go!`,1x:DT,2h:1}F E.W(m.P,DU,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'f0-cM\':C\'pY\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)if(!8J)z l(B.7Y)l(B.1D)2b=F 2E.2q(`Y:D DV=[{1A:`.gw`,1y:{1c:`2G\u26a1`},1r:1},]D DW={1e:{R:2b.Z.R},1i:`1V 1h go!`,1x:DV,2h:1}F E.W(m.P,DW,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'pZ\':if(K)z l(B.H)if(L)z l(B.M)if(!8J)z l(B.7Y)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D DX={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,DX,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'DY\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D DZ={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,DZ,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q0\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E0={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E0,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q1\':if(K)z l(B.H)if(L)z l(B.M)if(!m.1Y)z 1a(B.1H)2b=F 2E.2q(`Y:D E1=[{1A:`.jX`,1y:{1c:`2G\u26a1`},1r:1},]D E2={1e:{R:2b.Z.R},1i:`1V 1h go!`,1x:E1,2h:1}F E.W(m.P,E2,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q2\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E3={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E3,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q3\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)E4=F 2E.2q(\'Y://cM.q4/8c/jY/e3\')1t e4=[{1A:`.e3`,1y:{1c:`2G\u2728`},1r:1},]D E5={1e:{R:E4.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:e4,2h:4}F E.W(m.P,E5,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q5\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E6={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E6,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q6\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E7={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E7,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q7\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E8={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E8,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q8\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D E9={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,E9,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'Xq\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ea={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,Ea,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'q9\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Eb={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,Eb,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qa\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ec={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,Ec,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qb\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ed={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:4}F E.W(m.P,Ed,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qc\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Ee=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ef={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Ee,2h:4}F E.W(m.P,Ef,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qd\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Eg=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Eh={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Eg,2h:4}F E.W(m.P,Eh,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qe\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Ei=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ej={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Ei,2h:4}F E.W(m.P,Ej,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qf\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Ek=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D El={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Ek,2h:4}F E.W(m.P,El,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qg\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Em=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D En={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Em,2h:4}F E.W(m.P,En,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qh\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Eo=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ep={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Eo,2h:4}F E.W(m.P,Ep,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qi\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Eq=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Er={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Eq,2h:4}F E.W(m.P,Er,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qj\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Es=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Et={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Es,2h:4}F E.W(m.P,Et,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qk\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Eu=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ev={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Eu,2h:4}F E.W(m.P,Ev,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'ql\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Ew=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ex={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Ew,2h:4}F E.W(m.P,Ex,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qm\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t Ey=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D Ez={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:Ey,2h:4}F E.W(m.P,Ez,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qn\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EA=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EB={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EA,2h:4}F E.W(m.P,EB,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qo\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EC=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D ED={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EC,2h:4}F E.W(m.P,ED,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qp\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EE=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EF={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EE,2h:4}F E.W(m.P,EF,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qr\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EG=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EH={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EG,2h:4}F E.W(m.P,EH,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qs\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EI=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EJ={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EI,2h:4}F E.W(m.P,EJ,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qt\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EK=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EL={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EK,2h:4}F E.W(m.P,EL,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qu\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EM=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EN={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EM,2h:4}F E.W(m.P,EN,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qv\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EO=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EP={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EO,2h:4}F E.W(m.P,EP,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qw\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t EQ=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D ER={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:EQ,2h:4}F E.W(m.P,ER,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qx\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t ES=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D ET={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:ES,2h:4}F E.W(m.P,ET,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'Xr\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)ud=F 2E.2q(\'Y://cM.q4/8c/jY/gx\')1t e4=[{1A:`.gx`,1y:{1c:`2G\u2728`},1r:1},]D EU={1e:{R:ud.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:e4,2h:4}F E.W(m.P,EU,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qy\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)ud=F 2E.2q(\'Y://cM.q4/8c/jY/qz\')1t e4=[{1A:`.qz`,1y:{1c:`2G\u2728`},1r:1},]D EV={1e:{R:ud.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:e4,2h:4}F E.W(m.P,EV,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qA\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2b=F 2E.2q(`Y:1t 4C=[{1A:`.${S}`,1y:{1c:`2G\u2728`},1r:1},]D EW={1e:{R:2b.Z.R},1i:`1V 1h go!`,2f:`${U.1q}`,1x:4C,2h:2}F E.W(m.P,EW,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'qB\':C\'Xs\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)1n{EX}=1X(\"7W-9c\")if(!q)z l(\'3D 9c do 1h 8q?\')1n jZ=3I EX();1n k0=[1,2,3,4];1n 2c=k0[1J.2x(1J.2c()*k0.1P)]1n 9c=F jZ.Xt({1O:q,1r:\"jY\",fG:k0}).1u(()=>ce);1n i=1J.2x(1J.2c()*9c.1P);1t EY=[{1A:`.${S}${q}`,1y:{1c:`2G\u2728`},1r:1},]D EZ={1e:{R:9c[i].1e},1i:`*dV:*${q}`,2f:`${U.1q}`,1x:EY,2h:4}F E.W(m.P,EZ,{Q:m}).1u(1k=>{z(\'2v!\')})J C\'jn\':C\'qC\':C\'qD\':C\'qE\':C\'qF\':C\'ji\':C\'qG\':C\'qH\':C\'e3\':C\'qI\':C\'qJ\':C\'qK\':C\'qL\':C\'jX\':C\'cF\':C\'qM\':C\'qN\':C\'qO\':C\'qP\':C\'qQ\':C\'qR\':C\'cH\':C\'dP\':C\'qS\':C\'qT\':C\'qU\':C\'gx\':C\'qz\':C\'qV\':if(K)z l(B.H)if(L)z l(B.M)2E.2q(`Y:.1F(({Z})=>{E.8O(m.P,Z.R,m,{4b:U.4b,2Q:U.2Q})})J C\'cM\':C\'gy\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)2E.2q(`Y:.1F(({Z})=>{E.cx(m.P,Z.R,B.6n,m)})J C\'9d\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)1t 2t=[\"9d hd\",\"9d Xu\",\"9d Xv\",\"9d qW\",\"9d qW\"]1t Z=F 7J(dt(2t))1t 8R=[{1A:`9d`,1y:{1c:\"2G\u27a1\ufe0f\"},1r:1}]E.W(1f,{1i:`1V 1h go!`,1e:{R:dt(Z.1v)},1x:8R,2f:`${1q}`},{Q:m})J C\'cN\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)1t 2t=[\"cN\",\"cN qW\",\"cN hd\",\"cN Xw\"]1t Z=F 7J(dt(2t))1t 8R=[{1A:`${S}`,1y:{1c:\"2G\u27a1\ufe0f\"},1r:1}]E.W(1f,{1i:\"1V 1h go!\",1e:{R:dt(Z.1v)},1x:8R,2f:`${1q}`},{Q:m})J C\'k1\':C\'Xx\':{if(K)z l(B.H)if(L)z l(B.M)D 1x=[{1A:`Xy`,1y:{1c:\'2G 3M\'},1r:1}]D 2N={1e:{R:\'Y://k1.Xz.F0/2c\'},1i:`1V 1h go!`,2f:`${1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})}J C\'gz\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(B.e1)if(!5Y(1j[0])&&!1j[0].2a(\'gz.3C\'))z l(`1L V is 4M a gz V`)N=F 4O(`Y:m.l(`*${6r.6s(N)}*`)F1=F 2n(N.1v.XA)E.W(m.P,{bv:F1,4p:\'qX/qY\',aD:`${N.1v.k2}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'qZ\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z m.l(`XB to 7M 2e 3K 3n 2s ${j+S}R V`)if(!5Y(1j[0])&&!1j[0].2a(\'7l.3C\'))z l(`1L V 1h 9e is gA`)D 6V=1X(\'@gB/8Y\')6V.qZ(`${G}`).1F(2p(Z)=>{D 8y=[]1R(D i of Z.R){1n 8p={1O:`${i.1r}`,br:[{1O:`bu ${i.XC}`,3Y:`${j}2q ${G}`,3x:`${Z.XD}`},]}8y.3o(8p)}1n oV=E.W(m.P,{G:`${Z.XE.1O}*1V is 1s 8p of r0,6i 1s 4G 4H to aq*`,2f:`${1q}`,1O:\"*XF XG*\",1y:\"F2 F3\",8y},{Q:m})}).1u((1k)=>{l(B.3O)})}J C\'r1\':C\'r2\':C\'r3\':C\'r4\':C\'r5\':C\'r6\':C\'r7\':C\'r8\':C\'r9\':C\'rb\':{if(K)z l(B.H)if(L)z l(B.M)if(!/1e/.1m(2K))z l(`*2Y/2U 3M 3l 3E*${j+S}`)D{cO,9N,7A}=1X(\'./3z/gC\')D 2e=F E.5r(Q)D N=F 7A(2e)D 5a=F 2n(`Y:E.W(m.P,{1e:5a,1i:`3j by ${1q}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'rc\':{if(K)z l(B.H)if(L)z l(B.M)if(!/1e/.1m(2K))z l(`*2Y/2U 3M 3l 3E*${j+S}`)D{cO,9N,7A}=1X(\'./3z/gC\')D 2e=F E.5r(Q)D N=F 7A(2e)D 5a=F 2n(`Y:E.W(m.P,{1e:5a,1i:`3j by ${1q}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'rd\':{if(K)z l(B.H)if(L)z l(B.M)if(!/1e/.1m(2K))z l(`*2Y/2U 3M 3l 3E*${j+S}`)D{cO,9N,7A}=1X(\'./3z/gC\')D 2e=F E.5r(Q)D N=F 7A(2e)D 5a=F 2n(`Y:E.W(m.P,{1e:5a,1i:`3j by ${1q}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'rf\':{if(K)z l(B.H)if(L)z l(B.M)if(!/1e/.1m(2K))z l(`*2Y/2U 3M 3l 3E*${j+S}`)D{cO,9N,7A}=1X(\'./3z/gC\')D 2e=F E.5r(Q)D N=F 7A(2e)D 5a=F 2n(`Y:E.W(m.P,{1e:5a,1i:`3j by ${1q}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'rg\':{if(K)z l(B.H)if(L)z l(B.M)if(!/1e/.1m(2K))z l(`*2Y/2U 3M 3l 3E*${j+S}`)D{cO,9N,7A}=1X(\'./3z/gC\')D 2e=F E.5r(Q)D N=F 7A(2e)D 5a=F 2n(`Y:E.W(m.P,{1e:5a,1i:`3j by ${1q}`},{Q:m}).1u((1k)=>l(B.3O))}J C\'rh\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}ri XH`)N=F 4O(`Y:l(`${N.1v}`)}J C\'rj\':C\'XI\':{if(K)z l(B.H)if(L)z l(B.M)if(!Q)z l(`2U 1e`)if(/1e/.1m(2K)){N=F E.5r(Q)E.W(m.P,{1e:{R:N},F4:2u},{Q:m})}1z if(/2k/.1m(2K)){N=F E.5r(Q)E.W(m.P,{2k:{R:N},F4:2u},{Q:m})}}J C\'rk\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)5u{N=F 2E.2q(`Y:l(`${N.Z}7u 1h go!`)}1u(e){XJ=gD(e)l(`${e}`)}}J C\'k3\':{if(K)z l(B.H)if(L)z l(B.M)if(1j.1P<1)z 1a(`1W:\\n${j}k3 ${3X}`)e5=1j.2l(\" \")F5=e5.1p(\'\').e6().2l(\'\')1a(`\\`\\`\\`\u300cXK XM\u300d\\`\\`\\`\\n*\u2022>XN:*\\n${e5}\\n*\u2022>XO:*\\n${F5}`)}J C\'k4\':{if(K)z l(B.H)if(L)z l(B.M)if(!aF(1j[0]))z 1a(`1W:\\n${j}k4 XP`)5u{e5=1j.2l(\" \")F6=F xI(e5)1a(`\\`\\`\\`\u300cXQ\u300d\\`\\`\\`\\n*\u2022>aF:*\\n${e5}\\n*\u2022>XR:*\\n${F6}`)}1u{1a(`2v!`)}}J C\'k5\':C\'XS\':{if(K)z l(B.H)if(!1j.2l(\" \"))z 1a(\"1L G?\")rl=F 4O(`Y:F7=rl.k6 F8=rl.k5 1a(`\ud83c\udf10XT:${F8}\\n\ud83d\udcd88o:${F7}`)}J C\'rm\':C\'rn\':C\'ro\':C\'rp\':C\'rq\':C\'rr\':C\'rs\':C\'rt\':C\'ru\':C\'rv\':C\'rw\':C\'rx\':C\'ry\':C\'rz\':C\'rA\':C\'rB\':C\'rC\':C\'rD\':C\'rE\':C\'rF\':C\'rG\':C\'rH\':C\'rI\':C\'rJ\':C\'rK\':C\'rL\':C\'rM\':C\'rN\':C\'rO\':C\'rP\':C\'rQ\':C\'rR\':C\'rS\':C\'rT\':C\'rU\':C\'rV\':C\'rW\':C\'rX\':C\'rY\':C\'rZ\':C\'s0\':C\'s1\':C\'s2\':C\'s3\':C\'s4\':C\'s5\':C\'s6\':C\'s7\':C\'s8\':C\'s9\':C\'sa\':C\'sb\':C\'sd\':C\'se\':C\'sf\':C\'sg\':C\'sh\':C\'si\':C\'sj\':C\'sk\':C\'sl\':C\'sm\':C\'sn\':C\'sp\':C\'sq\':C\'sr\':C\'st\':C\'su\':C\'sv\':C\'sw\':C\'sx\':C\'sy\':C\'sz\':C\'sA\':C\'sB\':C\'sC\':C\'sD\':C\'sE\':C\'sF\':C\'sG\':C\'sH\':C\'sI\':C\'sJ\':C\'sK\':C\'sL\':C\'sM\':C\'sN\':C\'sO\':C\'sP\':C\'sQ\':C\'sR\':C\'sS\':C\'sT\':C\'sU\':C\'sV\':C\'sW\':C\'sX\':C\'sY\':C\'sZ\':C\'t0\':C\'t1\':C\'t2\':C\'t3\':C\'t4\':C\'t5\':C\'t6\':C\'t7\':C\'t8\':C\'t9\':C\'ta\':C\'tb\':C\'tc\':C\'tf\':C\'tg\':C\'th\':C\'ti\':C\'tj\':C\'tk\':C\'tl\':C\'tm\':C\'tn\':C\'tp\':C\'tq\':C\'tr\':C\'ts\':C\'tt\':C\'tu\':C\'tv\':C\'tw\':C\'tx\':C\'ty\':C\'tA\':C\'tB\':C\'tC\':C\'tD\':C\'tE\':C\'tF\':C\'tG\':C\'tH\':C\'tI\':C\'tJ\':C\'tK\':C\'tL\':C\'tM\':C\'tN\':C\'tO\':C\'tP\':C\'tQ\':C\'tR\':C\'tS\':C\'tT\':C\'tU\':C\'tV\':C\'tW\':C\'tX\':C\'tY\':C\'tZ\':C\'u0\':C\'u1\':C\'u2\':C\'u3\':if(K)z l(B.H)if(L)z l(B.M)F9=F 2n(`Y:F E.W(m.P,{2s:F9,4p:\'2s/5g\',cg:2u},{Q:m})J C\'k7\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-6F-G-1G-5F-iX-Fa-Fb.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'u4\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/3d-XU-G-1G-1M-XV.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'u5\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/9O-G-1G-k8.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'u6\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-gE-2A-u7-1M-Fc.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'cP\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-gF-co-gG-G-1G-1M-u8.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'9P\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-a-9P-G-1G-1M-u9.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'ua\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-ub-uc-G-1G-1M-ue.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'cQ\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-6Y-uf-ug-G-1G-1M-3B-uh.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'gH\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/3d-ui-Fd-e7-G-1G-Fe.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uj\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-3d-XW-2A-1M-XX.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'9Q\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/1M-9Q-G-1G-cR-uk.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'k9\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/bl-G-on-ka-k9-1M-3B-XY.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'ul\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-6Y-cS-9f-2A-G-1G-1M-XZ.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'cT\':C\'Y0\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-a-e7-cT-G-on-1s-jZ-Y1.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'Y2\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/gI-5F-2A-1M-cR-3B-Ff.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'um\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-9f-2A-5F-1M-uo.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'6F\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-kb-6F-G-9R-1M-kc.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uq\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-a-6F-G-1G-1M-3B-Y3.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'k7\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-6F-G-1G-5F-iX-Fa-Fb.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'ut\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-uu-3d-G-1G-1M-Y4.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'gE\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G|G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-gE-2A-u7-1M-Fc.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uv\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-3d-6Y-cS-G-1G-1M-uw.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'6Y\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/6Y-G-1G-1M-Y5.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'ux\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/ff-6Y-G-1G-Y6.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'kd\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/kd-G-1G-Y7.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'kf\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/kf-3d-G-1G-Y8.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'kg\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/1M-hZ-3K-Y9-kg-u7-2A-p7-Ya.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'g7\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)5b=q.1p(\"|\")[0]5j=q.1p(\"|\")[1]3w.1g(\"Y://1g.me/2d-g7-2A-Fg-1M-Yb.1w\",[`${5b}`,`${5j}`]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'9S\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-2A-9S-1M-uy.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uz\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/9O-G-1G-k8.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uA\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-a-uB-6Y-cS-G-1G-1M-Yc.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uC\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/6Y-cS-G-1G-6f-Fg-5F-Yd.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'uD\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/J-jZ-G-1G-Ye.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'e8\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/e8-aG-G-1G-uE.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'kh\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/kh-G-1G-Yf.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'bw\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`2z ${j+S}G`)l(B.1D)3w.1g(\"Y://1g.me/2d-a-e9-G-1G-1M-uF.1w\",[`${q}`,]).1F((Z)=>E.W(m.P,{1e:{R:Z},1i:`3j by ${U.1q}`},{Q:m})).1u((1k)=>1T.1U(1k));J C\'bx\':C\'7B\':C\'ec\':C\'ed\':C\'ee\':C\'ef\':C\'Yg\':C\'eh\':C\'ei\':C\'bw\':C\'bz\':C\'ej\':C\'ek\':C\'bA\':C\'cU\':C\'9P\':C\'bB\':C\'9Q\':C\'.\':C\'ki\':C\'cV\':C\'6F\':C\'cW\':C\'el\':C\'cP\':C\'9T\':C\'9U\':C\'cQ\':C\'aH\':C\'em\':C\'bC\':C\'en\':C\'bD\':C\'bE\':C\'eo\':C\'bF\':C\'bG\':C\'bH\':C\'bI\':C\'bJ\':C\'7U\':C\'9O\':C\'8d\':C\'aI\':C\'9A\':C\'ep\':C\'9V\':C\'eq\':C\'9S\':C\'bK\':C\'bL\':C\'9W\':C\'9f\':C\'aJ\':C\'bM\':C\'bN\':C\'aG\':C\'cU\':{if(!q)z l(`1W:${j+S}${U.3X}`)if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D V if(/bx/.1m(S))V=\'Y://1g.me/2d-7B-bx-Fh-G-1G-Fi.1w\'if(/7B/.1m(S))V=\'Y://1g.me/7B-Fj-G-1G-1M-3B-Fk.1w\'if(/ec/.1m(S))V=\'Y://1g.me/3d-7B-G-1G-by-2i-Fl.1w\'if(/ed/.1m(S))V=\'Y://1g.me/Fm-Fn-7B-G-1G-Fo.1w\'if(/ee/.1m(S))V=\'Y://1g.me/2d-3d-er-Fp-kj-G-1G-1M-Fq.1w\'if(/ef/.1m(S))V=\'Y://1g.me/2d-3d-Fr-fi-G-1G-1M-Fs.1w\'if(/et/.1m(S))V=\'Y://1g.me/3d-et-Ft-Fu-G-1G-Fv.1w\'if(/eh/.1m(S))V=\'Y://1g.me/2d-3d-Fw-Fx-G-9R-1M-Fy.1w\'if(/ei/.1m(S))V=\'Y://1g.me/2d-9V-9W-G-1G-1M-Fz.1w\'if(/bw/.1m(S))V=\'Y://1g.me/2d-a-e9-G-1G-1M-uF.1w\'if(/bz/.1m(S))V=\'Y://1g.me/2d-FA-bz-5F-G-1G-1M-FC.1w\'if(/ej/.1m(S))V=\'Y://1g.me/2d-uu-G-9R-1M-3B-FD.1w\'if(/ek/.1m(S))V=\'Y://1g.me/FE-FF-ek-G-1G-3B-1M-FG.1w\'if(/bA/.1m(S))V=\'Y://1g.me/2d-FH-bA-G-1G-1M-3B-FI.1w\'if(/cU/.1m(S))V=\'Y://1g.me/2d-ff-cX-5F-G-1G-1M-FJ.1w\'if(/9P/.1m(S))V=\'Y://1g.me/2d-a-9P-G-1G-1M-u9.1w\'if(/bB/.1m(S))V=\'Y://1g.me/2d-bB-G-1G-1M-3B-FK.1w\'if(/9Q/.1m(S))V=\'Y://1g.me/1M-9Q-G-1G-cR-uk.1w\'if(/bO/.1m(S))V=\'Y://1g.me/2d-a-bO-g0-G-1G-1M-FL.1w\'if(/ki/.1m(S))V=\'Y://1g.me/2d-a-3d-ui-G-1G-1M-1R-3B-Yh.1w\'if(/cV/.1m(S))V=\'Y://1g.me/2d-3d-6Y-cS-G-1G-1M-uw.1w\'if(/6F/.1m(S))V=\'Y://1g.me/2d-kb-6F-G-9R-1M-kc.1w\'if(/cW/.1m(S))V=\'Y://1g.me/2d-ub-uc-G-1G-1M-ue.1w\'if(/el/.1m(S))V=\'Y://1g.me/FM-kk-G-1G-3B-1M-FN.1w\'if(/cP/.1m(S))V=\'Y://1g.me/2d-gF-co-gG-G-1G-1M-u8.1w\'if(/9T/.1m(S))V=\'Y://1g.me/2d-a-3B-1M-9T-G-1G-FO.1w\'if(/9U/.1m(S))V=\'Y://1g.me/1M-9U-3d-co-gG-G-1G-FP.1w\'if(/cQ/.1m(S))V=\'Y://1g.me/2d-6Y-uf-ug-G-1G-1M-3B-uh.1w\'if(/aH/.1m(S))V=\'Y://1g.me/3d-aH-G-1G-cR-1M-FQ.1w\'if(/em/.1m(S))V=\'Y://1g.me/2d-gJ-cT-gF-G-1G-FR.1w\'if(/bC/.1m(S))V=\'Y://1g.me/2d-bC-G-9R-1R-FS-FT-FU.1w\'if(/en/.1m(S))V=\'Y://1g.me/2d-a-en-G-1G-on-1s-uG-1M-FV.1w\'if(/bD/.1m(S))V=\'Y://1g.me/bD-G-1G-FW.1w\'if(/bE/.1m(S))V=\'Y://1g.me/bE-FX-G-1G-FY.1w\'if(/eo/.1m(S))V=\'Y://1g.me/FZ-gK-G-1G-G0.1w\'if(/bF/.1m(S))V=\'Y://1g.me/bF-G-1G-G1.1w\'if(/bG/.1m(S))V=\'Y://1g.me/bG-G-1G-G2.1w\'if(/bH/.1m(S))V=\'Y://1g.me/bH-G3-G-1G-G4.1w\'if(/bI/.1m(S))V=\'Y://1g.me/bI-G-1G-1M-G5.1w\'if(/bJ/.1m(S))V=\'Y://1g.me/bJ-5F-G-1G-1M-G6.1w\'if(/7U/.1m(S))V=\'Y://1g.me/cX-7U-G-1G-1M-G7.1w\'if(/9O/.1m(S))V=\'Y://1g.me/9O-G-1G-k8.1w\'if(/8d/.1m(S))V=\'Y://1g.me/8d-G-1G-1M-G8.1w\'if(/aI/.1m(S))V=\'Y://1g.me/aI-G-1G-1M-G9.1w\'if(/9A/.1m(S))V=\'Y://1g.me/9A-G-1G-1M-Ga.1w\'if(/ep/.1m(S))V=\'Y://1g.me/7U-G-on-1s-Gb-kk-Gc.1w\'if(/9V/.1m(S))V=\'Y://1g.me/9V-Gd-G-1G-Ge.1w\'if(/eq/.1m(S))V=\'Y://1g.me/kj-Gg-iO-G-1G-1M-Gh.1w\'if(/9S/.1m(S))V=\'Y://1g.me/2d-2A-9S-1M-uy.1w\'if(/bK/.1m(S))V=\'Y://1g.me/bK-G-1G-1M-Gi.1w\'if(/bL/.1m(S))V=\'Y://1g.me/bL-Gj-G-1G-Gk.1w\'if(/9W/.1m(S))V=\'Y://1g.me/9W-G-1G-1M-Gl.1w\'if(/9f/.1m(S))V=\'Y://1g.me/2d-9f-2A-5F-1M-uo.1w\'if(/aJ/.1m(S))V=\'Y://1g.me/bl-in-aJ-uB-Gm-3B-1M-Gn.1w\'if(/bM/.1m(S))V=\'Y://1g.me/2d-3d-bM-G-1G-6f-Go-5F-Gp.1w\'if(/bN/.1m(S))V=\'Y://1g.me/bN-5F-G-1G-1M-Gq.1w\'if(/aG/.1m(S))V=\'Y://1g.me/e8-aG-G-1G-uE.1w\'D N=F 3w.1g(V,q)E.W(m.P,{1e:{R:N},1i:`3j by ${U.1q}`},{Q:m})}J C\'hc\':{if(K)z l(B.H)if(L)z l(B.M)if(1j.1P<1)z l(`1W:\\n${j+S}<2i>`)if(1j[0]===\'6F\'){if(1j.1P<2)z l(`1W:\\n${j+S+\' \'+1j[0]}${U.3X}`)D kl=F lE.1g(\"Y://1g.me/2d-kb-6F-G-9R-1M-kc.1w\",[1j[1]])E.W(1f,{1e:{R:kl},1i:\"aK!\"},{Q:m})}1z if(1j[0]===\'uH\'){if(1j.1P<2)z l(`1W:\\n${j+S+\' \'+1j[0]}${U.3X}`)D kl=F lE.1g(\"Y://1g.me/2d-cS-uH-Yi-G-1G-1M-Yj.1w\",[1j[1]])E.W(1f,{1e:{R:kl},1i:\"aK!\"},{Q:m})}1z{l(`*6k uI 3N:*\\n\u2022>6F\\n\u2022>uH`)}}J C\'km\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uJ\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yk\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'9f\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'6Y\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yl\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uG\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'bO\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'aJ\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'bw\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'cT\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uK\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Ym\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'cW\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'aH\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yn\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yo\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uL\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'cV\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'aI\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'8d\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uM\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yp\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uN\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'et\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'kn\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yq\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yr\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uO\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uP\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'ka\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uQ\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Ys\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'e9\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'gJ\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'e7\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uR\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'Yt\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'uS\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'gK\':{if(K)z l(B.H)if(L)z l(B.M)D V=`Y:D 1I=F 1g(V,q)l(`3q a 2X 3h 3t 1s 2A 3u 1 3v`)1T.1U(1I)E.W(1f,{1e:{R:1I},1i:\"1V 1h go!\"},{Q:m})}J C\'gI\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`1W:${j+S}ko|ea`)l(B.1D)bP=1j.2l(\" \")bQ=1j.2l(\" \")1t bR=bP.1p(\'|\')[0]1t bS=bQ.1p(\'|\')[1]D N=F 1g(\"Y://1g.me/gI-5F-2A-1M-cR-3B-Ff.1w\",[`${bR}`,`${bS}`])1T.1U(N)E.W(1f,{1e:{R:N},1i:\"1V 1h go!\"},{Q:m})}J C\'uT\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`1W:${j+S}ko|ea`)l(B.1D)bP=1j.2l(\" \")bQ=1j.2l(\" \")1t bR=bP.1p(\'|\')[0]1t bS=bQ.1p(\'|\')[1]D N=F 1g(\"Y://1g.me/2d-3d-uT-G-1G-1M-3B-Yu.1w\",[`${bR}`,`${bS}`])1T.1U(N)E.W(1f,{1e:{R:N},1i:\"1V 1h go!\"},{Q:m})}J C\'cX\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`1W:${j+S}ko|ea`)l(B.1D)bP=1j.2l(\" \")bQ=1j.2l(\" \")1t bR=bP.1p(\'|\')[0]1t bS=bQ.1p(\'|\')[1]D N=F 1g(\"Y://1g.me/2d-a-Yv-cX-G-1G-Yw.1w\",[`${bR}`,`${bS}`])1T.1U(N)E.W(1f,{1e:{R:N},1i:\"1V 1h go!\"},{Q:m})}J C\'Gr\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`1W:${j+S}ko|ea`)l(B.1D)bP=1j.2l(\" \")bQ=1j.2l(\" \")1t bR=bP.1p(\'|\')[0]1t bS=bQ.1p(\'|\')[1]D N=F 1g(\"Y://1g.me/2k-2F-kn-8-Yx-G-1G-Yy.1w\",[`${bR}`,`${bS}`])1T.1U(N)E.W(1f,{1e:{R:N},1i:\"1V 1h go!\"},{Q:m})}J C\'2W\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z l(\'5q is 1s 2W?\')2W.2q(1j.2l(\" \")).1F(2p(2W)=>{D Gs=F E.W(m.P,{1e:{R:2W.ck[4].R},1i:`3j by ${U.1q}`},{Q:m})F E.W(1f,{G:\"l #s to 1B 1e to 7P 4e\"},{Q:Gs})})}J C\'Yz\':C\'uU\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, YA 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"11\")J C\'uV\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"0\")J C\'uW\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"1\")J C\'uX\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"2\")J C\'gL\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"3\")J C\'uY\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"4\")J C\'uZ\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"5\")J C\'v0\':C\'YB\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"6\")J C\'v1\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"7\")J C\'v2\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"8\")J C\'YC\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"9\")C\'v3\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\"5E 2W, 8A 1 2W, eg?\"+`${j+S}\ud83d\ude00`)l(B.1D)7m(q,\"10\")J C\'v4\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)l(`*1W:*${j+S}\ud83e\udd84+\ud83e\udd23`)D[YD,YE]=q.1p`+`D Gt=F 4O(`Y:1R(D 1E of Gt.YF){D 5U=F E.8O(1f,1E.R,m,{4b:U.4b,2Q:U.2Q,YG:1E.YH})F fs.4i(5U)}}J C\'v5\':C\'YI\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)z l(\'2U 3M\')if(!/7i/.1m(2K))z l(`2U 4e 6f 1i*${j+S}*`)l(B.1D)D 2e=F E.5r(Q)D 6G=F a4(\'.m6\')7H(`eu-i ${2e}${6G}`,(1k)=>{fs.4i(2e)if(1k)Gu 1k D 8w=fs.4a(6G)E.W(m.P,{1e:8w},{Q:m})fs.4i(6G)})}J C\'YJ\':C\'v6\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)z l(\'2U 3M\')if(!/7i/.1m(2K))z l(`2U 4e 6f 1i*${j+S}*`)l(B.1D)D{9N}=1X(\'./3z/jV\')D 2e=F E.5r(Q)D kp=F 9N(2e)F E.W(m.P,{2k:{R:kp.1v,1i:\'v7 8g Gv To 5f\'}},{Q:m})F fs.4i(2e)}J C\'YK\':C\'v8\':{if(K)z l(B.H)if(L)z l(B.M)if(!/2k/.1m(2K)&&!/2s/.1m(2K))z l(`2Y/2U 5f/6E 2w 6T To 2z As 6E 3l 3E ${j+S}`)if(!m.Q)z l(`2Y/2U 5f/6E 2w 6T To 2z As 6E 3l 3E ${j+S}`)l(B.1D)D 2e=F Q.7M()D{kq}=1X(\'./3z/v9\')D 2s=F kq(2e,\'5g\')E.W(m.P,{2s:2s,4p:\'2s/ak\'},{Q:m})}J C\'va\':{if(K)z l(B.H)if(L)z l(B.M)if(/bv/.1m(2K))z l(`2Y/2U 5f/6E 2w 6T To ew vb vc 3l 3E ${j+S}`)if(!/2k/.1m(2K)&&!/2s/.1m(2K))z l(`2Y/2U 5f/6E 2w 6T To ew vb vc 3l 3E ${j+S}`)if(!m.Q)z l(`2Y/2U 5f/6E 2w 6T To ew vb vc 3l 3E ${j+S}`)l(B.1D)D 2e=F Q.7M()D{kq}=1X(\'./3z/v9\')D 2s=F kq(2e,\'5g\')E.W(m.P,{bv:2s,4p:\'2s/ak\',aD:`v7 By ${E.1S.2i}(${m.id}).aX`},{Q:m})}J C\'vd\':C\'YL\':{if(K)z l(B.H)if(L)z l(B.M)if(!/2k/.1m(2K)&&!/2s/.1m(2K))z l(`2U 5f/6E gM 2w 6T To Be VN 3l 3E ${j+S}`)if(!m.Q)z l(`2U 5f/6E gM 2w 6T To Be VN 3l 3E ${j+S}`)l(B.1D)D 2e=F Q.7M()D{Gw}=1X(\'./3z/v9\')D 2s=F Gw(2e,\'5g\')E.W(m.P,{2s:2s,4p:\'2s/ak\',cg:2u},{Q:m})}J C\'vf\':{if(K)z l(B.H)if(L)z l(B.M)if(!m.Q)z l(\'2U 3M\')if(!/7i/.1m(2K))z l(`2U 4e 6f 1i*${j+S}*`)l(B.1D)D{9N}=1X(\'./3z/jV\')D 2e=F E.5r(Q)D kp=F 9N(2e)F E.W(m.P,{2k:{R:kp.1v,1i:\'v7 8g Gv To vg\'},hX:2u},{Q:m})F fs.4i(2e)}J C\'vh\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D{cO,9N,7A}=1X(\'./3z/jV\')D 2e=F E.5r(Q)if(/1e/.1m(2K)){D N=F 7A(2e)l(6r.6s(N))}1z if(!/1e/.1m(2K)){D N=F cO(2e)l(6r.6s(N))}F fs.4i(2e)}J C\'YM\':C\'YN\':C\'5w-YO\':{if(!Q)z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(!/1e/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)if(/7i/.1m(2K))z 1a(`2Y/2U 3M 3l 3E ${j+S}`)D vi=1X(\'5w.bg\')D vj=[\'YP\',\'YQ\',\'YR\',\'YS\',\'YT\',\'YU\',\'YV\',\'YW\',\'YX\']D Gx=vj[1J.2x(1J.2c()*vj.1P)]Gy=F\'./lR/vi-\'+a4(\'\')vk=F E.5r(Q,Gy)kr=F\'./lR/YZ-\'+a4(\'.m6\')l(B.1D)vi.Z0({lB:vk,Z1:Gx,ey:\"Z2\",1r:\"fq\",Z3:\"100%\",kr}).1F(2p 1v=>{E.W(m.P,{1e:fs.4a(kr),1i:B.6n},{Q:m})F fs.4i(vk)F fs.4i(kr)})}J C\'cY\':C\'vl\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z 1a(`1W:${j+S}Z4 jb`)D cY=1X(\"yt-9g\")D 9g=F cY(1j.2l(\" \"))D 1o=\'*| ks aL |*\\n\\n nc 8g \'+G+\'\\n\\n\'D no=1 1R(D i of 9g.8j){1o+=`${U.1b}No:${no++}\\n${U.1b}5y:${i.1r}\\n${U.1b}5f ID:${i.Gz}\\n${U.1b}4j:${i.1O}\\n${U.1b}DQ:${i.GA}\\n${U.1b}gu:${i.kt}\\n${U.1b}vm:${i.GB}\\n${U.1b}7X:${i.2Q.2i}\\n${U.1b}4V:${i.R}\\n\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n\\n`}E.W(m.P,{1e:{R:9g.8j[0].3P},1i:1o},{Q:m})}J C\'ez\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`1W:${j+S}<2t>\\GC:${j+S}fU ku GD`)D ez=1X(\'ez-it\')ez({\'2t\':1j.2l(\" \")}).1F(1E=>{D 1o=`Bz bT 8g:${G}\\n\\n`1R(D g of 1E){1o+=`${U.1b}*4j*:${g.1O}\\n`1o+=`${U.1b}*gN*:${g.Z5}\\n`1o+=`${U.1b}*2M*:${g.V}\\n\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n\\n`}l(1o)})}J C\'kv\':C\'Z6\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(\"3D ae 6z 1h kw 1R??\")D GE=1X(\'g-i-s\')GE(1j.2l(\" \"),2p(3O,1v)=>{n=1v ck=n[1J.2x(1J.2c()*n.1P)].R D 1x=[{1A:`kv ${1j.2l(\" \")}`,1y:{1c:\'2G 3M \ud83d\udc40\'},1r:1}]D 2N={1e:{R:ck},1i:`*|Z7 Z8|*${U.1b}dV:${G}${U.1b}7f 4V:${ck}`,2f:`${U.1q}`,1x:1x,2h:4,2L:{6v:{1O:`${U.3X}`,4P:`${U.aU}`,3P:4v,7C:2,7D:`${U.2Z}`,6x:`{U.2Z}`}}}E.W(m.P,2N,{Q:m})})}J C\'Z9\':C\'Za\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`1W:\\n${j+S}GF`)5u{hx.eA(1j[0]).1F(2p(7E)=>{eB=[]eC=[]eD=`*|kx GG|*\\n\\n${U.1b}ky:${7E.1S.bU?7E.1S.2i:\"9b\"}\\n${U.1b}kz:${7E.1S.kA}`GH=1 1R(D i=0;i<7E.3i.1P;i++){eB.3o({\"1r\":7E.3i[i].kB,\"R\":7E.3i[i].R})}kC=1 1R(D i of eB){eC.3o({1A:`ig ${i.1r}${i.R}`,1y:{1c:`7f ${kC++}`},1r:1})}eD+=`\\n\\GI 1s 2e 4H to GJ`D 1x=eC D 2N={1e:4v,4f:aC,1i:eD,2f:`${U.1q}`,1x:1x,2h:4}E.W(1f,2N,{Q:m})})}1u(1k){l(gD(1k))}}J C\'Zb\':C\'Zc\':C\'Zd\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s bU?\\7r:${j}eA GF`)D kD=G hx.eA(kD).1F(2p(1v)=>{1t ri=0 E.W(m.P,{1e:{R:1v.1S.kE},4f:F 2n(1v.1S.kE),1i:`*----\u300ckx GG\u300d----*\\n\\n*${1b}ky:*${1v.1S.bU}\\n*${1b}GK:*${1v.1S.GL}\\n*${1b}kz:*${1v.1S.kA}\\n*${1b}ic:*${1v.1S.fS}\\n*${1b}ID:*${1v.1S.id}\\n*${1b}GM:*${1v.3i[0].kB}\\n*${1b}5y:*${1v.3i[0].1r}\\n*${1b}7f:*${1v.3i.1P}\\n*${1b}Ze:*${1v.1S.Zf}\\n\\n*${1q}*`},{Q:m})1R(D i of 1v.3i){if(i.R.2a(\'5g\')){D V=F 2n(i.R)E.W(m.P,{2k:V,4f:F 2n(i.kF),1i:`*ai ${i.1r}*`},{Q:m})}1z{D V=F 2n(i.R)E.W(m.P,{1e:V,4f:F 2n(i.kF),1i:`*ai ${i.1r}*`},{Q:m})}}}).1u((1k)=>l(`Bw bU ${G}8h 4M mY or Ch he/Zg 6b no C0 Zh in cz id`))}J C\'Zi\':C\'Zj\':C\'Zk\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V oq`)if(!5Y(1j[0])&&!1j[0].2a(\'7k.3C\'))z l(`1L V 1h 9e is 4M a 7k V`)D kD=G hx.vo(kD).1F(2p(1v)=>{1t ri=0 E.W(m.P,{1e:{R:1v.1S.kE},4f:F 2n(1v.1S.kE),1i:`*----\u300ckx 9M\u300d----*\\n\\n*${1b}ky:*${1v.1S.bU}\\n*${1b}GK:*${1v.1S.GL}\\n*${1b}kz:*${1v.1S.kA}\\n*${1b}ic:*${1v.1S.fS}\\n*${1b}ID:*${1v.1S.id}\\n*${1b}GM:*${1v.3i[0].kB}\\n*${1b}5y:*${1v.3i[0].1r}\\n*${1b}Zl 7f:*${1v.3i.1P}\\n*${1b}4V:*${G}\\n\\n*${1q}*`},{Q:m})1R(D i of 1v.3i){if(i.R.2a(\'5g\')){D V=F 2n(i.R)E.W(m.P,{2k:V,4f:F 2n(i.kF),1i:`*dj ${i.1r}*`},{Q:m})}1z{D V=F 2n(i.R)E.W(m.P,{1e:V,4f:F 2n(i.kF),1i:`*dj ${i.1r}*`},{Q:m})}}}).1u((1k)=>l(B.3O))}J C\'vo\':C\'7k\':C\'Zm\':C\'Zn\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`1W:\\n${j+S}Y:5u{hx.vo(1j[0]).1F(2p(7E)=>{eB=[]eC=[]eD=`*|kx 9M|*\\n\\n${U.1b}ky:${7E.1S.bU?7E.1S.2i:\"9b\"}\\n${U.1b}kz:${7E.1S.kA}`GH=1 1R(D i=0;i<7E.3i.1P;i++){eB.3o({\"1r\":7E.3i[i].kB,\"R\":7E.3i[i].R})}kC=1 1R(D i of eB){eC.3o({1A:`ig ${i.1r}${i.R}`,1y:{1c:`7f ${kC++}`},1r:1})}eD+=`\\n\\GI 1s 2e 4H to GJ`D 1x=eC D 2N={1e:4v,4f:aC,1i:eD,2f:`${U.1q}`,1x:1x,2h:4}E.W(1f,2N,{Q:m})})}1u(1k){l(gD(1k))}}J C\'ig\':{if(K)z l(B.H)if(L)z l(B.M)if(1j[0]===\"5g\"){E.W(1f,{2k:{R:1j[1]},1i:\'aK!\',4p:\'2k/5g\'},{Q:m})}1z if(1j[0]===\"6w\"){E.W(1f,{1e:{R:1j[1]},1i:\'aK!\'},{Q:m})}1z{l(\"2v! \")}}J C\'5g\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`5q\'s 1s V ?`)\x0A5u {\x0AE.W(1f, {2k:{R:1j[0]}, 1i:\"Zo\", 2L:{6v:{\x0A1O:`${U.1q}`,\x0A4P:`${U.3X}`,\x0A3P: 4v,\x0A7C:2,\x0A7D: `${U.2Z}`,\x0A6x: `${U.2Z}`\x0A}}}, {Q:m})\x0A} 1u {\x0Al(\"2M 3O!\")\x0A}\x0A}\x0AJ\x0AC \'z2\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!1j[0]) z l(`5q\'s 1s V?`)5u{E.W(1f,{1e:{R:1j[0]},1i:\"3U\",2L:{6v:{1O:`${U.1q}`,4P:`${U.3X}`,3P:4v,7C:2,7D:`${U.2Z}`,6x:`${U.2Z}`}}},{Q:m})}1u{l(\"2M 3O\")}}J C\'vp\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V Zp?`)1n{Zq,Zr,GN}=1X(\'@gB/8Y\')if(!5Y(1j[0])&&!1j[0].2a(\'7k.3C\'))z l(\'*1L V 1h 9e is 4M eE*\')GN(`${G}`).1F(2p(Z)=>{1t 5a=F 2n(Z[0].3P)E.W(m.P,{2k:{R:Z[0].R},4f:5a,1i:`${1q}`},{Q:m})}).1u((1k)=>{l(B.3O)})}J C\'8i\':C\'td\':C\'Zs\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V?`)if(!5Y(1j[0])&&!1j[0].2a(\'8i.3C\'))z l(`1L V 1h 9e is 4M eE`)8E.cj(`${G}`).1F(2p(Z)=>{D 2j=`*GO 9M*\\n\\n`2j+=`*${1b}kG:*${Z.1O}\\n`2j+=`*${1b}kH:*${Z.3i[1].6p}\\n`2j+=`*${1b}Zt:*${Z.3i[1].jS}\\n`2j+=`*${1b}vq:*${Z.3i[1].cL}\\n`2j+=`*${1b}GP:*${Z.3i.1P}\\n`2j+=`*${1b}kI:*${Z.R}\\n\\n`2j+=`*${1q}*`5a=F 2n(Z.3P)E.W(m.P,{1e:{R:Z.3P},4f:5a,1i:`${2j}`},{Q:m})1R(D i of Z.3i){E.W(m.P,{2k:{R:i.R},4f:5a,1i:`*${G}*`},{Q:m})}}).1u((1k)=>{l(B.3O)})}J C\'vr\':C\'Zu\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V?`)if(!5Y(1j[0])&&!1j[0].2a(\'8i.3C\'))z l(`*1L V 1h 9e is 4M eE*`)8E.cj(`${G}`).1F(2p(Z)=>{E.W(m.P,{2s:{R:Z.3i[1].R},4p:\'2s/5g\'},{Q:m})}).1u((1k)=>{l(B.l)})}J C\'Zv\':C\'Zw\':C\'Zx\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`1W:\\n${j+S}Y:5u{D 7Z=F GQ(1j[0])1o=`*|GO 9M|*3E:${7Z.1O?7Z.1O:\"9b\"}5y:${7Z.3i[1].jS}e2:${7Z.3i[1].cL}2M:${7Z.3i[1].R}Zy 1s 2k 6p 4H by Zz 1s ZA`D 1x=[{1A:`GR ${7Z.3i[0].R}`,1y:{1c:`bu ${7Z.3i[0].6p}`},1r:1},{1A:`GR ${7Z.3i[2].R}`,1y:{1c:`bu ${7Z.3i[2].6p}`},1r:1}]D 2N={2k:{R:7Z.3i[1].R},1i:1o,2f:`${6u}`,1x:1x,2h:4,2L:{6v:{1O:`${U.1q}`,4P:7Z.1O?7Z.1O:\"cj kJ\",3P:4v,7C:1,7D:1j[0],6x:1j[0]}}}E.W(1f,2N,{Q:m})}1u{l(\"2v V!\")}}J C\'ZB\':{if(K)z l(B.H)if(L)z l(B.M)D 1x=[{1A:`5I`,1y:{1c:\'2g \ud83d\udc25\'},1r:1}]D 2N={2k:{R:1j[0]},1i:\"aK!\",2f:`${6u}`,1x:1x,2h:4,2L:{6v:{1O:`${U.1q}`,4P:\"cj kJ\",3P:4v,7C:1,7D:1j[0],6x:1j[0]}}}E.W(1f,2N,{Q:m})}J C\'ZC\':C\'fb\':C\'7l\':C\'ZD\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V oq?\\7r:${j}7l Y:if(!5Y(1j[0])&&!1j[0].2a(\'7l.3C\'))z l(`1L V 1h 9e is 4M eE`)D GS=1X(\'@gB/8Y\')GS.ZE(`${G}`).1F(2p(Z)=>{D 2j=`*FB 9M*\\n\\n`2j+=`*${1b}kG:*${Z.1O}\\n`2j+=`*${1b}kH:*${Z.1v[0].6p}\\n`2j+=`*${1b}ZF:*${Z.3x}\\n`2j+=`*${1b}ID:*${aU}\\n`2j+=`*${1b}kI:*${G}\\n\\n`5a=F 2n(Z.3P)E.W(m.P,{1e:{R:Z.3P},4f:5a,1i:`${2j}`},{Q:m})1R(D i of Z.1v){E.W(m.P,{2k:{R:i.R},4f:5a,1i:`*${1b}bu:*${i.6p}`},{Q:m})}}).1u((1k)=>{l(B.3O)})}J C\'vs\':C\'ZG\':C\'ZH\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5q is 1s V?\\7r:${j+S}Y:if(!5Y(1j[0])&&!1j[0].2a(\'7l.3C\'))z l(`1L V 1h 9e is 4M eE`)D 6V=1X(\'@gB/8Y\')6V.qZ(`${G}`).1F(2p(N)=>{E.W(m.P,{2s:{R:N.R[0].R},4p:\'2s/5g\'},{Q:m})}).1u((1k)=>{l(B.3O)})}J C\'ZI\':C\'ZJ\':C\'ZK\':C\'ZL\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j[0])z l(`1W:\\n${j+S}Y:5u{D eF=F GQ(1j[0])1o=`*|ZM 9M|*5y:2k/${eF.3i[0].jS}bu:${eF.3i[0].6p}e2:${eF.3i[0].cL}ZN HD 6p 1h 5Q 6i 1s 4G GT`D 1x=[{1A:`ZO ${eF.3i[1].R}`,1y:{1c:\'ZP\'},1r:1}]D 2N={2k:{R:eF.3i[0].R},1i:1o,2f:`${6u}`,1x:1x,2h:4,2L:{6v:{1O:`${U.1q}`,4P:\"dk kJ\",3P:4v,7C:1,7D:1j[0],6x:1j[0]}}}E.W(1f,2N,{Q:m})}1u{l(\"2M gA!\")}}J C\'ZQ\':{if(K)z l(B.H)if(L)z l(B.M)D 1x=[{1A:`5I`,1y:{1c:\'2g \ud83d\udc25\'},1r:1}]D 2N={2k:{R:1j[0]},1i:\"aK!\",2f:`${6u}`,1x:1x,2h:4,2L:{6v:{1O:`${U.1q}`,4P:\" dk kJ\",3P:4v,7C:1,7D:1j[0],6x:1j[0]}}}E.W(1f,2N,{Q:m})}J C\'ZR\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D{7J}=1X(\'./3z/8Y\')N=F 7J(G)1v=N[1J.2x(1J.2c()*N.1P)]E.W(m.P,{1e:{R:1v},1i:\'${1b} 7f 4V : \'+1v},{Q:m})}J C\'ZS\':C\'vt\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(\'3D 6B 1h bV 3L??\')F l(B.1D)8E.ZT(q).1F(2p Z=>{D 2j=`*------\u300cZU-aL\u300d------*\\n\\n`1R(D i of Z){2j+=`*\ud83d\udceb4j:*${i.7S}\\n`2j+=`*\ud83d\udc4d\ud83c\udffbvu:*${i.7w}\\n`2j+=`*\ud83e\udd34\ud83c\udffbZV:*${i.jp}\\n`2j+=`*\ud83c\udfa5vv:*${i.vw}\\n`2j+=`*\ud83d\udcda4V:*${i.R}\\n----------------------------------------------------------\\n`}F l(2j)}).1u((1k)=>{l(B.3O)})J C\'vx\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}8v`)D 1E=F 4O(`Y:D{7S,GU,GV,GW,b4,R,6H,3x}=1E.1v[0]D 5z=`ZW 8g 2t\\n\\n`5z+=`4j:${7S}\\n`5z+=`Dn:${GU}\\n`5z+=`9K:${GV}\\n`5z+=`ZX:${GW}\\n`5z+=`4V:${R}\\n`5z+=`gN:${3x}`E.cx(m.P,6H,5z,m)}J C\'GX\':C\'ZY\':C\'ZZ\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`2z${j+S}2J`)D 6V=1X(\'./3z/101\')6V.GY(`${G}`).1F(2p(Z)=>{D 8y=[]1R(D i of Z){1n 8p={1O:`${i.7S}`,br:[{1O:`${i.7S}`,3Y:`${j}GZ ${i.V}`,3x:`9B:${i.b8}\\102:${i.103}\\104:${i.fu}`},]}8y.3o(8p)}1n oV=E.W(m.P,{G:`${105}${6u}*bT 8o 8g ${G}ds 1s 4G 4H to aq*`,2f:`${1q}`,1O:\"*H0 9M,*\",1y:\"F2 F3\",8y},{Q:m})}).1u((1k)=>{l(`*${G}7s mY*`)})}J C\'GZ\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`2z${j+S}2J`)if(!5Y(1j[0])&&!1j[0].2a(\'GY.3C\'))l(\'*1L V 1h 9e is gA*\')D H1=1X(\'./3z/H2.js\')H1.H2(`${G}`).1F(2p(N)=>{if(N[0].ey.1p(\'MB\')[0]>=150)z l(\'*gO dp a8* \'+6r.6s(N))1R(D i of N){H3=`*H0 vy*\\n\\n*4j:*${i.1O}\\n*106:*${i.up}\\n*107:*${i.108}\\n*e2:*${i.ey}\\n*4V:*\\n*109:*${i.H4}`E.W(m.P,{1e:F 2n(i.6H),4f:F 2n(i.6H),1i:`${H3}`},{Q:m})E.W(m.P,{bv:F 2n(i.V),4p:`qX/10a.10b.10c-fQ`,aD:`${i.1O}`},{Q:m})}}).1u((1k)=>{l(B.3O)})}J C\'10d\':{if(K)z l(B.H)if(L)z l(B.M)E.W(m.P,{G:`@${m.1d.1p(\"@\")[0]}`,2L:{2I:[m.1d]}},{Q:m})}J C\'vz\':C\'kK\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D vA=/(?:Y|vz)(?::\\/\\/|@)Bj\\.3C[\\/:]([^\\/:]+)\\/(.+)/i if(!1j[0])l(`2z ${j}kK eG V\\7r:Y:if(!vA.1m(1j[0]))z l(B.e1)D[,1S,eG]=1j[0].lV(vA)||[]eG=eG.3A(/.vz$/,\'\')D R=`Y:D k2=(F lC(R,{10e:\'10f\'})).10g.2q(\'8I-10h\').lV(/10i; k2=(.*)/)[1]E.W(m.P,{bv:{R:R},aD:k2+\'.qY\',4p:\'qX/qY\'},{Q:m}).1u((1k)=>l(B.3O))J C\'bx\':C\'7B\':C\'ec\':C\'ed\':C\'ee\':C\'ef\':C\'et\':C\'eh\':C\'ei\':C\'bw\':C\'bz\':C\'ej\':C\'ek\':C\'bA\':C\'cU\':C\'9P\':C\'bB\':C\'9Q\':C\'bO\':C\'gH\':C\'cV\':C\'6F\':C\'cW\':C\'el\':C\'cP\':C\'9T\':C\'9U\':C\'cQ\':C\'aH\':C\'em\':C\'bC\':C\'en\':C\'bD\':C\'bE\':C\'eo\':C\'bF\':C\'bG\':C\'bH\':C\'bI\':C\'bJ\':C\'7U\':C\'9O\':C\'8d\':C\'aI\':C\'9A\':C\'ep\':C\'H5\':C\'eq\':C\'9S\':C\'bK\':C\'bL\':C\'9W\':C\'9f\':C\'aJ\':C\'bM\':C\'bN\':C\'aG\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`1W:${j+S}${U.3X}`)D V if(/bx/.1m(S))V=\'Y://1g.me/2d-7B-bx-Fh-G-1G-Fi.1w\'if(/7B/.1m(S))V=\'Y://1g.me/7B-Fj-G-1G-1M-3B-Fk.1w\'if(/ec/.1m(S))V=\'Y://1g.me/3d-7B-G-1G-by-2i-Fl.1w\'if(/ed/.1m(S))V=\'Y://1g.me/Fm-Fn-7B-G-1G-Fo.1w\'if(/ee/.1m(S))V=\'Y://1g.me/2d-3d-er-Fp-kj-G-1G-1M-Fq.1w\'if(/ef/.1m(S))V=\'Y://1g.me/2d-3d-Fr-fi-G-1G-1M-Fs.1w\'if(/et/.1m(S))V=\'Y://1g.me/3d-et-Ft-Fu-G-1G-Fv.1w\'if(/eh/.1m(S))V=\'Y://1g.me/2d-3d-Fw-Fx-G-9R-1M-Fy.1w\'if(/ei/.1m(S))V=\'Y://1g.me/2d-9V-9W-G-1G-1M-Fz.1w\'if(/bw/.1m(S))V=\'Y://1g.me/2d-a-e9-G-1G-1M-uF.1w\'if(/bz/.1m(S))V=\'Y://1g.me/2d-FA-bz-5F-G-1G-1M-FC.1w\'if(/ej/.1m(S))V=\'Y://1g.me/2d-uu-G-9R-1M-3B-FD.1w\'if(/ek/.1m(S))V=\'Y://1g.me/FE-FF-ek-G-1G-3B-1M-FG.1w\'if(/bA/.1m(S))V=\'Y://1g.me/2d-FH-bA-G-1G-1M-3B-FI.1w\'if(/cU/.1m(S))V=\'Y://1g.me/2d-ff-cX-5F-G-1G-1M-FJ.1w\'if(/9P/.1m(S))V=\'Y://1g.me/2d-a-9P-G-1G-1M-u9.1w\'if(/bB/.1m(S))V=\'Y://1g.me/2d-bB-G-1G-1M-3B-FK.1w\'if(/9Q/.1m(S))V=\'Y://1g.me/1M-9Q-G-1G-cR-uk.1w\'if(/bO/.1m(S))V=\'Y://1g.me/2d-a-bO-g0-G-1G-1M-FL.1w\'if(/gH/.1m(S))V=\'Y://1g.me/3d-ui-Fd-e7-G-1G-Fe.1w\'if(/cV/.1m(S))V=\'Y://1g.me/2d-3d-6Y-cS-G-1G-1M-uw.1w\'if(/6F/.1m(S))V=\'Y://1g.me/2d-kb-6F-G-9R-1M-kc.1w\'if(/cW/.1m(S))V=\'Y://1g.me/2d-ub-uc-G-1G-1M-ue.1w\'if(/el/.1m(S))V=\'Y://1g.me/FM-kk-G-1G-3B-1M-FN.1w\'if(/cP/.1m(S))V=\'Y://1g.me/2d-gF-co-gG-G-1G-1M-u8.1w\'if(/9T/.1m(S))V=\'Y://1g.me/2d-a-3B-1M-9T-G-1G-FO.1w\'if(/9U/.1m(S))V=\'Y://1g.me/1M-9U-3d-co-gG-G-1G-FP.1w\'if(/cQ/.1m(S))V=\'Y://1g.me/2d-6Y-uf-ug-G-1G-1M-3B-uh.1w\'if(/aH/.1m(S))V=\'Y://1g.me/3d-aH-G-1G-cR-1M-FQ.1w\'if(/em/.1m(S))V=\'Y://1g.me/2d-gJ-cT-gF-G-1G-FR.1w\'if(/bC/.1m(S))V=\'Y://1g.me/2d-bC-G-9R-1R-FS-FT-FU.1w\'if(/en/.1m(S))V=\'Y://1g.me/2d-a-en-G-1G-on-1s-uG-1M-FV.1w\'if(/bD/.1m(S))V=\'Y://1g.me/bD-G-1G-FW.1w\'if(/bE/.1m(S))V=\'Y://1g.me/bE-FX-G-1G-FY.1w\'if(/eo/.1m(S))V=\'Y://1g.me/FZ-gK-G-1G-G0.1w\'if(/bF/.1m(S))V=\'Y://1g.me/bF-G-1G-G1.1w\'if(/bG/.1m(S))V=\'Y://1g.me/bG-G-1G-G2.1w\'if(/bH/.1m(S))V=\'Y://1g.me/bH-G3-G-1G-G4.1w\'if(/bI/.1m(S))V=\'Y://1g.me/bI-G-1G-1M-G5.1w\'if(/bJ/.1m(S))V=\'Y://1g.me/bJ-5F-G-1G-1M-G6.1w\'if(/7U/.1m(S))V=\'Y://1g.me/cX-7U-G-1G-1M-G7.1w\'if(/9O/.1m(S))V=\'Y://1g.me/9O-G-1G-k8.1w\'if(/8d/.1m(S))V=\'Y://1g.me/8d-G-1G-1M-G8.1w\'if(/aI/.1m(S))V=\'Y://1g.me/aI-G-1G-1M-G9.1w\'if(/9A/.1m(S))V=\'Y://1g.me/9A-G-1G-1M-Ga.1w\'if(/ep/.1m(S))V=\'Y://1g.me/7U-G-on-1s-Gb-kk-Gc.1w\'if(/H5/.1m(S))V=\'Y://1g.me/9V-Gd-G-1G-Ge.1w\'if(/eq/.1m(S))V=\'Y://1g.me/kj-Gg-iO-G-1G-1M-Gh.1w\'if(/9S/.1m(S))V=\'Y://1g.me/2d-2A-9S-1M-uy.1w\'if(/bK/.1m(S))V=\'Y://1g.me/bK-G-1G-1M-Gi.1w\'if(/bL/.1m(S))V=\'Y://1g.me/bL-Gj-G-1G-Gk.1w\'if(/9W/.1m(S))V=\'Y://1g.me/9W-G-1G-1M-Gl.1w\'if(/9f/.1m(S))V=\'Y://1g.me/2d-9f-2A-5F-1M-uo.1w\'if(/aJ/.1m(S))V=\'Y://1g.me/bl-in-aJ-uB-Gm-3B-1M-Gn.1w\'if(/bM/.1m(S))V=\'Y://1g.me/2d-3d-bM-G-1G-6f-Go-5F-Gp.1w\'if(/bN/.1m(S))V=\'Y://1g.me/bN-5F-G-1G-1M-Gq.1w\'if(/aG/.1m(S))V=\'Y://1g.me/e8-aG-G-1G-uE.1w\'D N=F 3w.1g(V,q)E.W(m.P,{1e:{R:N},1i:`3j by ${U.1q},3L my 10j`},{Q:m})}J C\'10k\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(\'3D 6B 2w bV 3L??\')F l(B.1D)8E.H6(`${G}`).1F(2p Z=>{D 2j=`*-----\u300c10l-aL\u300d-----*\\n\\n`1R(D i of Z){2j+=`*\ud83d\udceb4j:*${i.7S}\\n`2j+=`*\ud83d\udcc6dU:*${i.H7}\\n`2j+=`*\ud83c\udfa5vv:*${i.vw}\\n`2j+=`*\ud83d\udcda4V:*${i.R}\\n-----------------------------------------------------\\n`}F 10m(1f,Z[0].3P,2j,m)}).1u((1k)=>{l(B.3O)})J C\'vB\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}8v`)D 1E=F 4O(`Y:D 5z=`H6 bT 8g:${G}\\n\\n`1R(D i of 1E.1v){5z+=`${1b}4j:${i.7S}\\n`5z+=`${1b}dU:${i.H7}\\n`5z+=`${1b}vv:${i.vw}\\n`5z+=`${1b}4V:${i.R}\\n`5z+=`${1b}H8 4V:${i.3P}\\n\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n`}E.cx(m.P,1E.1v[0].3P,5z,m)}J C\'10n\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`3D 9h 6B 2w bV 3L??`)F l(B.1D)8E.9h(q).1F(2p Z=>{D 2j=`*-------\u300cgP-aL\u300d-------*\\n\\n`1R(D i of Z){2j+=`*\ud83d\udceb4j:*${i.7S}\\n`2j+=`*\ud83d\udcda4V:*${i.V}\\n-----------------------------------------------------\\n`}D eH=F 2n(Z[0].3P.3A(\'Y://fo.7W-vC.3C\',\'\'))1t 8R=[{\"2r\":{\"1c\":\"10o\ud83c\udfa5\",\"R\":`${2Z}`}}]F E.vD(1f,2j,`\xA9${3X}`,eH,8R,{ft:m.P,Q:m})}).1u((1k)=>{l(B.3O)})}J C\'10p\':C\'10q\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`3D 9h cA 6B 2w bV 3L??`)F l(B.1D)8E.cA(q).1F(2p Z=>{D 2j=`*---\u300c10r-aL\u300d---*\\n\\n`1R(D i of Z){2j+=`*\ud83d\udcebcA:*${i.CD}\\n`2j+=`*\ud83d\udcda4V:*${i.V}\\n-----------------------------------------------------\\n`}D eH=F 2n(Z[0].3P.3A(\'Y://fo.7W-vC.3C\',\'\'))1t 8R=[{\"2r\":{\"1c\":\"3R\ud83d\udccd\",\"R\":`${2Z}`}}]F E.vD(1f,2j,`\xA9${3X}`,eH,8R,{ft:m.P,Q:m})}).1u((1k)=>{l(B.3O)})J C\'10s\':if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`3D kL 6B 2w bV 3L??`)F l(B.1D)8E.kL(`${G}`).1F(2p Z=>{D 2j=`*------\u300c10t-aL\u300d------*\\n\\n`1R(D i of Z){2j+=`*\ud83d\udceb4j:*${i.7S}\\n`2j+=`*\ud83d\udcda4V:*${i.V}\\n-----------------------------------------------------\\n`}D eH=F 2n(Z[0].3P.3A(\'Y://fo.7W-vC.3C\',\'\'))1t 8R=[{\"2r\":{\"1c\":\"3R\ud83d\udccd\",\"R\":`${2Z}`}}]F E.vD(1f,2j,`\xA9${3X}`,eH,8R,{ft:m.P,Q:m})}).1u((1k)=>{l(B.3O)})C\'7W\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`ox 7W do 1h 8q to 9g?\\7r ${j}bW 9d`)l(B.1D)1n{9h}=1X(\"@H9/Ha\")1n Hb=3I 9h();D 7W=F Hb.10u(q)D 1v=7W.Z[0];1T.1U(1v)D 5c=`\ud83c\udf80*4j:${1v.1O}*\\n`;5c+=`\ud83c\udf8b*mN:${1v.1r}*\\n`;5c+=`\ud83d\udcc8*dZ:${1v.2D.iU().3A(/\\1Q/g,\" \")}*\\n`;5c+=`\ud83c\udf65*8Z Hc:${1v.Hc}*\\n`;5c+=`\ud83c\udf88*gu:${1v.Hd}*\\n`;5c+=`\ud83e\udde7*Hf:*\\n`;1R(D i=0;i<1v.kM.1P;i++){5c+=`\\t\\t\\t\\t\\t\\t\\t\\t*${1v.kM[i].2i}*\\n`}5c+=`\u2728*10v on:${1v.vE.iU()}*\\n`;5c+=`\ud83d\udccd*10w:*\\n`;1R(D i=0;i<1v.Hg.1P;i++){5c+=`\\t\\t\\t\\t\\t\\t\\t\\t*${1v.Hg[i].2i}*\\n`}5c+=`\ud83c\udfb4*10x:*\\n`;1R(D i=0;i<1v.Hh.1P;i++){5c+=`\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t*${1v.Hh[i].2i}*\\n`}5c+=`\ud83d\udcab*10y on:${1v.Hj.1f}*\\n`;5c+=`??*zP on:${1v.Hj.to}*\\n`;5c+=`\ud83c\udf90*Hk:${1v.Hl}*\\n`;5c+=`\ud83c\udf8f*Hm:${1v.Hn}*\\n`;5c+=`\ud83c\udf87*10z:${1v.10A}*\\n`;5c+=`\ud83c\udfc5*10B:${1v.10C}*\\n\\n`;if(1v.Ho.R!==ce)5c+=`\u2666*10D:${1v.Ho.R}*\\n\\n`;5c+=`\ud83c\udf10*kI:${1v.R}*\\n\\n`;if(1v.kN!==ce)5c+=`\ud83c\udf86*Hp:*${1v.kN}*\\n\\n`;5c+=`\u2744*gN:*${1v.Hq.3A(/\\[Hr by Hs Ht]/g,\"\")}`E.W(m.P,{1e:{R:1v.ck.6w.Hu},1i:5c},{Q:m})J C\'bW\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)1n{kL}=1X(\"@H9/Ha\")1n bW=3I kL();if(!q)z l(`ox bW do 1h 8q to 9g?\\7r ${j}bW 9d`)D 5J=F bW.10E(q)D 6I=`\ud83c\udf80*4j:${5J.Z[0].1O}*\\n`;6I+=`\ud83d\udcc8*dZ:${5J.Z[0].2D}*\\n`;6I+=`\ud83c\udf38*8Z 10F:${5J.Z[0].10G}*\\n`;6I+=`\ud83c\udf97*8Z 10H:${5J.Z[0].10I}*\\n`;6I+=`\ud83e\udde7*Hf:*\\n`;1R(D i=0;i<5J.Z[0].kM.1P;i++){6I+=`\\t\\t\\t\\t\\t\\t\\t\\t*${5J.Z[0].kM[i].2i}*\\n`}6I+=`\u2728*10J on:${5J.Z[0].10K.1f}*\\n`;6I+=`\ud83c\udf1f*10L:${5J.Z[0].10M}*\\n`;6I+=`\ud83c\udf90*Hk:${5J.Z[0].Hl}*\\n`;6I+=`\ud83c\udf8f*Hm:${5J.Z[0].Hn}*\\n`;6I+=`\u270d*10N:*\\n`;1R(D i=0;i<5J.Z[0].vF.1P;i++){6I+=`\\t\\t\\t\\t\\t\\t\\t\\t\\t*${5J.Z[0].vF[i].2i}**(${5J.Z[0].vF[0].1r})*\\n`}6I+=`\\n\ud83c\udf10*kI:${5J.Z[0].R}*\\n\\n`;if(5J.Z[0].kN!==ce)6I+=`\ud83c\udf86*Hp:*${5J.Z[0].kN}`;6I+=`\u2744\ufe0f*gN:*${5J.Z[0].Hq.3A(/\\[Hr by Hs Ht]/g,\"\")}`;E.W(m.P,{1e:{R:5J.Z[0].ck.6w.Hu},1i:6I},{Q:m})J J C\'8n\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`2z BP ${j}8n 10O`)l(B.1D)1n{8n,Hv}=1X(\'@gB/8Y\')1n 1v=F Hv(G).1u(2p 1Q=>F 8n(G))l(`${1b}4j:*${1v.1O}*${1b}7X:${1v.2Q}${1b}ii:${1v.8n}${1b}4V:${1v.V}`.6t())}J C\'vG\':if(K)z l(B.H)if(L)z l(B.M)1n Hw=F xH()1t{Hx,Hy,Hz,10P,10Q,HB,vH}=Hw.1v 1T.1U(vH)1n HC=`8V:${Hx}\\10R:${Hy}\\10S:${Hz}\\10T:${HB}`E.W(1f,{1e:{R:vH},1i:HC})J C\'vI\':C\'ha\':if(K)z l(B.H)if(L)z l(B.M)1n c=F ha()1t{HE,HF,HG}=c[0]E.W(1f,{G:`10U:${HE}\\n\\10V:${HF}\\n\\10W:${HG}`},m)J C\'kO\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\'2Y HI *#kO [aW]*\')l(F lF(q))J C\'kP\':C\'GX\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\'6y 6z 1h kw 1R?\')D 6A=F hx.kP(q)D vJ=\'\u2749\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2749\\n\'1R(D i of 6A){vJ+=`\\n*\u300c*HJ 10X*\u300d*\\n-*4Q*:${i.2i}-*2M*:${i.V}\\n-*HK*:${i.10Y}-*HK 2M*:${i.10Z}\\n\u2749\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2749`}l(vJ)J C\'gQ\':if(K)z l(B.H)if(L)z l(B.M)l(B.1D)if(!q)z l(`3D gQ 1h Cb 9g?\\7r:${j}gQ 110`)8E.vK(q).1F(Z=>{1T.1U(Z)D vL=`*\u2752\u300cvK ${q}\u300d*\\n*\ud83c\udf3f7X*:${Z[0].2Q}\\n\\n`1R(D i of Z){vL+=(`\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n\\n*\ud83d\udccd4j:*${i.7S}\\n*\ud83d\udcdfbu:*${i.6p}\\n*\ud83d\udda5\ufe0f5y:${i.1r}*\\n*\u231bvm:*${i.111}\\n*\ud83c\udf0djT:*${i.V}`)}E.W(1f,{1e:{R:Z[0].6H},1i:vL},{Q:z8})});J C\'8s\':C\'1e\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D{7J}=1X(\'./3z/vM\')N=F 7J(G)1v=N[1J.2x(1J.2c()*N.1P)]E.W(m.P,{1e:{R:1v},1i:`${1b}7f 4V:`+1v},{Q:m})}J C\'vN\':C\'112\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z 1a(`1W:\\n${j+S}ip|eI\\GC:\\n${j+S}6A.6O.3C|113`)1n dV=1X(\"114-2t\");1n vO=1j.2l(\" \")1n vP=vO.1p(\"|\")[0];1n vQ=vO.1p(\"|\")[1];if(!vP)z 1a(`5q\'s 2T ip?`)\x0Aif (!vQ) z 1a(`5q\'s 1s eI??`)1n q=3I dV({115:vP,eI:vQ,ix:116});q.117().1F(6n=>{1a(3a(6n));z q.118()}).1F(6n=>{1a(3a(6n));q.ay()})}J C\'kQ\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z 1a(`1W:${j+S}119`)hf.kQ(1j.2l(\" \")).1F(2p(1E)=>{1o=`*|11a aL|*`1R(D i of 1E){1o+=`\\n\\iW:${i.2i}\\HL:${i.fF}\\11b:${i.cZ}\\11c:${i.H4}\\11d:${i.V}`}D 1x=[{1A:`5I`,1y:{1c:\'2g\ud83e\udd40\'},1r:1}]D 2N={1e:4v,4f:aC,1i:1o,2f:`${U.1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})})}J C\'kR\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z 1a(`1W:${j+S}11e 11f`)hf.kR(1j.2l(\" \")).1F(2p(1E)=>{1o=\'```\u300c 11g bT \u300d```\'1R(D i of 1E){1o+=`\\n\\n${i.2i}\\n`1o+=`${i.V}`}D 1x=[{1A:`5I`,1y:{1c:\'2g\ud83e\udd40\'},1r:1}]D 2N={1e:{R:1E[0].11h},4f:aC,1i:1o,2f:`${U.1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})})}J C\'kS\':{if(K)z l(B.H)if(L)z l(B.M)if(1j.1P<1)z 1a(`1W:\\n${j}kS 11i 11j`)HM=1j.2l(\" \")hx.11k(HM).1F(1E=>{1o=\'```\u300c bT 4g \u300d```\'1R(D i of 1E){1o+=`\\n\\n\u2022>4g 11l:\\n`1o+=`${i.V}\\n`1o+=`${i.4n}`}D 1x=[{1A:`5I`,1y:{1c:\'2g\ud83e\udd40\'},1r:1}]D 2N={1e:4v,4f:aC,1i:1o,2f:`${U.1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})})}J C\'kT\':{if(K)z l(B.H)if(L)z l(B.M)hf.kT().1F(2p(1E)=>{D 1o=\'*| 11m 11n |*\\n\\11o://11p-11q.3C/Cz/11r/\\n\\n\'D no=1 1R(D i of 1E){1o+=`${1b}HN To ${no++}\\11s:${i.ip}\\11t:${i.eI}\\11u:${i.11v}\\11w:${i.11x}\\n\\n`}D 1x=[{1A:`5I`,1y:{1c:\'2g\ud83e\udd40\'},1r:1}]D 2N={1e:4v,4f:aC,1i:1o,2f:`${U.1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})})}J C\'vR-3c\':if(K)z l(B.H)if(L)z l(B.M)xJ().1F(2p(1E)=>{1T.1U(1E)no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1a(1o)})J C\"eJ\":if(K)z l(B.H)if(L)z l(B.M)1t 1E=F y0()1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1o+=`\\11y:${1E.2Q}\\n`1o+=`\\11z:\\n`1o+=`${1E.eJ}\\n`1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1a(1o)J C\"vS\":if(K)z l(B.H)if(L)z l(B.M)1t 1E=F y1()1o=\"\\11A*\"E.W(m.P,{1e:{R:1E},1i:1o},{Q:m})J C\'vT-3c\':if(K)z l(B.H)if(L)z l(B.M)xK().1F(1E=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1a(1o)})J C\'vU\':if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\'5q is 1s 1O?\')xY(q).1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`vK:${i.11B}\\n`1o+=`2M:${i.11C}\\n`}1o+=`\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550`1a(1o)})J C\'vV-3c\':if(K)z l(B.H)if(L)z l(B.M)xQ().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'vW-3c\':if(K)z l(B.H)if(L)z l(B.M)xM().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'vX-3c\':if(K)z l(B.H)if(L)z l(B.M)xU().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'vY-3c\':if(K)z l(B.H)if(L)z l(B.M)xR().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'vZ-3c\':if(K)z l(B.H)if(L)z l(B.M)xO().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'w0-3c\':if(K)z l(B.H)if(L)z l(B.M)xN().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'w1-3c\':if(K)z l(B.H)if(L)z l(B.M)xL().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1a(1o)})J C\'w2-3c\':if(K)z l(B.H)if(L)z l(B.M)xP().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'w3-3c\':if(K)z l(B.H)if(L)z l(B.M)xS().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1a(1o)})J C\'d0-3c\':if(K)z l(B.H)if(L)z l(B.M)xT().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\'w4-3c\':if(K)z l(B.H)if(L)z l(B.M)xV().1F(2p(1E)=>{no=0 1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`5y:${i.bX}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\"w5-3c\":if(K)z l(B.H)if(L)z l(B.M)xW().1F(2p(1E)=>{1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"no=0 1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`5y:${i.bX}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\"w6-3c\":if(K)z l(B.H)if(L)z l(B.M)xX().1F(2p(1E)=>{1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"no=0 1R(D i of 1E){no+=1 1o+=`\\n\u2022${no.5n()}\u2022\\n`1o+=`6Z:${i.7a}\\n`1o+=`8B:${i.8C}\\n`1o+=`2M:${i.7b}\\n`}1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E[0].9i},1i:1o},{Q:m})})J C\"w7-gv\":if(K)z l(B.H)if(L)z l(B.M)1t 1E=F xZ()1o=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"1o+=\"\\11D fR BZ?\ud83e\udd74\\n\"1o+=`\\11E:${1E}\\n`1o+=\"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\"E.W(m.P,{1e:{R:1E},1i:1o},{Q:m})J C\'w8\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}11F`)D 1E=F 4O(`Y:D 5z=`11G 11H 8g:${G}\\n\\n`1R(D i of 1E.1v){5z+=`4j:${i.1O}\\n`5z+=`H8:${i.6H}\\n`5z+=`4V:${i.R}\\n\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n`}E.cx(m.P,1E.1v[0].6H,5z,m)}J C\'11I\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(`*3N*\\n${j}2B 11J\\n${j}2B kU 11K\\n${j}2B kU 11L\\n${j}2B kU 11M\\n${j}2B kU 11N\\n${j}2B 11O\\n${j}2B aM\\n${j}2B aM 11P\\n${j}2B aM 11Q\\n${j}2B aM HO\\n${j}2B aM HP\\n${j}2B aM 11R\\n${j}2B aM 11S\\n${j}2B 11T\\n${j}2B 11U\\n${j}2B 11V\\n${j}2B 11W\\n${j}2B 11X\\n${j}2B 11Y\\n${j}2B 11Z 121\\n${j}2B 122\\n${j}2B 123\\n${j}2B 124\\n${j}2B 125\\n${j}2B 126\\n${j}2B 127\\n${j}2B 128\\n${j}2B 129\\n${j}2B 12a\\n${j}2B 12b\\n${j}2B 12c\\n${j}2B 12d\\n${j}2B 12e 12f\\n${j}2B 12g\\n${j}2B 12h\\n${j}2B 12i 12j\\n${j}2B HQ\\n${j}2B 12k\\n${j}2B 12l\\n${j}2B 12m\\n${j}2B 12n\\n${j}2B 12o\\n${j}2B 12p\\n${j}2B 12q\\n${j}2B 12r\\n${j}2B 12s\\n${j}2B 12t\\n${j}2B HO\\n${j}2B 12u\\n${j}2B HP\\n${j}2B 12v\\n${j}2B 12w Of HR\\n${j}2B 12x\\n${j}2B 12y`)D 3Q=F b7(q)l(`${U.1b}1Q*4j:*1Q ${3Q.1O}\\n${U.1b}1Q*7X:*1Q ${3Q.2Q}\\n${U.1b}1Q*9B:*1Q ${3Q.b8}\\n${U.1b}1Q*eK eL:*1Q ${3Q.cs}\\n${U.1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'12z\':{if(K)z l(B.H)if(L)z l(B.M)D 3Q=F b7(`aM HS`)l(`${1b}1Q*4j:*1Q ${3Q.1O}\\n${1b}1Q*7X:*1Q ${3Q.2Q}\\n${1b}1Q*9B:*1Q ${3Q.b8}\\n${1b}1Q*eK eL:*1Q ${3Q.cs}\\n${1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'12A\':{if(K)z l(B.H)if(L)z l(B.M)D 3Q=F b7(`aM HS`)l(`${1b}1Q*4j:*1Q ${3Q.1O}\\n${1b}1Q*7X:*1Q ${3Q.2Q}\\n${1b}1Q*9B:*1Q ${3Q.b8}\\n${1b}1Q*eK eL:*1Q ${3Q.cs}\\n${1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'12B\':{if(K)z l(B.H)if(L)z l(B.M)D 3Q=F b7(`12C`)l(`${1b}1Q*4j:*1Q ${3Q.1O}\\n${1b}1Q*7X:*1Q ${3Q.2Q}\\n${1b}1Q*9B:*1Q ${3Q.b8}\\n${1b}1Q*eK eL:*1Q ${3Q.cs}\\n${1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'12D\':{if(K)z l(B.H)if(L)z l(B.M)D 3Q=F b7(`12E`)l(`${1b}1Q*4j:*1Q ${3Q.1O}\\n${1b}1Q*7X:*1Q ${3Q.2Q}\\n${1b}1Q*9B:*1Q ${3Q.b8}\\n${1b}1Q*eK eL:*1Q ${3Q.cs}\\n${1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'12F\':{if(K)z l(B.H)if(L)z l(B.M)D 3Q=F b7(`HQ`)l(`${1b}1Q*4j:*1Q ${3Q.1O}\\n${1b}1Q*7X:*1Q ${3Q.2Q}\\n${1b}1Q*9B:*1Q ${3Q.b8}\\n${1b}1Q*eK eL:*1Q ${3Q.cs}\\n${1b}1Q*ai:*1Q\\n${3Q.ct}`)}J C\'w9\':C\'12G\':{if(K)z l(B.H)if(L)z l(B.M)l(B.1D)D N=F 4O(\'Y://8r.8W.3C/12H/12I/cy/12J.5k\')D 2c=N[1J.2x(1J.2c()*N.1P)]E.W(m.P,{1e:{R:2c.12K},1i:`9X 12L\ud83d\ude4e\ud83c\udffb\u200d\u2642\ufe0f`},{Q:m})E.W(m.P,{1e:{R:2c.12M},1i:`9X 12N\ud83d\ude4e\ud83c\udffb\u200d\u2640\ufe0f`},{Q:m})}J C\'kV\':C\'HT\':{if(K)z l(B.H)if(L)z l(B.M)D{kW}=1X(\'./3z/vM\')D N=F kW()1v=N[1J.2x(1J.2c()*N.1P)]D 1x=[{1A:`wb`,1y:{1c:\'2G\'},1r:1}]D 2N={G:`~1Q${1v.eJ}1Q\\n\\HV\'${1v.eM}\',${1v.7W}\\n\\n-${1v.HW}`,2f:\'8m 1L 6S 7o\',1x:1x,2h:2}E.W(m.P,2N,{Q:m})}J C\'9c\':C\'12O\':C\'wc\':{if(K)z l(B.H)if(L)z l(B.M)if(!1j.2l(\" \"))z l(\"3D ae 6z 1h kw 1R??\")D{9c}=1X(\'./3z/vM\')N=F 9c(1j)1v=N[1J.2x(1J.2c()*N.1P)]D 1x=[{1A:`.9c ${1j.2l(\" \")}`,1y:{1c:\'2G 3M\'},1r:1}]D 2N={1e:{R:1v.1e[0]},1i:`4j:${1v.1O}\\HL:${1v.1r}\\12P:${1v.vE}\\12Q 4V:${1v.1e[2]||1v.1e[1]||1v.1e[0]}`,2f:`${1q}`,1x:1x,2h:4}E.W(m.P,2N,{Q:m})}J C\'kX\':C\'12R\':if(K)z l(B.H)if(L)z l(B.M)if(1j.1P<1)z l(\'3D 6B 2w bV 3L?? \')1n kY=F xF(q).1u(e=>{z l(\'1Q[ ! ] 2v nc 7s 12S\')})1n HX=`*4j:*${kY[0].7S}\\n*12T:*${kY[0].kX}`E.W(1f,{1e:{R:kY[0].6H},1i:HX})J C\'eN\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`5E dV 4j`)D{eN}=1X(\'./3z/8Y\')N=F eN(G)1v=N[1J.2x(1J.2c()*N.1P)]D 1x=[{1A:`eN ${G}`,1y:{1c:\'\u27a1\ufe0f2G 3M\u27a1\ufe0f\'},1r:1}]D 2N={1e:{R:1v.1e},1i:`${1b}4j:${1v.1O}\\n${1b}jT:${1v.vE}\\n${1b}7f 4V:${1v.1e}`,2f:E.1S.2i,1x:1x,2h:4}E.W(m.P,2N,{Q:m})}J C\'wb\':C\'kV\':C\'HT\':C\'12U\':{if(K)z l(B.H)if(L)z l(B.M)D{kW}=1X(\'./3z/8Y\')D N=F kW()1v=N[1J.2x(1J.2c()*N.1P)]D 1x=[{1A:`wb`,1y:{1c:\'\u27a1\ufe0f2G\u27a1\ufe0f\'},1r:1}]D 2N={G:`~1Q${1v.eJ}1Q\\n\\HV\'${1v.eM}\',${1v.7W}\\n\\n-${1v.HW}`,2f:\'8m 1L 6S 7o\',1x:1x,2h:2}E.W(m.P,2N,{Q:m})}J C\'12V\':C\'wd\':{if(K)z l(B.H)if(L)z l(B.M)if(!aF(G))z l(`1W:${j+S}aT`)D N=F 3Z.12W(aF(G))if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*12X aF:*${N.1l.12Y}\\n${1b}*12Z 130 131:*${N.1l.132}\\n${1b}*wf HY:*\\n-133:${N.1l.gR.134}\\n-135:${N.1l.gR.136}\\n-137:${N.1l.gR.GD}\\n-138:${N.1l.gR.139}\\n-wg:${N.1l.gR.HZ}\\n${1b}*wh HY:*\\n-13a:${N.1l.gS.13b}\\n-mv:${N.1l.gS.13c}\\n-13d:${N.1l.gS.13e}\\n-13f:${N.1l.gS.13g}\\n-wg:${N.1l.gS.HZ}`,m)}J C\'wi\':C\'13h\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}13i`)D N=F 3Z.13j(G)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*13k:*${N.1l.13l}\\n${1b}*wj:*${N.1l.ku}\\n${1b}*13m:*${N.1l.13n}`,m)}J C\'13o\':C\'wk\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t,gT,16,11,kZ`)D[9Z,bY,bZ,c0,a0,c1,c2,c3]=G.1p`,`D N=F 3Z.13p(9Z,bY,bZ,c0,a0,c1,c2,c3)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*2O 4Q:*${N.1l.d1.4n}\\n${1b}*2O a1:*${N.1l.d1.5V}\\n${1b}*9X 4Q:*${N.1l.d2.4n}\\n${1b}*6J 9X:*${N.1l.d2.5V}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'13q\':C\'wl\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t,gT,16,11,kZ`)D[9Z,bY,bZ,c0,a0,c1,c2,c3]=G.1p`,`D N=F 3Z.13r(9Z,bY,bZ,c0,a0,c1,c2,c3)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*2O 4Q:*${N.1l.d1.4n}\\n${1b}*2O a1:*${N.1l.d1.5V}\\n${1b}*9X 4Q:*${N.1l.d2.4n}\\n${1b}*6J 9X:*${N.1l.d2.5V}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wm\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t,gT,16,11,kZ`)D[9Z,bY,bZ,c0,a0,c1,c2,c3]=G.1p`,`D N=F 3Z.13s(9Z,bY,bZ,c0,a0,c1,c2,c3)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*I0\'s 4Q :* ${N.1l.I1.4n}\\n${1b} *I0 6J :* ${N.1l.I1.5V}\\n${1b} *I2\'s 4Q:*${N.1l.I3.4n}\\n${1b}*6J I2:*${N.1l.I3.5V}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'13t\':C\'wn\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t,gT,16,11,kZ`)D[9Z,bY,bZ,c0,a0,c1,c2,c3]=G.1p`,`D N=F 3Z.13u(9Z,bY,bZ,c0,a0,c1,c2,c3)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*2O 4Q:*${N.1l.d1.4n}\\n${1b}*2O a1:*${N.1l.d1.5V}\\n${1b}*9X 4Q:*${N.1l.d2.4n}\\n${1b}*6J 9X:*${N.1l.d2.5V}\\n${1b}*wf l0:*${N.1l.I4}\\n${1b}*wh l0:*${N.1l.I5}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wo\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y 13v`)D N=F 3Z.13w(G)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*wj:*${N.1l.ku}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'13x\':C\'wp\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t`)D[4n,3F,3G,3H]=G.1p`,`D N=F 3Z.13y(4n,3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*6J:*${N.1l.5V}\\n${1b}*HR 13z:*${N.1l.13A}\\n${1b}*I6:*${N.1l.13B}\\n${1b}*I6 13C:*${N.1l.13D}\\n${1b}*13E:*${N.1l.13F}\\n${1b}*wg:*${N.1l.13G}`,m)}J C\'13H\':C\'13I\':C\'wq\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y|gT`)D[9Z,a0]=G.1p`|`D N=F 3Z.13J(9Z,a0)if(N.2D==1N)z l(N.1l)E.cx(m.P,N.1l.DE,`${1b}*2O 4Q:*${N.1l.d1}\\n${1b}*9X 4Q:*${N.1l.d2}\\n${1b}*wf l0:*${N.1l.I4}\\n${1b}*wh l0:*${N.1l.I5}`,m)}J C\'13K\':C\'wr\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}6,12,13L`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.13M(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*13N 3T:*${N.1l.eX}\\n${1b}*13O:*${N.1l.13P}`,m)}J C\'ws\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}28,12,13Q`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.13R(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*6J:*${N.1l.eO}\\n${1b}*13S:*${N.1l.13T}`,m)}J C\'I7\':C\'wt\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.13U(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*6J:*${N.1l.eO}\\n${1b}*I8:*${N.1l.I7}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'l1\':C\'13V\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.13W(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*6J:*${N.1l.eO}\\n??*13X:*${N.1l.l1}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'13Y\':C\'13Z\':C\'wu\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.140(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*I9:*${N.1l.Ia}\\n${1b}*141 aF:*${N.1l.142}\\n${1b}*143:*${N.1l.Ib}\\n${1b}*wv:*${N.1l.Ic}\\n${1b}*144 145:*${N.1l.146}`,m)}J C\'147\':C\'ww\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.148(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*I9:*${N.1l.Ia}\\n${1b}*wx:*${N.1l.149}\\n??*wv:*${N.1l.Ic}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'14a\':C\'wy\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14b(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.cx(m.P,N.1l.1e,`${1b}*6J:*${N.1l.5V}\\n${1b}*14c 14d:*${N.1l.14e}\\n${1b}*wj:*${N.1l.ku}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wz\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,1,5t\\n\\l2:${j+S}4Q,wA,eP l3\\14f:1 gU Id-Id&2 gU 14g`)D[4n,wA,eP]=G.1p`,`D N=F 3Z.14h(4n,wA,eP)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*6J:*${N.1l.14i}\\n${1b}*14j:*${N.1l.14k}\\n${1b}*14l aF:*${N.1l.14m}\\n${1b}*4g:*${N.1l.14n}\\n${1b}*cA:*${N.1l.eM}\\n${1b}*ns wx:*${N.1l.14o}\\n${1b}*mg wx:*${N.1l.14p}`,m)}J C\'wB\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14q(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*6J:*${N.1l.5V}\\n${1b}*fO 14r:*${N.1l.14s}\\n${1b}*bq:*${N.1l.k6}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wC\':C\'14t\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14u(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*6J:*${N.1l.5V}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*bq:*${N.1l.k6}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'14v\':C\'wD\':{if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14w(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*ar Of a1:*${N.1l.eO}\\n${1b}*3T Of a1:*${N.1l.5V}\\n${1b}*14x ar:*${N.1l.14y}\\n${1b}*bq:*${N.1l.5X}\\n${1b}*5W:*${N.1l.k6}`,m)}J C\'wE\':C\'14z\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14A(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*ar Of a1:*${N.1l.eO}\\n${1b}*3T Of a1:*${N.1l.5V}\\n${1b}*Ie ar Ig:*${N.1l.14B}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'14C\':C\'wF\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14D(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*ar Of a1:*${N.1l.eO}\\n${1b}*3T Of a1:*${N.1l.5V}\\n${1b}*I8 Ig:*${N.1l.14E}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wG\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}14F,7,7,5t,wH\\n\\l2:${j+S}4Q,eX l3,Ih l3,eP l3,gU eP`)D[4n,3F,3G,3H,gU]=G.1p`,`D N=F 3Z.14G(4n,3F,3G,3H,gU)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*6J:*${N.1l.5V}\\n${1b}*14H Of 1L oA:*${N.1l.14I}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wI\':C\'14J\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z(`1W:${j+S}7,7,5t`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14K(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*3T:*${N.1l.eX}\\n${1b}*aF Of 14L:*${N.1l.14M}\\n${1b}*ar cA:*${N.1l.14N}\\n${1b}*Ie ar:*${N.1l.14O}\\n${1b}*ns 14P:*${N.1l.14Q}\\n${1b}*a1 cA:*${N.1l.14R}`,m)}J C\'Ib\':C\'eM\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t`)D[4n,3F,3G,3H]=G.1p`,`D N=F 3Z.14S(4n,3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*6J:*${N.1l.5V}\\n${1b}*14T:*${N.1l.14U}`,m)}J C\'wJ\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}9Y,7,7,5t`)D[4n,3F,3G,3H]=G.1p`,`D N=F 3Z.14V(4n,3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*4Q:*${N.1l.4n}\\n${1b}*6J:*${N.1l.5V}\\n${1b}*8o:*${N.1l.1v}`,m)}J C\'wK\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}12,1,wH`)D[3F,3G,3H]=G.1p`,`D N=F 3Z.14W(3F,3G,3H)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*3T:*${N.1l.14X}\\n${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'wL\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z(`1W:${j+S}12,1,wH,28\\n\\l2:${j+S}14Y ar Of 14Z 151`)D[3F,3G,3H,Ii]=G.1p`,`D N=F 3Z.152(3F,3G,3H,Ii)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*8o:*${N.1l.1v}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'d3\':C\'wM\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}7 7 5t`)D d3=[[\"Ij\",3I 3T(7F,0,1)],[\"153\",3I 3T(7F,0,20)],[\"154\",3I 3T(7F,1,19)],[\"155\",3I 3T(7F,2,21)],[\"156\",3I 3T(7F,3,21)],[\"157\",3I 3T(7F,4,21)],[\"158\",3I 3T(7F,5,22)],[\"159\",3I 3T(7F,6,23)],[\"15a\",3I 3T(7F,7,23)],[\"15b\",3I 3T(7F,8,23)],[\"15c\",3I 3T(7F,9,23)],[\"15d\",3I 3T(7F,10,22)],[\"Ij\",3I 3T(7F,11,22)]].e6()ah Ik(Il,g1){D d=3I 3T(7F,Il-1,g1)z d3.6g(([1Q,Im])=>d>=Im)[0]}D cZ=3I 3T(G)if(cZ==\'fx 3T\')Gu cZ D d=3I 3T()D[eP,Ih,eX]=[d.Io(),d.Ip()+1,d.Iq()]D wN=[cZ.Io(),cZ.Ip()+1,cZ.Iq()]D wM=F Ik(wN[1],wN[2])D N=F 3Z.d3(wM)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*Ir:*${N.1l.d3}\\n${1b}*aF:*${N.1l.15e}\\n${1b}*15f:*${N.1l.15g}\\n${1b}*15h:*${N.1l.15i}\\n${1b}*15j:*${N.1l.15k}\\n${1b}*15l:*${N.1l.15m}\\n${1b}*15n:*${N.1l.15o}\\n${1b}*wv:*${N.1l.15p}\\n${1b}*Ir 9X:*${N.1l.15q}\\n${1b}*5W:*${N.1l.5X}`,m)}J C\'l4\':{if(K)z l(B.H)if(L)z l(B.M)if(!G)z l(`1W:${j+S}15r\\n\\l2:3L 15s Y:D N=F 3Z.l4(G)if(N.2D==1N)z l(N.1l)E.2y(m.P,`${1b}*8o:*${N.1l}`,m)}J C\'6e\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\'5q is 1s V?\')l(B.1D)if(!q.2a(\'6e\'))z l(`gM\'s 4M a 6e V!`)\x0A   1n aN = F h9(`${q}`).1u(e => {\x0A l(B.3O) \x0A} )\x0A   1T.1U(aN)\x0A   1n Iu = aN.1v.aU\x0AIv = `15t 7M no aU or 2s?\x0A15u aq 1s 4G GT`\x0AD 1x = [\x0A{1A: `Iw ${q}`, 1y: {1c: \'No 15v\u274c\'}, 1r: 1},\x0A{1A: `Ix ${q}`, 1y: {1c: \'6E\ud83c\udfb6\'}, 1r: 1}\x0A]\x0AD 2N = {\x0A2k: {R:Iu},\x0A1i: Iv,\x0A2f: `${1q}`,\x0A1x: 1x,\x0A2h: 4,\x0A2L:{6v:{\x0A1O: `${3X}`,\x0A4P: `${6u}`,\x0A3P: 4v,\x0A7C:1,\x0A7D: q,\x0A6x: q\x0A}}\x0A}\x0AE.W(1f, 2N, {Q:m})\x0A}\x0AJ\x0A  C \'wO\': C \'Iw\':{\x0A  \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A  if (!q) z l(\'5q is 1s V?\')\x0A  l(B.1D)\x0A  if (!q.2a(\'6e\')) z l(`gM\'s 4M a 6e V!`)1n aN=F h9(`${q}`).1u(e=>{l(B.3O)})1T.1U(aN)1n Iy=aN.1v.Iz E.W(1f,{2k:{R:Iy},1i:\"1V 1h go!\"},{Q:m})}J C\'wP\':C\'15w\':C\'Ix\':{if(K)z l(B.H)if(L)z l(B.M)if(!q)z l(\'5q is 1s 2s?\')if(!q.2a(\'6e\'))z l(`gM\'s 4M a 6e V!`)\x0A   1n aN = F h9(`${q}`).1u(e => {\x0A l(B.3O) \x0A} )\x0A   1T.1U(aN)\x0A   1n IA = aN.1v.Iz\x0A    E.W(1f, { 2s: { R: IA }, 4p: \'2s/5g\' }, { Q: m })\x0A   }\x0A J\x0A\x09C \'C2\': C \'6A\': C \'6R\': C \'15x\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0AD cY = 1X(\"yt-9g\")\x0AD 9g = F cY(G)\x0AD N = 9g.r0[1J.2x(1J.2c() * 9g.r0.1P)]\x0AD wQ = F hx.5m(N.R)\x0AD 1x = [\x0A{1A: `wR ${wQ.V}`, 1y: {1c: \'\u25ba5f\'}, 1r: 1},\x0A{1A: `wS ${wQ.aX}`, 1y: {1c: \'\u266b6E\'}, 1r: 1}\x0A]\x0AD 2N = {\x0A1e: { R: N.3P },\x0A1i: `*| ks HJ |*\x0A${U.1b} 4j : ${N.1O}\x0A${U.1b} 15y : bT\x0A${U.1b} ID : ${N.Gz}\x0A${U.1b} gu : ${N.kt}\x0A${U.1b} 15z : ${N.GA}\x0A${U.1b} vm : ${N.GB}\x0A${U.1b} 7X : ${N.2Q.2i}\x0A${U.1b} fn : ${N.2Q.R}\x0A${U.1b} gN : ${N.3x}\x0A${U.1b} 4V : ${N.R}`,\x0A2f: `${U.1q}`,\x0A1x: 1x,\x0A2h: 4,\x0A2L:{6v:{\x0A1O: N.1O,\x0A4P: `${U.1q}`,\x0A3P: 4v,\x0A7C:2,\x0A7D: N.R,\x0A6x: N.R\x0A}}\x0A}\x0AE.W(m.P, 2N, { Q: m })\x0A}\x0AJ\x0AC \'wT\': C \'wU\': C \'yt\': C \'5m\': C \'15A\': C \'gV\': C \'gW\': C \'15B\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!1j[0]) z l(B.e1)\x0A5u {\x0Ahx.5m(1j[0]).1F(2p(1E) => {\x0AIB = `*| ks 9M |*\x0A${U.1b} 4j : ${1E.1O}\x0A${U.1b} e2 : ${1E.ey}\x0A${U.1b} bu : ${1E.6p}\x0A15C 2k or 2s 3K 1D a 15D`\x0AD 1x = [\x0A{1A: `wR ${1E.V}`, 1y: {1c: \'\u25ba5f\'}, 1r: 1},\x0A{1A: `wS ${1E.aX}`, 1y: {1c: \'\u266b6E\'}, 1r: 1}\x0A]\x0AD 2N = {\x0A1e: {R:1E.6H},\x0A1i: IB,\x0A2f: `${1q}`,\x0A1x: 1x,\x0A2h: 4,\x0A2L:{6v:{\x0A1O: 1E.1O,\x0A4P: `${U.3X}`,\x0A3P: {R:1E.6H},\x0A7C:2,\x0A7D: 1j[0],\x0A6x: 1j[0]\x0A}}\x0A}\x0AE.W(1f, 2N, {Q:m})\x0A}).1u(1Q => 1Q)\x0A} 1u {\x0Al(\"2M 3O!\")\x0A}\x0A}\x0AJ\x0AC \'wR\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0AE.W(1f, {2k:{R:1j[0]}, 4p:\"2k/5g\", 1i:\"3U\", 2L:{6v:{\x0A1O:`${U.1q}`,\x0A4P:`${U.1q}`,\x0A3P: 4v,\x0A7C:2,\x0A7D: `${U.2Z}`,\x0A6x: `${U.2Z}`\x0A}}}, {Q:m})\x0A}\x0AJ\x0AC \'wS\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0AE.W(1f, {2s:{R:1j[0]}, 4p:\"2s/5g\", cg:2u, 2L:{6v:{\x0A1O:`${U.1q}`,\x0A4P:`${U.1q}`,\x0A3P: 4v,\x0A7C:2,\x0A7D: `${U.2Z}`,\x0A6x: `${U.2Z}`\x0A}}}, {Q:m})\x0A}\x0AJ\x0A            C \'15E\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!G) z l(B.e1)\x0A                if (!5Y(1j[0]) && !1j[0].2a(\'5m.3C\')) z l(`1L V 1h 9e is gA`)\x0A                N = F 4O(`Y://8c.15F.my.id/IC/5m?V=${G}`)        \x0A                if (N.15G >= 15H) z l(\'*gO dp a8*\'+6r.6s(N))\x0A                IE = F 2n(N.6H)\x0A                2s = F 2n(N.2s)        \x0A                E.W(m.P, {bv: 2s, 4p: \'2s/ak\', aD: `${N.1O}`}, { Q : m }).1u((1k) => l(B.3O))\x0A                E.W(m.P, { 2k: { R: N.2k }, 4f:IE, 1i: `${6r.6s(N)}`}, { Q: m }).1u((1k) => l(B.3O))\x0A            }\x0A            J\x0AC \'15I\': C \'IF\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A  if (!G) z l(`*2z ${j + S} 8X yt IF V*`)\x0A  if (!5Y(1j[0]) && !1j[0].2a(\'5m\')) z l(`1L V 1h 9e is 4M eE`)\x0A  8E.gr(`${G}`).1F(2p (Z) => {\x0A  if (Z.3i[0].cL.1p(\'MB\')[0] >= p3) z l(\'*gO dp a8*\'+6r.6s(Z)) \x0A  IG = `\x0A*ks 15J*\x0A*${1b}kG:* ${Z.1O}\\n*${1b}kH:* ${Z.3i[0].6p}\\n*${1b}vq:* ${Z.3i[0].cL}\\n*${1b}GP* ${Z.Hd}\\n*${1b}ID:* ${Z.3i[0].15K}\\n*${1b}15L:* ${Z.R}\\n\\n*${1q}*`\x0A  5a = F 2n(Z.3P)\x0A  E.W(m.P, { 1e: { R: Z.3P }, 4f:5a, 1i: `${IG}` }, { Q: m })\x0A  E.W(m.P, { 2k: { R: Z.3i[0].R }, 4f:5a, 1i: `*${1b}kG:* ${Z.1O}\\n*${1b}kH:* ${Z.3i[0].6p}\\n*${1b}vq:* ${Z.3i[0].cL}` }, { Q: m })  \x0A                }).1u((1k) => {\x0A                    l(B.l)\x0A                })\x0A            }\x0A            J\x0A\x09  C \'7J\': C \'15M\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!1j.2l(\" \")) z l(\"3D ae 6z 1h kw 1R?\")\x0A5u {\x0Ahx.7J(1j.2l(\" \")).1F(2p(1E) => {\x0AwV = 1E[1J.2x(1J.2c() * 1E.1P)]\x0AD 1x = [\x0A{1A: `7J ${1j.2l(\" \")}`, 1y: {1c: \'2G 3M\ud83d\udc40\'}, 1r: 1}\x0A]\x0AD 2N = {\x0A1e: { R: wV },\x0A1i:  `${U.IH} 4j : ` + 1j.2l(\" \") + `\\n${U.IH} 7f 4V : `+wV,\x0A2f: `${U.1q}`,\x0A1x: 1x,\x0A2h: 4,\x0A2L:{6v:{\x0A1O:`${U.1q}`,\x0A4P:`${U.3X}`,\x0A3P: 4v,\x0A7C:2,\x0A7D: `${U.2Z}`,\x0A6x: `${U.2Z}`\x0A}}\x0A}\x0AE.W(m.P, 2N, { Q: m })\x0A}).1u(1Q => 1Q)\x0A} 1u {\x0Al(\"2v\")\x0A}\x0A}\x0AJ\x0AC \'eZ\': {\x0A\x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0Aif (!G) z l(B.e1)\x0Aif (!5Y(1j[0]) && !1j[0].2a(\'eZ.3C\')) z l(`1L V 1h 9e is gA`)\x0A1n a2 = F xG(G)\x0Aif (a2[0].ey.1p(\'MB\')[0] >= p3) z l(\'*gO dp a8*\'+6r.6s(a2))\x0A1n II = `*15N 9M*\x0A\x09\x09\x09\x09\x0A*4Q* : ${a2[0].4n}\x0A*e2* : ${a2[0].ey}\x0A*15O* : ${a2[0].2K}\x0A*2M* : ${a2[0].V}`\x0Al(`${II}`)\x0AE.W(m.P, { bv : { R : a2[0].V}, aD : a2[0].4n, 4p: a2[0].2K }, { Q : m }).1u ((1k) => l(B.3O))\x0A}\x0AJ\x0A            C \'l5\': C \'15P\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A\x09        if (!G) z l(`1W : ${j + S} Y://l5.id/aW/2k/i6/15Q-15R-15S-15T-15U`)\x0A                D { l5 } = 1X(\'./3z/8Y\')\x0A\x09\x09D N = F l5(5Y(G)[0])\x0A\x09\x09if (N.1r == \'2k\') {\x0A\x09\x09    D 1x = [\x0A                        {1A: `gV ${N.2e[0]} 15V`, 1y: {1c: \'\ud83c\udfb56E\ud83c\udfb5\'}, 1r: 1},\x0A                        {1A: `gW ${N.2e[0]} 15W`, 1y: {1c: \'\ud83d\udcfd\ufe0f5f\ud83d\udcfd\ufe0f\'}, 1r: 1}\x0A                    ]\x0A\x09\x09    D 2N = {\x0A\x09\x09        1e: { R: N.2Q.15X },\x0A\x09\x09\x091i: `\x0A${1b} 4j : ${N.1O}\x0A${1b} 7X : ${N.2Q.2i}\x0A${1b} vu : ${N.7w}\x0A${1b} 3E : ${N.1i}\x0A${1b} 4V : ${N.2e[0]}\x0ATo l6 7f, 4x ds CN Of 1L 15Y 7o Or 5E 1L gV/gW dE 3l 1L 4V 15Z\x0A`,\x0A\x09\x09\x092f: E.1S.2i,\x0A\x09\x09\x091x,\x0A\x09\x09\x092h: 4\x0A\x09\x09    }\x0A\x09\x09    E.W(m.P, 2N, { Q: m })\x0A\x09\x09} 1z if (N.1r == \'1e\') {\x0A\x09\x09    N.2e.2P(2p (R) => {\x0A\x09\x09        E.W(m.P, { 1e: { R }, 1i: `${1b} 4j : ${N.1O}\\n${1b} 7X : ${N.2Q.2i}\\n${1b} vu : ${N.7w}\\n${1b} 3E : ${N.1i}` }, { Q: m })\x0A\x09\x09    })\x0A\x09\x09}\x0A\x09    }\x0A\x09    J\x0A        C \'eQ\': {\x0A        \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A\x09\x09if (!G) z l(`5q is 1s eQ 2i j1?, 1W : ${j + S} 160 161`)\x0A        D { eQ } = 1X(\'./3z/8Y\')\x0A\x09\x09D N = F eQ(G)\x0A\x09\x09D 1v = N[1J.2x(1J.2c() * N.1P)]\x0A\x09\x09E.W(m.P, { 2s: { R: 1v.2s }, aD: 1v.1O+\'.aX\', 4p: \'2s/ak\' }, { Q: m })\x0A\x09    }\x0A\x09    J\x0AC \'d0\': {\x0Aif (K) z l(B.H)\x0Aif (!1j.2l(\" \")) z l(`1W: ${j + S} 10`)\x0A1t wW = 1j.2l(\'\')\x0A2e = F E.5r(Q, \"d0\")\x0Aif (mn) {\x0A6G = a4(\'.aX\')\x0A7H(`eu -i ${2e} -6a:a \"c4=1.0,c5=${wW}\" ${6G}`, (1k, c6, 9j) => {\x0Afs.4i(2e)\x0Aif (1k) z l(\'2v!\')\x0Al7 = fs.4a(6G)\x0AE.W(1f, {2s:l7, 4p:\'2s/5g\', cg:2u}, {Q:m})\x0Afs.4i(6G)\x0A})\x0A} 1z if (ml) {\x0A6G = a4(\'.5g\')\x0A7H(`eu -i ${2e} -6a:a \"c4=1.0,c5=${wW}\" ${6G}`, (1k, c6, 9j) => {\x0Afs.4i(2e)\x0Aif (1k) z l(\'2v!\')\x0Al7 = fs.4a(6G)\x0AE.W(1f, {2k:l7, 4p:\'2k/5g\'}, {Q:m})\x0Afs.4i(6G)\x0A})\x0A} 1z {\x0Al(\"2Y 2k/2s\")\x0A}\x0A}\x0AJ\x0AC \'d4\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!1j.2l(\" \")) z l(`1W: ${j + S} 10`)\x0A2e = F E.5r(Q, \"d4\")\x0Aif (mn) {\x0Ac7 = a4(\'.aX\')\x0A7H(`eu -i ${2e} -6a:a d4=${1j[0]} ${c7}`, (1k, c6, 9j) => {\x0Afs.4i(2e)\x0Aif (1k) z l(\'2v!\')\x0Al8 = fs.4a(c7)\x0AE.W(1f, {2s:l8, 4p: \'2s/5g\', cg: 2u}, {Q: m})\x0Afs.4i(c7)\x0A})\x0A} 1z if (ml) {\x0Ac7 = a4(\'.5g\')\x0A7H(`eu -i ${2e} -6a:a d4=${1j[0]} ${c7}`, (1k, c6, 9j) => {\x0Afs.4i(2e)\x0Aif (1k) z l(\'2v!\')\x0Al8 = fs.4a(c7)\x0AE.W(1f, {2k:l8, 4p: \'2k/5g\'}, {Q: m})\x0Afs.4i(c7)\x0A})\x0A} 1z {\x0Al(\"2Y 2k/2s\")\x0A}\x0A}\x0AJ\x0A\x09\x09   C \'l9\': C \'la\': C \'er\': C \'lb\': C \'lc\': C \'ld\': C \'le\': C \'e6\': C \'lf\': C \'lg\': C \'IJ\': C \'wX\':\x0A\x09\x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                5u {\x0A                D 7G\x0A                if (/l9/.1m(S)) 7G = \'-af 162=f=54:163=o:164=2:g=20\'\x0A                if (/la/.1m(S)) 7G = \'-af 165=.1:1:64:0:1U\'\x0A                if (/er/.1m(S)) 7G = \'-af c4=4/4,c5=166*2/3\'\x0A                if (/lb/.1m(S)) 7G = \'-af d4=12\'\x0A                if (/lc/.1m(S)) 7G = \'-6a:a\"c4=1.63,c5=wY\"\'\x0A                if (/ld/.1m(S)) 7G = \'-6a:a\"c4=1.6,c5=167\"\'\x0A                if (/le/.1m(S)) 7G = \'-6a:a c4=1.168,c5=wY*1.25\'\x0A                if (/e6/.1m(S)) 7G = \'-IK\"169\"\'\x0A                if (/lf/.1m(S)) 7G = \'-IK\"16a=CK=\\\'IL(re,im)*md(0)\\\':16b=\\\'IL(re,im)*16c(0)\\\':16d=16e:16f=0.75\"\'\x0A                if (/lg/.1m(S)) 7G = \'-6a:a\"c4=0.7,c5=wY\"\'\x0A                if (/IJ/.1m(S)) 7G = \'-6a:v\"16g=\\\'16h=16i:16j=16k:16l=1:16m=120\\\'\"\'\x0A                if (/16n/.1m(S)) 7G = \'-6a:a\"c4=0.5,c5=16o\"\'\x0A                if (/2s/.1m(2K)) {\x0A                l(B.1D)\x0A                D 2e = F E.5r(Q)\x0A                D 6G = a4(\'.aX\')\x0A                7H(`eu -i ${2e} ${7G} ${6G}`, (1k, c6, 9j) => {\x0A                fs.4i(2e)\x0A                if (1k) z l(1k)\x0A                D IM = fs.4a(6G)\x0A                E.W(m.P, { 2s: IM, 4p: \'2s/ak\' }, { Q : m })\x0A                fs.4i(6G)\x0A                })\x0A                } 1z l(`2U To 1L 6E 2w 6T To lh 3l 3E *${j + S}*`)\x0A                } 1u (e) {\x0A                l(e)\x0A                }\x0A                J\x0A            C \'wZ\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!m.Q) z l(`2U 5s!`)\x0A                if (!m.Q.aY) z l(`IN li IO`)\x0A                if (!G) z l(`3L 3D dE?`)\x0A                D 6Q = m.Q.aY.5n(\'fr\')\x0A                if (U.db.Z.4e[6Q] && U.db.Z.4e[6Q].dX) z l(`2w 4w No IP To lh 4I 9L dE`)\x0A                U.db.Z.4e[6Q] = {\x0A                    G,\x0A                    2I: m.2I,\x0A                    jp: m.1d,\x0A                    at: + 3I 3T,\x0A                    dX: 1N,\x0A                }\x0A                l(`aK!`)\x0A            }\x0A            J\x0A            C \'x0\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                D 6Q = m.Q.aY.5n(\'fr\')\x0A                if (!6Q) z l(`No 16p`)\x0A                if (U.db.Z.4e[6Q] && U.db.Z.4e[6Q].dX) z l(`2w 4w No IP To bm 4I 9L dE`)\x0A                3r U.db.Z.4e[6Q]\x0A                l(`aK!`)\x0A            }\x0A            J\x0A            C \'x1\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                D 1o = `\x0A*li 3N*\x0Abq: *16q* 6Q is 16r\x0A${4R.oX(U.db.Z.4e).2P(([3f, fg], 9v) => `${9v + 1}. ${fg.dX ? `*${3f}*` : 3f} : ${fg.G}`).2l(\'\\n\')}\x0A`.6t()\x0A                E.2y(m.P, 1o, m, { 5o: 4R.7Q(U.db.Z.4e).2P(x => x.2I).x2((a,b) => [...a, ...b], []) })\x0A            }\x0A            J\x0A            C \'x3\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!2C) z 1a(`${B.2m}`)\x0A                if (!m.Q) z l(`2U 5s!`)\x0A                if (!m.Q.aY) z l(`IN li IO`)\x0A                D 6Q = m.Q.aY.5n(\'fr\')\x0A                if (!(6Q in U.db.Z.4e)) z l(`li 7s gX In gY`)\x0A                U.db.Z.4e[6Q].dX = !/^un/i.1m(S)\x0A                l(\'aK!\')\x0A            }\x0A            J\x0A            C \'x4\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!m.Q) z l(`2U 5s 2w 6T To 16s In gY`)\x0A                if (!G) z l(`1W : ${j + S} gO 4Q`)\x0A                D 8a = U.db.Z.5A\x0A                if (G.3W() in 8a) z l(`\'${G}\' 5e fz 16t In 1L 5s 3N`)\x0A                8a[G.3W()] = Q.zB\x0Al(`6j 16u 5s In 5s 3N As \'${G}\'\x0A    \x0A16v 3l ${j}lj ${G}\x0A16w 3N Of 16x 3l ${j}gZ`)\x0A            }\x0A            J\x0A            C \'lj\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!G) z l(`1W : ${j + S} d5 2i\\n\\16y 5s 3N 3l ${j}gZ`)\x0A                D 8a = U.db.Z.5A\x0A                if (!(G.3W() in 8a)) z l(`\'${G}\' 7s IQ In 1L 5s 3N`)\x0A                E.jN(m.P, 8a[G.3W()], 2u)\x0A            }\x0A            J\x0A            C \'gZ\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                D 8a = 5Z.8F(fs.4a(\'./5A/5A.5k\'))\x0A\x09        D IR = 4R.oX(U.db.Z.5A).2P(([4n, IS]) => { z { 4n, ...IS } })\x0A\x09\x09D 1o = \'\u300cx5 16z\u300d\\n\\n\'\x0A\x09\x091R (D i of IR) {\x0A\x09\x09    1o += `${1b} *4Q :* ${i.4n}\\n${1b} *5y :* ${xB(i.1l).3A(/5s/i, \'\')}\\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\\n\\n`\x0A\x09        }\x0A\x09        l(1o)\x0A\x09    }\x0A\x09    J\x0A            C \'x6\': C \'16A\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A\x09        D 8a = U.db.Z.5A\x0A\x09        if (!(G.3W() in 8a)) z l(`\'${G}\' 7s IQ In 1L 5s 3N`)\x0A\x09\x093r 8a[G.3W()]\x0A\x09\x09l(`bm 6j \'${G}\' 8g 1L 5s 8p`)\x0A            }\x0A\x09    J\x0A\x09    C \'4D\': {\x0A\x09\x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (m.1Y) z l(\'4t fW Be lk 3L ll!\')\x0A\x09\x09\x09\x091B.4D = 1B.4D ? 1B.4D : {}\x0A\x09\x09\x09\x09D 1x = [\x0A                    { 1A: \'bo\', 1y: { 1c: \'\ud83d\udeb6bo\ud83d\udeb6\' }, 1r: 1 }\x0A                ]\x0A                E.3g(m.P, 1x, `\\`\\`\\`Hi ${F E.16B(m.1d)} j8 To a3 7h\\n\\16C 1L 6S 7o To x7 A 7t\\`\\`\\``, E.1S.2i, m)\x0A            }\x0A\x09\x09\x09J\x0A            C \'eR\': C \'eS\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (m.1Y) z l(\'4t fW Be lk 3L ll!\')\x0A                1B.4D = 1B.4D ? 1B.4D : {}\x0A                D 1K = 4R.7Q(1B.4D).6g(1K => 1K.d6(m.1d))\x0A                if (!1K) {\x0A                    D 1x = [\x0A                        { 1A: \'aA\', 1y: { 1c: \'\ud83d\udeb6bo\ud83d\udeb6\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, `\\`\\`\\`2w 6B 7s In An a3 6W, 8m 1L 6S To x7 A 7t \\`\\`\\``)\x0A                   l(1N)\x0A                }\x0A                l(\'Ok\')\x0A                D 8b = 1K.8b(m.1d)\x0A                if (8b) F E.2y(8b, `\\`\\`\\`7t 5e oS a3 6W\\`\\`\\``, m)\x0A                3r 1B.4D[1K.id]\x0A                if (S === \'eS\') J\x0A            }\x0A            C \'16D\': C \'aA\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (m.1Y) z l(\'4t fW Be lk 3L ll!\')\x0A                1B.4D = 1B.4D ? 1B.4D : {}\x0A                if (4R.7Q(1B.4D).6g(1K => 1K.d6(m.1d))) {\x0A                    D 1x = [\x0A                        { 1A: \'eR\', 1y: { 1c: \'\ud83d\uded1ci\ud83d\uded1\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, `\\`\\`\\`2w 6B fP In An a3 6W, 8m 1L 6S 7o To 16E 2O a3 6W\\`\\`\\``, E.1S.2i, m)\x0A                    l(1N)\x0A                }\x0A                D 1K = 4R.7Q(1B.4D).6g(1K => 1K.7R === \'dD\' && !1K.d6(m.1d))\x0A                if (1K) {\x0A                    D 1x = [\x0A                        { 1A: \'d7\', 1y: { 1c: \'\u23e9IT\u23e9\' }, 1r: 1 },\x0A                        { 1A: \'eR\', 1y: { 1c: \'\ud83d\uded1ci\ud83d\uded1\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(1K.a, 1x, `\\`\\`\\`6j gX 7t, lm 2w 8U 2Y 5s\\`\\`\\``, E.1S.2i, m)\x0A                    1K.b = m.1d\x0A                    1K.7R = \'x8\'\x0A                    F E.3g(1K.b, 1x, `\\`\\`\\`6j gX 7t, lm 2w 8U 2Y 5s\\`\\`\\``, E.1S.2i, m)\x0A                } 1z {\x0A                    D id = + 3I 3T\x0A                    1B.4D[id] = {\x0A                        id,\x0A                        a: m.1d,\x0A                        b: \'\',\x0A                        7R: \'dD\',\x0A                        d6: ah (4h = \'\') {\x0A                            z [1B.a, 1B.b].2a(4h)\x0A                        },\x0A                        8b: ah (4h = \'\') {\x0A                            z 4h === 1B.a ? 1B.b : 4h === 1B.b ? 1B.a : \'\'\x0A                        },\x0A                    }\x0A                    D 1x = [\x0A                        { 1A: \'eR\', 1y: { 1c: \'\ud83d\uded1ci\ud83d\uded1\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, `\\`\\`\\`4x 3q, bV 3L A 7t\\`\\`\\``, E.1S.2i, m)\x0A                }\x0A                J\x0A            }\x0A            C \'d7\': C \'16F\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (m.1Y) z l(\'4t fW Be lk 3L ll!\')\x0A                1B.4D = 1B.4D ? 1B.4D : {}\x0A                D ln = 4R.7Q(1B.4D).6g(1K => 1K.d6(m.1d))\x0A                if (!ln) {\x0A                    D 1x = [\x0A                        { 1A: \'aA\', 1y: { 1c: \'\ud83d\udeb6bo\ud83d\udeb6\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, `\\`\\`\\`2w 6B 7s In An a3 6W, 8m 1L 6S To x7 A 7t\\`\\`\\``)\x0A                    l(1N)\x0A                }\x0A                D 8b = ln.8b(m.1d)\x0A                if (8b) F E.2y(8b, `\\`\\`\\`7t 5e oS a3 6W\\`\\`\\``, m)\x0A                3r 1B.4D[ln.id]\x0A                D 1K = 4R.7Q(1B.4D).6g(1K => 1K.7R === \'dD\' && !1K.d6(m.1d))\x0A                if (1K) {\x0A                    D 1x = [\x0A                        { 1A: \'d7\', 1y: { 1c: \'\u23e9IT\u23e9\' }, 1r: 1 },\x0A                        { 1A: \'eR\', 1y: { 1c: \'\ud83d\uded1ci\ud83d\uded1\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(1K.a, 1x, `\\`\\`\\`6j gX 7t, lm 2w 8U 2Y 5s\\`\\`\\``, E.1S.2i, m)\x0A                    1K.b = m.1d\x0A                    1K.7R = \'x8\'\x0A                    F E.3g(1K.b, 1x, `\\`\\`\\`6j gX 7t, lm 2w 8U 2Y 5s\\`\\`\\``, E.1S.2i, m)\x0A                } 1z {\x0A                    D id = + 3I 3T\x0A                    1B.4D[id] = {\x0A                        id,\x0A                        a: m.1d,\x0A                        b: \'\',\x0A                        7R: \'dD\',\x0A                        d6: ah (4h = \'\') {\x0A                            z [1B.a, 1B.b].2a(4h)\x0A                        },\x0A                        8b: ah (4h = \'\') {\x0A                            z 4h === 1B.a ? 1B.b : 4h === 1B.b ? 1B.a : \'\'\x0A                        },\x0A                    }\x0A                    D 1x = [\x0A                        { 1A: \'eR\', 1y: { 1c: \'\ud83d\uded1ci\ud83d\uded1\' }, 1r: 1 }\x0A                    ]\x0A                    F E.3g(m.P, 1x, `\\`\\`\\`4x 3q, bV 3L A 7t\\`\\`\\``, E.1S.2i, m)\x0A                }\x0A                J\x0A            }\x0A            C \'h0\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!2C) z 1a(`${B.2m}`)\x0A                E.h0 = 2u\x0A                l(\'6C lh To 16G x9\')\x0A            }\x0A            J\x0A            C \'xa\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                if (!2C) z 1a(`${B.2m}`)\x0A                E.h0 = 1N\x0A                l(\'6C lh To 16H x9\')\x0A            }\x0A            J\x0AC \'16I\':\x0AC \'lo\':\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!q) z l(\'2Y HI*#lo G*\')\x0AE.zi(`${q}`)\x0Al(B.6n)\x0AJ\x0AC \'h2\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!2C) z\x0Aif (1j.1P < 1) z 1a(`5y on to 5R\\16J 1C to 5G`)\x0Aif (1j[0] === \'on\') {\x0Aif (eT === 2u) z\x0AU.eT = 2u\x0A1a(`6j 5H h2!`)\x0A} 1z if (1j[0] === \'1C\') {\x0Aif (eT === 1N) z\x0AU.eT = 1N\x0A1a(`6j 6o h2!`)\x0A} 1z {\x0A1a(\'dr on or 1C\')\x0A}\x0A}\x0AJ\x0A            C \'e0\': C \'p\': C \'16K\': C \'16L\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A                1n jk = i1.16M()\x0A                1n d8 = os.d8().2P(4W => {\x0A                    4W.eU = 4R.a7(4W.6q).x2((5p, 1r) => 5p + 4W.6q[1r], 0)\x0A\x09\x09\x09        z 4W\x0A                })\x0A                1n 4W = d8.x2((5p, 4W, 1Q, { 1P }) => {\x0A                    5p.eU += 4W.eU\x0A                    5p.8D += 4W.8D / 1P\x0A                    5p.6q.1S += 4W.6q.1S\x0A                    5p.6q.xb += 4W.6q.xb\x0A                    5p.6q.xc += 4W.6q.xc\x0A                    5p.6q.xd += 4W.6q.xd\x0A                    5p.6q.xe += 4W.6q.xe\x0A                    z 5p\x0A                }, {\x0A                    8D: 0,\x0A                    eU: 0,\x0A                    6q: {\x0A\x09\x09\x09            1S: 0,\x0A\x09\x09\x09            xb: 0,\x0A\x09\x09\x09            xc: 0,\x0A\x09\x09\x09            xd: 0,\x0A\x09\x09\x09            xe: 0\x0A                }\x0A                })\x0A                D kt = 8D()\x0A                D IU = 8D() - kt\x0A                IV = h6.d9()\x0A                IW = h6.d9()\x0A                IX = `\x0A16N IY ${IU.fE(4)} 16O \\n ${IW - IV} 16P\\n\\16Q : ${eY(i1.fh())}\x0A\ud83d\udcbb bq HN\x0A16R: ${h7(os.IZ() - os.16S())} / ${h7(os.IZ())}\x0A16T 16U 16V\x0A${4R.a7(jk).2P((3f, 1Q, 9w) => `${3f.xf(1J.8A(...9w.2P(v=>v.1P)),\'\')}: ${h7(jk[3f])}`).2l(\'\\n\')}\x0A${d8[0] ? `16W J0 16X\x0A${d8[0].J1.6t()} (${4W.8D} J2)\\n${4R.a7(4W.6q).2P(1r => `- *${(1r + \'*\').xf(6)}: ${(100 * 4W.6q[1r] / 4W.eU).fE(2)}%`).2l(\'\\n\')}\x0A16Y J3(s) x9 (${d8.1P} J3 J0)1Q\x0A${d8.2P((4W, i) => `${i + 1}. ${4W.J1.6t()} (${4W.8D} J2)\\n${4R.a7(4W.6q).2P(1r => `- *${(1r + \'*\').xf(6)}: ${(100 * 4W.6q[1r] / 4W.eU).fE(2)}%`).2l(\'\\n\')}`).2l(\'\\n\\n\')}` : \'\'}\x0A                `.6t()\x0A                l(IX)\x0A            }\x0A            J\x0A            C \'xg\': {\x0A            \x09   if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A            l(\'16Z IY...\')\x0A            D cp = 1X(\'xC\')\x0A            D { J4 } = 1X(\'6r\')\x0A            D 7H = J4(cp.7H).170(cp)\x0A          D o\x0A          5u {\x0A          o = F 7H(\'171 8D.py\')\x0A          } 1u (e) {\x0A          o = e\x0A         } 172 {\x0A        D { 9j, c6 } = o\x0A        if (9j.6t()) l(9j)\x0A        if (c6.6t()) l(c6)\x0A            }\x0A            }\x0A            J\x0A            C \'2m\': C \'jp\': {\x0A                E.173(m.P, U.174, m)\x0A            }\x0A            J\x0A  C \'eV\': {\x0A            \x09if (K) z l(B.H)\x0A\x09if (L) z l(B.M)\x0A            if (!2C) z l(B.2m)\x0A            D 4d = db.Z.aO[7g]\x0A               if (1j[0] === \'8K\'){\x0A                4d.8K = 2u\x0A                4d.8L = 1N\x0A                4d.8M = 1N\x0A                4d.aS = 1N\x0A                4d.9t = 1N\x0A                l(B.6n)\x0A                } 1z if (1j[0] === \'8L\'){\x0A                4d.8K = 1N\x0A                4d.8L = 2u\x0A                4d.8M = 1N\x0A                4d.aS = 1N\x0A                4d.175 = 1N\x0A                l(B.6n)\x0A                } 1z if (1j[0] === \'8M\'){\x0A                4d.8K = 1N\x0A                4d.8L = 1N\x0A                4d.8M = 2u\x0A                4d.aS = 1N\x0A                4d.9t = 1N\x0A                l(B.6n)\x0A                //} 1z if (1j[0] === \'J5\'){\x0A                /////4d.8K = 1N\x0A                /////4d.8L = 1N\x0A                /////4d.8M = 1N\x0A                /////4d.aS = 2u\x0A                //////4d.9t = 1N\x0A                //////l(B.6n)\x0A                } 1z if (1j[0] === \'9t\'){\x0A                4d.8K = 1N\x0A                4d.8L = 1N\x0A                4d.8M = 1N\x0A                4d.aS = 1N\x0A                4d.9t = 2u\x0A                l(B.6n)\x0A                } 1z {\x0A                D 8y = [\x0A                {\x0A                1O: \"\ud83d\ude1b176 177 178\ud83d\ude1b\",\x0A                br: [\x0A                {1O: \"3M 2g\", 3Y: `eV 8K`, 3x: `h3 to 9H 7j 5I to 3M 2g`},\x0A                {1O: \"vg 2g\", 3Y: `eV 8M`, 3x: `h3 to 9H 7j 5I to vg 2g`},\x0A                {1O: \"5f 2g\", 3Y: `eV 8L`, 3x: `h3 to 9H 7j 5I to 5f 2g`},\x0A                ///////////////{1O: \"6k 2g\", 3Y: `eV J5`, 3x: `h3 to 9H 7j 5I to 6k 2g`},\x0A                {1O: \"J6 2g\", 3Y: `eV 9t`, 3x: `h3 to 9H 7j 5I to J6 2g`}\x0A                ]\x0A                },\x0A                ]\x0A                E.179(m.P, `4x 17a 1s 5I 1h 8q to 9H!`, ` `, E.1S.2i, `ds 1V`, 8y, m)\x0A                }\x0A            }\x0A            J\x0AC \'xh\': {\x0A   if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0Aif (!1j.2l(\" \")) z 1a(`1W : ${j + S} pa F0 mk 7T a IC D4`)\x0A1o = `*| 17b |*`\x0A5b = `\\n\\17c : @${m.1d.1p(\"@\")[0]}\\17d : ${1j.2l(\" \")}`\x0A5j = `\\n\\17e 7O to 2m`\x0A1R (D i of 2m) {\x0AE.W(i + \"@s.2J.3b\", {G: 1o + 5b, 5o:[m.1d]}, {Q:m})\x0A}\x0AE.W(m.P, {G: 1o + 5j + 5b, 5o:[m.1d]}, {Q:m})\x0A}\x0AJ\x0A                    C \'xi\': C \'xj\': {\x0A                    \x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A                    \x09if(!G) z l(`5E 1L xk\\n\\7r: ${S} 2g 2v`)\x0A                    \x09E.W(`${2m}@s.2J.3b`, {G: `*xk J7 8g:* wa.me/${m.1d.1p(\"@\")[0]}\x0AJ7 5s: ${G}` })\x0Al(`6j 17f To 1L 3V\\n\\17g 17h J8 1L xk Is 17i, If 2w 8k 3l 4I, 2z 4I 17j 8l oc 8l 3L No dW, 2w zs Be 17k 3L J8 !`)\x0A                    }\x0A                    J\x0AC \'sc\': C \'lp\': C \'4o\': C \'4o\': C \'17l\': C \'17m\': C \'17n\': C \'17o\': {\x0A\x09if (K) z l(B.H)\x09 \x09\x09\x09\x0Aif (L) z l(B.M)\x0A1o = `*\u300c ${U.1q} 4l \u300d*\\n\\17p: ${U.2Z}\\17q: ${U.4m}\\n\\17r 17s to 4o \ud83c\udf5c`\x0AD 1x = [\x0A{1A: `5I`, 1y: {1c: \'2g\ud83c\udf3a\'}, 1r: 1}\x0A]\x0AD 2N = {\x0A1e: aC,\x0A4f: 4v,\x0A1i: 1o,\x0A2f: `${1q}`,\x0A1x: 1x,\x0A2h: 4,\x0A2L:{6v:{\x0A1O:\"I 17t 17u 1R my 17v\",\x0A4P: \"ds to 4o\", \x0A3P: fs.4a(\"6K/9m/hY.6w\"),\x0A7C:1,\x0A7D: \'Y:6x:\"Y://17w.ph/d5/17x.6w\"}}}E.W(m.P,2N,{Q:m})}J C\'xl\':C\'17y\':C\'8p\':C\'5I\':C\'dv\':C\'?\':{if(K)z l(B.H)if(L)z l(B.M)E.W(1f,{fB:{G:`${U.17z}`,3f:m.3f}})D aB=[{2r:{1c:\'3R \ud83c\udf52\',R:`${2Z}`}},{17A:{1c:\'4l \ud83c\udf5c\',R:`${4m}`}},{2o:{1c:\'ac 2g \ud83c\udf71\',id:\'lq\'}},{2o:{1c:\'3N 2g \ud83c\udf62\',id:\'S\'}},{2o:{1c:\'3V \ud83e\udd23\',id:\'2m\'}}]D 4d=db.Z.aO[7g]if(4d.8K){E.4s(m.P,fC,U.1q,U.6H,aB,U.6H)}1z if(4d.8M){E.17B(m.P,fC,U.1q,U.xm,aB,U.6H)}1z if(4d.17C){E.J9(m.P,N,U.1q,U.xm,aB,U.6H)}1z if(4d.8L){E.J9(m.P,fC,U.1q,U.xm,aB,U.6H)}1z if(4d.9t){D Ja=[{2r:{1c:`3R\ud83c\udf52`,R:`${2Z}`}},{2r:{1c:`4l\ud83c\udf5c`,R:`${4m}`}},{2o:{1c:`ac 2g\ud83c\udf71`,id:\'lq\'}},{2o:{1c:`3N 2g\ud83c\udf62`,id:\'S\'}},{2o:{1c:`3V\ud83e\udd23`,id:\'2m\'}}]E.W(m.P,{1i:fC,bv:fs.4a(\'./6K/9m/17D.17E\'),4p:`${Ap}`,aD:`${3X}`,17F:Ja,2f:`${1q}`,2I:[m.1d]})}}J C\'S\':{if(K)z l(B.H)if(L)z l(B.M)D xn=F xy(m.P,lA.5s.zC({17G:{1O:`Hi ${6u}`,3x:`4x dr 1L 2g\\n\\n`,1y:\"2g\",zx:`${U.1q}`,Jb:\"17H\",8y:[{\"1O\":\"17I 4t Of 9E \ud83e\udd84\",\"br\":[{\"1O\":\"xo \u2615\",\"3x\":\"4X 1L 3N Of xo 4t\",\"3Y\":`${j}Jc`}]},{\"1O\":\"9E 4t \u2764\ufe0f\",\"br\":[{\"1O\":\"ac 2g \ud83e\udd40\",\"3x\":\"4X 1L 3N Of ac 1L 4t!\",\"3Y\":`${j}lq`},{\"1O\":\"3V 2g \ud83d\udca0\",\"3x\":\"4X 1L 3N Of 3V 4t\",\"3Y\":`${j}Jd`},{\"1O\":\"4g 2g \u2728\",\"3x\":\"4X 1L 3N Of 17J 4t\",\"3Y\":`${j}Je`},{\"1O\":\"uI 2g \ud83c\udf08\",\"3x\":\"4X 1L 3N Of 17K 17L 4t\",\"3Y\":`${j}h4`},{\"1O\":\"lr 2g \ud83c\udfb5\",\"3x\":\"4X 1L 3N Of lr 4t\",\"3Y\":`${j}Jf`},{\"1O\":\"l6 2g \u2198\ufe0f\",\"3x\":\"4X 1L 3N Of l6 4t\",\"3Y\":`${j}Jg`},{\"1O\":\"9L 2g \ud83c\udccf\",\"3x\":\"4X 1L 3N Of 9L 4t\",\"3Y\":`${j}h4`},{\"1O\":\"bT 2g \ud83d\udd0e\",\"3x\":\"4X 1L 3N Of Bx 4t\",\"3Y\":`${j}Jh`},{\"1O\":\"xp 2g \u2699\ufe0f\",\"3x\":\"4X 1L 3N Of xp 4t\",\"3Y\":`${j}Ji`},{\"1O\":\"ls 3M 2g \ud83c\udf06\",\"3x\":\"4X 1L 3N Of ls 3M 4t\",\"3Y\":`${j}Jj`},{\"1O\":\"3M xq 2g \ud83d\uddbc\ufe0f\",\"3x\":\"4X 1L 3N Of 3M xq 4t\",\"3Y\":`${j}Jk`},{\"1O\":\"9h 2g \ud83d\ude18\",\"3x\":\"4X 1L 3N Of ls 9h 4t\",\"3Y\":`${j}Jl`},{\"1O\":\"xr 2g \ud83d\ude00\",\"3x\":\"4X 1L 3N Of xr 4t\",\"3Y\":`${j}Jm`},{\"1O\":\"9h 9L 2g \u263a\ufe0f\",\"3x\":\"4X 1L 3N Of 9h 9L 4t\",\"3Y\":`${j}Jn`},{\"1O\":\"Jo 2g \ud83e\udd13\",\"3x\":\"4X 1L 3N Of 17M 4t\",\"3Y\":`${j}Jp`},{\"1O\":\"lt 2g \ud83d\udd7a\",\"3x\":\"4X 1L 3N Of lt 4t\",\"3Y\":`${j}Jq`},{\"1O\":\"cn 2g \ud83c\udfae\",\"3x\":\"4X 1L 3N Of cn 4t\",\"3Y\":`${j}h4`},{\"1O\":\"ew 2g \u2692\ufe0f\",\"3x\":\"4X 1L 3N Of ew 4t\",\"3Y\":`${j}Jr`},{\"1O\":\"gY 2g \u267b\ufe0f\",\"3x\":\"4X 1L 3N Of gY 4t\",\"3Y\":`${j}Js`},{\"1O\":\"lu 2g  \ud83e\udd9c\",\"3x\":\"4X 1L 3N Of lu 4t\",\"3Y\":`${j}h4`},{\"1O\":\"xs 2g \ud83d\udd4a\ufe0f\",\"3x\":\"4X 1L 3N Of xs 4t\",\"3Y\":`${j}Jt`}]},{\"1O\":\"7h 3l 17N 17O \ud83c\udf1d\",\"br\":[{\"1O\":\"a3 7h 2g \ud83d\ude4e\ud83c\udffb\u200d\u2642\ufe0f\",\"3x\":\"4X 1L 3N Of a3 7h 4t\",\"3Y\":`${j}Ju`}]},{\"1O\":\"Jv \xA9\ufe0f\",\"br\":[{\"1O\":\"Jw To \u2764\ufe0f\",\"3x\":\"4X 1L 3N Of Jv Of 1L 9E !!\",\"3Y\":`${j}Jx`}]}],Jb:1}}),{})E.17P(m.P,xn.1l,{17Q:xn.3f.id})}J C\'lq\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'ac 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJy\u300d\u2560${j}xa\u2560${j}h0\u2560${j}h2\u2560${j}17R[7T/b9]\u2560${j}17S\u2560${j}H[7T/b9]\u2560${j}aP[on/1C]\u2560${j}2l[V]\u2560${j}oE\u2560${j}lo\u2560${j}oW[G]\u2560${j}oY[G]\u2560${j}oZ[1e]\u2560${j}p0[2k]\u2560${j}p1[2s]\u2560${j}jM[G]\u2560${j}oP[1e]\u2560${j}oF\u2560${j}ju[3S/df]\u2560${j}jv[3S/df]\u2560${j}17T[7T/b9]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJz\u300d\u2560${j}17U\u2560${j}oQ\u2560${j}oR[eW]\u2560${j}oJ[1e]\u2560${j}oG[G]\u2560${j}oH[G]\u2560${j}1H\u2560${j}mW\u2560${j}ge[eW]\u2560${j}7T[1S]\u2560${j}i8[l/3S]\u2560${j}oM[G]\u2560${j}oK[G]\u2560${j}gg[on/1C]\u2560${j}gm[on/1C]\u2560${j}gn[on/1C]\u2560${j}gj[on/1C]\u2560${j}gh[on/1C]\u2560${j}gk[on/1C]\u2560${j}gl[on/1C]\u2560${j}gp[on/1C]\u2560${j}gq[on/1C]\u2560${j}cI[on/1C]\u2560${j}cJ[on/1C]\u2560${j}cK[on/1C]\u2560${j}9u[on/1C]\u2560${j}7Y[on/1C]\u2560${j}jr[l/3S]\u2560${j}jt[l/3S]\u2560${j}fB[l 2W]\u2560${j}3e\u2560${j}ax\u2560${j}aw\u2560${j}jy\u2560${j}au\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJA\u300d\u2560${j}bx\u2560${j}ul\u2560${j}ee\u2560${j}ef\u2560${j}bA\u2560${j}bB\u2560${j}eo\u2560${j}bF\u2560${j}bG\u2560${j}bH\u2560${j}bJ\u2560${j}7U\u2560${j}9V\u2560${j}bK\u2560${j}eq\u2560${j}bL\u2560${j}9W\u2560${j}aJ\u2560${j}bM\u2560${j}aG\u2560${j}bO\u2560${j}aI\u2560${j}9A\u2560${j}ep\u2560${j}aH\u2560${j}hc\u2560${j}bD\u2560${j}bE\u2560${j}9T\u2560${j}9U\u2560${j}bC\u2560${j}ua\u2560${j}cW\u2560${j}el\u2560${j}eh\u2560${j}ei\u2560${j}bz\u2560${j}uK\u2560${j}cU\u2560${j}ed\u2560${j}7B\u2560${j}ec\u2560${j}u4\u2560${j}u5\u2560${j}u6\u2560${j}cP\u2560${j}9P\u2560${j}cQ\u2560${j}uj\u2560${j}gH\u2560${j}ki\u2560${j}uA\u2560${j}9Q\u2560${j}k9\u2560${j}cT\u2560${j}em\u2560${j}gI\u2560${j}6F\u2560${j}9f\u2560${j}uq\u2560${j}k7\u2560${j}ut\u2560${j}gE\u2560${j}uv\u2560${j}ux\u2560${j}kd\u2560${j}kf\u2560${j}kg\u2560${j}g7\u2560${j}9S\u2560${j}9O\u2560${j}uz\u2560${j}uD\u2560${j}cV\u2560${j}e8\u2560${j}kh\u2560${j}bw\u2560${j}um\u2560${j}6Y\u2560${j}uC\u2560${j}8d\u2560${j}bI\u2560${j}ej\u2560${j}bN\u2560${j}uN\u2560${j}uM\u2560${j}uL\u2560${j}km\u2560${j}uJ\u2560${j}gK\u2560${j}uS\u2560${j}9U\u2560${j}uR\u2560${j}gJ\u2560${j}e7\u2560${j}e9\u2560${j}uQ\u2560${j}ka\u2560${j}uP\u2560${j}uO\u2560${j}9V\u2560${j}9T\u2560${j}kn\u2560\u2550\u2550\u2550\u2550\u2550\u272a\u300cvy\u300d\u2560${j}7k[R]\u2560${j}vp[R]\u2560${j}eA[bU]\u2560${j}7l[R]\u2560${j}vs[R]\u2560${j}8i[R]\u2560${j}vr[R]\u2560${j}6e[R]\u2560${j}wP[R]\u2560${j}wO[R]\u2560${j}eZ[R]\u2560${j}gV[R|6p]\u2560${j}gW[R|6p]\u2560${j}wT[yt V]\u2560${j}wU[yt V]\u2560${j}kK[eG V]\u2560${j}gt[R]\u2560${j}gz[R]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300caL\u300d\u2560${j}6A[2t]\u2560${j}6R[2t]\u2560${j}cY[2t]\u2560${j}8n[2t]\u2560${j}ez[2t]\u2560${j}kP[2t]\u2560${j}kv[2t]\u2560${j}7J[2t]\u2560${j}1e[2t]\u2560${j}gQ[2t]\u2560${j}9c[2t]\u2560${j}kS[2t]\u2560${j}kR[2t]\u2560${j}kT\u2560${j}kQ[2t]\u2560${j}vU[2t]\u2560${j}eN[2t]\u2560${j}vl[2t]\u2560${j}eQ[2t]\u2560${j}vt[2t]\u2560${j}7W[2t]\u2560${j}17V[2t]\u2560${j}bW[2t]\u2560${j}vx[2t]\u2560${j}vN[ip|eI]\u2560${j}vB[2t]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJB\u300d\u2560${j}v5[l lv]\u2560${j}4e[l 8s|lw]\u2560${j}g8[l 8s|lw|JC]\u2560${j}pj[l 8s]\u2560${j}2W[2W]\u2560${j}v6[l 8s]\u2560${j}vf[l lv]\u2560${j}vh[l 8s]\u2560${j}vd[l 4E]\u2560${j}va[l vn]\u2560${j}v8[l JD]\u2560${j}pl[l 2j]\u2560${j}pm[l 2j]\u2560${j}rk[V]\u2560${j}gd[G]\u2560${j}d4[l 4E]\u2560${j}d0[l 4E]\u2560${j}l9[l 4E]\u2560${j}la[l 4E]\u2560${j}er[l 4E]\u2560${j}lb[l 4E]\u2560${j}lc[l 4E]\u2560${j}ld[l 4E]\u2560${j}le[l 4E]\u2560${j}e6[l 4E]\u2560${j}lf[l 4E]\u2560${j}lg[l 4E]\u2560${j}wX[l 4E]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300clx JE\u300d\u2560${j}r9\u2560${j}r3\u2560${j}rf\u2560${j}rc\u2560${j}r4\u2560${j}r8\u2560${j}r7\u2560${j}r5\u2560${j}r6\u2560${j}rb\u2560${j}r1\u2560${j}rg\u2560${j}rd\u2560${j}r2\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJF lx\u300d\u2560${j}k1\u2560${j}pn\u2560${j}pt\u2560${j}pB\u2560${j}pA\u2560${j}po\u2560${j}pr\u2560${j}ps\u2560${j}pp\u2560${j}pq\u2560${j}wc[2t]\u2560${j}qB[2t]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJG\u300d\u2560${j}uU\u2560${j}v0\u2560${j}uV\u2560${j}uX\u2560${j}v2\u2560${j}v1\u2560${j}uZ\u2560${j}uY\u2560${j}gL\u2560${j}uW\u2560${j}v3\u2560${j}gL\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cgP\u300d\u2560${j}9d\u2560${j}cN\u2560${j}q3\u2560${j}cM\u2560${j}JH\u2560${j}qA\u2560${j}gx\u2560${j}q2\u2560${j}q0\u2560${j}qy\u2560${j}gy\u2560${j}pu\u2560${j}q1\u2560${j}pv\u2560${j}pz\u2560${j}pC\u2560${j}pw\u2560${j}px\u2560${j}q6\u2560${j}qb\u2560${j}q7\u2560${j}q8\u2560${j}q9\u2560${j}qa\u2560${j}q5\u2560${j}qc\u2560${j}qd\u2560${j}qe\u2560${j}qf\u2560${j}qg\u2560${j}qh\u2560${j}qi\u2560${j}qj\u2560${j}qk\u2560${j}ql\u2560${j}qm\u2560${j}qn\u2560${j}qo\u2560${j}qp\u2560${j}qr\u2560${j}qs\u2560${j}qt\u2560${j}qu\u2560${j}qv\u2560${j}qw\u2560${j}qx\u2560${j}DY\u2560${j}w9\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cly\u300d\u2560${j}p8\u2560${j}2W\u2560${j}v4\u2560${j}jR\u2560${j}pb\u2560${j}pd\u2560${j}pe\u2560\u2550\u2550\u2550\u2550\u272a\u300cgP ly\u300d\u2560${j}gy\u2560${j}qI\u2560${j}qT\u2560${j}jn\u2560${j}qD\u2560${j}qO\u2560${j}ji\u2560${j}qF\u2560${j}qE\u2560${j}qQ\u2560${j}qJ\u2560${j}qH\u2560${j}qP\u2560${j}qM\u2560${j}qN\u2560${j}qU\u2560${j}qV\u2560${j}jX\u2560${j}qR\u2560${j}qG\u2560${j}cF\u2560${j}qC\u2560${j}cH\u2560${j}qK\u2560${j}qL\u2560${j}dP\u2560${j}qS\u2560${j}e3\u2560${j}jU\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJI\u300d\u2560${j}pX\u2560${j}pU\u2560${j}pD\u2560${j}pT\u2560${j}pS\u2560${j}pR\u2560${j}pQ\u2560${j}pO\u2560${j}pP\u2560${j}pN\u2560${j}pM\u2560${j}pL\u2560${j}pK\u2560${j}pZ\u2560${j}pJ\u2560${j}pI\u2560${j}pH\u2560${j}pG\u2560${j}pF\u2560${j}pE\u2560${j}jW\u2560${j}pW\u2560${j}pV\u2560${j}gw\u2560${j}pY\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300c17W\u300d\u2560${j}dh[G\u2560${j}dT[G]\u2560${j}JJ[G]\u2560${j}is[G]\u2560${j}6y[G]\u2560${j}5Q[G]\u2560${j}nm[G]\u2560${j}oB[G]\u2560${j}np[3S]\u2560${j}nt[3S]\u2560${j}ny[3S]\u2560${j}nw[3S]\u2560${j}nu[3S]\u2560${j}nv[3S]\u2560${j}nA[3S]\u2560${j}nx[3S]\u2560${j}nq[3S]\u2560${j}nz[3S]\u2560${j}nf\u2560${j}ne\u2560${j}g0\u2560${j}j7\u2560${j}nK\u2560${j}iY\u2560${j}nI\u2560${j}nJ\u2560${j}j3\u2560${j}nL\u2560${j}fZ\u2560${j}j1\u2560${j}iZ\u2560${j}nC\u2560${j}j6\u2560${j}nH\u2560${j}nE\u2560${j}nD\u2560${j}nF\u2560${j}j0\u2560${j}j2\u2560${j}nM\u2560${j}nG\u2560${j}nO\u2560${j}j4\u2560${j}j5\u2560${j}nT\u2560${j}nP\u2560${j}nQ\u2560${j}nR\u2560${j}nS\u2560${j}nU\u2560${j}nV\u2560${j}nW\u2560${j}nX\u2560${j}nY\u2560${j}nZ\u2560${j}o0\u2560${j}o1\u2560${j}mf\u2560${j}o2\u2560${j}o3\u2560${j}o4\u2560${j}o5\u2560${j}o6\u2560${j}o7\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300c17X\u300d\u2560${j}rm\u2560${j}rn\u2560${j}ro\u2560${j}rp\u2560${j}rq\u2560${j}rr\u2560${j}rs\u2560${j}rt\u2560${j}ru\u2560${j}rv\u2560${j}rw\u2560${j}rx\u2560${j}ry\u2560${j}rz\u2560${j}rA\u2560${j}rB\u2560${j}rC\u2560${j}rD\u2560${j}rE\u2560${j}rF\u2560${j}rG\u2560${j}rH\u2560${j}rI\u2560${j}rJ\u2560${j}rK\u2560${j}rL\u2560${j}rM\u2560${j}rN\u2560${j}rO\u2560${j}rP\u2560${j}rQ\u2560${j}rR\u2560${j}rS\u2560${j}rT\u2560${j}rU\u2560${j}rV\u2560${j}rW\u2560${j}rX\u2560${j}rY\u2560${j}rZ\u2560${j}s0\u2560${j}s1\u2560${j}s2\u2560${j}s3\u2560${j}s4\u2560${j}s5\u2560${j}s6\u2560${j}s7\u2560${j}s8\u2560${j}s9\u2560${j}sa\u2560${j}sb\u2560${j}sd\u2560${j}se\u2560${j}sf\u2560${j}sg\u2560${j}sh\u2560${j}si\u2560${j}sj\u2560${j}sk\u2560${j}sl\u2560${j}sm\u2560${j}sn\u2560${j}sp\u2560${j}sq\u2560${j}sr\u2560${j}st\u2560${j}su\u2560${j}sv\u2560${j}sw\u2560${j}sx\u2560${j}sy\u2560${j}sz\u2560${j}sA\u2560${j}sB\u2560${j}sC\u2560${j}sD\u2560${j}sE\u2560${j}sF\u2560${j}sG\u2560${j}sH\u2560${j}sI\u2560${j}sJ\u2560${j}sK\u2560${j}sL\u2560${j}sM\u2560${j}sN\u2560${j}sO\u2560${j}sP\u2560${j}sQ\u2560${j}sR\u2560${j}sS\u2560${j}sT\u2560${j}sU\u2560${j}sV\u2560${j}sW\u2560${j}sX\u2560${j}sY\u2560${j}sZ\u2560${j}t0\u2560${j}t1\u2560${j}t2\u2560${j}t3\u2560${j}t4\u2560${j}t5\u2560${j}t6\u2560${j}t7\u2560${j}t8\u2560${j}t9\u2560${j}ta\u2560${j}tb\u2560${j}tc\u2560${j}tf\u2560${j}tg\u2560${j}th\u2560${j}ti\u2560${j}tj\u2560${j}tk\u2560${j}tl\u2560${j}tm\u2560${j}tn\u2560${j}tp\u2560${j}tq\u2560${j}tr\u2560${j}ts\u2560${j}tt\u2560${j}tu\u2560${j}tv\u2560${j}tw\u2560${j}tx\u2560${j}ty\u2560${j}tA\u2560${j}tB\u2560${j}tC\u2560${j}tD\u2560${j}tE\u2560${j}tF\u2560${j}tG\u2560${j}tH\u2560${j}tI\u2560${j}tJ\u2560${j}tK\u2560${j}tL\u2560${j}tM\u2560${j}tN\u2560${j}tO\u2560${j}tP\u2560${j}tQ\u2560${j}tR\u2560${j}tS\u2560${j}tT\u2560${j}tU\u2560${j}tV\u2560${j}tW\u2560${j}tX\u2560${j}tY\u2560${j}tZ\u2560${j}u0\u2560${j}u1\u2560${j}u2\u2560${j}u3\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJK\u300d\u2560${j}dR\u2560${j}ap\u2560${j}cm\u2560${j}mZ\u2560${j}6h[eW]\u2560${j}cc[mq]\u2560${j}n0[3S]\u2560\u2550\u2550\u272a\u300cJL 17Y\u300d\u2560${j}4D\u2560${j}aA\u2560${j}d7\u2560${j}eS\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJM\u300d\u2560${j}k5[G]\u2560${j}k3[G]\u2560${j}k4[df]\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cx5\u300d\u2560${j}wZ\u2560${j}x1\u2560${j}x0\u2560${j}x3\u2560${j}x4\u2560${j}gZ\u2560${j}lj\u2560${j}x6\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300c17Z\u300d\u2560${j}vS\u2560${j}eJ\u2560${j}kV\u2560${j}w7-gv\u2560${j}w6-3c\u2560${j}w5-3c\u2560${j}vV-3c\u2560${j}vW-3c\u2560${j}vX-3c\u2560${j}vY-3c\u2560${j}vZ-3c\u2560${j}w0-3c\u2560${j}w1-3c\u2560${j}w2-3c\u2560${j}w3-3c\u2560${j}d0-3c\u2560${j}w4-3c\u2560${j}vT-3c\u2560${j}vR-3c\u2560${j}w8\u2560${j}kX\u2560${j}vI\u2560${j}vG\u2560${j}kO\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cxt 180\u300d\u2560${j}wd\u2560${j}wi\u2560${j}wo\u2560${j}wk\u2560${j}wl\u2560${j}wm\u2560${j}wn\u2560${j}wp\u2560${j}wq\u2560${j}wr\u2560${j}ws\u2560${j}wt\u2560${j}l1\u2560${j}wu\u2560${j}ww\u2560${j}wy\u2560${j}wz\u2560${j}wB\u2560${j}wC\u2560${j}wD\u2560${j}wE\u2560${j}wF\u2560${j}wG\u2560${j}wI\u2560${j}eM\u2560${j}wJ\u2560${j}wK\u2560${j}wL\u2560${j}d3\u2560${j}l4\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJN\u300d\u2560${j}mX\u2560${j}rh[G]\u2560${j}rj\u2560${j}gs\u2560${j}xl\u2560${j}lp\u2560${j}xg\u2560${j}e0\u2560${j}2m\u2560${j}5I\u2560${j}3r\u2560${j}gs\u2560${j}Q\u2560${j}p5\u2560${j}p6\u2560${j}4o\u2560${j}xh\u2560${j}xj[xi]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jd\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'3V 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJy\u300d\u2560${j}xa\u2560${j}h0\u2560${j}h2\u2560${j}H[7T/b9]\u2560${j}aP[on/1C]\u2560${j}2l[V]\u2560${j}oE\u2560${j}lo\u2560${j}ju[1S]\u2560${j}jv[1S]\u2560${j}oW[G]\u2560${j}oY[G]\u2560${j}oZ[1e]\u2560${j}p0[2k]\u2560${j}p1[2s]\u2560${j}jM[G]\u2560${j}oP[1e]\u2560${j}oF\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Je\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'4g 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJz\u300d\u2560${j}D7\u2560${j}oQ\u2560${j}oR[eW]\u2560${j}oJ[1e]\u2560${j}oG[G]\u2560${j}oH[G]\u2560${j}1H\u2560${j}181\u2560${j}mW\u2560${j}ge[eW]\u2560${j}7T[1S]\u2560${j}i8[l/3S]\u2560${j}oM[G]\u2560${j}oK[G]\u2560${j}5d[on/1C]\u2560${j}CZ[on/1C]\u2560${j}182[on/1C]\u2560${j}gg[on/1C]\u2560${j}gm[on/1C]\u2560${j}gn[on/1C]\u2560${j}gj[on/1C]\u2560${j}gh[on/1C]\u2560${j}gk[on/1C]\u2560${j}gl[on/1C]\u2560${j}gp[on/1C]\u2560${j}gq[on/1C]\u2560${j}cI[on/1C]\u2560${j}cJ[on/1C]\u2560${j}cK[on/1C]\u2560${j}7Y[on/1C]\u2560${j}jr[l/3S]\u2560${j}jt[l/3S]\u2560${j}fB[l 2W]\u2560${j}183[l 1S]\u2560${j}3e\u2560${j}ax\u2560${j}aw\u2560${j}jy\u2560${j}au\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'184\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'185 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300c186\u300d\u2560${j}AX\u2560${j}AF\u2560${j}iM\u2560${j}AV\u2560${j}7U\u2560${j}187\u2560${j}188\u2560${j}189\u2560${j}mB\u2560${j}AA\u2560${j}AE\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'18a\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'uI 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJA\u300d\u2560${j}bx\u2560${j}Gr\u2560${j}cX\u2560${j}km\u2560${j}uT\u2560${j}ul\u2560${j}ee\u2560${j}ef\u2560${j}bA\u2560${j}bB\u2560${j}eo\u2560${j}bF\u2560${j}bG\u2560${j}bH\u2560${j}bJ\u2560${j}7U\u2560${j}9V\u2560${j}bK\u2560${j}eq\u2560${j}bL\u2560${j}9W\u2560${j}aJ\u2560${j}bM\u2560${j}aG\u2560${j}bO\u2560${j}aI\u2560${j}9A\u2560${j}ep\u2560${j}aH\u2560${j}hc\u2560${j}bD\u2560${j}bE\u2560${j}9T\u2560${j}9U\u2560${j}bC\u2560${j}ua\u2560${j}cW\u2560${j}el\u2560${j}eh\u2560${j}ei\u2560${j}bz\u2560${j}uK\u2560${j}cU\u2560${j}ed\u2560${j}7B\u2560${j}ec\u2560${j}u4\u2560${j}u5\u2560${j}u6\u2560${j}cP\u2560${j}9P\u2560${j}cQ\u2560${j}uj\u2560${j}gH\u2560${j}ki\u2560${j}uA\u2560${j}9Q\u2560${j}k9\u2560${j}cT\u2560${j}em\u2560${j}gI\u2560${j}6F\u2560${j}9f\u2560${j}uq\u2560${j}k7\u2560${j}ut\u2560${j}gE\u2560${j}uv\u2560${j}ux\u2560${j}kd\u2560${j}kf\u2560${j}kg\u2560${j}g7\u2560${j}9S\u2560${j}9O\u2560${j}uz\u2560${j}uD\u2560${j}cV\u2560${j}e8\u2560${j}kh\u2560${j}bw\u2560${j}um\u2560${j}6Y\u2560${j}uC\u2560${j}8d\u2560${j}bI\u2560${j}ej\u2560${j}bN\u2560${j}uN\u2560${j}uM\u2560${j}uL\u2560${j}km\u2560${j}uJ\u2560${j}gK\u2560${j}uS\u2560${j}9U\u2560${j}uR\u2560${j}gJ\u2560${j}e7\u2560${j}e9\u2560${j}uQ\u2560${j}ka\u2560${j}uP\u2560${j}uO\u2560${j}9V\u2560${j}9T\u2560${j}kn\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jg\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'l6 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cvy\u300d\u2560${j}7k[R]\u2560${j}vp[R]\u2560${j}eA[bU]\u2560${j}7l[R]\u2560${j}vs[R]\u2560${j}8i[R]\u2560${j}vr[R]\u2560${j}6e[R]\u2560${j}wP[R]\u2560${j}wO[R]\u2560${j}7k[R]\u2560${j}eA[R]\u2560${j}eZ[R]\u2560${j}gV[R|6p]\u2560${j}gW[R|6p]\u2560${j}wT[yt V]\u2560${j}wU[yt V]\u2560${j}kK[eG V]\u2560${j}gt[R]\u2560${j}gz[R]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jh\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'bT 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300caL\u300d\u2560${j}6A[2t]\u2560${j}6R[2t]\u2560${j}cY[2t]\u2560${j}8n[2t]\u2560${j}ez[2t]\u2560${j}kv[2t]\u2560${j}7J[2t]\u2560${j}1e[2t]\u2560${j}gQ[2t]\u2560${j}kP[2t]\u2560${j}9c[2t]\u2560${j}kS[2t]\u2560${j}kR[2t]\u2560${j}kT\u2560${j}kQ[2t]\u2560${j}vU[2t]\u2560${j}eN[2t]\u2560${j}vl[2t]\u2560${j}eQ[2t]\u2560${j}vt[2t]\u2560${j}7W[2t]\u2560${j}bW[2t]\u2560${j}vx[2t]\u2560${j}vN[ip|eI]\u2560${j}vB[2t]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jr\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'ew 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJB\u300d\u2560${j}v5[l lv]\u2560${j}4e[l 8s|lw]\u2560${j}g8[l 8s|lw|JC]\u2560${j}pj[l 8s]\u2560${j}2W[2W]\u2560${j}v6[l 8s]\u2560${j}vf[l lv]\u2560${j}vh[l 8s]\u2560${j}vd[l 4E]\u2560${j}va[l vn]\u2560${j}v8[l JD]\u2560${j}pl[l 2j]\u2560${j}pm[l 2j]\u2560${j}rk[V]\u2560${j}gd[G]\u2560${j}d4[l 4E]\u2560${j}d0[l 4E]\u2560${j}l9[l 4E]\u2560${j}la[l 4E]\u2560${j}er[l 4E]\u2560${j}lb[l 4E]\u2560${j}lc[l 4E]\u2560${j}ld[l 4E]\u2560${j}le[l 4E]\u2560${j}e6[l 4E]\u2560${j}lf[l 4E]\u2560${j}lg[l 4E]\u2560${j}wX[l 4E]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jj\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'ls 3M 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJF lx\u300d\u2560${j}k1\u2560${j}pn\u2560${j}pt\u2560${j}pB\u2560${j}pA\u2560${j}po\u2560${j}pr\u2560${j}ps\u2560${j}pp\u2560${j}pq\u2560${j}wc[2t]\u2560${j}qB[2t]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jm\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'xr 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJG\u300d\u2560${j}uU\u2560${j}v0\u2560${j}uV\u2560${j}uX\u2560${j}v2\u2560${j}v1\u2560${j}uZ\u2560${j}uY\u2560${j}gL\u2560${j}uW\u2560${j}v3\u2560${j}gL\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jk\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'3M xq 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u272a\u300clx JE\u300d\u2560${j}r9\u2560${j}r3\u2560${j}rf\u2560${j}rc\u2560${j}r4\u2560${j}r8\u2560${j}r7\u2560${j}r5\u2560${j}r6\u2560${j}rb\u2560${j}r1\u2560${j}rg\u2560${j}rd\u2560${j}r2\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jl\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'9h 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cgP\u300d\u2560${j}9d\u2560${j}cN\u2560${j}q3\u2560${j}cM\u2560${j}q2\u2560${j}gx\u2560${j}qA\u2560${j}JH\u2560${j}q0\u2560${j}q1\u2560${j}pv\u2560${j}pu\u2560${j}pz\u2560${j}pC\u2560${j}pw\u2560${j}px\u2560${j}q6\u2560${j}qb\u2560${j}q7\u2560${j}q8\u2560${j}q9\u2560${j}qa\u2560${j}q5\u2560${j}qc\u2560${j}qd\u2560${j}qe\u2560${j}qf\u2560${j}qg\u2560${j}qh\u2560${j}qi\u2560${j}qj\u2560${j}qk\u2560${j}ql\u2560${j}qm\u2560${j}qn\u2560${j}qo\u2560${j}qp\u2560${j}qr\u2560${j}qs\u2560${j}qt\u2560${j}qu\u2560${j}qv\u2560${j}qw\u2560${j}qx\u2560${j}qy\u2560${j}gy\u2560${j}w9\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'18b\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'9L 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cly\u300d\u2560${j}p8\u2560${j}2W\u2560${j}v4\u2560${j}jR\u2560${j}pb\u2560${j}pd\u2560${j}pe\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jn\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'9h 9L 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cgP ly\u300d\u2560${j}gy\u2560${j}qI\u2560${j}qT\u2560${j}jn\u2560${j}qD\u2560${j}qO\u2560${j}ji\u2560${j}qF\u2560${j}qE\u2560${j}qQ\u2560${j}qJ\u2560${j}qH\u2560${j}qP\u2560${j}qM\u2560${j}qN\u2560${j}qU\u2560${j}qV\u2560${j}jX\u2560${j}qR\u2560${j}qG\u2560${j}cF\u2560${j}qC\u2560${j}cH\u2560${j}qK\u2560${j}qL\u2560${j}dP\u2560${j}qS\u2560${j}e3\u2560${j}jU\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jp\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'Jo 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJI\u300d\u2560${j}pX\u2560${j}pU\u2560${j}pD\u2560${j}pT\u2560${j}pS\u2560${j}pR\u2560${j}pQ\u2560${j}pO\u2560${j}pP\u2560${j}pN\u2560${j}pM\u2560${j}pL\u2560${j}pK\u2560${j}pZ\u2560${j}pJ\u2560${j}pI\u2560${j}pH\u2560${j}pG\u2560${j}pF\u2560${j}pE\u2560${j}jW\u2560${j}pW\u2560${j}pV\u2560${j}gw\u2560${j}pY\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jq\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'lt 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300clt\u300d\u2560${j}dh[G\u2560${j}dT[G]\u2560${j}JJ[G]\u2560${j}is[G]\u2560${j}6y[G]\u2560${j}5Q[G]\u2560${j}nm[G]\u2560${j}oB[G]\u2560${j}np[3S]\u2560${j}nt[3S]\u2560${j}ny[3S]\u2560${j}nw[3S]\u2560${j}nu[3S]\u2560${j}nv[3S]\u2560${j}nA[3S]\u2560${j}nx[3S]\u2560${j}nq[3S]\u2560${j}nz[3S]\u2560${j}nf\u2560${j}ne\u2560${j}g0\u2560${j}j7\u2560${j}nK\u2560${j}iY\u2560${j}nI\u2560${j}nJ\u2560${j}j3\u2560${j}nL\u2560${j}fZ\u2560${j}j1\u2560${j}iZ\u2560${j}nC\u2560${j}j6\u2560${j}nH\u2560${j}nE\u2560${j}nD\u2560${j}nF\u2560${j}j0\u2560${j}j2\u2560${j}nM\u2560${j}nG\u2560${j}nO\u2560${j}j4\u2560${j}j5\u2560${j}nT\u2560${j}nP\u2560${j}nQ\u2560${j}nR\u2560${j}nS\u2560${j}nU\u2560${j}nV\u2560${j}nW\u2560${j}nX\u2560${j}nY\u2560${j}nZ\u2560${j}o0\u2560${j}o1\u2560${j}mf\u2560${j}o2\u2560${j}o3\u2560${j}o4\u2560${j}o5\u2560${j}o6\u2560${j}o7\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jf\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'lr 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300clr\u300d\u2560${j}rm\u2560${j}rn\u2560${j}ro\u2560${j}rp\u2560${j}rq\u2560${j}rr\u2560${j}rs\u2560${j}rt\u2560${j}ru\u2560${j}rv\u2560${j}rw\u2560${j}rx\u2560${j}ry\u2560${j}rz\u2560${j}rA\u2560${j}rB\u2560${j}rC\u2560${j}rD\u2560${j}rE\u2560${j}rF\u2560${j}rG\u2560${j}rH\u2560${j}rI\u2560${j}rJ\u2560${j}rK\u2560${j}rL\u2560${j}rM\u2560${j}rN\u2560${j}rO\u2560${j}rP\u2560${j}rQ\u2560${j}rR\u2560${j}rS\u2560${j}rT\u2560${j}rU\u2560${j}rV\u2560${j}rW\u2560${j}rX\u2560${j}rY\u2560${j}rZ\u2560${j}s0\u2560${j}s1\u2560${j}s2\u2560${j}s3\u2560${j}s4\u2560${j}s5\u2560${j}s6\u2560${j}s7\u2560${j}s8\u2560${j}s9\u2560${j}sa\u2560${j}sb\u2560${j}sd\u2560${j}se\u2560${j}sf\u2560${j}sg\u2560${j}sh\u2560${j}si\u2560${j}sj\u2560${j}sk\u2560${j}sl\u2560${j}sm\u2560${j}sn\u2560${j}sp\u2560${j}sq\u2560${j}sr\u2560${j}st\u2560${j}su\u2560${j}sv\u2560${j}sw\u2560${j}sx\u2560${j}sy\u2560${j}sz\u2560${j}sA\u2560${j}sB\u2560${j}sC\u2560${j}sD\u2560${j}sE\u2560${j}sF\u2560${j}sG\u2560${j}sH\u2560${j}sI\u2560${j}sJ\u2560${j}sK\u2560${j}sL\u2560${j}sM\u2560${j}sN\u2560${j}sO\u2560${j}sP\u2560${j}sQ\u2560${j}sR\u2560${j}sS\u2560${j}sT\u2560${j}sU\u2560${j}sV\u2560${j}sW\u2560${j}sX\u2560${j}sY\u2560${j}sZ\u2560${j}t0\u2560${j}t1\u2560${j}t2\u2560${j}t3\u2560${j}t4\u2560${j}t5\u2560${j}t6\u2560${j}t7\u2560${j}t8\u2560${j}t9\u2560${j}ta\u2560${j}tb\u2560${j}tc\u2560${j}tf\u2560${j}tg\u2560${j}th\u2560${j}ti\u2560${j}tj\u2560${j}tk\u2560${j}tl\u2560${j}tm\u2560${j}tn\u2560${j}tp\u2560${j}tq\u2560${j}tr\u2560${j}ts\u2560${j}tt\u2560${j}tu\u2560${j}tv\u2560${j}tw\u2560${j}tx\u2560${j}ty\u2560${j}tA\u2560${j}tB\u2560${j}tC\u2560${j}tD\u2560${j}tE\u2560${j}tF\u2560${j}tG\u2560${j}tH\u2560${j}tI\u2560${j}tJ\u2560${j}tK\u2560${j}tL\u2560${j}tM\u2560${j}tN\u2560${j}tO\u2560${j}tP\u2560${j}tQ\u2560${j}tR\u2560${j}tS\u2560${j}tT\u2560${j}tU\u2560${j}tV\u2560${j}tW\u2560${j}tX\u2560${j}tY\u2560${j}tZ\u2560${j}u0\u2560${j}u1\u2560${j}u2\u2560${j}u3\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'18c\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'cn 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJK\u300d\u2560${j}dR\u2560${j}ap\u2560${j}cm\u2560${j}mZ\u2560${j}6h[eW]\u2560${j}cc[mq]\u2560${j}n0[3S]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Ju\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'a3 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u272a\u300cJL\u300d\u2560${j}4D\u2560${j}aA\u2560${j}d7\u2560${j}eS\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Ji\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'xp 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJM\u300d\u2560${j}k5[G]\u2560${j}k3[G]\u2560${j}k4[df]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Js\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'gY 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u272a\u300cx5\u300d\u2560${j}wZ\u2560${j}x1\u2560${j}x0\u2560${j}x3\u2560${j}x4\u2560${j}gZ\u2560${j}lj\u2560${j}x6\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'h4\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'lu 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cxt\u300d\u2560${j}vS\u2560${j}eJ\u2560${j}kV\u2560${j}w7-gv\u2560${j}w6-3c\u2560${j}w5-3c\u2560${j}vV-3c\u2560${j}vW-3c\u2560${j}vX-3c\u2560${j}vY-3c\u2560${j}vZ-3c\u2560${j}w0-3c\u2560${j}w1-3c\u2560${j}w2-3c\u2560${j}w3-3c\u2560${j}d0-3c\u2560${j}w4-3c\u2560${j}vT-3c\u2560${j}vR-3c\u2560${j}w8\u2560${j}kX\u2560${j}vI\u2560${j}vG\u2560${j}kO\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jt\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'lu xs 2g\')F E.4s(1f,`\u2554\u2550\u272a\u300cxt 18d\u300d\u2560${j}wd\u2560${j}wi\u2560${j}wo\u2560${j}wk\u2560${j}wl\u2560${j}wm\u2560${j}wn\u2560${j}wp\u2560${j}wq\u2560${j}wr\u2560${j}ws\u2560${j}wt\u2560${j}l1\u2560${j}wu\u2560${j}ww\u2560${j}wy\u2560${j}wz\u2560${j}wB\u2560${j}wC\u2560${j}wD\u2560${j}wE\u2560${j}wF\u2560${j}wG\u2560${j}wI\u2560${j}eM\u2560${j}wJ\u2560${j}wK\u2560${j}wL\u2560${j}d3\u2560${j}l4\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jc\':if(K)z l(B.H)if(L)z l(B.M)1t 2V=F 2n(4F+\'xo 2g\')F E.4s(1f,`\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a\u300cJN\u300d\u2560${j}mX\u2560${j}rh[G]\u2560${j}rj\u2560${j}gs\u2560${j}xl\u2560${j}lp\u2560${j}xg\u2560${j}e0\u2560${j}2m\u2560${j}5I\u2560${j}3r\u2560${j}gs\u2560${j}Q\u2560${j}p5\u2560${j}p6\u2560${j}4o\u2560${j}xh\u2560${j}xj[xi]\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u272a`+\'\'+\' \',`${1q}`,2V,[{\"2r\":{\"1c\":\"3R \ud83d\udccd\",\"R\":`${2Z}`}},{\"2r\":{\"1c\":\"4l\ud83d\udd16\",\"R\":`${4m}`}},{\"2o\":{\"1c\":\"4Y \ud83c\udf5c\",\"id\":\'4o\'}},{\"2o\":{\"1c\":\"3V \ud83d\udc64\",\"id\":\'2m\'}}])J C\'Jx\':if(K)z l(B.H)if(L)z l(B.M)l(`Jw to 18e 18f fY(Me)My Cu oc 8j Cg 4h 18g 18h 1B j7 lp!!!`)J 18i:if(3J.aQ(\'=>\')){if(!2C)z l(B.2m)ah 18j(xu){xv=5Z.dd(xu,ce,2)xw=6r.6s(xv)if(xv==9b){xw=6r.6s(xu)}l(xw)}5u{l(6r.6s(JO(`(2p()=>{z ${3J.8e(3)}})()`)))}1u(e){l(gD(e))}}if(3J.aQ(\'>\')){if(!2C)z l(B.2m)5u{D h5=F JO(3J.8e(2))if(dc h5!==\'yT\')h5=1X(\'6r\').18k(h5)F l(h5)}1u(1k){F l(gD(1k))}}if(3J.aQ(\'$\')){if(!2C)z l(B.2m)7H(3J.8e(2),(1k,9j)=>{if(1k)z l(1k)if(9j)z l(9j)})}if(m.P.jO(\'@s.2J.3b\')&&7K){1B.4D=1B.4D?1B.4D:{}D 1K=4R.7Q(1B.4D).6g(1K=>[1K.a,1K.b].2a(m.1d)&&1K.7R===\'x8\')if(1K){if(/^.*(d7|eS|aA)/.1m(m.G))z if([\'.d7\',\'.eS\',\'.18l\',\'.aA\',\'18m 7t\',\'18n\',\'18o\',\'ci\'].2a(m.G))z D 8b=[1K.a,1K.b].6g(1S=>1S!==m.1d)m.jN(8b,2u,m.Q&&m.Q.4u?{2L:{...m.6L.2L,jK:0,jL:2u,6N:8b}}:{})}z!0}1n JP=[`${U.JQ}@s.2J.3b`]1n JR=(m.9s===\'a6\')?m.1l.a6.2L.6N:\'\'if(JP.2a(JR)){if(eT===1N)z if(!m.1Y)z if(m.3f.4u)z lz=fs.4a(\'./6K/9m/JS.7i\')E.i4(m.P,m.1d,[m.3f.id])E.W(1f,{4e:lz,2L:{jK:JT,jL:2u}},{Q:m})}if(3J.2a(`${U.JQ}`)){if(eT===1N)z if(!m.1Y)z if(m.3f.4u)z lz=fs.4a(\'./6K/9m/JS.7i\')E.i4(m.P,m.1d,[m.3f.id])E.W(1f,{4e:lz,2L:{jK:JT,jL:2u}},{Q:m})}if(7K&&3J.3W()!=9b){if(m.P.jO(\'i2\'))z if(m.jI)z D 8a=U.db.Z.5A if(!(3J.3W()in 8a))z E.jN(m.P,8a[3J.3W()],2u)}}}1u(1k){m.l(6r.6s(1k))}}D d5=1X.mw(JU)fs.18p(d5,()=>{fs.18q(d5)1T.1U(7c.18r(`18s ${JU}`))3r 1X.18t[d5]1X(d5)})","\x7C","\x73\x70\x6C\x69\x74","\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x70\x72\x65\x66\x69\x78\x7C\x7C\x72\x65\x70\x6C\x79\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x72\x65\x74\x75\x72\x6E\x7C\x7C\x6D\x65\x73\x73\x7C\x63\x61\x73\x65\x7C\x6C\x65\x74\x7C\x58\x65\x6F\x6E\x42\x6F\x74\x49\x6E\x63\x7C\x61\x77\x61\x69\x74\x7C\x74\x65\x78\x74\x7C\x62\x61\x6E\x7C\x7C\x62\x72\x65\x61\x6B\x7C\x69\x73\x42\x61\x6E\x7C\x69\x73\x42\x61\x6E\x43\x68\x61\x74\x7C\x62\x61\x6E\x43\x68\x61\x74\x7C\x61\x6E\x75\x7C\x7C\x63\x68\x61\x74\x7C\x71\x75\x6F\x74\x65\x64\x7C\x75\x72\x6C\x7C\x63\x6F\x6D\x6D\x61\x6E\x64\x7C\x7C\x67\x6C\x6F\x62\x61\x6C\x7C\x6C\x69\x6E\x6B\x7C\x73\x65\x6E\x64\x4D\x65\x73\x73\x61\x67\x65\x7C\x7C\x68\x74\x74\x70\x73\x7C\x64\x61\x74\x61\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x72\x65\x70\x6C\x61\x79\x7C\x74\x68\x65\x6D\x65\x65\x6D\x6F\x6A\x69\x7C\x64\x69\x73\x70\x6C\x61\x79\x54\x65\x78\x74\x7C\x73\x65\x6E\x64\x65\x72\x7C\x69\x6D\x61\x67\x65\x7C\x66\x72\x6F\x6D\x7C\x74\x65\x78\x74\x70\x72\x6F\x7C\x79\x6F\x75\x7C\x63\x61\x70\x74\x69\x6F\x6E\x7C\x61\x72\x67\x73\x7C\x65\x72\x72\x7C\x6D\x65\x73\x73\x61\x67\x65\x7C\x74\x65\x73\x74\x7C\x63\x6F\x6E\x73\x74\x7C\x74\x65\x6B\x73\x7C\x73\x70\x6C\x69\x74\x7C\x62\x6F\x74\x6E\x61\x6D\x65\x7C\x74\x79\x70\x65\x7C\x74\x68\x65\x7C\x76\x61\x72\x7C\x63\x61\x74\x63\x68\x7C\x72\x65\x73\x75\x6C\x74\x7C\x68\x74\x6D\x6C\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7C\x62\x75\x74\x74\x6F\x6E\x54\x65\x78\x74\x7C\x65\x6C\x73\x65\x7C\x62\x75\x74\x74\x6F\x6E\x49\x64\x7C\x74\x68\x69\x73\x7C\x6F\x66\x66\x7C\x77\x61\x69\x74\x7C\x72\x65\x73\x7C\x74\x68\x65\x6E\x7C\x65\x66\x66\x65\x63\x74\x7C\x67\x72\x6F\x75\x70\x7C\x61\x6E\x75\x69\x7C\x4D\x61\x74\x68\x7C\x72\x6F\x6F\x6D\x7C\x54\x68\x65\x7C\x6F\x6E\x6C\x69\x6E\x65\x7C\x66\x61\x6C\x73\x65\x7C\x74\x69\x74\x6C\x65\x7C\x6C\x65\x6E\x67\x74\x68\x7C\x5F\x7C\x66\x6F\x72\x7C\x75\x73\x65\x72\x7C\x63\x6F\x6E\x73\x6F\x6C\x65\x7C\x6C\x6F\x67\x7C\x48\x65\x72\x65\x7C\x45\x78\x61\x6D\x70\x6C\x65\x7C\x72\x65\x71\x75\x69\x72\x65\x7C\x69\x73\x47\x72\x6F\x75\x70\x7C\x72\x6F\x6F\x66\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x69\x6E\x63\x6C\x75\x64\x65\x73\x7C\x77\x61\x69\x66\x75\x64\x64\x7C\x72\x61\x6E\x64\x6F\x6D\x7C\x63\x72\x65\x61\x74\x65\x7C\x6D\x65\x64\x69\x61\x7C\x66\x6F\x6F\x74\x65\x72\x7C\x4D\x65\x6E\x75\x7C\x68\x65\x61\x64\x65\x72\x54\x79\x70\x65\x7C\x6E\x61\x6D\x65\x7C\x74\x78\x74\x7C\x76\x69\x64\x65\x6F\x7C\x6A\x6F\x69\x6E\x7C\x6F\x77\x6E\x65\x72\x7C\x67\x65\x74\x42\x75\x66\x66\x65\x72\x7C\x71\x75\x69\x63\x6B\x52\x65\x70\x6C\x79\x42\x75\x74\x74\x6F\x6E\x7C\x61\x73\x79\x6E\x63\x7C\x67\x65\x74\x7C\x75\x72\x6C\x42\x75\x74\x74\x6F\x6E\x7C\x61\x75\x64\x69\x6F\x7C\x71\x75\x65\x72\x79\x7C\x74\x72\x75\x65\x7C\x45\x72\x72\x6F\x72\x7C\x59\x6F\x75\x7C\x66\x6C\x6F\x6F\x72\x7C\x73\x65\x6E\x64\x54\x65\x78\x74\x7C\x55\x73\x65\x7C\x6C\x6F\x67\x6F\x7C\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x7C\x69\x73\x43\x72\x65\x61\x74\x6F\x72\x7C\x73\x74\x61\x74\x75\x73\x7C\x61\x78\x69\x6F\x73\x7C\x67\x61\x6D\x65\x7C\x4E\x65\x78\x74\x7C\x61\x64\x6D\x69\x6E\x7C\x6D\x65\x6E\x74\x69\x6F\x6E\x65\x64\x4A\x69\x64\x7C\x77\x68\x61\x74\x73\x61\x70\x70\x7C\x6D\x69\x6D\x65\x7C\x63\x6F\x6E\x74\x65\x78\x74\x49\x6E\x66\x6F\x7C\x4C\x69\x6E\x6B\x7C\x62\x75\x74\x74\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x7C\x59\x6F\x75\x72\x7C\x6D\x61\x70\x7C\x61\x75\x74\x68\x6F\x72\x7C\x62\x76\x6C\x7C\x6B\x69\x63\x65\x7C\x79\x6F\x75\x72\x7C\x52\x65\x70\x6C\x79\x7C\x75\x6E\x69\x63\x6F\x72\x6E\x7C\x65\x6D\x6F\x6A\x69\x7C\x6D\x6F\x6D\x65\x6E\x74\x7C\x53\x65\x6E\x64\x7C\x77\x65\x62\x73\x69\x74\x65\x78\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x6A\x73\x6F\x6E\x66\x6F\x72\x6D\x61\x74\x7C\x6E\x65\x74\x7C\x6E\x65\x77\x73\x7C\x7C\x76\x6F\x74\x65\x7C\x6B\x65\x79\x7C\x73\x65\x6E\x64\x42\x75\x74\x74\x6F\x6E\x54\x65\x78\x74\x7C\x77\x68\x69\x6C\x65\x7C\x6D\x65\x64\x69\x61\x73\x7C\x4D\x61\x64\x65\x7C\x69\x73\x41\x64\x6D\x69\x6E\x73\x7C\x57\x69\x74\x68\x7C\x4D\x6F\x72\x65\x7C\x73\x65\x6E\x64\x7C\x70\x75\x73\x68\x7C\x6D\x65\x6D\x73\x7C\x57\x61\x69\x74\x7C\x64\x65\x6C\x65\x74\x65\x7C\x69\x73\x42\x6F\x74\x41\x64\x6D\x69\x6E\x73\x7C\x6D\x61\x6B\x69\x6E\x67\x7C\x61\x62\x6F\x75\x74\x7C\x6D\x69\x6E\x75\x74\x65\x7C\x6D\x61\x6B\x65\x72\x7C\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E\x7C\x6A\x61\x77\x61\x62\x61\x6E\x7C\x6C\x69\x62\x7C\x72\x65\x70\x6C\x61\x63\x65\x7C\x66\x72\x65\x65\x7C\x63\x6F\x6D\x7C\x57\x68\x61\x74\x7C\x43\x61\x70\x74\x69\x6F\x6E\x7C\x74\x67\x6C\x7C\x62\x6C\x6E\x7C\x74\x68\x6E\x7C\x6E\x65\x77\x7C\x62\x75\x64\x79\x7C\x61\x6E\x64\x7C\x46\x6F\x72\x7C\x49\x6D\x61\x67\x65\x7C\x4C\x69\x73\x74\x7C\x65\x72\x72\x6F\x72\x7C\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C\x7C\x63\x65\x72\x70\x65\x7C\x59\x6F\x75\x54\x75\x62\x65\x7C\x74\x61\x67\x7C\x44\x61\x74\x65\x7C\x53\x75\x63\x63\x65\x73\x73\x7C\x4F\x77\x6E\x65\x72\x7C\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65\x7C\x6F\x77\x6E\x65\x72\x6E\x61\x6D\x65\x7C\x72\x6F\x77\x49\x64\x7C\x70\x72\x69\x6D\x62\x6F\x6E\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x72\x65\x61\x64\x46\x69\x6C\x65\x53\x79\x6E\x63\x7C\x70\x61\x63\x6B\x6E\x61\x6D\x65\x7C\x41\x6C\x72\x65\x61\x64\x79\x7C\x73\x65\x74\x62\x6F\x74\x7C\x73\x74\x69\x63\x6B\x65\x72\x7C\x6A\x70\x65\x67\x54\x68\x75\x6D\x62\x6E\x61\x69\x6C\x7C\x47\x72\x6F\x75\x70\x7C\x77\x68\x6F\x7C\x75\x6E\x6C\x69\x6E\x6B\x53\x79\x6E\x63\x7C\x54\x69\x74\x6C\x65\x7C\x6D\x65\x6D\x62\x65\x72\x73\x7C\x53\x63\x72\x69\x70\x74\x7C\x62\x6F\x74\x73\x63\x72\x69\x70\x74\x7C\x6E\x61\x6D\x61\x7C\x64\x6F\x6E\x61\x74\x65\x7C\x6D\x69\x6D\x65\x74\x79\x70\x65\x7C\x62\x6F\x74\x41\x64\x6D\x69\x6E\x7C\x41\x6E\x73\x77\x65\x72\x7C\x73\x65\x6E\x64\x35\x42\x75\x74\x49\x6D\x67\x7C\x46\x65\x61\x74\x75\x72\x65\x73\x7C\x66\x72\x6F\x6D\x4D\x65\x7C\x6C\x6F\x67\x30\x7C\x48\x61\x76\x65\x7C\x50\x6C\x65\x61\x73\x65\x7C\x67\x72\x6F\x75\x70\x65\x7C\x61\x64\x6D\x7C\x74\x65\x6B\x73\x65\x68\x6D\x61\x7A\x65\x68\x7C\x74\x75\x72\x6E\x69\x6E\x67\x7C\x77\x62\x75\x74\x74\x73\x73\x73\x7C\x61\x6E\x6F\x6E\x79\x6D\x6F\x75\x73\x7C\x61\x75\x64\x7C\x70\x69\x63\x61\x6B\x7C\x62\x75\x74\x74\x6F\x6E\x7C\x62\x65\x6C\x6F\x77\x7C\x54\x68\x69\x73\x7C\x44\x65\x74\x65\x63\x74\x65\x64\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x7C\x4D\x6F\x6E\x65\x79\x7C\x6E\x6F\x74\x7C\x65\x76\x65\x72\x7C\x66\x65\x74\x63\x68\x4A\x73\x6F\x6E\x7C\x62\x6F\x64\x79\x7C\x4E\x61\x6D\x65\x7C\x4F\x62\x6A\x65\x63\x74\x7C\x70\x61\x72\x74\x69\x63\x69\x70\x61\x6E\x74\x73\x7C\x75\x73\x65\x72\x73\x7C\x6B\x69\x63\x6B\x65\x64\x7C\x55\x72\x6C\x7C\x63\x70\x75\x7C\x44\x69\x73\x70\x6C\x61\x79\x73\x7C\x44\x6F\x6E\x61\x74\x65\x7C\x52\x65\x6D\x61\x69\x6E\x69\x6E\x67\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x62\x75\x66\x7C\x74\x65\x6B\x73\x31\x7C\x64\x65\x74\x61\x69\x6C\x73\x7C\x61\x75\x74\x6F\x73\x74\x69\x63\x6B\x65\x72\x7C\x48\x61\x73\x7C\x56\x69\x64\x65\x6F\x7C\x6D\x70\x34\x7C\x68\x61\x73\x4F\x77\x6E\x50\x72\x6F\x70\x65\x72\x74\x79\x7C\x54\x72\x61\x6E\x73\x61\x63\x74\x69\x6F\x6E\x7C\x74\x65\x6B\x73\x32\x7C\x6A\x73\x6F\x6E\x7C\x61\x6E\x79\x7C\x79\x6F\x75\x74\x75\x62\x65\x7C\x74\x6F\x53\x74\x72\x69\x6E\x67\x7C\x6D\x65\x6E\x74\x69\x6F\x6E\x73\x7C\x6C\x61\x73\x74\x7C\x57\x68\x65\x72\x65\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x41\x6E\x64\x53\x61\x76\x65\x4D\x65\x64\x69\x61\x4D\x65\x73\x73\x61\x67\x65\x7C\x4D\x65\x73\x73\x61\x67\x65\x7C\x32\x30\x30\x35\x7C\x74\x72\x79\x7C\x73\x65\x74\x74\x69\x6E\x67\x7C\x72\x65\x6D\x6F\x76\x65\x7C\x47\x75\x65\x73\x73\x7C\x54\x79\x70\x65\x7C\x63\x61\x70\x74\x7C\x64\x61\x74\x61\x62\x61\x73\x65\x7C\x73\x75\x69\x74\x7C\x44\x61\x79\x73\x7C\x4D\x6F\x6E\x74\x68\x73\x7C\x45\x6E\x74\x65\x72\x7C\x73\x74\x79\x6C\x65\x7C\x64\x69\x73\x61\x62\x6C\x65\x7C\x61\x63\x74\x69\x76\x61\x74\x65\x64\x7C\x6D\x65\x6E\x75\x7C\x73\x72\x68\x7C\x67\x72\x6F\x75\x70\x4D\x65\x74\x61\x64\x61\x74\x61\x7C\x63\x68\x61\x74\x73\x7C\x73\x65\x74\x54\x69\x6D\x65\x6F\x75\x74\x7C\x69\x6E\x64\x65\x78\x4F\x66\x7C\x73\x70\x6C\x69\x63\x65\x7C\x6D\x6F\x6E\x61\x79\x6E\x79\x61\x7C\x63\x61\x6E\x7C\x65\x6E\x61\x62\x6C\x65\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x69\x6C\x69\x6E\x6B\x7C\x41\x6E\x74\x69\x6C\x69\x6E\x6B\x7C\x65\x6E\x63\x6D\x65\x64\x69\x61\x7C\x74\x67\x6C\x5F\x6C\x61\x68\x69\x72\x7C\x4E\x6F\x74\x65\x73\x7C\x63\x61\x74\x61\x74\x61\x6E\x7C\x69\x73\x55\x72\x6C\x7C\x4A\x53\x4F\x4E\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x66\x69\x6C\x74\x65\x72\x7C\x68\x61\x73\x7C\x67\x72\x6F\x75\x70\x50\x61\x72\x74\x69\x63\x69\x70\x61\x6E\x74\x73\x55\x70\x64\x61\x74\x65\x7C\x62\x65\x65\x6E\x7C\x74\x69\x6B\x74\x6F\x6B\x7C\x77\x69\x74\x68\x7C\x66\x69\x6E\x64\x7C\x67\x75\x65\x73\x73\x7C\x63\x6C\x69\x63\x6B\x7C\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6C\x6C\x79\x7C\x54\x65\x78\x74\x7C\x6E\x41\x6E\x73\x77\x65\x72\x7C\x68\x61\x76\x65\x7C\x73\x75\x63\x63\x65\x73\x73\x7C\x64\x65\x61\x63\x74\x69\x76\x61\x74\x65\x64\x7C\x71\x75\x61\x6C\x69\x74\x79\x7C\x74\x69\x6D\x65\x73\x7C\x75\x74\x69\x6C\x7C\x66\x6F\x72\x6D\x61\x74\x7C\x74\x72\x69\x6D\x7C\x70\x75\x73\x68\x6E\x61\x6D\x65\x7C\x65\x78\x74\x65\x72\x6E\x61\x6C\x41\x64\x52\x65\x70\x6C\x79\x7C\x6A\x70\x67\x7C\x73\x6F\x75\x72\x63\x65\x55\x72\x6C\x7C\x77\x68\x61\x74\x7C\x61\x72\x65\x7C\x70\x6C\x61\x79\x7C\x41\x72\x65\x7C\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6C\x7C\x6D\x65\x6D\x62\x65\x72\x7C\x41\x75\x64\x69\x6F\x7C\x67\x6C\x69\x74\x63\x68\x7C\x72\x61\x6E\x7C\x74\x68\x75\x6D\x62\x7C\x6D\x61\x6E\x67\x7C\x42\x6F\x72\x6E\x7C\x58\x65\x6F\x6E\x4D\x65\x64\x69\x61\x7C\x6D\x73\x67\x7C\x6D\x75\x74\x65\x7C\x70\x61\x72\x74\x69\x63\x69\x70\x61\x6E\x74\x7C\x78\x65\x6F\x6E\x7C\x74\x68\x61\x74\x7C\x68\x61\x73\x68\x7C\x73\x6F\x6E\x67\x7C\x42\x75\x74\x74\x6F\x6E\x7C\x57\x61\x6E\x74\x7C\x77\x69\x6C\x6C\x7C\x6E\x6F\x68\x7C\x53\x65\x73\x73\x69\x6F\x6E\x7C\x4F\x66\x66\x7C\x6E\x65\x6F\x6E\x7C\x4E\x65\x77\x73\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x62\x65\x72\x69\x74\x61\x7C\x62\x65\x72\x69\x74\x61\x5F\x75\x72\x6C\x7C\x63\x68\x61\x6C\x6B\x7C\x73\x74\x6F\x72\x61\x67\x65\x7C\x67\x65\x74\x4D\x6F\x6E\x61\x79\x7C\x4D\x65\x64\x69\x61\x7C\x62\x6F\x74\x4E\x75\x6D\x62\x65\x72\x7C\x43\x68\x61\x74\x7C\x77\x65\x62\x70\x7C\x62\x6F\x74\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x7C\x65\x6D\x6F\x74\x65\x7C\x6E\x57\x61\x6E\x74\x7C\x42\x65\x6C\x6F\x77\x7C\x44\x6F\x6E\x7C\x57\x61\x72\x6E\x69\x6E\x67\x7C\x6E\x45\x78\x61\x6D\x70\x6C\x65\x7C\x4E\x6F\x74\x7C\x50\x61\x72\x74\x6E\x65\x72\x7C\x68\x65\x72\x65\x7C\x70\x65\x72\x73\x6F\x6E\x7C\x6C\x69\x6B\x65\x7C\x6E\x4F\x6E\x7C\x6E\x4F\x66\x66\x7C\x42\x72\x6F\x61\x64\x63\x61\x73\x74\x7C\x54\x65\x6C\x65\x67\x72\x61\x50\x68\x7C\x63\x68\x72\x69\x73\x74\x6D\x61\x73\x7C\x6D\x65\x64\x69\x61\x54\x79\x70\x65\x7C\x6D\x65\x64\x69\x61\x55\x72\x6C\x7C\x72\x65\x73\x65\x64\x7C\x31\x39\x37\x30\x7C\x73\x65\x74\x7C\x65\x78\x65\x63\x7C\x73\x6C\x65\x65\x70\x7C\x70\x69\x6E\x74\x65\x72\x65\x73\x74\x7C\x69\x73\x43\x6D\x64\x7C\x32\x30\x30\x30\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x7C\x62\x65\x63\x61\x75\x73\x65\x7C\x73\x65\x6E\x74\x7C\x6D\x61\x6B\x65\x7C\x76\x61\x6C\x75\x65\x73\x7C\x73\x74\x61\x74\x65\x7C\x6A\x75\x64\x75\x6C\x7C\x61\x64\x64\x7C\x62\x6C\x6F\x6F\x64\x7C\x73\x61\x79\x7C\x61\x6E\x69\x6D\x65\x7C\x41\x75\x74\x68\x6F\x72\x7C\x6E\x73\x66\x77\x7C\x6C\x6F\x74\x77\x69\x74\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x6D\x73\x67\x73\x7C\x6F\x74\x68\x65\x72\x7C\x61\x70\x69\x7C\x74\x6F\x78\x69\x63\x7C\x73\x6C\x69\x63\x65\x7C\x61\x66\x6B\x54\x69\x6D\x65\x7C\x46\x72\x6F\x6D\x7C\x77\x61\x73\x7C\x74\x77\x69\x74\x74\x65\x72\x7C\x61\x6C\x6C\x7C\x50\x6C\x61\x79\x7C\x41\x67\x61\x69\x6E\x7C\x50\x72\x65\x73\x73\x7C\x6C\x79\x72\x69\x63\x73\x7C\x52\x65\x73\x75\x6C\x74\x73\x7C\x6C\x69\x73\x74\x7C\x77\x61\x6E\x74\x7C\x72\x61\x77\x7C\x69\x6D\x67\x7C\x6D\x6F\x73\x74\x7C\x76\x6F\x69\x63\x65\x7C\x6C\x6F\x76\x65\x7C\x62\x75\x66\x66\x65\x72\x7C\x69\x6D\x6D\x65\x64\x69\x61\x74\x65\x6C\x79\x7C\x73\x65\x63\x74\x69\x6F\x6E\x73\x7C\x77\x69\x66\x65\x67\x65\x72\x61\x6B\x7C\x6D\x61\x78\x7C\x55\x70\x6C\x6F\x61\x64\x7C\x62\x65\x72\x69\x74\x61\x5F\x64\x69\x75\x70\x6C\x6F\x61\x64\x7C\x73\x70\x65\x65\x64\x7C\x78\x65\x6F\x6E\x6B\x65\x79\x7C\x70\x61\x72\x73\x65\x7C\x74\x65\x62\x61\x6B\x67\x61\x6D\x62\x61\x72\x7C\x72\x65\x6D\x6F\x74\x65\x4A\x69\x64\x7C\x63\x6F\x6E\x74\x65\x6E\x74\x7C\x41\x6E\x74\x69\x4E\x73\x66\x77\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x49\x6D\x61\x67\x65\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x56\x69\x64\x65\x6F\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x47\x69\x66\x7C\x73\x65\x63\x6F\x6E\x64\x73\x7C\x73\x65\x6E\x64\x49\x6D\x61\x67\x65\x41\x73\x53\x74\x69\x63\x6B\x65\x72\x7C\x6E\x41\x64\x6D\x69\x6E\x7C\x73\x65\x6E\x64\x69\x6E\x67\x7C\x62\x75\x74\x7C\x70\x69\x6C\x69\x68\x7C\x6F\x6E\x65\x7C\x43\x61\x6E\x7C\x54\x69\x6D\x65\x7C\x67\x69\x74\x68\x75\x62\x75\x73\x65\x72\x63\x6F\x6E\x74\x65\x6E\x74\x7C\x70\x75\x74\x7C\x73\x63\x72\x61\x70\x65\x72\x7C\x54\x6F\x74\x61\x6C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x6D\x65\x74\x61\x64\x61\x74\x61\x7C\x75\x6E\x64\x65\x66\x69\x6E\x65\x64\x7C\x77\x61\x6C\x6C\x70\x61\x70\x65\x72\x7C\x6E\x61\x72\x75\x74\x6F\x7C\x70\x72\x6F\x76\x69\x64\x65\x64\x7C\x62\x6C\x61\x63\x6B\x70\x69\x6E\x6B\x7C\x73\x65\x61\x72\x63\x68\x7C\x41\x6E\x69\x6D\x65\x7C\x62\x65\x72\x69\x74\x61\x5F\x74\x68\x75\x6D\x62\x7C\x73\x74\x64\x6F\x75\x74\x7C\x61\x64\x64\x4D\x6F\x6E\x61\x79\x7C\x6C\x69\x6D\x69\x74\x7C\x74\x68\x65\x6D\x65\x7C\x66\x61\x6D\x69\x6C\x79\x31\x30\x30\x7C\x6B\x75\x69\x73\x6D\x61\x74\x68\x7C\x74\x65\x62\x61\x6B\x6B\x61\x74\x61\x7C\x63\x61\x6B\x6C\x6F\x6E\x74\x6F\x6E\x67\x7C\x74\x65\x62\x61\x6B\x6C\x69\x72\x69\x6B\x7C\x6D\x74\x79\x70\x65\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x44\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x61\x75\x74\x6F\x72\x65\x70\x6C\x79\x7C\x69\x6E\x64\x65\x78\x7C\x61\x72\x72\x7C\x73\x74\x72\x7C\x53\x75\x69\x74\x7C\x77\x69\x6E\x7C\x72\x6F\x63\x6B\x7C\x43\x61\x74\x65\x67\x6F\x72\x79\x7C\x45\x6E\x6F\x75\x67\x68\x7C\x73\x74\x69\x6C\x6C\x7C\x42\x6F\x74\x7C\x63\x72\x75\x73\x68\x7C\x57\x68\x6F\x7C\x63\x68\x61\x6E\x67\x65\x7C\x6E\x6F\x74\x65\x7C\x64\x6F\x6E\x7C\x56\x6F\x74\x65\x7C\x53\x74\x69\x63\x6B\x65\x72\x7C\x44\x4F\x57\x4E\x4C\x4F\x41\x44\x45\x52\x7C\x77\x65\x62\x70\x32\x6D\x70\x34\x46\x69\x6C\x65\x7C\x64\x72\x6F\x70\x77\x61\x74\x65\x72\x7C\x74\x72\x61\x6E\x73\x66\x6F\x72\x6D\x65\x72\x7C\x74\x68\x75\x6E\x64\x65\x72\x7C\x65\x66\x66\x65\x63\x74\x73\x7C\x6A\x6F\x6B\x65\x72\x7C\x77\x61\x74\x65\x72\x63\x6F\x6C\x6F\x72\x7C\x6D\x75\x6C\x74\x69\x63\x6F\x6C\x6F\x72\x7C\x68\x61\x6C\x6C\x6F\x77\x65\x65\x6E\x7C\x73\x6B\x65\x6C\x65\x74\x6F\x6E\x7C\x43\x6F\x75\x70\x6C\x65\x7C\x44\x69\x6B\x61\x7C\x6E\x61\x6D\x61\x31\x7C\x6E\x61\x6D\x61\x32\x7C\x42\x69\x72\x74\x68\x7C\x62\x61\x62\x79\x31\x7C\x41\x6E\x6F\x6E\x79\x6D\x6F\x75\x73\x7C\x67\x65\x74\x52\x61\x6E\x64\x6F\x6D\x7C\x74\x65\x62\x61\x6B\x6B\x61\x6C\x69\x6D\x61\x74\x7C\x65\x78\x74\x65\x6E\x64\x65\x64\x54\x65\x78\x74\x4D\x65\x73\x73\x61\x67\x65\x7C\x6B\x65\x79\x73\x7C\x4C\x69\x6D\x69\x74\x7C\x72\x65\x61\x64\x7C\x6D\x65\x73\x73\x61\x67\x65\x73\x7C\x6B\x75\x69\x73\x7C\x41\x6C\x6C\x7C\x74\x65\x62\x61\x6B\x6C\x61\x67\x75\x7C\x70\x69\x63\x74\x75\x72\x65\x7C\x7C\x70\x69\x6C\x69\x68\x32\x7C\x66\x75\x6E\x63\x74\x69\x6F\x6E\x7C\x53\x74\x6F\x72\x79\x7C\x6C\x6F\x6B\x61\x73\x69\x6E\x79\x61\x7C\x6D\x70\x65\x67\x7C\x6E\x54\x69\x6D\x65\x7C\x7C\x7C\x6A\x6F\x64\x6F\x68\x7C\x64\x61\x72\x65\x7C\x63\x68\x6F\x6F\x73\x65\x7C\x44\x61\x79\x7C\x7C\x7C\x64\x65\x6C\x76\x6F\x74\x65\x7C\x56\x6F\x74\x69\x6E\x67\x7C\x75\x70\x76\x6F\x74\x65\x7C\x64\x65\x76\x6F\x74\x65\x7C\x63\x6C\x6F\x73\x65\x7C\x6E\x49\x66\x7C\x73\x74\x61\x72\x74\x7C\x62\x74\x6E\x7C\x74\x68\x75\x6D\x7C\x66\x69\x6C\x65\x4E\x61\x6D\x65\x7C\x72\x65\x73\x75\x6C\x74\x39\x31\x32\x7C\x4E\x75\x6D\x62\x65\x72\x7C\x6C\x65\x61\x76\x65\x73\x7C\x75\x6E\x64\x65\x72\x77\x61\x74\x65\x72\x7C\x6C\x61\x76\x61\x7C\x73\x61\x6E\x64\x7C\x44\x6F\x6E\x65\x7C\x53\x45\x41\x52\x43\x48\x7C\x43\x69\x6E\x74\x61\x7C\x6D\x75\x73\x69\x6D\x5F\x72\x61\x6D\x62\x75\x74\x61\x6E\x7C\x73\x65\x74\x74\x69\x6E\x67\x73\x7C\x62\x61\x6E\x63\x68\x61\x74\x7C\x73\x74\x61\x72\x74\x73\x57\x69\x74\x68\x7C\x61\x66\x6B\x52\x65\x61\x73\x6F\x6E\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x4D\x73\x67\x7C\x39\x31\x36\x39\x30\x39\x31\x33\x37\x32\x31\x33\x7C\x77\x61\x74\x65\x72\x6D\x61\x72\x6B\x7C\x6D\x65\x64\x69\x61\x63\x7C\x63\x68\x61\x6E\x6E\x65\x6C\x7C\x6D\x70\x33\x7C\x66\x69\x6C\x65\x53\x68\x61\x32\x35\x36\x7C\x74\x65\x72\x6A\x61\x77\x61\x62\x7C\x69\x73\x57\x69\x6E\x7C\x6E\x43\x6F\x72\x72\x65\x63\x74\x7C\x57\x72\x6F\x6E\x67\x7C\x69\x73\x53\x75\x72\x72\x65\x6E\x64\x65\x72\x7C\x77\x61\x6B\x74\x75\x7C\x73\x74\x61\x67\x65\x7C\x73\x74\x61\x67\x65\x32\x7C\x63\x65\x72\x70\x65\x6E\x7C\x6B\x61\x74\x65\x67\x6F\x72\x69\x7C\x64\x65\x6C\x7C\x36\x30\x30\x30\x30\x7C\x54\x68\x65\x72\x65\x7C\x7C\x63\x61\x6C\x6C\x7C\x7C\x7C\x7C\x74\x69\x6D\x65\x7C\x74\x68\x69\x6E\x67\x7C\x7C\x62\x6F\x79\x7C\x77\x72\x69\x74\x65\x7C\x44\x65\x6C\x65\x74\x65\x7C\x74\x65\x6B\x73\x5F\x76\x6F\x74\x65\x7C\x53\x74\x61\x72\x74\x7C\x6F\x70\x65\x6E\x7C\x49\x6E\x66\x6F\x7C\x72\x6F\x77\x73\x7C\x61\x6E\x6F\x7C\x77\x69\x66\x65\x67\x65\x72\x61\x6B\x78\x7C\x51\x75\x61\x6C\x69\x74\x79\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x70\x65\x6E\x63\x69\x6C\x7C\x63\x61\x6E\x64\x79\x7C\x7C\x63\x69\x72\x63\x75\x69\x74\x7C\x66\x69\x63\x74\x69\x6F\x6E\x7C\x62\x65\x72\x72\x79\x7C\x73\x6E\x6F\x77\x7C\x68\x6F\x6E\x65\x79\x7C\x69\x63\x65\x7C\x62\x69\x73\x63\x75\x69\x74\x7C\x77\x6F\x6F\x64\x7C\x63\x68\x6F\x63\x6F\x6C\x61\x74\x65\x7C\x73\x74\x72\x61\x77\x62\x65\x72\x72\x79\x7C\x6D\x61\x74\x72\x69\x78\x7C\x77\x69\x63\x6B\x65\x72\x7C\x66\x69\x72\x65\x77\x6F\x72\x6B\x7C\x67\x6C\x75\x65\x7C\x31\x39\x31\x37\x7C\x6D\x61\x67\x6D\x61\x7C\x69\x6E\x69\x6C\x6F\x67\x6F\x34\x7C\x69\x6E\x69\x6C\x6F\x67\x6F\x39\x7C\x6C\x6F\x67\x6F\x34\x7C\x6C\x6F\x67\x6F\x39\x7C\x53\x65\x61\x72\x63\x68\x7C\x75\x73\x65\x72\x6E\x61\x6D\x65\x7C\x4C\x6F\x6F\x6B\x69\x6E\x67\x7C\x6D\x61\x6E\x67\x61\x7C\x62\x65\x72\x69\x74\x61\x5F\x6A\x65\x6E\x69\x73\x7C\x74\x67\x6C\x31\x7C\x62\x6C\x6E\x31\x7C\x74\x68\x6E\x31\x7C\x74\x67\x6C\x32\x7C\x62\x6C\x6E\x32\x7C\x74\x68\x6E\x32\x7C\x61\x74\x65\x6D\x70\x6F\x7C\x61\x73\x65\x74\x72\x61\x74\x65\x7C\x73\x74\x64\x65\x72\x72\x7C\x72\x6E\x61\x6D\x65\x7C\x70\x61\x72\x73\x65\x4D\x65\x6E\x74\x69\x6F\x6E\x7C\x62\x61\x6E\x55\x73\x65\x72\x7C\x62\x61\x64\x7C\x5F\x66\x61\x6D\x69\x6C\x79\x31\x30\x30\x7C\x6D\x61\x74\x68\x7C\x73\x74\x6F\x72\x65\x7C\x6E\x75\x6C\x6C\x7C\x41\x75\x74\x6F\x72\x65\x70\x6C\x79\x7C\x70\x74\x74\x7C\x31\x30\x30\x30\x7C\x53\x74\x6F\x70\x7C\x54\x77\x69\x74\x74\x65\x72\x7C\x69\x6D\x61\x67\x65\x73\x7C\x73\x6F\x61\x6C\x7C\x74\x69\x63\x74\x61\x63\x74\x6F\x65\x7C\x47\x61\x6D\x65\x7C\x70\x61\x70\x65\x72\x7C\x7C\x72\x65\x61\x73\x6F\x6E\x7C\x68\x69\x6D\x7C\x6C\x6F\x6C\x6F\x73\x7C\x63\x65\x72\x69\x74\x61\x7C\x43\x6F\x77\x7C\x31\x35\x30\x30\x7C\x63\x68\x61\x74\x4D\x6F\x64\x69\x66\x79\x7C\x73\x65\x6E\x64\x49\x6D\x61\x67\x65\x7C\x6D\x61\x69\x6E\x7C\x68\x65\x72\x7C\x43\x68\x61\x72\x61\x63\x74\x65\x72\x7C\x70\x68\x6F\x74\x6F\x7C\x35\x68\x72\x73\x7C\x67\x69\x72\x6C\x7C\x67\x72\x75\x70\x7C\x73\x6C\x61\x70\x7C\x77\x6F\x75\x6C\x64\x7C\x68\x61\x70\x70\x79\x7C\x61\x6E\x74\x69\x76\x69\x72\x75\x73\x7C\x61\x6E\x74\x69\x74\x6F\x78\x69\x63\x7C\x61\x6E\x74\x69\x77\x61\x6D\x65\x7C\x66\x6F\x72\x6D\x61\x74\x74\x65\x64\x53\x69\x7A\x65\x7C\x77\x61\x69\x66\x75\x7C\x79\x61\x6F\x69\x7C\x55\x70\x6C\x6F\x61\x64\x46\x69\x6C\x65\x55\x67\x75\x7C\x70\x61\x70\x65\x72\x63\x75\x74\x7C\x6E\x65\x6F\x6E\x64\x65\x76\x69\x6C\x7C\x67\x65\x6E\x65\x72\x61\x74\x6F\x72\x7C\x6C\x69\x67\x68\x74\x7C\x67\x72\x61\x66\x66\x69\x74\x69\x7C\x64\x65\x6D\x6F\x6E\x7C\x6E\x65\x6F\x6E\x6C\x69\x67\x68\x74\x7C\x68\x61\x72\x72\x79\x70\x6F\x74\x74\x65\x72\x7C\x68\x6F\x72\x72\x6F\x72\x7C\x79\x74\x73\x7C\x64\x61\x74\x65\x7C\x74\x65\x6D\x70\x6F\x7C\x6E\x61\x6D\x61\x5F\x61\x6E\x64\x61\x7C\x6E\x61\x6D\x61\x5F\x70\x61\x73\x61\x6E\x67\x61\x6E\x7C\x7A\x6F\x64\x69\x61\x6B\x7C\x76\x6F\x6C\x75\x6D\x65\x7C\x66\x69\x6C\x65\x7C\x63\x68\x65\x63\x6B\x7C\x6E\x65\x78\x74\x7C\x63\x70\x75\x73\x7C\x6E\x6F\x77\x7C\x63\x61\x6B\x6C\x6F\x6E\x74\x6F\x6E\x67\x5F\x64\x65\x73\x6B\x7C\x7C\x74\x79\x70\x65\x6F\x66\x7C\x73\x74\x72\x69\x6E\x67\x69\x66\x79\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x69\x67\x7C\x6E\x75\x6D\x62\x65\x72\x7C\x41\x75\x74\x6F\x7C\x68\x6F\x77\x7C\x77\x6F\x72\x64\x7C\x49\x6E\x73\x74\x61\x67\x72\x61\x6D\x7C\x46\x61\x63\x65\x62\x6F\x6F\x6B\x7C\x74\x65\x6C\x65\x67\x72\x61\x6D\x7C\x61\x6E\x6A\x68\x7C\x69\x73\x53\x75\x72\x65\x6E\x64\x65\x72\x7C\x7C\x4F\x76\x65\x72\x7C\x73\x65\x6E\x64\x54\x65\x78\x74\x57\x69\x74\x68\x4D\x65\x6E\x74\x69\x6F\x6E\x73\x7C\x43\x68\x6F\x6F\x73\x65\x7C\x43\x6C\x69\x63\x6B\x7C\x70\x69\x63\x6B\x52\x61\x6E\x64\x6F\x6D\x7C\x61\x72\x74\x69\x63\x6C\x65\x7C\x68\x65\x6C\x70\x7C\x46\x69\x73\x68\x7C\x43\x68\x69\x63\x6B\x65\x6E\x7C\x52\x61\x62\x62\x69\x74\x7C\x53\x68\x65\x65\x70\x7C\x45\x6C\x65\x70\x68\x61\x6E\x74\x7C\x61\x70\x61\x6C\x75\x7C\x66\x6F\x72\x65\x73\x74\x7C\x57\x41\x49\x54\x49\x4E\x47\x7C\x43\x6F\x6D\x6D\x61\x6E\x64\x7C\x53\x6F\x6D\x65\x6F\x6E\x65\x7C\x73\x61\x79\x69\x6E\x67\x7C\x75\x6E\x66\x69\x6E\x69\x73\x68\x65\x64\x7C\x73\x65\x73\x73\x69\x6F\x6E\x73\x7C\x36\x30\x73\x7C\x70\x72\x65\x73\x73\x7C\x44\x47\x58\x65\x6F\x6E\x7C\x6A\x61\x77\x61\x62\x7C\x77\x69\x74\x68\x6F\x75\x74\x7C\x70\x65\x6F\x70\x6C\x65\x7C\x64\x61\x6E\x63\x65\x7C\x74\x68\x72\x6F\x75\x67\x68\x7C\x74\x72\x75\x74\x68\x7C\x73\x6F\x6D\x65\x6F\x6E\x65\x7C\x77\x68\x65\x6E\x7C\x59\x65\x61\x72\x73\x7C\x51\x75\x65\x72\x79\x7C\x52\x65\x61\x73\x6F\x6E\x7C\x6C\x6F\x63\x6B\x65\x64\x7C\x41\x6E\x74\x69\x7C\x53\x74\x61\x74\x75\x73\x7C\x70\x69\x6E\x67\x7C\x6C\x69\x6E\x6B\x6D\x7C\x53\x69\x7A\x65\x7C\x6E\x65\x6B\x6F\x7C\x77\x62\x75\x74\x73\x73\x73\x7C\x71\x75\x65\x72\x65\x7C\x72\x65\x76\x65\x72\x73\x65\x7C\x63\x6F\x6F\x6C\x7C\x6E\x61\x74\x75\x72\x61\x6C\x7C\x73\x6B\x65\x74\x63\x68\x7C\x7C\x7C\x33\x64\x63\x68\x72\x69\x73\x74\x6D\x61\x73\x7C\x73\x70\x61\x72\x6B\x6C\x65\x63\x68\x72\x69\x73\x74\x6D\x61\x73\x7C\x64\x65\x65\x70\x73\x65\x61\x7C\x73\x63\x69\x66\x69\x7C\x7C\x77\x61\x74\x65\x72\x70\x69\x70\x65\x7C\x73\x70\x6F\x6F\x6B\x79\x7C\x64\x69\x73\x63\x6F\x76\x65\x72\x79\x7C\x6D\x65\x74\x61\x6C\x69\x63\x7C\x62\x72\x6F\x6B\x65\x6E\x67\x6C\x61\x73\x73\x7C\x67\x72\x61\x66\x66\x69\x74\x69\x62\x69\x6B\x65\x7C\x63\x6C\x6F\x75\x64\x7C\x66\x72\x75\x69\x74\x6A\x75\x69\x63\x65\x7C\x62\x6C\x6F\x6F\x64\x67\x6C\x61\x73\x7C\x64\x61\x72\x6B\x67\x6F\x6C\x64\x7C\x64\x65\x65\x70\x7C\x7C\x72\x61\x69\x6E\x62\x6F\x77\x7C\x66\x66\x6D\x70\x65\x67\x7C\x7C\x43\x6F\x6E\x76\x65\x72\x74\x7C\x7C\x73\x69\x7A\x65\x7C\x67\x6F\x6F\x67\x6C\x65\x7C\x69\x67\x73\x74\x6F\x72\x79\x7C\x69\x6E\x69\x5F\x61\x6E\x75\x7C\x61\x6E\x75\x5F\x6C\x69\x73\x74\x7C\x74\x65\x78\x74\x62\x76\x7C\x76\x61\x6C\x69\x64\x7C\x72\x65\x73\x64\x7C\x72\x65\x70\x6F\x7C\x67\x61\x6D\x7C\x70\x6F\x72\x74\x7C\x71\x75\x6F\x74\x65\x73\x7C\x50\x61\x73\x73\x7C\x4D\x6F\x64\x65\x72\x61\x74\x69\x6F\x6E\x7C\x6B\x61\x72\x61\x6B\x74\x65\x72\x7C\x77\x69\x6B\x69\x6D\x65\x64\x69\x61\x7C\x68\x61\x72\x69\x5F\x6C\x61\x68\x69\x72\x7C\x74\x61\x68\x75\x6E\x7C\x72\x69\x6E\x67\x74\x6F\x6E\x65\x7C\x6B\x65\x6C\x75\x61\x72\x7C\x6C\x65\x61\x76\x65\x7C\x61\x6E\x74\x69\x74\x61\x67\x73\x7C\x74\x6F\x74\x61\x6C\x7C\x73\x65\x74\x6D\x65\x6E\x75\x7C\x6F\x70\x74\x69\x6F\x6E\x7C\x74\x61\x6E\x67\x67\x61\x6C\x7C\x72\x75\x6E\x74\x69\x6D\x65\x7C\x6D\x65\x64\x69\x61\x66\x69\x72\x65\x7C\x68\x65\x6E\x74\x61\x69\x7C\x61\x64\x64\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x7C\x61\x64\x64\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x42\x75\x72\x75\x61\x6E\x7C\x69\x73\x43\x65\x6B\x44\x61\x72\x61\x68\x7C\x69\x73\x49\x6E\x76\x65\x6E\x74\x6F\x72\x79\x7C\x69\x73\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x42\x75\x72\x75\x61\x6E\x7C\x76\x69\x64\x65\x6F\x4D\x65\x73\x73\x61\x67\x65\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x54\x65\x6C\x65\x67\x72\x61\x6D\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x54\x77\x69\x74\x74\x65\x72\x7C\x61\x6E\x74\x69\x57\x61\x6D\x65\x7C\x6E\x74\x74\x6F\x78\x69\x63\x7C\x7C\x6C\x69\x6D\x69\x74\x55\x73\x65\x72\x7C\x66\x74\x72\x6F\x6C\x69\x7C\x6C\x6F\x63\x61\x74\x69\x6F\x6E\x7C\x67\x72\x65\x65\x6E\x7C\x76\x61\x6C\x75\x65\x7C\x75\x70\x74\x69\x6D\x65\x7C\x7C\x77\x6F\x72\x64\x73\x7C\x66\x72\x69\x65\x6E\x64\x7C\x57\x6F\x72\x64\x7C\x75\x73\x69\x6E\x67\x7C\x43\x68\x61\x6E\x6E\x65\x6C\x7C\x77\x77\x77\x7C\x54\x69\x6B\x74\x6F\x6B\x7C\x61\x75\x74\x6F\x7C\x62\x61\x73\x65\x36\x34\x7C\x7C\x75\x73\x65\x72\x4A\x69\x64\x7C\x64\x65\x73\x6B\x72\x69\x70\x73\x69\x7C\x54\x69\x63\x54\x61\x63\x54\x6F\x65\x7C\x70\x6C\x61\x79\x65\x72\x4F\x7C\x49\x6E\x76\x61\x6C\x69\x64\x7C\x74\x69\x65\x7C\x42\x65\x65\x6E\x7C\x72\x65\x67\x7C\x72\x65\x61\x63\x74\x7C\x6D\x65\x6E\x75\x6C\x69\x73\x74\x7C\x48\x6F\x77\x7C\x74\x6F\x46\x69\x78\x65\x64\x7C\x63\x61\x74\x65\x67\x6F\x72\x79\x7C\x70\x61\x67\x65\x7C\x6F\x72\x67\x6E\x79\x65\x7C\x65\x78\x61\x6D\x6B\x6F\x73\x6F\x6E\x67\x7C\x49\x72\x6F\x6E\x7C\x47\x6F\x6C\x64\x7C\x45\x6D\x65\x72\x61\x6C\x64\x7C\x64\x6F\x6D\x62\x61\x7C\x65\x6D\x65\x72\x61\x6C\x64\x7C\x57\x68\x65\x6E\x7C\x53\x74\x69\x6C\x6C\x7C\x61\x72\x63\x68\x69\x76\x65\x7C\x6F\x75\x74\x7C\x66\x6F\x6C\x6C\x6F\x77\x69\x6E\x67\x7C\x4F\x75\x74\x7C\x61\x70\x61\x7C\x51\x75\x65\x73\x74\x69\x6F\x6E\x7C\x43\x61\x6E\x6E\x6F\x74\x7C\x54\x61\x67\x7C\x58\x65\x6F\x6E\x7C\x6C\x65\x73\x62\x69\x61\x6E\x7C\x68\x6F\x74\x7C\x64\x61\x79\x7C\x67\x69\x72\x6C\x66\x72\x69\x65\x6E\x64\x7C\x68\x61\x64\x7C\x74\x65\x6C\x6C\x7C\x68\x6F\x75\x72\x73\x7C\x70\x61\x72\x65\x6E\x74\x73\x7C\x77\x6F\x6C\x66\x7C\x74\x61\x6B\x65\x7C\x6C\x69\x6B\x65\x64\x7C\x7C\x6D\x61\x64\x65\x7C\x7C\x73\x74\x79\x6C\x65\x74\x65\x78\x74\x7C\x65\x64\x69\x74\x69\x6E\x66\x6F\x7C\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x67\x63\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x74\x76\x69\x64\x7C\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x74\x63\x68\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x69\x67\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x66\x62\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x67\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x74\x7C\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x77\x69\x74\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x61\x6C\x6C\x7C\x59\x6F\x75\x74\x75\x62\x65\x7C\x63\x68\x61\x74\x69\x6E\x66\x6F\x7C\x73\x6F\x75\x6E\x64\x63\x6C\x6F\x75\x64\x7C\x44\x75\x72\x61\x74\x69\x6F\x6E\x7C\x6D\x65\x6D\x65\x7C\x68\x6E\x65\x6B\x6F\x7C\x73\x68\x69\x6E\x6F\x62\x75\x7C\x6C\x6F\x6C\x69\x7C\x7A\x69\x70\x70\x79\x73\x68\x61\x72\x65\x7C\x69\x6E\x76\x61\x6C\x69\x64\x7C\x62\x6F\x63\x68\x69\x6C\x74\x65\x61\x6D\x7C\x75\x70\x6C\x6F\x61\x64\x65\x72\x32\x7C\x53\x74\x72\x69\x6E\x67\x7C\x6C\x69\x6F\x6E\x7C\x61\x72\x74\x7C\x63\x75\x74\x7C\x33\x64\x73\x74\x6F\x6E\x65\x7C\x70\x6F\x72\x6E\x68\x75\x62\x7C\x77\x6F\x6E\x64\x65\x72\x66\x75\x6C\x7C\x6A\x75\x69\x63\x65\x7C\x6D\x69\x63\x72\x6F\x73\x6F\x66\x74\x65\x6D\x6F\x6A\x69\x7C\x54\x68\x61\x74\x7C\x44\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E\x7C\x46\x69\x6C\x65\x7C\x41\x4E\x49\x4D\x45\x7C\x66\x69\x6C\x6D\x7C\x65\x6E\x65\x72\x67\x69\x5F\x70\x6F\x73\x69\x74\x69\x66\x7C\x65\x6E\x65\x72\x67\x69\x5F\x6E\x65\x67\x61\x74\x69\x66\x7C\x4E\x6F\x76\x69\x61\x7C\x75\x6E\x74\x75\x6B\x7C\x79\x74\x6D\x70\x33\x7C\x79\x74\x6D\x70\x34\x7C\x46\x6F\x75\x6E\x64\x7C\x44\x61\x74\x61\x62\x61\x73\x65\x7C\x6C\x69\x73\x74\x6D\x73\x67\x7C\x70\x75\x62\x6C\x69\x63\x7C\x7C\x61\x6E\x74\x69\x74\x61\x67\x7C\x54\x61\x70\x7C\x69\x6E\x64\x6F\x6D\x65\x6E\x75\x7C\x65\x76\x61\x6C\x65\x64\x7C\x70\x65\x72\x66\x6F\x72\x6D\x61\x6E\x63\x65\x7C\x66\x6F\x72\x6D\x61\x74\x70\x7C\x63\x68\x65\x65\x72\x69\x6F\x7C\x58\x65\x6F\x6E\x42\x6F\x74\x49\x6E\x63\x54\x69\x6B\x74\x6F\x6B\x7C\x63\x6F\x76\x69\x64\x7C\x45\x6D\x6F\x6A\x69\x41\x50\x49\x7C\x74\x65\x78\x74\x6D\x61\x6B\x65\x72\x7C\x7C\x7C\x78\x65\x6F\x6E\x74\x6F\x64\x7C\x67\x65\x74\x44\x61\x72\x61\x68\x7C\x67\x65\x74\x42\x65\x73\x69\x7C\x7C\x67\x65\x74\x45\x6D\x61\x73\x7C\x67\x65\x74\x45\x6D\x65\x72\x61\x6C\x64\x7C\x67\x65\x74\x50\x6F\x74\x69\x6F\x6E\x7C\x6B\x75\x72\x61\x6E\x67\x4D\x6F\x6E\x61\x79\x7C\x67\x65\x74\x4C\x69\x6D\x69\x74\x7C\x7C\x67\x65\x74\x49\x6B\x61\x6E\x7C\x67\x65\x74\x41\x79\x61\x6D\x7C\x67\x65\x74\x4B\x65\x6C\x69\x6E\x63\x69\x7C\x67\x65\x74\x44\x6F\x6D\x62\x61\x7C\x67\x65\x74\x53\x61\x70\x69\x7C\x67\x65\x74\x47\x61\x6A\x61\x68\x7C\x7C\x69\x73\x4D\x6F\x6E\x61\x79\x7C\x7C\x5F\x61\x75\x74\x6F\x73\x74\x69\x63\x6B\x7C\x74\x65\x62\x61\x6B\x74\x65\x62\x61\x6B\x61\x6E\x7C\x70\x75\x73\x68\x4E\x61\x6D\x65\x7C\x69\x73\x50\x72\x65\x6D\x69\x75\x6D\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x59\x6F\x75\x74\x75\x62\x65\x56\x69\x64\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x74\x76\x69\x64\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x59\x6F\x75\x74\x75\x62\x65\x43\x68\x61\x6E\x6E\x65\x6C\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x74\x63\x68\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x49\x6E\x73\x74\x61\x67\x72\x61\x6D\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x46\x61\x63\x65\x62\x6F\x6F\x6B\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x66\x62\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x54\x69\x6B\x74\x6F\x6B\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x74\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x77\x74\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x61\x6C\x6C\x7C\x61\x6E\x74\x69\x54\x6F\x78\x69\x63\x7C\x61\x6E\x74\x69\x56\x69\x72\x74\x65\x78\x7C\x6E\x74\x76\x69\x72\x74\x65\x78\x7C\x6E\x74\x6E\x73\x66\x77\x7C\x61\x75\x74\x6F\x72\x65\x70\x7C\x69\x73\x4E\x75\x6D\x62\x65\x72\x7C\x6C\x69\x6D\x69\x74\x61\x77\x61\x6C\x7C\x31\x36\x31\x33\x30\x34\x39\x39\x33\x30\x7C\x67\x69\x66\x50\x6C\x61\x79\x62\x61\x63\x6B\x7C\x63\x68\x65\x65\x6D\x73\x70\x69\x63\x7C\x62\x6C\x61\x63\x6B\x7C\x6A\x69\x64\x7C\x70\x72\x6F\x63\x65\x73\x73\x7C\x62\x72\x6F\x61\x64\x63\x61\x73\x74\x7C\x73\x65\x6E\x64\x50\x72\x65\x73\x65\x6E\x63\x65\x55\x70\x64\x61\x74\x65\x7C\x73\x65\x6E\x64\x52\x65\x61\x64\x52\x65\x63\x65\x69\x70\x74\x7C\x73\x65\x6E\x64\x56\x69\x64\x65\x6F\x41\x73\x53\x74\x69\x63\x6B\x65\x72\x7C\x70\x6F\x73\x74\x7C\x77\x68\x79\x7C\x6B\x69\x63\x6B\x7C\x54\x65\x6C\x65\x67\x72\x61\x6D\x7C\x66\x6F\x72\x77\x61\x64\x7C\x73\x6C\x61\x73\x68\x65\x73\x7C\x46\x6F\x6C\x6C\x6F\x77\x69\x6E\x67\x7C\x7C\x6E\x54\x68\x65\x72\x65\x7C\x7C\x7C\x73\x65\x6E\x74\x65\x6E\x63\x65\x7C\x4C\x79\x72\x69\x63\x73\x7C\x70\x6C\x61\x79\x65\x72\x58\x7C\x69\x73\x54\x69\x65\x7C\x63\x75\x72\x72\x65\x6E\x74\x54\x75\x72\x6E\x7C\x7C\x7C\x7C\x7C\x77\x69\x6E\x6E\x65\x72\x7C\x5F\x63\x75\x72\x72\x65\x6E\x74\x54\x75\x72\x6E\x7C\x7C\x7C\x73\x75\x72\x72\x65\x6E\x64\x65\x72\x7C\x53\x65\x6E\x74\x7C\x53\x65\x6C\x65\x63\x74\x7C\x74\x69\x6D\x65\x6F\x75\x74\x7C\x4F\x70\x70\x6F\x6E\x65\x6E\x74\x7C\x61\x66\x74\x65\x72\x7C\x68\x61\x73\x69\x6C\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x6E\x73\x66\x77\x7C\x42\x6C\x6F\x6F\x64\x7C\x50\x6F\x74\x69\x6F\x6E\x7C\x61\x79\x61\x6D\x7C\x6B\x65\x6C\x69\x6E\x63\x69\x7C\x73\x61\x70\x69\x7C\x67\x61\x6A\x61\x68\x7C\x54\x72\x79\x7C\x62\x61\x69\x74\x66\x6F\x6F\x64\x7C\x31\x30\x30\x30\x30\x30\x7C\x35\x30\x30\x30\x7C\x66\x69\x73\x68\x7C\x6D\x6F\x6E\x65\x79\x7C\x67\x6F\x6C\x64\x7C\x68\x75\x6E\x74\x69\x6E\x67\x7C\x75\x6E\x72\x65\x61\x64\x7C\x42\x6F\x63\x68\x69\x6C\x54\x65\x61\x6D\x7C\x6D\x61\x73\x74\x65\x72\x7C\x67\x61\x6D\x65\x73\x7C\x74\x6F\x55\x70\x70\x65\x72\x43\x61\x73\x65\x7C\x6D\x65\x6E\x74\x73\x7C\x6E\x4E\x61\x6D\x65\x7C\x74\x69\x6B\x7C\x69\x64\x69\x6F\x74\x7C\x62\x61\x73\x74\x61\x72\x64\x7C\x64\x6F\x67\x7C\x6E\x6F\x6F\x62\x7C\x68\x6F\x72\x6E\x79\x7C\x63\x75\x74\x65\x7C\x6E\x69\x62\x62\x61\x7C\x6E\x69\x62\x62\x69\x7C\x6E\x65\x72\x64\x7C\x73\x65\x78\x79\x7C\x57\x65\x6C\x63\x6F\x6D\x65\x7C\x73\x69\x6E\x67\x7C\x77\x68\x69\x63\x68\x7C\x7C\x66\x69\x72\x73\x74\x7C\x70\x6F\x73\x73\x65\x73\x73\x65\x64\x7C\x73\x68\x6F\x75\x74\x7C\x66\x72\x6F\x6E\x74\x7C\x62\x6F\x79\x66\x72\x69\x65\x6E\x64\x7C\x74\x69\x74\x61\x72\x7C\x6B\x69\x73\x73\x7C\x74\x6F\x6F\x7C\x75\x73\x65\x64\x7C\x79\x65\x61\x72\x7C\x73\x63\x68\x6F\x6F\x6C\x7C\x63\x72\x79\x7C\x62\x69\x67\x67\x65\x73\x74\x7C\x63\x72\x65\x61\x74\x6F\x72\x7C\x57\x41\x4E\x47\x59\x7C\x70\x72\x6F\x6D\x6F\x74\x65\x7C\x7C\x64\x65\x6D\x6F\x74\x65\x7C\x62\x6C\x6F\x63\x6B\x7C\x75\x6E\x62\x6C\x6F\x63\x6B\x7C\x55\x70\x76\x6F\x74\x65\x7C\x44\x65\x76\x6F\x74\x65\x7C\x63\x68\x65\x63\x6B\x76\x6F\x74\x65\x7C\x56\x4F\x54\x45\x7C\x55\x50\x56\x4F\x54\x45\x7C\x44\x45\x56\x4F\x54\x45\x7C\x69\x73\x56\x6F\x74\x65\x7C\x63\x6F\x6E\x63\x61\x74\x7C\x77\x61\x73\x56\x6F\x74\x65\x7C\x6D\x65\x6E\x76\x6F\x74\x65\x7C\x67\x72\x6F\x75\x70\x53\x65\x74\x74\x69\x6E\x67\x55\x70\x64\x61\x74\x65\x7C\x77\x72\x69\x74\x65\x46\x69\x6C\x65\x53\x79\x6E\x63\x7C\x69\x73\x42\x61\x69\x6C\x65\x79\x73\x7C\x79\x6F\x69\x7C\x66\x6F\x72\x77\x61\x72\x64\x69\x6E\x67\x53\x63\x6F\x72\x65\x7C\x69\x73\x46\x6F\x72\x77\x61\x72\x64\x65\x64\x7C\x62\x63\x6C\x6F\x63\x7C\x63\x6F\x70\x79\x4E\x46\x6F\x72\x77\x61\x72\x64\x7C\x65\x6E\x64\x73\x57\x69\x74\x68\x7C\x6C\x6F\x6C\x64\x64\x7C\x72\x61\x73\x68\x69\x64\x73\x69\x72\x65\x67\x61\x72\x32\x38\x7C\x61\x74\x74\x70\x7C\x65\x78\x74\x65\x6E\x73\x69\x6F\x6E\x7C\x53\x6F\x75\x72\x63\x65\x7C\x67\x75\x72\x61\x7C\x75\x70\x6C\x6F\x61\x64\x65\x72\x7C\x74\x72\x61\x70\x7C\x6E\x6F\x6D\x7C\x73\x66\x77\x7C\x77\x61\x6C\x6C\x7C\x70\x61\x67\x65\x73\x7C\x63\x6F\x66\x66\x65\x65\x7C\x66\x69\x6C\x65\x6E\x61\x6D\x65\x7C\x66\x6C\x69\x70\x74\x65\x78\x74\x7C\x74\x6F\x6C\x65\x74\x74\x65\x72\x7C\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x7C\x69\x6E\x66\x6F\x7C\x67\x6C\x69\x74\x63\x68\x33\x7C\x38\x37\x32\x7C\x77\x69\x6E\x64\x6F\x77\x7C\x66\x6F\x67\x67\x79\x7C\x69\x6D\x70\x72\x65\x73\x73\x69\x76\x65\x7C\x31\x30\x32\x37\x7C\x62\x6F\x6B\x65\x68\x7C\x7C\x68\x6F\x6C\x6F\x67\x72\x61\x70\x68\x69\x63\x7C\x62\x65\x61\x72\x7C\x63\x61\x72\x62\x6F\x6E\x7C\x33\x64\x73\x74\x6F\x6E\x65\x32\x7C\x6D\x65\x74\x61\x6C\x7C\x67\x6C\x61\x73\x73\x7C\x74\x65\x64\x73\x7C\x68\x6F\x6F\x72\x72\x6F\x72\x7C\x63\x6C\x61\x73\x73\x69\x63\x7C\x61\x6A\x67\x7C\x77\x65\x62\x70\x54\x6F\x4D\x70\x34\x7C\x74\x6F\x41\x75\x64\x69\x6F\x7C\x6F\x75\x74\x70\x75\x74\x46\x69\x6C\x65\x7C\x59\x4F\x55\x54\x55\x42\x45\x7C\x74\x69\x6D\x65\x73\x74\x61\x6D\x70\x7C\x61\x72\x74\x69\x7C\x67\x69\x6D\x61\x67\x65\x7C\x6C\x6F\x6F\x6B\x69\x6E\x67\x7C\x49\x4E\x53\x54\x41\x47\x52\x41\x4D\x7C\x55\x73\x65\x72\x6E\x61\x6D\x65\x7C\x46\x6F\x6C\x6C\x6F\x77\x65\x72\x73\x7C\x66\x6F\x6C\x6C\x6F\x77\x65\x72\x73\x7C\x66\x69\x6C\x65\x54\x79\x70\x65\x7C\x69\x6C\x6F\x64\x7C\x75\x72\x6C\x6E\x79\x61\x7C\x70\x72\x6F\x66\x69\x6C\x65\x50\x69\x63\x55\x72\x6C\x7C\x70\x72\x65\x76\x69\x65\x77\x7C\x54\x49\x54\x4C\x45\x7C\x51\x55\x41\x4C\x49\x54\x59\x7C\x55\x52\x4C\x7C\x44\x6F\x77\x6E\x6C\x6F\x61\x64\x65\x72\x7C\x67\x69\x74\x63\x6C\x6F\x6E\x65\x7C\x4D\x61\x6E\x67\x61\x7C\x67\x65\x6E\x72\x65\x73\x7C\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x7C\x74\x76\x73\x63\x68\x65\x64\x75\x6C\x65\x7C\x70\x6C\x61\x79\x73\x74\x6F\x72\x65\x7C\x6D\x63\x70\x65\x64\x6C\x7C\x68\x61\x70\x70\x79\x6D\x6F\x64\x7C\x73\x65\x61\x72\x63\x68\x67\x63\x7C\x73\x65\x72\x76\x65\x72\x6D\x63\x7C\x42\x61\x68\x61\x73\x61\x7C\x61\x6E\x69\x6D\x65\x71\x75\x6F\x74\x65\x73\x7C\x71\x75\x6F\x74\x65\x73\x41\x6E\x69\x6D\x65\x7C\x77\x69\x6B\x69\x7C\x72\x65\x73\x32\x7C\x32\x30\x30\x34\x7C\x53\x69\x64\x65\x7C\x70\x65\x6B\x65\x72\x6A\x61\x61\x6E\x7C\x6E\x4E\x6F\x74\x65\x7C\x6C\x61\x68\x69\x72\x7C\x73\x68\x69\x6F\x7C\x75\x6D\x6D\x61\x7C\x44\x6F\x77\x6E\x6C\x6F\x61\x64\x7C\x68\x61\x68\x7C\x6A\x61\x64\x69\x65\x7C\x62\x61\x73\x73\x7C\x62\x6C\x6F\x77\x6E\x7C\x65\x61\x72\x72\x61\x70\x65\x7C\x66\x61\x73\x74\x7C\x66\x61\x74\x7C\x6E\x69\x67\x68\x74\x63\x6F\x72\x65\x7C\x72\x6F\x62\x6F\x74\x7C\x73\x6C\x6F\x77\x7C\x43\x68\x61\x6E\x67\x65\x7C\x48\x61\x73\x68\x7C\x67\x65\x74\x6D\x73\x67\x7C\x55\x73\x65\x64\x7C\x47\x72\x6F\x75\x70\x73\x7C\x4E\x6F\x77\x7C\x72\x6F\x6D\x65\x6F\x7C\x73\x65\x74\x62\x69\x6F\x7C\x73\x63\x72\x69\x70\x74\x7C\x61\x6C\x6C\x6D\x65\x6E\x75\x7C\x53\x6F\x75\x6E\x64\x7C\x52\x61\x6E\x64\x6F\x6D\x7C\x46\x75\x6E\x7C\x49\x6E\x64\x6F\x7C\x73\x74\x69\x63\x6B\x7C\x67\x69\x66\x7C\x49\x4D\x47\x7C\x53\x54\x49\x43\x4B\x45\x52\x7C\x73\x65\x6E\x64\x4E\x79\x65\x7C\x70\x72\x6F\x74\x6F\x7C\x70\x61\x74\x68\x7C\x66\x65\x74\x63\x68\x7C\x63\x6C\x6F\x63\x6B\x53\x74\x72\x69\x6E\x67\x7C\x74\x68\x69\x63\x63\x79\x73\x61\x70\x69\x7C\x6A\x61\x64\x77\x61\x6C\x74\x76\x7C\x61\x64\x64\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x44\x61\x72\x61\x68\x7C\x6B\x75\x72\x61\x6E\x67\x44\x61\x72\x61\x68\x7C\x67\x65\x74\x55\x6D\x70\x61\x6E\x7C\x61\x64\x64\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x4D\x6F\x6E\x61\x79\x7C\x44\x61\x72\x61\x68\x41\x77\x61\x6C\x7C\x69\x73\x44\x61\x72\x61\x68\x7C\x69\x73\x49\x6E\x76\x65\x6E\x74\x6F\x72\x79\x4D\x6F\x6E\x61\x79\x7C\x53\x74\x6F\x72\x65\x7C\x4B\x61\x72\x6E\x65\x7C\x4C\x69\x79\x65\x7C\x61\x75\x74\x6F\x73\x74\x69\x63\x6B\x70\x63\x7C\x73\x72\x63\x7C\x69\x6D\x61\x67\x65\x4D\x65\x73\x73\x61\x67\x65\x7C\x62\x75\x74\x74\x6F\x6E\x73\x52\x65\x73\x70\x6F\x6E\x73\x65\x4D\x65\x73\x73\x61\x67\x65\x7C\x6C\x69\x73\x74\x52\x65\x73\x70\x6F\x6E\x73\x65\x4D\x65\x73\x73\x61\x67\x65\x7C\x6D\x61\x74\x63\x68\x7C\x6D\x65\x6B\x7C\x73\x75\x62\x6A\x65\x63\x74\x7C\x67\x72\x6F\x75\x70\x41\x64\x6D\x69\x6E\x73\x7C\x70\x72\x65\x6D\x69\x75\x6D\x7C\x41\x6E\x74\x69\x4C\x69\x6E\x6B\x41\x6C\x6C\x7C\x6E\x74\x77\x61\x6D\x65\x7C\x69\x73\x41\x75\x74\x6F\x53\x74\x69\x63\x6B\x7C\x69\x73\x41\x75\x74\x6F\x53\x74\x69\x63\x6B\x65\x72\x7C\x6F\x62\x6A\x65\x63\x74\x7C\x61\x75\x74\x6F\x62\x69\x6F\x7C\x70\x6E\x67\x7C\x41\x73\x69\x61\x7C\x4B\x6F\x6C\x6B\x61\x74\x61\x7C\x56\x69\x72\x75\x73\x7C\x7C\x74\x6F\x73\x7C\x7C\x73\x69\x6E\x7C\x7C\x7C\x42\x61\x64\x7C\x61\x6E\x6A\x69\x7C\x61\x6E\x6A\x75\x7C\x73\x61\x74\x75\x7C\x70\x6C\x65\x61\x73\x65\x7C\x69\x73\x51\x75\x6F\x74\x65\x64\x56\x69\x64\x65\x6F\x7C\x7C\x69\x73\x51\x75\x6F\x74\x65\x64\x41\x75\x64\x69\x6F\x7C\x67\x69\x76\x65\x7C\x41\x6E\x73\x77\x65\x72\x73\x7C\x6D\x6F\x64\x65\x7C\x53\x65\x6E\x74\x65\x6E\x63\x65\x7C\x54\x75\x72\x6E\x7C\x79\x65\x73\x7C\x72\x65\x6A\x65\x63\x74\x7C\x4C\x6F\x73\x74\x7C\x72\x65\x73\x6F\x6C\x76\x65\x7C\x75\x73\x65\x7C\x7C\x69\x73\x42\x61\x6E\x65\x7C\x55\x73\x65\x72\x7C\x70\x72\x6F\x66\x69\x6C\x65\x7C\x52\x45\x53\x55\x4C\x54\x7C\x48\x65\x61\x6C\x7C\x62\x65\x73\x69\x7C\x65\x6D\x61\x73\x7C\x62\x65\x73\x69\x6E\x79\x61\x7C\x65\x6D\x61\x73\x6E\x79\x61\x7C\x65\x6D\x65\x72\x61\x6C\x64\x6E\x79\x61\x7C\x70\x6F\x74\x69\x6F\x6E\x7C\x53\x75\x66\x66\x69\x63\x69\x65\x6E\x74\x7C\x50\x75\x72\x63\x68\x61\x73\x65\x7C\x32\x35\x30\x30\x7C\x46\x6F\x72\x6D\x61\x74\x7C\x63\x68\x69\x63\x6B\x65\x6E\x7C\x31\x35\x30\x30\x30\x7C\x6C\x75\x6B\x61\x7C\x69\x6B\x61\x6E\x6D\x75\x7C\x63\x65\x69\x6C\x7C\x64\x6F\x6D\x62\x61\x6E\x79\x61\x7C\x73\x61\x70\x69\x6E\x79\x61\x7C\x67\x61\x6A\x61\x68\x6E\x79\x61\x7C\x72\x65\x73\x65\x74\x67\x72\x6F\x75\x70\x6C\x69\x6E\x6B\x7C\x61\x66\x6B\x7C\x66\x6F\x75\x6E\x64\x7C\x64\x65\x6C\x74\x74\x74\x7C\x73\x75\x69\x74\x70\x76\x70\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x7C\x74\x65\x72\x7C\x61\x6E\x73\x77\x65\x72\x7C\x71\x75\x65\x73\x74\x69\x6F\x6E\x7C\x4D\x6F\x64\x65\x7C\x52\x65\x73\x75\x6C\x74\x7C\x73\x65\x63\x6F\x6E\x64\x7C\x6D\x79\x73\x6F\x75\x6C\x6D\x61\x74\x65\x7C\x63\x6F\x75\x70\x6C\x65\x7C\x6F\x72\x61\x6E\x67\x7C\x6D\x61\x72\x72\x69\x65\x64\x7C\x6C\x65\x6C\x7C\x66\x75\x63\x6B\x7C\x62\x69\x73\x61\x7C\x67\x69\x6D\x61\x6E\x61\x7C\x72\x61\x74\x65\x7C\x67\x61\x6E\x7C\x7C\x62\x65\x61\x75\x74\x69\x66\x75\x6C\x63\x68\x65\x63\x6B\x7C\x63\x68\x61\x72\x61\x63\x74\x65\x72\x63\x68\x65\x63\x6B\x7C\x78\x65\x6F\x6E\x79\x7C\x47\x6F\x6F\x64\x7C\x61\x77\x65\x73\x6F\x6D\x65\x63\x68\x65\x63\x6B\x7C\x67\x61\x79\x63\x68\x65\x63\x6B\x7C\x63\x75\x74\x65\x63\x68\x65\x63\x6B\x7C\x6C\x65\x73\x62\x69\x61\x6E\x63\x68\x65\x63\x6B\x7C\x68\x6F\x72\x6E\x79\x63\x68\x65\x63\x6B\x7C\x70\x72\x65\x74\x74\x79\x63\x68\x65\x63\x6B\x7C\x6C\x6F\x76\x65\x6C\x79\x63\x68\x65\x63\x6B\x7C\x75\x67\x6C\x79\x63\x68\x65\x63\x6B\x7C\x73\x61\x6E\x67\x65\x68\x7C\x66\x6F\x6F\x6C\x69\x73\x68\x7C\x73\x6D\x61\x72\x74\x7C\x67\x61\x79\x7C\x73\x74\x75\x62\x62\x6C\x65\x7C\x77\x69\x62\x75\x7C\x61\x73\x73\x68\x6F\x6C\x65\x7C\x68\x61\x6E\x64\x73\x6F\x6D\x65\x7C\x62\x65\x61\x75\x74\x69\x66\x75\x6C\x7C\x6B\x69\x6E\x64\x7C\x70\x72\x65\x74\x74\x79\x7C\x63\x75\x6E\x74\x7C\x7C\x6E\x6F\x6F\x62\x72\x61\x7C\x6D\x75\x6D\x75\x7C\x72\x61\x73\x63\x61\x6C\x7C\x73\x63\x75\x6D\x62\x61\x67\x7C\x6E\x75\x74\x73\x7C\x63\x6F\x6D\x72\x61\x64\x65\x7C\x66\x61\x67\x6F\x74\x7C\x73\x63\x6F\x75\x6E\x64\x72\x65\x6C\x7C\x64\x69\x74\x63\x68\x7C\x64\x6F\x70\x65\x7C\x67\x75\x63\x63\x69\x7C\x6C\x69\x74\x7C\x64\x75\x6D\x62\x61\x73\x73\x7C\x63\x72\x61\x63\x6B\x68\x65\x61\x64\x7C\x6D\x6F\x74\x68\x65\x72\x66\x75\x63\x6B\x65\x72\x7C\x73\x75\x63\x6B\x65\x72\x7C\x66\x75\x63\x6B\x62\x6F\x79\x7C\x70\x6C\x61\x79\x62\x6F\x79\x7C\x66\x75\x63\x6B\x67\x69\x72\x6C\x7C\x70\x6C\x61\x79\x67\x69\x72\x6C\x7C\x64\x72\x6F\x70\x7C\x6F\x6E\x6C\x79\x7C\x67\x72\x6F\x75\x70\x73\x7C\x6A\x75\x73\x74\x7C\x41\x6E\x64\x7C\x65\x6D\x62\x61\x72\x72\x61\x73\x73\x69\x6E\x67\x7C\x63\x68\x75\x64\x61\x7C\x7C\x73\x6E\x61\x70\x7C\x64\x61\x79\x73\x7C\x44\x4F\x4E\x7C\x4F\x70\x65\x6E\x7C\x7C\x6C\x6F\x6E\x67\x7C\x70\x65\x72\x73\x6F\x6E\x61\x6C\x7C\x7C\x6D\x61\x6B\x65\x73\x7C\x73\x61\x64\x7C\x62\x72\x6F\x7C\x7C\x7C\x6C\x69\x66\x65\x7C\x64\x69\x64\x7C\x67\x6F\x74\x7C\x77\x6F\x72\x73\x74\x7C\x57\x68\x69\x63\x68\x7C\x73\x6D\x65\x6C\x6C\x7C\x6B\x61\x70\x61\x6E\x7C\x59\x65\x61\x72\x7C\x77\x61\x6E\x67\x79\x7C\x68\x61\x69\x72\x7C\x70\x72\x65\x64\x65\x61\x7C\x6C\x65\x61\x76\x65\x67\x63\x7C\x73\x65\x74\x65\x78\x69\x66\x7C\x73\x65\x74\x6E\x61\x6D\x65\x7C\x73\x65\x74\x64\x65\x73\x63\x7C\x75\x70\x64\x61\x74\x65\x50\x72\x6F\x66\x69\x6C\x65\x50\x69\x63\x74\x75\x72\x65\x7C\x73\x65\x74\x67\x63\x70\x70\x7C\x74\x61\x67\x61\x6C\x6C\x7C\x6D\x65\x6D\x7C\x68\x69\x64\x65\x74\x61\x67\x7C\x45\x64\x69\x74\x7C\x61\x6C\x6C\x6F\x77\x65\x64\x7C\x73\x65\x74\x70\x70\x62\x6F\x74\x7C\x67\x72\x6F\x75\x70\x6C\x69\x6E\x6B\x7C\x65\x70\x68\x65\x6D\x65\x72\x61\x6C\x7C\x4C\x65\x66\x74\x7C\x73\x75\x72\x75\x68\x7C\x66\x69\x74\x75\x72\x6E\x61\x6D\x65\x7C\x73\x65\x6E\x64\x6D\x7C\x62\x63\x67\x72\x6F\x75\x70\x7C\x65\x6E\x74\x72\x69\x65\x73\x7C\x62\x63\x61\x6C\x6C\x7C\x62\x63\x69\x6D\x61\x67\x65\x7C\x62\x63\x76\x69\x64\x65\x6F\x7C\x62\x63\x61\x75\x64\x69\x6F\x7C\x7C\x39\x39\x39\x7C\x77\x6F\x6B\x77\x6F\x6C\x7C\x6C\x69\x73\x74\x70\x63\x7C\x6C\x69\x73\x74\x67\x63\x7C\x63\x72\x65\x61\x74\x69\x6F\x6E\x7C\x70\x61\x74\x72\x69\x63\x6B\x7C\x73\x65\x6E\x64\x4D\x65\x64\x69\x61\x7C\x68\x65\x6C\x6C\x6F\x7C\x74\x74\x70\x7C\x7C\x64\x6F\x67\x65\x7C\x6C\x6F\x76\x65\x73\x74\x69\x63\x6B\x65\x72\x7C\x73\x77\x6E\x7C\x70\x63\x6B\x6E\x6D\x7C\x7C\x61\x74\x6E\x6D\x7C\x73\x6D\x65\x6D\x65\x7C\x50\x68\x6F\x74\x6F\x7C\x65\x62\x69\x6E\x61\x72\x79\x7C\x64\x62\x69\x6E\x61\x72\x79\x7C\x62\x74\x73\x7C\x77\x61\x6C\x6C\x6E\x65\x6F\x6E\x7C\x77\x61\x6C\x6C\x72\x61\x6E\x64\x6F\x6D\x7C\x77\x61\x6C\x6C\x63\x6F\x64\x65\x7C\x77\x61\x6C\x6C\x70\x75\x62\x67\x7C\x77\x61\x6C\x6C\x6D\x6C\x7C\x77\x6F\x6F\x66\x7C\x38\x62\x61\x6C\x6C\x7C\x67\x6F\x6F\x73\x65\x7C\x67\x65\x63\x67\x7C\x66\x65\x65\x64\x7C\x7C\x61\x76\x61\x74\x61\x72\x7C\x6C\x69\x7A\x61\x72\x64\x7C\x6D\x65\x6F\x77\x7C\x74\x69\x63\x6B\x6C\x65\x7C\x6D\x61\x73\x74\x75\x72\x62\x61\x74\x69\x6F\x6E\x7C\x6A\x61\x68\x79\x7C\x67\x6C\x61\x73\x73\x65\x73\x7C\x67\x61\x6E\x67\x62\x61\x6E\x67\x7C\x66\x6F\x6F\x74\x7C\x66\x65\x6D\x64\x6F\x6D\x7C\x63\x75\x6D\x7C\x65\x72\x6F\x7C\x63\x75\x63\x6B\x6F\x6C\x64\x7C\x62\x6C\x6F\x77\x6A\x6F\x62\x7C\x62\x64\x73\x6D\x7C\x61\x68\x65\x67\x61\x6F\x7C\x61\x73\x73\x7C\x6F\x72\x67\x79\x7C\x70\x61\x6E\x74\x69\x65\x73\x7C\x70\x75\x73\x73\x79\x7C\x74\x68\x69\x67\x68\x73\x7C\x79\x75\x72\x69\x7C\x73\x70\x61\x6E\x6B\x7C\x62\x6C\x6F\x77\x6A\x6F\x62\x67\x69\x66\x7C\x68\x65\x6E\x74\x61\x69\x76\x69\x64\x65\x6F\x7C\x6E\x77\x61\x69\x66\x75\x7C\x67\x61\x73\x6D\x7C\x66\x6F\x78\x67\x69\x72\x6C\x7C\x61\x6E\x69\x6D\x65\x6E\x6F\x6D\x7C\x77\x61\x69\x66\x75\x33\x7C\x6E\x65\x6B\x6F\x32\x7C\x70\x69\x63\x73\x7C\x61\x6E\x69\x6D\x65\x63\x75\x64\x64\x6C\x65\x7C\x61\x6E\x69\x6D\x65\x73\x6C\x61\x70\x7C\x61\x6E\x69\x6D\x65\x70\x61\x74\x7C\x61\x6E\x69\x6D\x65\x6E\x65\x6B\x6F\x7C\x61\x6E\x69\x6D\x65\x6B\x69\x73\x73\x7C\x61\x6E\x69\x6D\x65\x77\x6C\x70\x7C\x61\x6E\x69\x6D\x65\x73\x70\x61\x6E\x6B\x7C\x61\x6E\x69\x6D\x65\x63\x72\x79\x7C\x61\x6E\x69\x6D\x65\x6B\x69\x6C\x6C\x7C\x61\x6E\x69\x6D\x65\x6C\x69\x63\x6B\x7C\x61\x6E\x69\x6D\x65\x62\x69\x74\x65\x7C\x61\x6E\x69\x6D\x65\x79\x65\x65\x74\x7C\x61\x6E\x69\x6D\x65\x62\x75\x6C\x6C\x79\x7C\x61\x6E\x69\x6D\x65\x62\x6F\x6E\x6B\x7C\x61\x6E\x69\x6D\x65\x77\x69\x6E\x6B\x7C\x61\x6E\x69\x6D\x65\x70\x6F\x6B\x65\x7C\x61\x6E\x69\x6D\x65\x73\x6D\x69\x6C\x65\x7C\x61\x6E\x69\x6D\x65\x77\x61\x76\x65\x7C\x61\x6E\x69\x6D\x65\x61\x77\x6F\x6F\x7C\x61\x6E\x69\x6D\x65\x62\x6C\x75\x73\x68\x7C\x61\x6E\x69\x6D\x65\x73\x6D\x75\x67\x7C\x7C\x61\x6E\x69\x6D\x65\x67\x6C\x6F\x6D\x70\x7C\x61\x6E\x69\x6D\x65\x68\x61\x70\x70\x79\x7C\x61\x6E\x69\x6D\x65\x64\x61\x6E\x63\x65\x7C\x61\x6E\x69\x6D\x65\x63\x72\x69\x6E\x67\x65\x7C\x61\x6E\x69\x6D\x65\x68\x69\x67\x68\x66\x69\x76\x65\x7C\x61\x6E\x69\x6D\x65\x68\x61\x6E\x64\x68\x6F\x6C\x64\x7C\x61\x6E\x69\x6D\x65\x6D\x65\x67\x75\x6D\x69\x6E\x7C\x6D\x65\x67\x75\x6D\x69\x6E\x32\x7C\x6D\x65\x67\x75\x6D\x69\x6E\x7C\x61\x77\x6F\x6F\x32\x7C\x61\x6E\x69\x6D\x65\x77\x61\x6C\x6C\x32\x7C\x6B\x69\x6C\x6C\x7C\x68\x75\x67\x7C\x70\x61\x74\x7C\x6C\x69\x63\x6B\x7C\x62\x69\x74\x65\x7C\x79\x65\x65\x74\x7C\x62\x75\x6C\x6C\x79\x7C\x62\x6F\x6E\x6B\x7C\x77\x69\x6E\x6B\x7C\x70\x6F\x6B\x65\x7C\x73\x6D\x69\x6C\x65\x7C\x77\x61\x76\x65\x7C\x61\x77\x6F\x6F\x7C\x62\x6C\x75\x73\x68\x7C\x73\x6D\x75\x67\x7C\x67\x6C\x6F\x6D\x70\x7C\x63\x72\x69\x6E\x67\x65\x7C\x63\x75\x64\x64\x6C\x65\x7C\x68\x69\x67\x68\x66\x69\x76\x65\x7C\x68\x61\x6E\x64\x68\x6F\x6C\x64\x7C\x61\x65\x73\x74\x68\x65\x74\x69\x63\x7C\x61\x70\x70\x6C\x69\x63\x61\x74\x69\x6F\x6E\x7C\x7A\x69\x70\x7C\x73\x61\x76\x65\x66\x72\x6F\x6D\x7C\x76\x69\x64\x65\x6F\x73\x7C\x6A\x61\x69\x6C\x7C\x70\x69\x78\x65\x6C\x61\x74\x65\x7C\x62\x6C\x75\x72\x7C\x69\x6D\x61\x67\x65\x73\x6B\x65\x74\x63\x68\x7C\x74\x72\x69\x67\x67\x65\x72\x65\x64\x77\x65\x62\x70\x7C\x73\x68\x69\x74\x7C\x62\x75\x72\x6E\x7C\x69\x6E\x76\x65\x72\x74\x7C\x77\x61\x6E\x74\x65\x64\x7C\x7C\x72\x69\x70\x7C\x67\x61\x79\x65\x66\x66\x65\x63\x74\x7C\x64\x65\x6C\x65\x74\x65\x65\x66\x66\x65\x63\x74\x7C\x7C\x66\x72\x61\x6D\x65\x64\x7C\x62\x65\x61\x75\x74\x69\x66\x75\x6C\x65\x66\x66\x65\x63\x74\x7C\x72\x65\x61\x64\x6D\x6F\x72\x65\x7C\x68\x61\x6C\x6F\x7C\x74\x6F\x76\x69\x65\x77\x6F\x6E\x63\x65\x7C\x74\x69\x6E\x79\x75\x72\x6C\x7C\x74\x65\x73\x7C\x73\x6F\x75\x6E\x64\x31\x7C\x73\x6F\x75\x6E\x64\x32\x7C\x73\x6F\x75\x6E\x64\x33\x7C\x73\x6F\x75\x6E\x64\x34\x7C\x73\x6F\x75\x6E\x64\x35\x7C\x73\x6F\x75\x6E\x64\x36\x7C\x73\x6F\x75\x6E\x64\x37\x7C\x73\x6F\x75\x6E\x64\x38\x7C\x73\x6F\x75\x6E\x64\x39\x7C\x73\x6F\x75\x6E\x64\x31\x30\x7C\x73\x6F\x75\x6E\x64\x31\x31\x7C\x73\x6F\x75\x6E\x64\x31\x32\x7C\x73\x6F\x75\x6E\x64\x31\x33\x7C\x73\x6F\x75\x6E\x64\x31\x34\x7C\x73\x6F\x75\x6E\x64\x31\x35\x7C\x73\x6F\x75\x6E\x64\x31\x36\x7C\x73\x6F\x75\x6E\x64\x31\x37\x7C\x73\x6F\x75\x6E\x64\x31\x38\x7C\x73\x6F\x75\x6E\x64\x31\x39\x7C\x73\x6F\x75\x6E\x64\x32\x30\x7C\x73\x6F\x75\x6E\x64\x32\x31\x7C\x73\x6F\x75\x6E\x64\x32\x32\x7C\x73\x6F\x75\x6E\x64\x32\x33\x7C\x73\x6F\x75\x6E\x64\x32\x34\x7C\x73\x6F\x75\x6E\x64\x32\x35\x7C\x73\x6F\x75\x6E\x64\x32\x36\x7C\x73\x6F\x75\x6E\x64\x32\x37\x7C\x73\x6F\x75\x6E\x64\x32\x38\x7C\x73\x6F\x75\x6E\x64\x32\x39\x7C\x73\x6F\x75\x6E\x64\x33\x30\x7C\x73\x6F\x75\x6E\x64\x33\x31\x7C\x73\x6F\x75\x6E\x64\x33\x32\x7C\x73\x6F\x75\x6E\x64\x33\x33\x7C\x73\x6F\x75\x6E\x64\x33\x34\x7C\x73\x6F\x75\x6E\x64\x33\x35\x7C\x73\x6F\x75\x6E\x64\x33\x36\x7C\x73\x6F\x75\x6E\x64\x33\x37\x7C\x73\x6F\x75\x6E\x64\x33\x38\x7C\x73\x6F\x75\x6E\x64\x33\x39\x7C\x73\x6F\x75\x6E\x64\x34\x30\x7C\x73\x6F\x75\x6E\x64\x34\x31\x7C\x73\x6F\x75\x6E\x64\x34\x32\x7C\x73\x6F\x75\x6E\x64\x34\x33\x7C\x73\x6F\x75\x6E\x64\x34\x34\x7C\x73\x6F\x75\x6E\x64\x34\x35\x7C\x73\x6F\x75\x6E\x64\x34\x36\x7C\x73\x6F\x75\x6E\x64\x34\x37\x7C\x73\x6F\x75\x6E\x64\x34\x38\x7C\x73\x6F\x75\x6E\x64\x34\x39\x7C\x73\x6F\x75\x6E\x64\x35\x30\x7C\x73\x6F\x75\x6E\x64\x35\x31\x7C\x73\x6F\x75\x6E\x64\x35\x32\x7C\x7C\x73\x6F\x75\x6E\x64\x35\x33\x7C\x73\x6F\x75\x6E\x64\x35\x34\x7C\x73\x6F\x75\x6E\x64\x35\x35\x7C\x73\x6F\x75\x6E\x64\x35\x36\x7C\x73\x6F\x75\x6E\x64\x35\x37\x7C\x73\x6F\x75\x6E\x64\x35\x38\x7C\x73\x6F\x75\x6E\x64\x35\x39\x7C\x73\x6F\x75\x6E\x64\x36\x30\x7C\x73\x6F\x75\x6E\x64\x36\x31\x7C\x73\x6F\x75\x6E\x64\x36\x32\x7C\x73\x6F\x75\x6E\x64\x36\x33\x7C\x7C\x73\x6F\x75\x6E\x64\x36\x34\x7C\x73\x6F\x75\x6E\x64\x36\x35\x7C\x73\x6F\x75\x6E\x64\x36\x36\x7C\x7C\x73\x6F\x75\x6E\x64\x36\x37\x7C\x73\x6F\x75\x6E\x64\x36\x38\x7C\x73\x6F\x75\x6E\x64\x36\x39\x7C\x73\x6F\x75\x6E\x64\x37\x30\x7C\x73\x6F\x75\x6E\x64\x37\x31\x7C\x73\x6F\x75\x6E\x64\x37\x32\x7C\x73\x6F\x75\x6E\x64\x37\x33\x7C\x73\x6F\x75\x6E\x64\x37\x34\x7C\x73\x6F\x75\x6E\x64\x37\x35\x7C\x73\x6F\x75\x6E\x64\x37\x36\x7C\x73\x6F\x75\x6E\x64\x37\x37\x7C\x73\x6F\x75\x6E\x64\x37\x38\x7C\x73\x6F\x75\x6E\x64\x37\x39\x7C\x73\x6F\x75\x6E\x64\x38\x30\x7C\x73\x6F\x75\x6E\x64\x38\x31\x7C\x73\x6F\x75\x6E\x64\x38\x32\x7C\x73\x6F\x75\x6E\x64\x38\x33\x7C\x73\x6F\x75\x6E\x64\x38\x34\x7C\x73\x6F\x75\x6E\x64\x38\x35\x7C\x73\x6F\x75\x6E\x64\x38\x36\x7C\x73\x6F\x75\x6E\x64\x38\x37\x7C\x73\x6F\x75\x6E\x64\x38\x38\x7C\x73\x6F\x75\x6E\x64\x38\x39\x7C\x73\x6F\x75\x6E\x64\x39\x30\x7C\x73\x6F\x75\x6E\x64\x39\x31\x7C\x73\x6F\x75\x6E\x64\x39\x32\x7C\x73\x6F\x75\x6E\x64\x39\x33\x7C\x73\x6F\x75\x6E\x64\x39\x34\x7C\x73\x6F\x75\x6E\x64\x39\x35\x7C\x73\x6F\x75\x6E\x64\x39\x36\x7C\x73\x6F\x75\x6E\x64\x39\x37\x7C\x73\x6F\x75\x6E\x64\x39\x38\x7C\x73\x6F\x75\x6E\x64\x39\x39\x7C\x73\x6F\x75\x6E\x64\x31\x30\x30\x7C\x73\x6F\x75\x6E\x64\x31\x30\x31\x7C\x73\x6F\x75\x6E\x64\x31\x30\x32\x7C\x73\x6F\x75\x6E\x64\x31\x30\x33\x7C\x73\x6F\x75\x6E\x64\x31\x30\x34\x7C\x73\x6F\x75\x6E\x64\x31\x30\x35\x7C\x73\x6F\x75\x6E\x64\x31\x30\x36\x7C\x73\x6F\x75\x6E\x64\x31\x30\x37\x7C\x73\x6F\x75\x6E\x64\x31\x30\x38\x7C\x73\x6F\x75\x6E\x64\x31\x30\x39\x7C\x73\x6F\x75\x6E\x64\x31\x31\x30\x7C\x73\x6F\x75\x6E\x64\x31\x31\x31\x7C\x73\x6F\x75\x6E\x64\x31\x31\x32\x7C\x7C\x7C\x73\x6F\x75\x6E\x64\x31\x31\x33\x7C\x73\x6F\x75\x6E\x64\x31\x31\x34\x7C\x73\x6F\x75\x6E\x64\x31\x31\x35\x7C\x73\x6F\x75\x6E\x64\x31\x31\x36\x7C\x73\x6F\x75\x6E\x64\x31\x31\x37\x7C\x73\x6F\x75\x6E\x64\x31\x31\x38\x7C\x73\x6F\x75\x6E\x64\x31\x31\x39\x7C\x73\x6F\x75\x6E\x64\x31\x32\x30\x7C\x73\x6F\x75\x6E\x64\x31\x32\x31\x7C\x7C\x73\x6F\x75\x6E\x64\x31\x32\x32\x7C\x73\x6F\x75\x6E\x64\x31\x32\x33\x7C\x73\x6F\x75\x6E\x64\x31\x32\x34\x7C\x73\x6F\x75\x6E\x64\x31\x32\x35\x7C\x73\x6F\x75\x6E\x64\x31\x32\x36\x7C\x73\x6F\x75\x6E\x64\x31\x32\x37\x7C\x73\x6F\x75\x6E\x64\x31\x32\x38\x7C\x73\x6F\x75\x6E\x64\x31\x32\x39\x7C\x73\x6F\x75\x6E\x64\x31\x33\x30\x7C\x73\x6F\x75\x6E\x64\x31\x33\x31\x7C\x7C\x73\x6F\x75\x6E\x64\x31\x33\x32\x7C\x73\x6F\x75\x6E\x64\x31\x33\x33\x7C\x73\x6F\x75\x6E\x64\x31\x33\x34\x7C\x73\x6F\x75\x6E\x64\x31\x33\x35\x7C\x73\x6F\x75\x6E\x64\x31\x33\x36\x7C\x73\x6F\x75\x6E\x64\x31\x33\x37\x7C\x73\x6F\x75\x6E\x64\x31\x33\x38\x7C\x73\x6F\x75\x6E\x64\x31\x33\x39\x7C\x73\x6F\x75\x6E\x64\x31\x34\x30\x7C\x73\x6F\x75\x6E\x64\x31\x34\x31\x7C\x73\x6F\x75\x6E\x64\x31\x34\x32\x7C\x73\x6F\x75\x6E\x64\x31\x34\x33\x7C\x73\x6F\x75\x6E\x64\x31\x34\x34\x7C\x73\x6F\x75\x6E\x64\x31\x34\x35\x7C\x73\x6F\x75\x6E\x64\x31\x34\x36\x7C\x73\x6F\x75\x6E\x64\x31\x34\x37\x7C\x73\x6F\x75\x6E\x64\x31\x34\x38\x7C\x73\x6F\x75\x6E\x64\x31\x34\x39\x7C\x73\x6F\x75\x6E\x64\x31\x35\x30\x7C\x73\x6F\x75\x6E\x64\x31\x35\x31\x7C\x73\x6F\x75\x6E\x64\x31\x35\x32\x7C\x73\x6F\x75\x6E\x64\x31\x35\x33\x7C\x73\x6F\x75\x6E\x64\x31\x35\x34\x7C\x73\x6F\x75\x6E\x64\x31\x35\x35\x7C\x73\x6F\x75\x6E\x64\x31\x35\x36\x7C\x73\x6F\x75\x6E\x64\x31\x35\x37\x7C\x73\x6F\x75\x6E\x64\x31\x35\x38\x7C\x73\x6F\x75\x6E\x64\x31\x35\x39\x7C\x73\x6F\x75\x6E\x64\x31\x36\x30\x7C\x73\x6F\x75\x6E\x64\x31\x36\x31\x7C\x33\x64\x62\x6F\x78\x7C\x77\x61\x74\x65\x72\x64\x72\x6F\x70\x7C\x6C\x69\x6F\x6E\x32\x7C\x6D\x61\x73\x63\x6F\x74\x7C\x31\x30\x32\x32\x7C\x31\x30\x33\x35\x7C\x68\x61\x72\x72\x79\x70\x6F\x74\x7C\x68\x61\x72\x72\x79\x7C\x70\x6F\x74\x74\x65\x72\x7C\x7C\x31\x30\x32\x35\x7C\x64\x65\x76\x69\x6C\x7C\x77\x69\x6E\x67\x73\x7C\x31\x30\x31\x34\x7C\x73\x74\x6F\x6E\x65\x7C\x33\x64\x61\x76\x65\x6E\x67\x65\x72\x73\x7C\x31\x30\x33\x31\x7C\x62\x6C\x61\x63\x6B\x70\x69\x6E\x6B\x6E\x65\x6F\x6E\x7C\x62\x6C\x61\x63\x6B\x70\x69\x6E\x6B\x32\x7C\x7C\x31\x30\x30\x31\x7C\x7C\x67\x6C\x69\x74\x63\x68\x32\x7C\x7C\x7C\x33\x64\x73\x70\x61\x63\x65\x7C\x73\x70\x61\x63\x65\x7C\x33\x64\x6E\x65\x6F\x6E\x7C\x31\x30\x32\x38\x7C\x67\x72\x65\x65\x6E\x6E\x65\x6F\x6E\x7C\x39\x33\x34\x7C\x64\x72\x6F\x70\x77\x61\x74\x65\x72\x32\x7C\x73\x75\x6D\x6D\x65\x72\x74\x69\x6D\x65\x7C\x73\x75\x6D\x6D\x65\x72\x7C\x6E\x65\x6F\x6E\x6C\x69\x67\x68\x74\x32\x7C\x74\x68\x65\x77\x61\x6C\x6C\x7C\x39\x33\x31\x7C\x31\x30\x34\x34\x7C\x73\x6B\x79\x7C\x67\x6C\x6F\x77\x7C\x4D\x61\x6B\x65\x72\x7C\x77\x68\x69\x74\x65\x62\x65\x61\x72\x7C\x6D\x65\x74\x61\x6C\x6C\x69\x63\x7C\x66\x61\x62\x72\x69\x63\x7C\x61\x6E\x63\x69\x65\x6E\x74\x7C\x73\x63\x69\x5F\x66\x69\x7C\x68\x61\x6C\x6C\x6F\x77\x65\x65\x6E\x66\x69\x72\x65\x7C\x77\x72\x69\x74\x69\x6E\x67\x7C\x6D\x61\x72\x76\x65\x6C\x7C\x63\x6F\x6C\x6C\x77\x61\x6C\x6C\x7C\x62\x61\x74\x6D\x61\x6E\x7C\x72\x65\x74\x72\x6F\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x65\x6D\x6F\x6A\x69\x7C\x69\x70\x68\x6F\x6E\x65\x65\x6D\x6F\x6A\x69\x7C\x67\x6F\x6F\x67\x6C\x65\x65\x6D\x6F\x6A\x69\x7C\x73\x61\x6D\x73\x75\x6E\x67\x65\x6D\x6F\x6A\x69\x7C\x77\x68\x61\x74\x73\x61\x70\x70\x65\x6D\x6F\x6A\x69\x7C\x74\x77\x69\x74\x74\x65\x72\x65\x6D\x6F\x6A\x69\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x65\x6D\x6F\x6A\x69\x7C\x73\x6B\x79\x70\x65\x65\x6D\x6F\x6A\x69\x7C\x6A\x6F\x79\x65\x6D\x6F\x6A\x69\x7C\x70\x65\x64\x69\x61\x65\x6D\x6F\x6A\x69\x7C\x65\x6D\x6F\x6A\x69\x6D\x69\x78\x7C\x74\x6F\x69\x6D\x61\x67\x65\x7C\x74\x6F\x76\x69\x64\x65\x6F\x7C\x43\x6F\x6E\x76\x65\x72\x74\x65\x64\x7C\x74\x6F\x61\x75\x64\x69\x6F\x7C\x63\x6F\x6E\x76\x65\x72\x74\x65\x72\x7C\x74\x6F\x6D\x70\x33\x7C\x49\x6E\x74\x6F\x7C\x4D\x50\x33\x7C\x74\x6F\x76\x6E\x7C\x7C\x74\x6F\x67\x69\x66\x7C\x47\x69\x66\x7C\x74\x6F\x75\x72\x6C\x7C\x72\x65\x6D\x6F\x62\x67\x7C\x61\x70\x69\x72\x6E\x6F\x62\x67\x7C\x6C\x6F\x63\x61\x6C\x46\x69\x6C\x65\x7C\x79\x74\x73\x65\x61\x72\x63\x68\x7C\x55\x70\x6C\x6F\x61\x64\x65\x64\x7C\x7C\x69\x67\x64\x6C\x7C\x69\x67\x74\x76\x7C\x53\x49\x5A\x45\x7C\x74\x77\x69\x74\x74\x65\x72\x6D\x70\x33\x7C\x66\x62\x6D\x70\x33\x7C\x77\x65\x62\x74\x6F\x6F\x6E\x7C\x4C\x69\x6B\x65\x7C\x47\x65\x6E\x72\x65\x7C\x67\x65\x6E\x72\x65\x7C\x77\x61\x74\x74\x70\x61\x64\x7C\x44\x4F\x57\x4E\x4C\x4F\x41\x44\x7C\x67\x69\x74\x7C\x72\x65\x67\x65\x78\x31\x7C\x64\x72\x61\x6B\x6F\x72\x7C\x70\x6C\x61\x6E\x65\x74\x7C\x73\x65\x6E\x64\x35\x42\x75\x74\x4C\x6F\x63\x7C\x73\x6F\x75\x72\x63\x65\x7C\x61\x75\x74\x68\x6F\x72\x73\x7C\x65\x61\x72\x74\x68\x71\x75\x61\x6B\x65\x7C\x4D\x61\x70\x7C\x63\x6F\x76\x69\x64\x69\x6E\x64\x6F\x7C\x73\x74\x6F\x72\x65\x65\x7C\x46\x69\x6C\x6D\x7C\x6B\x72\x6C\x7C\x73\x63\x72\x61\x70\x65\x72\x57\x7C\x6D\x63\x73\x65\x72\x76\x65\x72\x7C\x71\x75\x72\x79\x7C\x69\x70\x68\x6F\x73\x74\x7C\x70\x6F\x72\x74\x6E\x79\x61\x7C\x66\x61\x6A\x61\x72\x7C\x64\x61\x72\x6B\x6A\x6F\x6B\x65\x7C\x63\x6E\x6E\x7C\x74\x76\x73\x65\x61\x72\x63\x68\x7C\x63\x6E\x62\x63\x7C\x74\x72\x69\x62\x75\x6E\x7C\x69\x6E\x64\x6F\x7A\x6F\x6E\x65\x7C\x6B\x6F\x6D\x70\x61\x73\x7C\x64\x65\x74\x69\x6B\x7C\x64\x61\x69\x6C\x79\x7C\x69\x6E\x65\x77\x73\x7C\x6F\x6B\x65\x7A\x6F\x6E\x65\x7C\x73\x69\x6E\x64\x6F\x7C\x61\x6E\x74\x61\x72\x61\x7C\x6B\x6F\x6E\x74\x61\x6E\x7C\x6D\x65\x72\x64\x65\x6B\x61\x7C\x6A\x61\x6C\x61\x6E\x74\x69\x6B\x75\x73\x7C\x63\x69\x6E\x65\x6D\x61\x73\x63\x68\x65\x64\x75\x6C\x65\x7C\x63\x6F\x75\x70\x6C\x65\x70\x70\x7C\x7C\x71\x75\x6F\x74\x65\x73\x61\x6E\x69\x6D\x65\x7C\x61\x6E\x69\x6D\x65\x77\x61\x6C\x6C\x7C\x6E\x6F\x6D\x6F\x72\x68\x6F\x6B\x69\x7C\x7C\x50\x6F\x73\x69\x74\x69\x76\x65\x7C\x50\x65\x72\x63\x65\x6E\x74\x61\x67\x65\x7C\x4E\x65\x67\x61\x74\x69\x76\x65\x7C\x61\x72\x74\x69\x6D\x69\x6D\x70\x69\x7C\x4D\x65\x61\x6E\x69\x6E\x67\x7C\x72\x61\x6D\x61\x6C\x6A\x6F\x64\x6F\x68\x7C\x72\x61\x6D\x61\x6C\x6A\x6F\x64\x6F\x68\x62\x61\x6C\x69\x7C\x73\x75\x61\x6D\x69\x69\x73\x74\x72\x69\x7C\x72\x61\x6D\x61\x6C\x63\x69\x6E\x74\x61\x7C\x61\x72\x74\x69\x6E\x61\x6D\x61\x7C\x63\x6F\x63\x6F\x6B\x6E\x61\x6D\x61\x7C\x70\x61\x73\x61\x6E\x67\x61\x6E\x7C\x6A\x61\x64\x69\x61\x6E\x6E\x69\x6B\x61\x68\x7C\x73\x69\x66\x61\x74\x75\x73\x61\x68\x61\x7C\x72\x65\x7A\x65\x6B\x69\x7C\x6E\x61\x73\x69\x62\x7C\x45\x6C\x65\x6D\x65\x6E\x74\x7C\x70\x65\x6E\x79\x61\x6B\x69\x74\x7C\x53\x65\x63\x74\x6F\x72\x7C\x74\x61\x72\x6F\x74\x7C\x66\x65\x6E\x67\x73\x68\x75\x69\x7C\x67\x65\x6E\x64\x65\x72\x7C\x68\x61\x72\x69\x62\x61\x69\x6B\x7C\x68\x61\x72\x69\x73\x61\x6E\x67\x61\x72\x7C\x68\x61\x72\x69\x73\x69\x61\x6C\x7C\x6E\x61\x67\x61\x68\x61\x72\x69\x7C\x61\x72\x61\x68\x72\x65\x7A\x65\x6B\x69\x7C\x70\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x32\x30\x32\x32\x7C\x77\x65\x74\x6F\x6E\x7C\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x6D\x65\x6D\x61\x6E\x63\x69\x6E\x67\x7C\x6D\x61\x73\x61\x73\x75\x62\x75\x72\x7C\x7A\x6F\x64\x69\x61\x63\x7C\x62\x69\x72\x74\x68\x7C\x74\x69\x6B\x74\x6F\x6B\x6E\x6F\x77\x6D\x7C\x74\x69\x6B\x74\x6F\x6B\x61\x75\x64\x69\x6F\x7C\x79\x74\x76\x63\x7C\x79\x74\x76\x64\x7C\x79\x74\x61\x64\x7C\x67\x65\x74\x6D\x75\x73\x69\x63\x7C\x67\x65\x74\x76\x69\x64\x65\x6F\x7C\x69\x6D\x67\x6E\x79\x65\x65\x7C\x72\x65\x71\x7C\x73\x71\x75\x69\x72\x72\x65\x6C\x7C\x34\x34\x31\x30\x30\x7C\x73\x65\x74\x63\x6D\x64\x7C\x64\x65\x6C\x63\x6D\x64\x7C\x6C\x69\x73\x74\x63\x6D\x64\x7C\x72\x65\x64\x75\x63\x65\x7C\x6C\x6F\x63\x6B\x63\x6D\x64\x7C\x61\x64\x64\x6D\x73\x67\x7C\x44\x41\x54\x41\x42\x41\x53\x45\x7C\x64\x65\x6C\x6D\x73\x67\x7C\x46\x69\x6E\x64\x7C\x43\x48\x41\x54\x54\x49\x4E\x47\x7C\x55\x73\x61\x67\x65\x7C\x73\x65\x6C\x66\x7C\x6E\x69\x63\x65\x7C\x73\x79\x73\x7C\x69\x64\x6C\x65\x7C\x69\x72\x71\x7C\x70\x61\x64\x45\x6E\x64\x7C\x73\x70\x65\x65\x64\x74\x65\x73\x74\x7C\x72\x65\x71\x75\x65\x73\x74\x7C\x62\x75\x67\x7C\x72\x65\x70\x6F\x72\x74\x7C\x42\x75\x67\x7C\x61\x6C\x69\x76\x65\x7C\x76\x69\x64\x6D\x65\x6E\x75\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x7C\x4F\x74\x68\x65\x72\x7C\x54\x6F\x6F\x6C\x7C\x45\x66\x66\x65\x63\x74\x7C\x45\x6D\x6F\x74\x65\x7C\x48\x6F\x72\x6F\x73\x63\x6F\x70\x65\x7C\x49\x4E\x44\x4F\x7C\x73\x75\x6C\x7C\x73\x61\x74\x7C\x62\x61\x6E\x67\x7C\x57\x41\x5F\x44\x45\x46\x41\x55\x4C\x54\x5F\x45\x50\x48\x45\x4D\x45\x52\x41\x4C\x7C\x67\x65\x6E\x65\x72\x61\x74\x65\x57\x41\x4D\x65\x73\x73\x61\x67\x65\x46\x72\x6F\x6D\x43\x6F\x6E\x74\x65\x6E\x74\x7C\x67\x65\x6E\x65\x72\x61\x74\x65\x57\x41\x4D\x65\x73\x73\x61\x67\x65\x7C\x61\x72\x65\x4A\x69\x64\x73\x53\x61\x6D\x65\x55\x73\x65\x72\x7C\x67\x65\x74\x43\x6F\x6E\x74\x65\x6E\x74\x54\x79\x70\x65\x7C\x63\x68\x69\x6C\x64\x5F\x70\x72\x6F\x63\x65\x73\x73\x7C\x74\x69\x6D\x65\x7A\x6F\x6E\x65\x7C\x50\x72\x69\x6D\x62\x6F\x6E\x7C\x58\x65\x6F\x6E\x42\x6F\x74\x49\x6E\x63\x57\x69\x6B\x69\x7C\x6D\x65\x64\x69\x61\x66\x69\x72\x65\x44\x6C\x7C\x47\x65\x6D\x70\x61\x7C\x74\x6F\x48\x75\x72\x7C\x46\x61\x6A\x61\x72\x4E\x65\x77\x73\x7C\x43\x4E\x4E\x4E\x65\x77\x73\x7C\x69\x4E\x65\x77\x73\x7C\x54\x72\x69\x62\x75\x6E\x4E\x65\x77\x73\x7C\x44\x61\x69\x6C\x79\x4E\x65\x77\x73\x7C\x44\x65\x74\x69\x6B\x4E\x65\x77\x73\x7C\x4F\x6B\x65\x7A\x6F\x6E\x65\x4E\x65\x77\x73\x7C\x43\x4E\x42\x43\x4E\x65\x77\x73\x7C\x4B\x6F\x6D\x70\x61\x73\x4E\x65\x77\x73\x7C\x53\x69\x6E\x64\x6F\x4E\x65\x77\x73\x7C\x54\x65\x6D\x70\x6F\x4E\x65\x77\x73\x7C\x49\x6E\x64\x6F\x7A\x6F\x6E\x65\x4E\x65\x77\x73\x7C\x41\x6E\x74\x61\x72\x61\x4E\x65\x77\x73\x7C\x4B\x6F\x6E\x74\x61\x6E\x4E\x65\x77\x73\x7C\x4D\x65\x72\x64\x65\x6B\x61\x4E\x65\x77\x73\x7C\x4C\x61\x79\x61\x72\x4B\x61\x63\x61\x32\x31\x7C\x4A\x61\x6C\x61\x6E\x54\x69\x6B\x75\x73\x4D\x65\x6D\x65\x7C\x51\x75\x6F\x74\x65\x73\x7C\x44\x61\x72\x6B\x6A\x6F\x6B\x65\x73\x7C\x63\x65\x6B\x44\x75\x6C\x75\x4A\x6F\x69\x6E\x41\x64\x61\x41\x70\x61\x4B\x61\x67\x61\x44\x69\x4A\x73\x6F\x6E\x7C\x61\x64\x64\x44\x61\x72\x61\x68\x7C\x64\x61\x72\x61\x68\x7C\x63\x65\x6B\x49\x6E\x76\x65\x6E\x74\x6F\x72\x79\x41\x64\x61\x41\x74\x61\x75\x47\x61\x6B\x7C\x61\x64\x64\x42\x65\x73\x69\x7C\x61\x64\x64\x45\x6D\x61\x73\x7C\x61\x64\x64\x45\x6D\x65\x72\x61\x6C\x64\x7C\x61\x64\x64\x55\x6D\x70\x61\x6E\x7C\x7C\x61\x64\x64\x50\x6F\x74\x69\x6F\x6E\x7C\x6B\x75\x72\x61\x6E\x67\x42\x65\x73\x69\x7C\x6B\x75\x72\x61\x6E\x67\x45\x6D\x61\x73\x7C\x6B\x75\x72\x61\x6E\x67\x45\x6D\x65\x72\x61\x6C\x64\x7C\x6B\x75\x72\x61\x6E\x67\x50\x6F\x74\x69\x6F\x6E\x7C\x63\x65\x6B\x44\x75\x6C\x75\x4A\x6F\x69\x6E\x41\x64\x61\x41\x70\x61\x4B\x61\x67\x61\x4D\x6F\x6E\x61\x79\x6E\x79\x61\x44\x69\x4A\x73\x6F\x6E\x7C\x63\x65\x6B\x44\x75\x6C\x75\x4A\x6F\x69\x6E\x41\x64\x61\x41\x70\x61\x4B\x61\x67\x61\x4C\x69\x6D\x69\x74\x6E\x79\x61\x44\x69\x4A\x73\x6F\x6E\x7C\x61\x64\x64\x4C\x69\x6D\x69\x74\x7C\x63\x65\x6B\x44\x75\x6C\x75\x48\x61\x73\x69\x6C\x42\x75\x72\x75\x61\x6E\x4E\x79\x61\x7C\x61\x64\x64\x49\x6B\x61\x6E\x7C\x61\x64\x64\x41\x79\x61\x6D\x7C\x61\x64\x64\x4B\x65\x6C\x69\x6E\x63\x69\x7C\x61\x64\x64\x44\x6F\x6D\x62\x61\x7C\x61\x64\x64\x53\x61\x70\x69\x7C\x61\x64\x64\x47\x61\x6A\x61\x68\x7C\x6B\x75\x72\x61\x6E\x67\x49\x6B\x61\x6E\x7C\x6B\x75\x72\x61\x6E\x67\x41\x79\x61\x6D\x7C\x6B\x75\x72\x61\x6E\x67\x4B\x65\x6C\x69\x6E\x63\x69\x7C\x7C\x6B\x75\x72\x61\x6E\x67\x44\x6F\x6D\x62\x61\x7C\x6B\x75\x72\x61\x6E\x67\x53\x61\x70\x69\x7C\x6B\x75\x72\x61\x6E\x67\x47\x61\x6A\x61\x68\x7C\x69\x73\x50\x6F\x74\x69\x6F\x6E\x7C\x7C\x69\x73\x49\x6B\x61\x6E\x7C\x69\x73\x41\x79\x61\x6D\x7C\x69\x73\x4B\x65\x6C\x69\x6E\x63\x69\x7C\x69\x73\x44\x6F\x6D\x62\x61\x7C\x69\x73\x53\x61\x70\x69\x7C\x69\x73\x47\x61\x6A\x61\x68\x7C\x69\x73\x42\x65\x73\x69\x7C\x69\x73\x45\x6D\x61\x73\x7C\x69\x73\x45\x6D\x65\x72\x61\x6C\x64\x7C\x69\x6B\x61\x6E\x7C\x5F\x62\x75\x72\x75\x61\x6E\x7C\x78\x65\x6F\x6E\x79\x61\x75\x64\x69\x6F\x7C\x78\x65\x6F\x6E\x79\x69\x6D\x61\x67\x65\x7C\x78\x65\x6F\x6E\x79\x76\x69\x64\x65\x6F\x7C\x63\x68\x61\x74\x55\x70\x64\x61\x74\x65\x7C\x63\x6F\x6E\x76\x65\x72\x73\x61\x74\x69\x6F\x6E\x7C\x73\x65\x6C\x65\x63\x74\x65\x64\x42\x75\x74\x74\x6F\x6E\x49\x64\x7C\x73\x69\x6E\x67\x6C\x65\x53\x65\x6C\x65\x63\x74\x52\x65\x70\x6C\x79\x7C\x73\x65\x6C\x65\x63\x74\x65\x64\x52\x6F\x77\x49\x64\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x42\x75\x74\x74\x6F\x6E\x52\x65\x70\x6C\x79\x4D\x65\x73\x73\x61\x67\x65\x7C\x73\x74\x72\x69\x6E\x67\x7C\x70\x72\x65\x66\x61\x7C\x73\x68\x69\x66\x74\x7C\x69\x73\x4D\x65\x64\x69\x61\x7C\x6D\x65\x73\x73\x61\x67\x65\x73\x44\x7C\x67\x72\x6F\x75\x70\x4E\x61\x6D\x65\x7C\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x67\x7C\x61\x75\x74\x6F\x72\x65\x61\x64\x73\x77\x7C\x70\x69\x63\x61\x6B\x73\x7C\x6A\x70\x65\x67\x7C\x6F\x72\x64\x65\x72\x4D\x65\x73\x73\x61\x67\x65\x7C\x69\x74\x65\x6D\x43\x6F\x75\x6E\x74\x7C\x73\x75\x72\x66\x61\x63\x65\x7C\x6F\x72\x64\x65\x72\x54\x69\x74\x6C\x65\x7C\x73\x65\x6C\x6C\x65\x72\x4A\x69\x64\x7C\x66\x64\x6F\x63\x73\x7C\x61\x75\x64\x69\x6F\x4D\x65\x73\x73\x61\x67\x65\x7C\x70\x72\x65\x76\x69\x65\x77\x54\x79\x70\x65\x7C\x50\x48\x4F\x54\x4F\x7C\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C\x55\x72\x6C\x7C\x6C\x69\x6E\x6B\x7A\x7C\x68\x69\x74\x7C\x6A\x75\x6D\x6C\x61\x68\x63\x6D\x64\x7C\x64\x61\x74\x61\x61\x7C\x6A\x75\x6D\x6C\x61\x68\x68\x61\x72\x69\x61\x6E\x7C\x73\x65\x74\x53\x74\x61\x74\x75\x73\x7C\x63\x6F\x6D\x70\x6F\x73\x69\x6E\x67\x7C\x61\x76\x61\x69\x6C\x61\x62\x6C\x65\x7C\x64\x65\x74\x65\x63\x74\x65\x64\x7C\x67\x72\x6F\x75\x70\x49\x6E\x76\x69\x74\x65\x43\x6F\x64\x65\x7C\x6E\x59\x6F\x75\x7C\x77\x6F\x6E\x7C\x68\x74\x74\x70\x7C\x61\x6E\x74\x69\x76\x69\x72\x74\x65\x78\x7C\x76\x69\x72\x75\x73\x7C\x57\x69\x6C\x6C\x7C\x62\x65\x69\x6E\x67\x7C\x44\x6F\x6E\x74\x7C\x59\x6F\x75\x74\x54\x75\x62\x65\x7C\x64\x75\x61\x7C\x66\x6F\x6F\x74\x65\x72\x54\x65\x78\x74\x7C\x65\x6E\x74\x65\x72\x7C\x4A\x75\x73\x74\x7C\x4D\x75\x74\x65\x7C\x66\x61\x6B\x65\x4F\x62\x6A\x7C\x66\x72\x6F\x6D\x4F\x62\x6A\x65\x63\x74\x7C\x73\x75\x72\x72\x7C\x65\x6E\x64\x65\x72\x7C\x51\x75\x65\x73\x74\x69\x6F\x6E\x73\x7C\x53\x6F\x6D\x65\x7C\x53\x70\x61\x63\x65\x73\x7C\x41\x72\x72\x61\x79\x7C\x70\x65\x73\x61\x6E\x7C\x50\x69\x63\x74\x75\x72\x65\x7C\x42\x6C\x61\x6E\x6B\x7C\x52\x69\x64\x64\x6C\x65\x7C\x50\x4C\x41\x59\x49\x4E\x47\x7C\x70\x61\x72\x73\x65\x49\x6E\x74\x7C\x45\x6E\x64\x65\x64\x7C\x50\x6F\x73\x69\x74\x69\x6F\x6E\x7C\x72\x65\x6E\x64\x65\x72\x7C\x52\x6F\x6F\x6D\x7C\x64\x65\x66\x65\x61\x74\x7C\x50\x76\x50\x7C\x6C\x61\x74\x65\x72\x7C\x6E\x6F\x70\x65\x7C\x43\x61\x6E\x63\x65\x6C\x65\x64\x7C\x61\x73\x61\x6C\x7C\x63\x6C\x65\x61\x72\x54\x69\x6D\x65\x6F\x75\x74\x7C\x6E\x50\x61\x70\x65\x72\x7C\x6E\x53\x63\x69\x73\x73\x6F\x72\x73\x7C\x77\x61\x6B\x74\x75\x5F\x6D\x69\x6C\x69\x68\x7C\x6A\x77\x62\x7C\x6A\x77\x62\x32\x7C\x73\x63\x69\x73\x73\x6F\x72\x73\x7C\x43\x68\x6F\x73\x65\x6E\x7C\x6E\x57\x61\x69\x74\x69\x6E\x67\x7C\x5F\x54\x68\x65\x7C\x43\x68\x6F\x73\x65\x6E\x5F\x7C\x6E\x4E\x6F\x77\x7C\x74\x65\x78\x74\x32\x7C\x57\x69\x6E\x7C\x6D\x65\x6E\x74\x69\x6F\x6E\x55\x73\x65\x72\x7C\x53\x65\x74\x7C\x63\x6F\x6E\x74\x69\x6E\x75\x65\x7C\x41\x46\x4B\x7C\x7C\x4F\x66\x66\x6C\x69\x6E\x65\x7C\x4F\x6E\x6C\x69\x6E\x65\x7C\x72\x65\x61\x63\x74\x69\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x7C\x74\x69\x6D\x65\x73\x74\x61\x6D\x70\x65\x7C\x6C\x61\x74\x65\x6E\x73\x69\x65\x7C\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x73\x7C\x64\x6F\x63\x73\x7C\x6C\x6F\x61\x64\x7C\x42\x61\x6E\x7C\x7C\x7C\x75\x6E\x62\x61\x6E\x7C\x61\x64\x73\x7C\x61\x6C\x72\x65\x61\x64\x79\x7C\x62\x61\x6E\x6E\x65\x64\x7C\x75\x6E\x62\x61\x6E\x6E\x65\x64\x7C\x64\x65\x6C\x62\x61\x6E\x73\x7C\x69\x6E\x76\x65\x6E\x74\x6F\x72\x79\x7C\x49\x4E\x46\x4F\x7C\x55\x53\x45\x52\x7C\x48\x55\x4E\x54\x7C\x6C\x65\x61\x64\x65\x72\x62\x6F\x61\x72\x64\x7C\x6D\x69\x6E\x65\x7C\x55\x73\x69\x6E\x67\x7C\x50\x6F\x74\x69\x6F\x6E\x73\x7C\x53\x74\x61\x72\x74\x65\x64\x7C\x42\x61\x69\x74\x7C\x46\x6F\x6F\x64\x7C\x33\x35\x30\x30\x30\x7C\x7C\x49\x6E\x63\x6F\x72\x72\x65\x63\x74\x7C\x72\x61\x62\x62\x69\x74\x7C\x33\x30\x30\x30\x7C\x63\x6F\x77\x7C\x31\x30\x30\x30\x30\x7C\x65\x6C\x65\x70\x68\x61\x6E\x74\x7C\x69\x72\x6F\x6E\x7C\x35\x30\x30\x30\x30\x7C\x68\x65\x61\x6C\x7C\x46\x75\x6C\x6C\x7C\x68\x75\x6E\x74\x7C\x47\x6F\x6E\x65\x7C\x61\x6E\x69\x6D\x61\x6C\x7C\x4A\x75\x6E\x67\x6C\x65\x7C\x41\x6D\x61\x7A\x6F\x6E\x7C\x54\x72\x6F\x70\x69\x63\x61\x6C\x7C\x4D\x65\x61\x64\x6F\x77\x7C\x41\x66\x72\x69\x63\x61\x6E\x7C\x4D\x6F\x75\x6E\x74\x61\x69\x6E\x73\x7C\x6C\x75\x6B\x61\x6E\x79\x61\x7C\x57\x61\x69\x74\x69\x6E\x67\x7C\x44\x65\x6C\x65\x74\x65\x64\x7C\x70\x6F\x69\x6E\x7C\x70\x6F\x69\x6E\x5F\x6C\x6F\x73\x65\x7C\x50\x65\x72\x73\x6F\x6E\x7C\x75\x6E\x6D\x75\x74\x65\x7C\x75\x6E\x61\x72\x63\x68\x69\x76\x65\x7C\x7C\x6D\x61\x72\x6B\x52\x65\x61\x64\x7C\x55\x6E\x66\x69\x6E\x69\x73\x68\x65\x64\x7C\x53\x65\x73\x73\x69\x6F\x6E\x73\x7C\x74\x65\x78\x7C\x67\x69\x74\x68\x75\x62\x7C\x72\x75\x6E\x7C\x6E\x44\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E\x7C\x66\x75\x6E\x67\x61\x6D\x65\x73\x7C\x67\x65\x6E\x4D\x61\x74\x68\x7C\x6D\x6F\x64\x65\x73\x7C\x6D\x65\x6E\x73\x74\x7C\x6B\x61\x68\x7C\x41\x73\x6B\x7C\x4B\x6E\x6F\x77\x7C\x6B\x61\x68\x6B\x7C\x66\x61\x63\x65\x7C\x42\x72\x6F\x7C\x53\x6F\x72\x72\x79\x7C\x53\x65\x61\x72\x63\x68\x69\x6E\x67\x7C\x7C\x47\x6F\x6F\x67\x6C\x65\x7C\x74\x65\x6E\x67\x7C\x74\x6F\x70\x7C\x74\x61\x6B\x79\x7C\x43\x68\x65\x63\x6B\x7C\x73\x61\x6E\x67\x65\x7C\x75\x67\x6C\x79\x7C\x72\x61\x6E\x64\x69\x7C\x6D\x69\x73\x73\x7C\x73\x61\x79\x73\x7C\x68\x6F\x6D\x65\x7C\x54\x65\x6C\x6C\x7C\x74\x6F\x6C\x64\x7C\x6F\x77\x6E\x7C\x74\x68\x69\x6E\x67\x73\x7C\x68\x61\x74\x65\x7C\x65\x78\x61\x6D\x70\x6C\x65\x7C\x61\x67\x65\x7C\x63\x6F\x6E\x74\x61\x63\x74\x7C\x71\x75\x6F\x74\x65\x7C\x62\x61\x62\x79\x7C\x53\x61\x79\x7C\x59\x4F\x55\x7C\x41\x52\x45\x7C\x42\x45\x41\x55\x54\x49\x46\x55\x4C\x7C\x70\x6F\x70\x7C\x6C\x6F\x75\x64\x7C\x73\x74\x6F\x72\x79\x7C\x66\x69\x76\x65\x7C\x6D\x75\x73\x69\x63\x7C\x62\x65\x73\x74\x69\x65\x7C\x73\x63\x72\x65\x65\x6E\x73\x68\x6F\x74\x7C\x70\x69\x63\x7C\x73\x6F\x75\x6E\x64\x7C\x6D\x6F\x6D\x7C\x70\x61\x70\x61\x7C\x74\x65\x6C\x6C\x69\x6E\x67\x7C\x69\x74\x73\x7C\x77\x61\x6E\x6E\x61\x7C\x66\x61\x74\x68\x65\x72\x7C\x78\x65\x6F\x6E\x64\x61\x72\x65\x7C\x5F\x59\x6F\x75\x7C\x61\x6E\x79\x6F\x6E\x65\x7C\x66\x72\x69\x65\x6E\x64\x73\x7C\x6D\x61\x79\x62\x65\x7C\x66\x65\x6C\x74\x7C\x6C\x69\x6B\x65\x73\x7C\x73\x74\x6F\x6C\x65\x6E\x7C\x64\x6F\x65\x73\x7C\x66\x65\x65\x6C\x7C\x70\x72\x6F\x75\x64\x7C\x4D\x65\x6E\x74\x69\x6F\x6E\x7C\x69\x6E\x63\x69\x64\x65\x6E\x74\x7C\x68\x75\x72\x74\x7C\x72\x65\x6D\x65\x6D\x62\x65\x72\x7C\x61\x63\x68\x69\x65\x76\x65\x6D\x65\x6E\x74\x73\x7C\x68\x61\x62\x69\x74\x7C\x66\x61\x6D\x69\x6C\x79\x7C\x61\x70\x70\x7C\x70\x65\x65\x64\x7C\x63\x68\x65\x61\x74\x65\x64\x7C\x77\x68\x6F\x6D\x7C\x63\x6F\x75\x6E\x74\x72\x79\x7C\x76\x65\x67\x7C\x63\x6F\x75\x6C\x64\x7C\x73\x65\x63\x72\x65\x74\x7C\x63\x68\x61\x72\x61\x63\x74\x65\x72\x7C\x78\x65\x6F\x6E\x74\x72\x75\x74\x68\x7C\x54\x6F\x6D\x6F\x72\x72\x6F\x77\x7C\x41\x66\x74\x65\x72\x7C\x6B\x61\x70\x61\x6E\x6B\x61\x68\x7C\x61\x77\x69\x6B\x77\x6F\x6B\x7C\x61\x61\x61\x68\x7C\x72\x65\x61\x6C\x7C\x43\x41\x52\x45\x7C\x54\x48\x45\x7C\x4F\x6E\x65\x7C\x75\x70\x64\x61\x74\x65\x42\x6C\x6F\x63\x6B\x53\x74\x61\x74\x75\x73\x7C\x73\x65\x74\x62\x6F\x74\x70\x70\x7C\x62\x75\x74\x74\x6F\x6E\x73\x56\x6F\x74\x65\x7C\x62\x75\x74\x74\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x56\x6F\x74\x65\x7C\x56\x6F\x74\x65\x64\x7C\x62\x75\x74\x74\x6F\x6E\x73\x55\x70\x76\x6F\x74\x65\x7C\x62\x75\x74\x74\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x55\x70\x76\x6F\x74\x65\x7C\x62\x75\x74\x74\x6F\x6E\x73\x44\x65\x76\x6F\x74\x65\x7C\x62\x75\x74\x74\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x44\x65\x76\x6F\x74\x65\x7C\x43\x6C\x6F\x73\x65\x7C\x6E\x74\x79\x70\x65\x7C\x61\x75\x74\x6F\x73\x74\x69\x63\x6B\x65\x72\x70\x63\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x76\x69\x72\x74\x65\x78\x7C\x62\x75\x74\x74\x6F\x6E\x73\x77\x6C\x63\x6D\x7C\x6E\x4E\x6F\x62\x6F\x64\x79\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x77\x61\x6D\x65\x7C\x66\x65\x61\x74\x75\x72\x65\x7C\x50\x72\x65\x76\x69\x6F\x75\x73\x6C\x79\x7C\x64\x69\x73\x61\x70\x70\x65\x61\x72\x69\x6E\x67\x4D\x65\x73\x73\x61\x67\x65\x73\x49\x6E\x43\x68\x61\x74\x7C\x67\x72\x6F\x75\x70\x73\x65\x74\x74\x69\x6E\x67\x7C\x77\x65\x6C\x63\x6F\x6D\x65\x7C\x63\x6F\x6D\x6D\x7C\x6C\x69\x73\x74\x6E\x79\x61\x7C\x57\x61\x6D\x65\x7C\x54\x6F\x78\x69\x63\x7C\x73\x74\x61\x72\x74\x6E\x75\x6D\x7C\x73\x74\x61\x72\x74\x6E\x75\x7C\x73\x74\x61\x72\x74\x6E\x7C\x67\x65\x74\x47\x72\x6F\x75\x70\x73\x7C\x65\x6E\x74\x72\x79\x7C\x32\x30\x30\x7C\x62\x75\x74\x6F\x6F\x6E\x7C\x6D\x65\x6C\x6F\x7C\x6D\x65\x6C\x6F\x32\x7C\x67\x65\x74\x51\x75\x6F\x74\x65\x64\x4F\x62\x6A\x7C\x52\x65\x61\x64\x7C\x7C\x7C\x59\x59\x59\x59\x7C\x6C\x69\x73\x74\x6F\x6E\x7C\x4D\x61\x78\x69\x6D\x75\x6D\x7C\x6E\x56\x69\x64\x65\x6F\x7C\x53\x65\x63\x6F\x6E\x64\x73\x7C\x67\x69\x66\x65\x65\x7C\x6D\x65\x65\x7C\x6D\x65\x6D\x65\x6B\x7C\x65\x42\x69\x6E\x61\x72\x79\x7C\x62\x69\x6E\x61\x72\x79\x7C\x64\x42\x69\x6E\x61\x72\x79\x7C\x6E\x79\x7A\x32\x7C\x6E\x79\x7A\x33\x7C\x7C\x67\x61\x6D\x62\x61\x72\x7C\x62\x75\x74\x74\x6F\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x4E\x6F\x48\x6F\x72\x6E\x79\x7C\x59\x65\x73\x48\x6F\x72\x6E\x79\x7C\x73\x70\x61\x6E\x6B\x64\x7C\x73\x70\x62\x75\x66\x66\x7C\x73\x70\x67\x69\x66\x7C\x47\x49\x46\x42\x75\x66\x66\x65\x72\x54\x6F\x56\x69\x64\x65\x6F\x42\x75\x66\x66\x65\x72\x7C\x62\x6A\x64\x7C\x62\x6A\x66\x7C\x62\x6A\x69\x66\x7C\x76\x69\x64\x65\x6F\x5F\x31\x7C\x56\x69\x65\x77\x73\x7C\x74\x72\x61\x70\x62\x6F\x74\x7C\x62\x75\x74\x74\x6F\x6E\x32\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x68\x6E\x65\x6B\x6F\x62\x6F\x74\x7C\x62\x75\x74\x74\x6F\x6E\x33\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x6E\x77\x61\x69\x66\x75\x62\x6F\x74\x7C\x62\x75\x74\x74\x6F\x6E\x34\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x73\x6D\x75\x67\x32\x7C\x62\x75\x74\x74\x6F\x6E\x31\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x31\x32\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x78\x78\x68\x6E\x65\x6B\x6F\x62\x6F\x74\x7C\x78\x78\x31\x62\x75\x74\x74\x6F\x6E\x33\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x31\x31\x32\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x61\x69\x66\x75\x64\x7C\x62\x75\x74\x74\x6F\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6F\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x74\x75\x74\x74\x74\x6F\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x78\x78\x62\x75\x74\x74\x6F\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x54\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x75\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x78\x78\x75\x74\x74\x6F\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x78\x6E\x73\x73\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x73\x78\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x31\x73\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x31\x73\x73\x78\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x33\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x33\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x34\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x34\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x35\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x35\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x36\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x36\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x37\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x37\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x38\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x38\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x39\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x39\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x30\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x30\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x31\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x31\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x32\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x32\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x33\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x33\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x34\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x34\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x35\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x35\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x36\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x36\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x37\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x37\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x38\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x38\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x31\x39\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x31\x39\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x77\x62\x75\x74\x74\x73\x7A\x7A\x31\x32\x32\x30\x73\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x7A\x7A\x73\x78\x31\x32\x32\x30\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x65\x73\x4D\x65\x73\x73\x61\x67\x65\x7C\x62\x75\x74\x74\x6F\x6E\x7A\x4D\x65\x73\x73\x61\x67\x65\x7C\x62\x75\x74\x74\x6F\x6E\x31\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x41\x6E\x69\x6D\x65\x57\x61\x6C\x6C\x70\x61\x70\x65\x72\x7C\x77\x61\x6C\x62\x7C\x77\x61\x6C\x7C\x64\x65\x76\x7C\x6C\x69\x6E\x6B\x79\x6B\x65\x7C\x43\x4C\x49\x43\x4B\x7C\x48\x45\x52\x45\x7C\x76\x69\x65\x77\x4F\x6E\x63\x65\x7C\x66\x6C\x69\x70\x65\x7C\x63\x6F\x6E\x76\x65\x72\x74\x65\x73\x7C\x49\x6E\x66\x6F\x6F\x7C\x44\x65\x74\x65\x6B\x7C\x78\x65\x6F\x6E\x79\x5F\x62\x75\x66\x66\x65\x72\x7C\x74\x6F\x6B\x7C\x39\x38\x33\x7C\x39\x33\x38\x7C\x63\x72\x61\x63\x6B\x65\x64\x7C\x31\x30\x32\x39\x7C\x39\x37\x37\x7C\x67\x61\x6C\x61\x78\x79\x7C\x63\x61\x6E\x65\x7C\x31\x30\x35\x36\x7C\x74\x72\x65\x65\x7C\x31\x30\x35\x37\x7C\x31\x30\x35\x35\x7C\x73\x70\x61\x72\x6B\x6C\x65\x73\x7C\x6D\x65\x72\x72\x79\x7C\x31\x30\x35\x34\x7C\x73\x65\x61\x7C\x31\x30\x35\x33\x7C\x73\x63\x69\x7C\x31\x30\x35\x30\x7C\x63\x6F\x6C\x6F\x72\x7C\x63\x61\x6C\x6C\x69\x67\x72\x61\x70\x68\x79\x7C\x31\x30\x34\x39\x7C\x77\x61\x74\x65\x72\x7C\x70\x69\x70\x65\x7C\x31\x30\x34\x38\x7C\x31\x30\x34\x37\x7C\x62\x6C\x75\x65\x7C\x7C\x31\x30\x34\x33\x7C\x31\x30\x34\x32\x7C\x63\x72\x65\x61\x74\x7C\x67\x6C\x6F\x73\x73\x79\x7C\x31\x30\x34\x30\x7C\x73\x63\x69\x65\x6E\x63\x65\x7C\x31\x30\x33\x38\x7C\x31\x30\x33\x36\x7C\x31\x30\x33\x33\x7C\x31\x30\x33\x30\x7C\x62\x72\x6F\x6B\x65\x6E\x7C\x31\x30\x32\x33\x7C\x31\x30\x31\x37\x7C\x31\x30\x31\x36\x7C\x31\x30\x31\x33\x7C\x31\x30\x31\x31\x7C\x77\x69\x6E\x74\x65\x72\x7C\x68\x6F\x6C\x69\x64\x61\x79\x73\x7C\x31\x30\x30\x35\x7C\x31\x30\x30\x34\x7C\x38\x36\x38\x7C\x63\x6F\x6C\x64\x7C\x38\x36\x32\x7C\x66\x72\x75\x69\x74\x7C\x38\x36\x31\x7C\x38\x35\x38\x7C\x38\x35\x36\x7C\x63\x61\x6B\x65\x7C\x38\x39\x30\x7C\x38\x38\x39\x7C\x38\x38\x34\x7C\x38\x38\x33\x7C\x39\x30\x31\x7C\x39\x31\x34\x7C\x39\x31\x35\x7C\x66\x72\x6F\x73\x74\x65\x64\x7C\x39\x34\x31\x7C\x66\x69\x72\x65\x7C\x39\x34\x30\x7C\x7C\x64\x61\x72\x6B\x7C\x39\x33\x39\x7C\x39\x33\x32\x7C\x73\x70\x61\x72\x6B\x6C\x65\x7C\x39\x33\x30\x7C\x39\x32\x39\x7C\x62\x65\x61\x63\x68\x7C\x39\x39\x31\x7C\x72\x65\x61\x6C\x69\x73\x74\x69\x63\x7C\x39\x38\x36\x7C\x39\x38\x30\x7C\x38\x62\x69\x74\x7C\x6D\x65\x73\x65\x7C\x6B\x75\x6E\x74\x75\x68\x7C\x74\x68\x72\x6F\x77\x7C\x57\x65\x62\x70\x7C\x74\x6F\x50\x54\x54\x7C\x61\x70\x69\x6E\x6F\x62\x67\x7C\x68\x6D\x6D\x7C\x76\x69\x64\x65\x6F\x49\x64\x7C\x76\x69\x65\x77\x73\x7C\x61\x67\x6F\x7C\x6E\x55\x73\x65\x73\x7C\x63\x69\x6E\x74\x61\x7C\x67\x69\x73\x7C\x6A\x6F\x73\x65\x70\x68\x78\x65\x6F\x6E\x31\x33\x7C\x53\x54\x4F\x52\x59\x7C\x75\x72\x75\x74\x7C\x6E\x5F\x53\x65\x6C\x65\x63\x74\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x5F\x7C\x46\x75\x6C\x6C\x6E\x61\x6D\x65\x7C\x66\x75\x6C\x6C\x4E\x61\x6D\x65\x7C\x46\x69\x6C\x65\x74\x79\x70\x65\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x64\x6C\x76\x33\x7C\x54\x57\x49\x54\x54\x45\x52\x7C\x44\x55\x52\x41\x54\x49\x4F\x4E\x7C\x61\x69\x6F\x76\x69\x64\x65\x6F\x64\x6C\x7C\x74\x77\x64\x64\x6C\x7C\x62\x6F\x63\x69\x6C\x7C\x62\x65\x6C\x6F\x77\x5F\x7C\x64\x69\x62\x61\x63\x61\x7C\x64\x69\x76\x6F\x74\x65\x7C\x62\x61\x62\x7C\x61\x70\x6B\x7C\x72\x65\x78\x64\x6C\x7C\x64\x6F\x6E\x6C\x6F\x64\x7C\x41\x50\x4B\x7C\x72\x65\x78\x7C\x41\x70\x6B\x44\x6F\x77\x6E\x7C\x6C\x69\x6E\x6B\x79\x65\x7C\x64\x65\x73\x63\x7C\x68\x61\x6C\x6C\x6F\x77\x65\x6E\x7C\x44\x72\x61\x6B\x6F\x72\x7C\x79\x65\x61\x72\x73\x7C\x54\x68\x75\x6D\x62\x6E\x61\x69\x6C\x7C\x73\x68\x69\x6E\x65\x69\x69\x63\x68\x69\x6A\x6F\x7C\x6D\x61\x72\x69\x6B\x61\x7C\x63\x6C\x69\x65\x6E\x74\x7C\x65\x70\x69\x73\x6F\x64\x65\x73\x7C\x64\x75\x72\x61\x74\x69\x6F\x6E\x7C\x7C\x47\x65\x6E\x72\x65\x73\x7C\x73\x74\x75\x64\x69\x6F\x73\x7C\x70\x72\x6F\x64\x75\x63\x65\x72\x73\x7C\x7C\x61\x69\x72\x65\x64\x7C\x50\x6F\x70\x75\x6C\x61\x72\x69\x74\x79\x7C\x70\x6F\x70\x75\x6C\x61\x72\x69\x74\x79\x7C\x46\x61\x76\x6F\x72\x69\x74\x65\x73\x7C\x66\x61\x76\x6F\x72\x69\x74\x65\x73\x7C\x74\x72\x61\x69\x6C\x65\x72\x7C\x42\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x7C\x73\x79\x6E\x6F\x70\x73\x69\x73\x7C\x57\x72\x69\x74\x74\x65\x6E\x7C\x4D\x41\x4C\x7C\x52\x65\x77\x72\x69\x74\x65\x7C\x6C\x61\x72\x67\x65\x5F\x69\x6D\x61\x67\x65\x5F\x75\x72\x6C\x7C\x6C\x79\x72\x69\x63\x73\x76\x32\x7C\x74\x72\x65\x73\x7C\x57\x61\x6B\x74\x75\x7C\x4C\x69\x6E\x74\x61\x6E\x67\x7C\x42\x75\x6A\x75\x72\x7C\x7C\x57\x69\x6C\x61\x79\x61\x68\x7C\x63\x61\x70\x74\x74\x7C\x7C\x6B\x61\x73\x75\x73\x7C\x6B\x65\x6D\x61\x74\x69\x61\x6E\x7C\x73\x65\x6D\x62\x75\x68\x7C\x7C\x6F\x72\x64\x65\x72\x73\x7C\x50\x4C\x41\x59\x7C\x44\x65\x76\x7C\x6E\x43\x61\x74\x65\x67\x6F\x72\x79\x7C\x6E\x61\x65\x7C\x53\x65\x72\x76\x65\x72\x7C\x52\x6F\x6D\x61\x6E\x74\x69\x73\x7C\x53\x65\x64\x69\x68\x7C\x50\x65\x6E\x67\x6F\x72\x62\x61\x6E\x61\x6E\x7C\x4C\x69\x66\x65\x7C\x73\x65\x67\x69\x74\x69\x67\x61\x7C\x61\x6E\x69\x6D\x65\x71\x75\x6F\x74\x65\x7C\x7C\x6E\x42\x79\x7C\x75\x70\x5F\x61\x74\x7C\x72\x65\x73\x75\x6C\x74\x32\x7C\x45\x6E\x65\x72\x67\x79\x7C\x70\x65\x72\x73\x65\x6E\x74\x61\x73\x65\x7C\x48\x75\x73\x62\x61\x6E\x64\x7C\x73\x75\x61\x6D\x69\x7C\x57\x69\x66\x65\x7C\x69\x73\x74\x72\x69\x7C\x73\x69\x73\x69\x5F\x70\x6F\x73\x69\x74\x69\x66\x7C\x73\x69\x73\x69\x5F\x6E\x65\x67\x61\x74\x69\x66\x7C\x44\x65\x73\x74\x69\x6E\x79\x7C\x72\x65\x6A\x65\x6B\x69\x7C\x53\x75\x73\x74\x65\x6E\x61\x6E\x63\x65\x7C\x41\x6E\x61\x6C\x79\x73\x69\x73\x7C\x61\x6E\x61\x6C\x69\x73\x61\x7C\x73\x69\x66\x61\x74\x7C\x65\x6C\x65\x6D\x65\x6E\x7C\x6C\x61\x6B\x69\x7C\x44\x72\x61\x67\x6F\x6E\x7C\x7C\x44\x69\x72\x65\x63\x74\x69\x6F\x6E\x7C\x62\x75\x6C\x61\x6E\x7C\x73\x69\x6B\x6C\x75\x73\x7C\x63\x61\x70\x72\x69\x63\x6F\x72\x6E\x7C\x67\x65\x74\x5A\x6F\x64\x69\x61\x63\x7C\x6D\x6F\x6E\x74\x68\x7C\x5F\x64\x7C\x7C\x67\x65\x74\x46\x75\x6C\x6C\x59\x65\x61\x72\x7C\x67\x65\x74\x4D\x6F\x6E\x74\x68\x7C\x67\x65\x74\x44\x61\x74\x65\x7C\x5A\x6F\x64\x69\x61\x63\x7C\x7C\x7C\x78\x65\x6F\x6E\x74\x69\x6B\x74\x6F\x6B\x6F\x70\x7C\x74\x65\x78\x74\x74\x6B\x7C\x74\x74\x6E\x6F\x77\x6D\x7C\x74\x74\x61\x75\x64\x7C\x78\x65\x6F\x6E\x79\x74\x69\x6B\x74\x6F\x6B\x6E\x6F\x77\x6D\x7C\x6E\x6F\x77\x61\x74\x65\x72\x6D\x61\x72\x6B\x7C\x78\x65\x6F\x6E\x79\x74\x69\x6B\x74\x6F\x6B\x61\x75\x64\x69\x6F\x7C\x74\x65\x78\x74\x79\x74\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x65\x72\x7C\x7C\x74\x75\x6D\x6D\x62\x7C\x73\x68\x6F\x72\x74\x73\x7C\x63\x61\x70\x7C\x64\x6F\x67\x65\x65\x6D\x6F\x6A\x69\x7C\x72\x65\x73\x75\x6C\x74\x34\x7C\x73\x6D\x6F\x6F\x74\x68\x7C\x66\x69\x6C\x74\x65\x72\x5F\x63\x6F\x6D\x70\x6C\x65\x78\x7C\x68\x79\x70\x6F\x74\x7C\x62\x75\x66\x66\x7C\x53\x48\x41\x32\x35\x36\x7C\x4D\x69\x73\x73\x69\x6E\x67\x7C\x50\x65\x72\x6D\x69\x73\x73\x69\x6F\x6E\x7C\x4C\x69\x73\x74\x65\x64\x7C\x73\x65\x70\x6C\x69\x74\x7C\x69\x73\x69\x7C\x53\x6B\x69\x70\x7C\x6C\x61\x74\x65\x6E\x73\x69\x7C\x6E\x65\x77\x77\x7C\x6F\x6C\x64\x64\x7C\x72\x65\x73\x70\x6F\x6E\x7C\x53\x70\x65\x65\x64\x7C\x74\x6F\x74\x61\x6C\x6D\x65\x6D\x7C\x43\x50\x55\x7C\x6D\x6F\x64\x65\x6C\x7C\x4D\x48\x5A\x7C\x43\x6F\x72\x65\x7C\x70\x72\x6F\x6D\x69\x73\x69\x66\x79\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x4D\x65\x73\x73\x61\x67\x65\x7C\x44\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x52\x65\x70\x6F\x72\x74\x7C\x53\x75\x72\x65\x7C\x73\x65\x6E\x64\x35\x42\x75\x74\x56\x69\x64\x7C\x62\x75\x74\x74\x6F\x6E\x6D\x65\x6E\x75\x7C\x6C\x69\x73\x74\x54\x79\x70\x65\x7C\x6F\x74\x68\x65\x72\x6D\x65\x6E\x75\x7C\x6F\x77\x6E\x65\x72\x6D\x65\x6E\x75\x7C\x67\x72\x6F\x75\x70\x6D\x65\x6E\x75\x7C\x73\x6F\x75\x6E\x64\x6D\x65\x6E\x75\x7C\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x6D\x65\x6E\x75\x7C\x73\x65\x61\x72\x63\x68\x6D\x65\x6E\x75\x7C\x74\x6F\x6F\x6C\x6D\x65\x6E\x75\x7C\x72\x61\x6E\x64\x6F\x6D\x69\x6D\x61\x67\x65\x6D\x65\x6E\x75\x7C\x69\x6D\x61\x67\x65\x65\x66\x66\x65\x63\x74\x6D\x65\x6E\x75\x7C\x61\x6E\x69\x6D\x65\x6D\x65\x6E\x75\x7C\x65\x6D\x6F\x74\x65\x6D\x65\x6E\x75\x7C\x61\x6E\x69\x6D\x65\x73\x74\x69\x63\x6B\x65\x72\x6D\x65\x6E\x75\x7C\x4E\x73\x66\x77\x7C\x6E\x73\x66\x77\x6D\x65\x6E\x75\x7C\x66\x75\x6E\x6D\x65\x6E\x75\x7C\x63\x6F\x6E\x76\x65\x72\x74\x6D\x65\x6E\x75\x7C\x64\x61\x74\x61\x62\x61\x73\x65\x6D\x65\x6E\x75\x7C\x69\x6E\x64\x6F\x68\x6F\x72\x6F\x73\x63\x6F\x70\x65\x6D\x65\x6E\x75\x7C\x61\x6E\x6F\x6E\x79\x6D\x6F\x75\x73\x6D\x65\x6E\x75\x7C\x43\x72\x65\x64\x69\x74\x7C\x54\x68\x61\x6E\x6B\x73\x7C\x74\x71\x74\x74\x7C\x4F\x57\x4E\x45\x52\x7C\x47\x52\x4F\x55\x50\x7C\x4D\x41\x4B\x45\x52\x7C\x43\x4F\x4E\x56\x45\x52\x54\x7C\x73\x74\x69\x6B\x7C\x76\x69\x64\x7C\x45\x46\x46\x45\x43\x54\x7C\x52\x41\x4E\x44\x4F\x4D\x7C\x45\x4D\x4F\x54\x45\x7C\x77\x61\x69\x66\x75\x32\x7C\x4E\x53\x46\x57\x7C\x77\x68\x65\x72\x65\x7C\x47\x41\x4D\x45\x7C\x41\x4E\x4F\x4E\x59\x4D\x4F\x55\x53\x7C\x54\x4F\x4F\x4C\x7C\x4F\x54\x48\x45\x52\x7C\x65\x76\x61\x6C\x7C\x6C\x69\x73\x74\x54\x61\x67\x7C\x6F\x77\x6E\x65\x72\x74\x61\x67\x7C\x70\x61\x72\x74\x69\x4E\x75\x6D\x7C\x79\x6F\x75\x72\x74\x61\x67\x7C\x38\x30\x30\x7C\x5F\x5F\x66\x69\x6C\x65\x6E\x61\x6D\x65\x7C\x42\x75\x66\x66\x65\x72\x4A\x53\x4F\x4E\x7C\x67\x65\x6E\x65\x72\x61\x74\x65\x57\x41\x4D\x65\x73\x73\x61\x67\x65\x43\x6F\x6E\x74\x65\x6E\x74\x7C\x70\x72\x65\x70\x61\x72\x65\x57\x41\x4D\x65\x73\x73\x61\x67\x65\x4D\x65\x64\x69\x61\x7C\x61\x64\x69\x77\x61\x6A\x73\x68\x69\x6E\x67\x7C\x62\x61\x69\x6C\x65\x79\x73\x7C\x73\x70\x61\x77\x6E\x7C\x65\x78\x65\x63\x53\x79\x6E\x63\x7C\x6E\x6F\x64\x65\x7C\x6D\x75\x6D\x61\x6B\x65\x72\x7C\x68\x78\x7A\x7C\x4A\x53\x44\x4F\x4D\x7C\x6A\x73\x64\x6F\x6D\x7C\x70\x65\x72\x66\x5F\x68\x6F\x6F\x6B\x73\x7C\x73\x63\x72\x61\x70\x65\x7C\x73\x6D\x73\x67\x7C\x66\x6F\x72\x6D\x61\x74\x44\x61\x74\x65\x7C\x67\x65\x74\x54\x69\x6D\x65\x7C\x6D\x79\x66\x75\x6E\x63\x7C\x78\x66\x61\x72\x72\x7C\x7C\x74\x69\x6B\x74\x6F\x6B\x62\x79\x78\x65\x6F\x6E\x7C\x6D\x73\x67\x46\x69\x6C\x74\x65\x72\x7C\x61\x6E\x74\x69\x73\x70\x61\x6D\x7C\x74\x68\x69\x63\x63\x79\x7C\x78\x65\x6F\x6E\x79\x77\x69\x6B\x69\x7C\x67\x65\x6D\x70\x61\x7C\x74\x6F\x64\x7C\x64\x65\x76\x65\x6C\x6F\x6B\x61\x7C\x61\x6E\x67\x6B\x61\x7C\x74\x65\x72\x62\x69\x6C\x61\x6E\x67\x7C\x73\x63\x72\x61\x70\x65\x72\x32\x7C\x42\x42\x43\x4E\x65\x77\x73\x7C\x6D\x65\x74\x72\x6F\x4E\x65\x77\x73\x7C\x4B\x75\x6D\x70\x61\x72\x61\x6E\x4E\x65\x77\x73\x7C\x52\x65\x70\x75\x62\x6C\x69\x6B\x61\x4E\x65\x77\x73\x7C\x56\x69\x76\x61\x4E\x65\x77\x73\x7C\x4B\x6F\x6D\x69\x6B\x75\x53\x65\x61\x72\x63\x68\x7C\x41\x6E\x69\x50\x6C\x61\x6E\x65\x74\x53\x65\x61\x72\x63\x68\x7C\x4B\x6F\x6D\x69\x6B\x46\x6F\x78\x53\x65\x61\x72\x63\x68\x7C\x4B\x6F\x6D\x69\x6B\x53\x74\x61\x74\x69\x6F\x6E\x53\x65\x61\x72\x63\x68\x7C\x4D\x61\x6E\x67\x61\x6B\x75\x53\x65\x61\x72\x63\x68\x7C\x4B\x69\x72\x79\x75\x75\x53\x65\x61\x72\x63\x68\x7C\x4B\x69\x73\x73\x4D\x61\x6E\x67\x61\x53\x65\x61\x72\x63\x68\x7C\x4B\x6C\x69\x6B\x4D\x61\x6E\x67\x61\x53\x65\x61\x72\x63\x68\x7C\x50\x61\x6C\x69\x6E\x67\x4D\x75\x72\x61\x68\x7C\x41\x6D\x69\x6E\x6F\x41\x70\x70\x73\x7C\x4D\x61\x6E\x67\x61\x74\x6F\x6F\x6E\x7C\x57\x41\x4D\x6F\x64\x73\x53\x65\x61\x72\x63\x68\x7C\x45\x6D\x6F\x6A\x69\x73\x7C\x43\x6F\x72\x6F\x6E\x61\x49\x6E\x66\x6F\x7C\x43\x65\x72\x70\x65\x6E\x7C\x43\x6F\x75\x70\x6C\x65\x73\x7C\x64\x68\x6E\x7C\x6B\x75\x72\x61\x6E\x67\x55\x6D\x70\x61\x6E\x7C\x61\x6C\x61\x74\x5F\x74\x75\x6B\x61\x72\x7C\x6D\x6F\x6E\x61\x79\x7C\x61\x64\x64\x49\x6E\x76\x65\x6E\x74\x6F\x72\x69\x4C\x69\x6D\x69\x74\x7C\x6B\x75\x72\x61\x6E\x67\x4C\x69\x6D\x69\x74\x7C\x62\x75\x72\x75\x61\x6E\x7C\x72\x70\x67\x7C\x64\x61\x72\x61\x68\x61\x77\x61\x6C\x7C\x69\x73\x55\x6D\x70\x61\x6E\x7C\x69\x73\x4C\x69\x6D\x69\x74\x7C\x69\x73\x49\x6E\x76\x65\x6E\x74\x6F\x72\x79\x4C\x69\x6D\x69\x74\x7C\x68\x61\x73\x69\x6C\x5F\x62\x75\x72\x75\x61\x6E\x7C\x5F\x64\x61\x72\x61\x68\x4F\x72\x67\x7C\x6C\x6F\x6E\x74\x6F\x6E\x67\x7C\x6C\x6F\x6E\x74\x6F\x6E\x67\x5F\x64\x65\x73\x6B\x7C\x6B\x61\x6C\x69\x6D\x61\x74\x7C\x6C\x69\x72\x69\x6B\x7C\x74\x65\x62\x61\x6B\x61\x6E\x7C\x6F\x74\x68\x65\x72\x73\x7C\x6D\x6F\x64\x75\x6C\x65\x7C\x65\x78\x70\x6F\x72\x74\x73\x7C\x73\x65\x6C\x65\x63\x74\x65\x64\x49\x64\x7C\x6D\x65\x73\x73\x61\x67\x65\x43\x6F\x6E\x74\x65\x78\x74\x49\x6E\x66\x6F\x7C\x64\x65\x63\x6F\x64\x65\x4A\x69\x64\x7C\x69\x74\x73\x4D\x65\x7C\x67\x72\x6F\x75\x70\x4F\x77\x6E\x65\x72\x7C\x69\x73\x4E\x61\x4E\x7C\x74\x65\x78\x74\x49\x6D\x67\x7C\x77\x70\x6D\x6F\x62\x69\x6C\x65\x7C\x66\x6B\x6F\x6E\x74\x61\x6B\x7C\x31\x36\x31\x34\x39\x35\x33\x33\x33\x37\x7C\x63\x6F\x6E\x74\x61\x63\x74\x4D\x65\x73\x73\x61\x67\x65\x7C\x64\x69\x73\x70\x6C\x61\x79\x4E\x61\x6D\x65\x7C\x76\x63\x61\x72\x64\x7C\x42\x45\x47\x49\x4E\x7C\x56\x43\x41\x52\x44\x7C\x6E\x56\x45\x52\x53\x49\x4F\x4E\x7C\x66\x74\x6F\x6B\x6F\x7C\x31\x36\x35\x30\x35\x34\x33\x34\x38\x30\x30\x7C\x70\x72\x6F\x64\x75\x63\x74\x4D\x65\x73\x73\x61\x67\x65\x7C\x70\x72\x6F\x64\x75\x63\x74\x7C\x70\x72\x6F\x64\x75\x63\x74\x49\x6D\x61\x67\x65\x7C\x63\x75\x72\x72\x65\x6E\x63\x79\x43\x6F\x64\x65\x7C\x55\x53\x44\x7C\x70\x72\x69\x63\x65\x41\x6D\x6F\x75\x6E\x74\x31\x30\x30\x30\x7C\x72\x65\x74\x61\x69\x6C\x65\x72\x49\x64\x7C\x70\x72\x6F\x64\x75\x63\x74\x49\x6D\x61\x67\x65\x43\x6F\x75\x6E\x74\x7C\x62\x75\x73\x69\x6E\x65\x73\x73\x4F\x77\x6E\x65\x72\x4A\x69\x64\x7C\x66\x6C\x6F\x6B\x61\x73\x69\x7C\x6C\x6F\x63\x61\x74\x69\x6F\x6E\x4D\x65\x73\x73\x61\x67\x65\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x4D\x65\x73\x73\x61\x67\x65\x7C\x66\x76\x69\x64\x65\x6F\x7C\x66\x67\x63\x6C\x69\x6E\x6B\x7C\x67\x72\x6F\x75\x70\x49\x6E\x76\x69\x74\x65\x4D\x65\x73\x73\x61\x67\x65\x7C\x67\x72\x6F\x75\x70\x4A\x69\x64\x7C\x31\x36\x31\x36\x31\x36\x39\x37\x34\x33\x7C\x69\x6E\x76\x69\x74\x65\x43\x6F\x64\x65\x7C\x66\x67\x69\x66\x7C\x66\x74\x65\x78\x74\x74\x7C\x66\x76\x6E\x7C\x6F\x67\x67\x7C\x63\x6F\x64\x65\x63\x73\x7C\x6F\x70\x75\x73\x7C\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x39\x7C\x62\x67\x57\x68\x69\x74\x65\x7C\x4D\x45\x53\x53\x41\x47\x45\x7C\x62\x67\x47\x72\x65\x65\x6E\x7C\x62\x67\x42\x6C\x75\x65\x7C\x6D\x61\x67\x65\x6E\x74\x61\x7C\x79\x65\x6C\x6C\x6F\x77\x7C\x62\x6C\x75\x65\x42\x72\x69\x67\x68\x74\x7C\x50\x72\x69\x76\x61\x74\x65\x7C\x63\x72\x6F\x6E\x7C\x73\x63\x68\x65\x64\x75\x6C\x65\x7C\x30\x30\x7C\x52\x65\x73\x65\x74\x65\x64\x7C\x73\x63\x68\x65\x64\x75\x6C\x65\x64\x7C\x63\x6F\x75\x6E\x74\x61\x70\x69\x7C\x78\x79\x7A\x7C\x43\x68\x65\x65\x6D\x73\x42\x6F\x74\x7C\x76\x69\x73\x69\x74\x73\x7C\x52\x75\x6E\x74\x69\x6D\x65\x7C\x63\x68\x61\x74\x52\x65\x61\x64\x7C\x61\x75\x74\x6F\x72\x65\x61\x64\x70\x6D\x6E\x67\x63\x7C\x61\x75\x74\x6F\x52\x65\x61\x64\x47\x63\x7C\x61\x75\x74\x6F\x52\x65\x63\x6F\x72\x64\x7C\x72\x65\x63\x6F\x72\x64\x69\x6E\x67\x7C\x61\x75\x74\x6F\x54\x79\x70\x69\x6E\x67\x7C\x6C\x69\x6E\x6B\x67\x63\x65\x7C\x41\x6E\x74\x69\x77\x61\x6D\x65\x7C\x7C\x33\x35\x30\x30\x7C\x53\x6F\x6D\x65\x62\x6F\x64\x79\x7C\x73\x70\x61\x6D\x6D\x65\x64\x7C\x4D\x61\x72\x6B\x7C\x72\x65\x70\x65\x61\x74\x7C\x33\x30\x30\x7C\x6E\x53\x6F\x72\x72\x79\x7C\x4B\x69\x63\x6B\x65\x64\x7C\x61\x6E\x74\x69\x7C\x48\x65\x79\x7C\x77\x61\x74\x63\x68\x7C\x6D\x6F\x75\x74\x68\x7C\x4E\x65\x76\x65\x72\x7C\x74\x61\x75\x67\x68\x74\x7C\x73\x70\x65\x61\x6B\x7C\x79\x6F\x75\x74\x75\x7C\x78\x65\x6F\x6E\x79\x73\x74\x69\x63\x6B\x65\x72\x7C\x45\x6D\x6F\x6A\x69\x7C\x61\x6E\x6F\x74\x68\x65\x72\x7C\x7C\x6E\x4E\x4F\x54\x45\x7C\x64\x65\x74\x65\x63\x74\x7C\x7C\x69\x73\x51\x75\x6F\x74\x65\x64\x49\x6D\x61\x67\x65\x7C\x69\x73\x51\x75\x6F\x74\x65\x64\x53\x74\x69\x63\x6B\x65\x72\x7C\x73\x74\x69\x63\x6B\x65\x72\x4D\x65\x73\x73\x61\x67\x65\x7C\x52\x65\x73\x70\x6F\x6E\x7C\x43\x6D\x64\x7C\x57\x65\x62\x4D\x65\x73\x73\x61\x67\x65\x49\x6E\x66\x6F\x7C\x61\x70\x70\x65\x6E\x64\x7C\x65\x6D\x69\x74\x7C\x75\x70\x73\x65\x72\x74\x7C\x66\x69\x6E\x64\x49\x6E\x64\x65\x78\x7C\x7C\x41\x6E\x73\x77\x65\x72\x65\x64\x7C\x53\x75\x72\x72\x65\x6E\x64\x65\x72\x7C\x50\x65\x72\x66\x65\x63\x74\x7C\x50\x6C\x61\x79\x65\x72\x7C\x6D\x65\x73\x7C\x6D\x65\x73\x67\x7C\x53\x6F\x6E\x67\x7C\x4D\x75\x73\x69\x63\x7C\x51\x75\x69\x7A\x7C\x62\x6C\x61\x6E\x6B\x7C\x72\x69\x64\x64\x6C\x65\x7C\x44\x45\x42\x55\x47\x7C\x73\x6B\x69\x70\x7C\x74\x75\x72\x6E\x7C\x62\x6F\x61\x72\x64\x7C\x35\x31\x31\x7C\x57\x6F\x6E\x7C\x54\x79\x70\x65\x64\x7C\x61\x64\x6D\x69\x74\x65\x64\x7C\x61\x63\x63\x7C\x65\x70\x74\x7C\x61\x63\x63\x65\x70\x74\x7C\x6F\x6B\x61\x79\x7C\x52\x65\x66\x75\x73\x65\x7C\x64\x61\x6E\x7C\x52\x65\x73\x70\x65\x63\x74\x69\x76\x65\x7C\x52\x6F\x63\x6B\x7C\x6E\x52\x6F\x63\x6B\x7C\x42\x6F\x74\x68\x7C\x50\x6C\x61\x79\x65\x72\x73\x7C\x6E\x53\x75\x69\x74\x7C\x44\x69\x64\x6E\x7C\x6E\x53\x45\x52\x49\x45\x53\x7C\x64\x65\x6E\x67\x61\x6E\x7C\x61\x6C\x61\x73\x61\x6E\x7C\x43\x61\x6D\x65\x7C\x42\x61\x63\x6B\x7C\x7C\x6D\x69\x6C\x69\x73\x65\x63\x6F\x6E\x64\x73\x7C\x68\x6F\x73\x74\x6E\x61\x6D\x65\x7C\x70\x6C\x61\x74\x66\x6F\x72\x6D\x7C\x64\x6F\x63\x31\x7C\x64\x6F\x63\x32\x7C\x64\x6F\x63\x33\x7C\x64\x6F\x63\x34\x7C\x64\x6F\x63\x35\x7C\x64\x6F\x63\x36\x7C\x50\x72\x6F\x6D\x69\x73\x65\x7C\x63\x65\x72\x70\x65\x6E\x6D\x75\x7C\x65\x61\x63\x68\x7C\x61\x74\x74\x72\x7C\x68\x72\x65\x66\x7C\x53\x68\x6F\x72\x74\x7C\x50\x61\x73\x73\x65\x64\x7C\x6D\x6F\x64\x65\x72\x61\x74\x69\x6F\x6E\x7C\x73\x77\x69\x74\x63\x68\x7C\x42\x61\x6E\x6E\x65\x64\x7C\x62\x61\x6E\x6E\x69\x6E\x67\x7C\x6E\x54\x68\x65\x7C\x64\x69\x73\x61\x62\x6C\x65\x64\x7C\x61\x62\x6C\x65\x7C\x55\x6E\x62\x61\x6E\x6E\x65\x64\x7C\x75\x6E\x62\x61\x6E\x6E\x69\x6E\x67\x7C\x55\x6E\x62\x61\x6E\x7C\x6E\x42\x61\x6E\x7C\x6E\x55\x6E\x62\x61\x6E\x7C\x69\x6E\x76\x65\x6E\x74\x6F\x72\x69\x7C\x49\x6E\x76\x65\x6E\x74\x6F\x72\x79\x7C\x75\x73\x65\x72\x6C\x69\x6D\x69\x74\x7C\x41\x4C\x4C\x7C\x4C\x49\x4D\x49\x54\x7C\x5F\x6C\x69\x6D\x69\x74\x7C\x4C\x45\x41\x44\x45\x52\x42\x4F\x41\x52\x44\x7C\x6D\x69\x6E\x69\x6E\x67\x7C\x54\x69\x72\x65\x64\x7C\x4D\x49\x4E\x49\x4E\x47\x7C\x4D\x69\x6E\x65\x7C\x74\x61\x6D\x62\x61\x6E\x67\x7C\x37\x30\x30\x30\x7C\x4D\x69\x6E\x69\x6E\x67\x7C\x73\x65\x6E\x64\x65\x64\x7C\x42\x75\x79\x7C\x73\x65\x6C\x7C\x6A\x75\x61\x6C\x7C\x53\x65\x6C\x6C\x7C\x73\x68\x65\x65\x70\x7C\x31\x36\x30\x30\x30\x7C\x4F\x6E\x6C\x79\x7C\x42\x75\x79\x69\x6E\x67\x7C\x57\x61\x79\x7C\x7C\x62\x75\x79\x70\x6F\x74\x69\x6F\x6E\x7C\x5F\x61\x6D\x6F\x75\x6E\x74\x5F\x7C\x42\x6F\x6F\x64\x7C\x50\x69\x65\x72\x63\x65\x64\x7C\x7C\x74\x68\x6F\x72\x6E\x7C\x53\x6C\x69\x70\x70\x65\x64\x7C\x7C\x69\x6E\x74\x6F\x7C\x61\x62\x79\x73\x73\x7C\x53\x63\x72\x61\x74\x63\x68\x65\x64\x7C\x7C\x77\x69\x6C\x64\x7C\x63\x61\x72\x65\x66\x75\x6C\x7C\x45\x6E\x74\x61\x6E\x67\x6C\x65\x64\x7C\x72\x6F\x6F\x74\x73\x7C\x46\x61\x6C\x6C\x7C\x72\x69\x6D\x62\x61\x7C\x61\x6D\x61\x7A\x6F\x6E\x7C\x74\x72\x6F\x70\x69\x73\x7C\x70\x61\x64\x61\x6E\x67\x5F\x72\x75\x6D\x70\x75\x74\x7C\x61\x66\x72\x69\x6B\x61\x7C\x70\x65\x67\x75\x6E\x75\x6E\x67\x61\x6E\x7C\x4C\x6F\x63\x61\x74\x69\x6F\x6E\x7C\x57\x6F\x75\x6E\x64\x65\x64\x7C\x48\x75\x6E\x74\x7C\x48\x75\x6E\x74\x69\x6E\x67\x7C\x72\x65\x73\x65\x74\x6C\x69\x6E\x6B\x67\x63\x7C\x72\x65\x73\x65\x74\x6C\x69\x6E\x6B\x67\x72\x6F\x75\x70\x7C\x72\x65\x73\x65\x74\x6C\x69\x6E\x6B\x67\x72\x75\x70\x7C\x72\x65\x76\x6F\x6B\x65\x7C\x72\x65\x73\x65\x74\x6C\x69\x6E\x6B\x7C\x72\x65\x73\x65\x74\x67\x63\x6C\x69\x6E\x6B\x7C\x72\x65\x73\x65\x74\x67\x72\x75\x70\x6C\x69\x6E\x6B\x7C\x67\x72\x6F\x75\x70\x52\x65\x76\x6F\x6B\x65\x49\x6E\x76\x69\x74\x65\x7C\x41\x66\x6B\x7C\x74\x74\x63\x7C\x74\x74\x74\x7C\x61\x64\x6D\x69\x74\x7C\x64\x65\x6C\x74\x74\x63\x7C\x44\x6F\x65\x73\x7C\x45\x78\x69\x73\x74\x7C\x44\x61\x6D\x61\x67\x65\x64\x7C\x43\x6F\x6D\x70\x6C\x65\x74\x65\x7C\x50\x72\x65\x76\x69\x6F\x75\x73\x7C\x4D\x79\x73\x65\x6C\x66\x7C\x5F\x57\x68\x6F\x7C\x43\x68\x61\x6C\x6C\x65\x6E\x67\x65\x7C\x6E\x54\x61\x67\x7C\x43\x68\x61\x6C\x6C\x65\x6E\x67\x69\x6E\x67\x7C\x50\x6C\x61\x79\x69\x6E\x67\x7C\x45\x6C\x73\x65\x7C\x73\x75\x69\x74\x5F\x7C\x53\x55\x49\x54\x7C\x6D\x65\x6E\x61\x6E\x74\x61\x6E\x67\x7C\x41\x63\x63\x65\x70\x74\x7C\x52\x65\x6A\x65\x63\x74\x7C\x5F\x53\x75\x69\x74\x7C\x4F\x75\x74\x5F\x7C\x4F\x70\x74\x69\x6F\x6E\x7C\x49\x6E\x66\x69\x6E\x69\x74\x79\x7C\x63\x6C\x65\x61\x72\x7C\x68\x61\x64\x69\x61\x68\x7C\x68\x61\x6C\x61\x68\x7C\x68\x69\x6C\x69\x68\x7C\x68\x75\x6C\x75\x68\x7C\x68\x65\x6C\x65\x68\x7C\x68\x6F\x6C\x6F\x68\x7C\x61\x69\x75\x65\x6F\x7C\x41\x49\x55\x45\x4F\x7C\x6E\x4F\x70\x74\x69\x6F\x6E\x7C\x66\x6F\x6F\x64\x7C\x66\x61\x74\x69\x68\x61\x72\x72\x69\x64\x68\x6F\x7C\x6C\x69\x6E\x6B\x5F\x73\x6F\x6E\x67\x7C\x6E\x41\x72\x74\x69\x73\x74\x7C\x61\x72\x74\x69\x73\x74\x7C\x61\x62\x6F\x76\x65\x7C\x47\x75\x65\x73\x73\x54\x68\x65\x57\x6F\x72\x64\x7C\x47\x75\x65\x73\x73\x54\x68\x65\x53\x65\x6E\x74\x65\x6E\x63\x65\x7C\x46\x69\x6C\x6C\x7C\x6D\x69\x73\x73\x69\x6E\x67\x7C\x71\x75\x65\x73\x74\x69\x6F\x6E\x73\x7C\x53\x61\x79\x69\x6E\x67\x7C\x6E\x46\x6F\x72\x7C\x45\x78\x61\x6D\x70\x6C\x65\x73\x7C\x6D\x65\x64\x69\x75\x6D\x7C\x4D\x61\x74\x63\x68\x7C\x43\x69\x65\x65\x65\x65\x7C\x47\x6F\x69\x6E\x67\x7C\x59\x65\x73\x7C\x43\x6F\x75\x6C\x64\x7C\x54\x68\x61\x74\x73\x7C\x72\x69\x67\x68\x74\x7C\x46\x61\x74\x68\x65\x72\x7C\x6C\x6F\x6C\x7C\x43\x6F\x75\x72\x73\x65\x7C\x4F\x6B\x61\x79\x7C\x44\x69\x66\x66\x69\x63\x75\x6C\x74\x7C\x48\x6F\x6C\x79\x7C\x52\x65\x61\x6C\x6C\x79\x7C\x44\x69\x7A\x7A\x79\x7C\x4F\x68\x68\x68\x7C\x53\x65\x65\x7C\x50\x61\x74\x69\x65\x6E\x74\x7C\x42\x6F\x73\x73\x7C\x52\x61\x74\x65\x7C\x68\x61\x6E\x64\x73\x6F\x6D\x65\x63\x68\x65\x63\x6B\x7C\x6E\x4E\x61\x6D\x61\x7C\x43\x6F\x6D\x70\x61\x73\x73\x69\x6F\x6E\x61\x74\x65\x7C\x47\x65\x6E\x65\x72\x6F\x75\x73\x7C\x47\x72\x75\x6D\x70\x79\x7C\x46\x6F\x72\x67\x69\x76\x69\x6E\x67\x7C\x4F\x62\x65\x64\x69\x65\x6E\x74\x7C\x53\x69\x6D\x70\x7C\x4B\x69\x6E\x64\x7C\x48\x65\x61\x72\x74\x65\x64\x7C\x70\x61\x74\x69\x65\x6E\x74\x7C\x55\x77\x55\x7C\x61\x6E\x79\x77\x61\x79\x7C\x48\x65\x6C\x70\x66\x75\x6C\x7C\x67\x72\x65\x61\x74\x63\x68\x65\x63\x6B\x7C\x6C\x65\x73\x62\x69\x63\x68\x65\x63\x6B\x7C\x73\x74\x75\x70\x69\x64\x7C\x6C\x65\x73\x62\x69\x7C\x61\x70\x65\x7C\x67\x72\x65\x61\x74\x7C\x67\x61\x6E\x64\x75\x7C\x6D\x61\x64\x61\x72\x63\x68\x6F\x64\x7C\x6B\x61\x6C\x61\x7C\x67\x6F\x72\x61\x7C\x63\x68\x75\x74\x69\x79\x61\x7C\x62\x68\x6F\x73\x64\x69\x77\x61\x6C\x61\x7C\x63\x68\x75\x74\x6D\x61\x72\x69\x6B\x61\x7C\x62\x6F\x6B\x61\x63\x68\x6F\x64\x61\x7C\x73\x75\x61\x72\x65\x72\x62\x61\x63\x63\x68\x61\x7C\x62\x6F\x6C\x6F\x63\x68\x6F\x64\x61\x7C\x6D\x75\x74\x68\x61\x6C\x7C\x6D\x75\x74\x68\x62\x61\x61\x7A\x7C\x72\x61\x6E\x64\x69\x62\x61\x61\x7A\x7C\x74\x6F\x70\x69\x62\x61\x61\x7A\x7C\x62\x65\x68\x65\x6E\x63\x68\x6F\x64\x7C\x62\x65\x68\x6E\x63\x68\x6F\x64\x61\x7C\x62\x68\x6F\x73\x64\x69\x6B\x61\x7C\x62\x73\x64\x6B\x7C\x62\x68\x6F\x73\x64\x6B\x7C\x6E\x69\x67\x67\x65\x72\x7C\x6C\x6F\x64\x61\x7C\x6C\x61\x75\x6E\x64\x7C\x6E\x69\x67\x67\x61\x7C\x74\x68\x61\x72\x6B\x69\x7C\x64\x6F\x67\x6C\x61\x7C\x62\x65\x77\x64\x61\x7C\x62\x6F\x6B\x61\x7C\x6B\x68\x61\x6E\x6B\x69\x7C\x62\x61\x6C\x7C\x4D\x6F\x73\x74\x7C\x65\x61\x74\x7C\x74\x61\x62\x6C\x65\x73\x70\x6F\x6F\x6E\x73\x7C\x72\x69\x63\x65\x7C\x73\x69\x64\x65\x7C\x64\x69\x73\x68\x65\x73\x7C\x64\x72\x61\x67\x67\x69\x6E\x67\x7C\x64\x72\x69\x6E\x6B\x7C\x73\x70\x69\x6C\x6C\x7C\x70\x61\x75\x73\x65\x7C\x70\x69\x63\x6B\x6C\x65\x7C\x65\x76\x65\x72\x79\x7C\x57\x61\x6E\x74\x73\x7C\x4D\x69\x6C\x6C\x69\x6F\x6E\x61\x69\x72\x65\x7C\x63\x68\x6F\x72\x75\x73\x7C\x70\x6C\x61\x79\x65\x64\x7C\x77\x61\x6E\x74\x73\x7C\x42\x61\x6E\x67\x7C\x74\x61\x62\x6C\x65\x7C\x75\x6E\x74\x69\x6C\x7C\x73\x63\x6F\x6C\x64\x65\x64\x7C\x6E\x6F\x69\x73\x79\x7C\x5F\x49\x7C\x74\x77\x69\x6E\x7C\x73\x65\x70\x61\x72\x61\x74\x65\x64\x7C\x70\x6C\x61\x73\x74\x69\x63\x7C\x73\x75\x72\x67\x65\x72\x79\x7C\x63\x69\x79\x75\x73\x73\x73\x5F\x7C\x6D\x65\x6E\x74\x69\x6F\x6E\x7C\x72\x68\x79\x6D\x65\x7C\x67\x68\x65\x74\x6F\x7C\x6C\x61\x6E\x67\x75\x61\x67\x65\x7C\x76\x65\x72\x73\x69\x6F\x6E\x7C\x50\x72\x65\x74\x65\x6E\x64\x69\x6E\x67\x7C\x67\x72\x61\x73\x73\x68\x6F\x70\x70\x65\x72\x73\x7C\x72\x65\x66\x72\x69\x67\x65\x72\x61\x74\x6F\x72\x7C\x65\x74\x63\x7C\x44\x4F\x4E\x4B\x45\x59\x7C\x68\x6F\x75\x73\x65\x7C\x6F\x70\x70\x6F\x73\x69\x74\x65\x7C\x73\x65\x78\x7C\x63\x68\x61\x74\x74\x65\x64\x7C\x73\x75\x62\x6D\x69\x74\x7C\x74\x65\x6C\x65\x7C\x72\x65\x63\x6F\x72\x64\x7C\x70\x69\x63\x68\x65\x7C\x70\x72\x61\x6E\x6B\x7C\x63\x6F\x6D\x65\x7C\x62\x61\x63\x6B\x7C\x6F\x72\x64\x65\x72\x7C\x61\x63\x63\x6F\x72\x64\x69\x6E\x67\x7C\x62\x61\x74\x74\x65\x72\x79\x7C\x6C\x75\x63\x6B\x79\x7C\x63\x68\x69\x6C\x64\x7C\x62\x65\x6E\x67\x61\x6C\x69\x7C\x73\x65\x6C\x6D\x6F\x6E\x7C\x62\x68\x6F\x69\x7C\x73\x75\x69\x74\x61\x62\x6C\x65\x7C\x72\x65\x63\x65\x6E\x74\x7C\x4C\x49\x45\x7C\x67\x75\x79\x73\x7C\x41\x63\x74\x7C\x50\x69\x63\x6B\x7C\x62\x6F\x6F\x6B\x7C\x64\x6F\x6F\x72\x7C\x68\x6F\x77\x6C\x7C\x54\x61\x6B\x65\x7C\x73\x65\x6C\x66\x69\x65\x7C\x70\x61\x73\x74\x65\x7C\x4C\x65\x74\x7C\x77\x65\x6C\x6C\x7C\x6B\x6E\x6F\x77\x6E\x7C\x57\x61\x6C\x6B\x7C\x65\x6C\x62\x6F\x77\x73\x7C\x6B\x6E\x65\x65\x73\x7C\x6E\x61\x74\x69\x6F\x6E\x61\x6C\x7C\x61\x6E\x74\x68\x65\x6D\x7C\x42\x72\x65\x61\x6B\x64\x61\x6E\x63\x65\x7C\x73\x69\x74\x74\x69\x6E\x67\x7C\x73\x61\x64\x64\x65\x73\x74\x7C\x6B\x6E\x6F\x77\x7C\x74\x77\x65\x72\x6B\x7C\x35\x6D\x69\x6E\x73\x7C\x45\x61\x74\x7C\x70\x69\x65\x63\x65\x7C\x67\x61\x72\x6C\x69\x63\x7C\x53\x68\x6F\x77\x7C\x74\x65\x78\x74\x65\x64\x7C\x73\x61\x69\x64\x7C\x66\x75\x6C\x6C\x7C\x73\x68\x6F\x72\x74\x7C\x62\x69\x74\x63\x68\x7C\x31\x30\x6D\x69\x6E\x73\x7C\x6F\x6C\x69\x7C\x6C\x6F\x6E\x64\x6F\x6E\x7C\x43\x72\x75\x73\x68\x7C\x62\x75\x73\x74\x61\x72\x64\x7C\x48\x41\x4E\x44\x53\x4F\x4D\x45\x7C\x70\x69\x6E\x6C\x69\x73\x74\x7C\x63\x68\x61\x74\x6C\x69\x73\x74\x7C\x6E\x6F\x74\x65\x73\x7C\x62\x6F\x6C\x6C\x79\x77\x6F\x6F\x64\x7C\x61\x63\x74\x6F\x72\x7C\x70\x66\x70\x7C\x47\x41\x59\x7C\x35\x68\x6F\x75\x72\x73\x7C\x62\x75\x74\x74\x7C\x68\x61\x72\x64\x6C\x79\x7C\x75\x67\x6C\x69\x65\x73\x74\x7C\x77\x6F\x72\x6C\x64\x7C\x62\x72\x61\x76\x6F\x6F\x6F\x6F\x6F\x6F\x6F\x6F\x6F\x7C\x68\x61\x72\x73\x68\x7C\x75\x72\x73\x65\x6C\x66\x7C\x66\x69\x72\x6D\x6C\x79\x7C\x63\x68\x61\x6C\x6C\x65\x6E\x67\x65\x7C\x62\x72\x65\x61\x6B\x75\x70\x7C\x62\x65\x73\x74\x7C\x66\x72\x6E\x64\x7C\x6D\x61\x72\x72\x79\x7C\x64\x65\x70\x61\x6B\x7C\x6B\x61\x6C\x61\x6C\x7C\x66\x65\x65\x6C\x69\x6E\x67\x7C\x6D\x6F\x6D\x6D\x79\x7C\x61\x62\x75\x73\x69\x76\x65\x7C\x65\x78\x63\x65\x70\x74\x69\x6E\x67\x7C\x70\x72\x6F\x6F\x66\x7C\x44\x41\x52\x45\x5F\x7C\x7C\x6F\x75\x74\x73\x69\x64\x65\x7C\x64\x69\x66\x66\x65\x72\x65\x6E\x74\x7C\x73\x61\x6D\x65\x7C\x6B\x65\x74\x61\x6B\x75\x74\x61\x6E\x7C\x74\x65\x72\x62\x65\x73\x61\x72\x7C\x6B\x61\x6D\x75\x7C\x73\x65\x63\x72\x65\x74\x6C\x79\x7C\x45\x76\x65\x72\x7C\x73\x69\x64\x65\x64\x7C\x6D\x69\x73\x74\x72\x65\x73\x73\x7C\x66\x65\x61\x72\x65\x64\x7C\x69\x6E\x66\x6C\x75\x65\x6E\x74\x69\x61\x6C\x7C\x61\x77\x65\x73\x6F\x6D\x65\x7C\x76\x65\x72\x79\x7C\x63\x6C\x6F\x73\x65\x73\x74\x7C\x69\x64\x65\x61\x6C\x7C\x70\x61\x72\x74\x6E\x65\x72\x7C\x72\x65\x6A\x65\x63\x74\x65\x64\x7C\x73\x68\x6F\x77\x65\x72\x7C\x6E\x65\x61\x72\x7C\x64\x65\x61\x74\x68\x7C\x65\x78\x70\x65\x72\x69\x65\x6E\x63\x65\x7C\x77\x65\x72\x65\x7C\x72\x65\x61\x6C\x6C\x79\x7C\x61\x6E\x67\x72\x79\x7C\x57\x68\x79\x7C\x63\x61\x6C\x6C\x65\x64\x7C\x68\x69\x64\x64\x65\x6E\x7C\x74\x61\x6C\x65\x6E\x74\x73\x7C\x74\x68\x65\x79\x7C\x77\x61\x74\x63\x68\x65\x64\x7C\x47\x6F\x6F\x67\x6C\x65\x64\x7C\x73\x77\x61\x70\x7C\x6C\x69\x76\x65\x73\x7C\x77\x65\x65\x6B\x7C\x7C\x73\x63\x61\x72\x69\x65\x73\x74\x7C\x74\x68\x61\x74\x73\x7C\x68\x61\x70\x70\x65\x6E\x65\x64\x7C\x66\x61\x72\x74\x65\x64\x7C\x62\x6C\x61\x6D\x65\x64\x7C\x67\x68\x6F\x73\x74\x65\x64\x7C\x73\x65\x65\x6E\x7C\x64\x65\x61\x64\x7C\x61\x6E\x6E\x6F\x79\x73\x7C\x70\x68\x6F\x6E\x65\x7C\x77\x61\x73\x74\x65\x7C\x66\x61\x6B\x65\x64\x7C\x73\x69\x63\x6B\x7C\x69\x74\x65\x6D\x7C\x69\x74\x65\x6D\x73\x7C\x62\x72\x69\x6E\x67\x7C\x73\x74\x75\x63\x6B\x7C\x64\x65\x73\x65\x72\x74\x7C\x69\x73\x6C\x61\x6E\x64\x7C\x6C\x61\x75\x67\x68\x65\x64\x7C\x68\x61\x72\x64\x7C\x70\x61\x6E\x74\x73\x7C\x66\x61\x72\x74\x73\x7C\x62\x65\x64\x7C\x73\x6C\x65\x65\x70\x69\x6E\x67\x7C\x6D\x69\x73\x74\x61\x6B\x65\x7C\x65\x78\x61\x6D\x7C\x64\x6F\x6E\x65\x7C\x63\x72\x69\x65\x64\x7C\x61\x6D\x6F\x6E\x67\x7C\x73\x6F\x6D\x65\x74\x69\x6D\x65\x73\x7C\x66\x69\x6E\x67\x65\x72\x7C\x6E\x6F\x73\x65\x74\x72\x69\x6C\x7C\x64\x75\x72\x69\x6E\x67\x7C\x68\x6F\x6E\x65\x73\x74\x6C\x79\x7C\x66\x65\x61\x72\x7C\x6F\x6E\x63\x65\x7C\x71\x75\x69\x65\x74\x6C\x79\x7C\x73\x74\x65\x61\x6C\x7C\x6D\x6F\x74\x68\x65\x72\x73\x7C\x66\x61\x74\x68\x65\x72\x73\x7C\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x7C\x75\x6E\x63\x6F\x6D\x66\x6F\x72\x74\x61\x62\x6C\x65\x7C\x6C\x69\x65\x64\x7C\x74\x6F\x67\x65\x74\x68\x65\x72\x7C\x62\x69\x67\x7C\x74\x68\x6F\x75\x67\x68\x74\x7C\x74\x61\x6B\x69\x6E\x67\x7C\x72\x65\x76\x65\x6E\x67\x65\x7C\x74\x65\x61\x63\x68\x65\x72\x7C\x63\x75\x72\x72\x65\x6E\x74\x7C\x70\x72\x69\x6D\x65\x7C\x6D\x69\x6E\x69\x73\x74\x65\x72\x7C\x6E\x6F\x6E\x7C\x69\x6E\x76\x69\x73\x69\x62\x6C\x65\x7C\x6B\x65\x70\x74\x7C\x77\x68\x6F\x69\x73\x7C\x63\x72\x65\x65\x70\x65\x64\x7C\x73\x6F\x63\x69\x61\x6C\x7C\x67\x65\x6E\x69\x65\x7C\x67\x72\x61\x6E\x74\x65\x64\x7C\x74\x68\x72\x65\x65\x7C\x77\x69\x73\x68\x65\x73\x7C\x61\x73\x6B\x7C\x72\x65\x67\x72\x65\x74\x7C\x74\x68\x69\x6E\x6B\x7C\x6C\x6F\x6F\x6B\x7C\x6D\x61\x6E\x79\x7C\x73\x65\x6C\x66\x69\x65\x73\x7C\x66\x61\x76\x6F\x72\x69\x74\x65\x7C\x63\x68\x69\x6C\x64\x68\x6F\x6F\x64\x7C\x73\x68\x6F\x77\x7C\x66\x69\x63\x74\x69\x6F\x6E\x61\x6C\x7C\x6C\x69\x65\x7C\x63\x65\x6C\x65\x62\x72\x69\x74\x79\x7C\x57\x68\x61\x74\x73\x7C\x73\x74\x72\x61\x6E\x67\x65\x73\x74\x7C\x64\x72\x65\x61\x6D\x7C\x70\x75\x62\x67\x7C\x54\x52\x55\x54\x48\x5F\x7C\x54\x6F\x6F\x7C\x68\x69\x6E\x61\x74\x61\x7C\x73\x6D\x65\x6C\x6C\x79\x7C\x66\x72\x61\x67\x72\x61\x6E\x63\x65\x7C\x41\x41\x41\x41\x41\x41\x41\x41\x48\x7C\x48\x65\x72\x7C\x73\x74\x72\x6F\x6B\x65\x7C\x41\x41\x41\x41\x41\x48\x7C\x41\x41\x41\x41\x41\x41\x41\x48\x7C\x41\x41\x41\x41\x41\x41\x7C\x4C\x55\x43\x43\x55\x55\x55\x55\x55\x55\x55\x55\x55\x55\x55\x55\x55\x7C\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x47\x48\x7C\x48\x45\x4C\x4C\x7C\x41\x42\x4F\x55\x54\x7C\x52\x45\x41\x4C\x49\x54\x59\x7C\x6C\x61\x70\x74\x6F\x70\x7C\x77\x61\x74\x63\x68\x69\x6E\x67\x7C\x62\x65\x6C\x69\x65\x76\x65\x7C\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x68\x7C\x74\x68\x61\x6E\x6B\x73\x7C\x61\x61\x61\x61\x61\x61\x68\x7C\x59\x45\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x48\x7C\x53\x54\x49\x4C\x4C\x7C\x48\x41\x56\x45\x7C\x41\x4C\x53\x4F\x7C\x4E\x4F\x54\x7C\x53\x41\x4D\x45\x7C\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x48\x7C\x63\x68\x65\x63\x6B\x64\x65\x61\x74\x68\x7C\x61\x67\x69\x66\x79\x7C\x44\x65\x61\x64\x7C\x41\x67\x65\x7C\x6E\x5F\x51\x75\x69\x63\x6B\x7C\x51\x75\x69\x63\x6B\x7C\x52\x65\x70\x65\x6E\x74\x7C\x42\x65\x63\x61\x75\x73\x65\x7C\x4B\x6E\x6F\x77\x73\x7C\x41\x62\x6F\x75\x74\x7C\x44\x65\x61\x74\x68\x5F\x7C\x67\x72\x6F\x75\x70\x41\x63\x63\x65\x70\x74\x49\x6E\x76\x69\x74\x65\x7C\x6C\x65\x61\x76\x65\x67\x72\x6F\x75\x70\x7C\x67\x72\x6F\x75\x70\x4C\x65\x61\x76\x65\x7C\x45\x78\x69\x66\x7C\x43\x68\x61\x6E\x67\x65\x64\x7C\x50\x61\x63\x6B\x6E\x61\x6D\x65\x7C\x73\x65\x74\x67\x63\x6E\x61\x6D\x65\x7C\x73\x65\x74\x73\x75\x62\x6A\x65\x63\x74\x7C\x67\x72\x6F\x75\x70\x55\x70\x64\x61\x74\x65\x53\x75\x62\x6A\x65\x63\x74\x7C\x73\x65\x74\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E\x7C\x67\x72\x6F\x75\x70\x55\x70\x64\x61\x74\x65\x44\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E\x7C\x73\x65\x74\x67\x72\x6F\x75\x70\x70\x70\x7C\x73\x65\x74\x67\x72\x75\x70\x70\x70\x7C\x65\x6E\x64\x4C\x69\x6D\x69\x74\x7C\x45\x6E\x74\x65\x72\x65\x64\x7C\x5F\x54\x68\x65\x72\x65\x7C\x56\x6F\x74\x65\x73\x7C\x48\x61\x6E\x64\x73\x6F\x6D\x65\x7C\x53\x74\x61\x72\x74\x73\x7C\x64\x65\x6C\x65\x74\x65\x76\x6F\x74\x65\x7C\x68\x61\x70\x75\x73\x76\x6F\x74\x65\x7C\x61\x6E\x6E\x6F\x75\x6E\x63\x65\x6D\x65\x6E\x74\x7C\x43\x6C\x6F\x73\x69\x6E\x67\x7C\x6E\x6F\x74\x5F\x61\x6E\x6E\x6F\x75\x6E\x63\x65\x6D\x65\x6E\x74\x7C\x4F\x70\x65\x6E\x69\x6E\x67\x7C\x75\x6E\x6C\x6F\x63\x6B\x65\x64\x7C\x4F\x70\x65\x6E\x65\x64\x7C\x43\x6C\x6F\x73\x65\x64\x7C\x61\x75\x74\x6F\x73\x74\x69\x6B\x65\x72\x7C\x7C\x61\x75\x74\x6F\x73\x74\x69\x6B\x65\x72\x70\x63\x7C\x61\x63\x74\x69\x76\x61\x74\x65\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x6F\x75\x74\x75\x62\x65\x76\x69\x64\x65\x6F\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x6F\x75\x74\x75\x62\x65\x76\x69\x64\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x6F\x75\x74\x75\x62\x65\x63\x68\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x79\x6F\x75\x74\x75\x62\x65\x63\x68\x61\x6E\x6E\x65\x6C\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x69\x6E\x73\x74\x61\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x66\x61\x63\x65\x62\x6F\x6F\x6B\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x65\x6C\x65\x67\x72\x61\x6D\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x69\x6B\x74\x6F\x6B\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x77\x74\x7C\x61\x6E\x74\x69\x6C\x69\x6E\x6B\x74\x77\x69\x74\x74\x65\x72\x7C\x6E\x4E\x6F\x7C\x75\x73\x65\x73\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x74\x6F\x78\x63\x69\x7C\x62\x75\x74\x74\x6F\x6E\x73\x6E\x74\x74\x6F\x78\x69\x63\x7C\x73\x65\x6E\x64\x73\x7C\x6E\x4E\x73\x66\x77\x7C\x73\x61\x66\x65\x7C\x77\x6F\x72\x6B\x7C\x65\x6E\x61\x62\x6C\x65\x64\x7C\x7C\x6D\x65\x61\x6E\x73\x7C\x61\x63\x63\x65\x73\x73\x7C\x73\x65\x78\x75\x61\x6C\x7C\x67\x72\x61\x70\x68\x69\x63\x73\x7C\x41\x63\x74\x69\x76\x65\x7C\x4D\x75\x74\x65\x64\x7C\x49\x6E\x61\x63\x74\x69\x76\x65\x7C\x55\x6E\x6D\x75\x74\x65\x64\x7C\x6C\x69\x6E\x6B\x67\x72\x6F\x75\x70\x7C\x6C\x69\x6E\x6B\x67\x63\x7C\x67\x63\x6C\x69\x6E\x6B\x7C\x72\x65\x73\x70\x6F\x6E\x73\x65\x7C\x56\x61\x6C\x75\x65\x73\x7C\x67\x72\x75\x70\x73\x65\x74\x74\x69\x6E\x67\x7C\x45\x6E\x61\x62\x6C\x65\x7C\x44\x69\x73\x61\x62\x6C\x65\x7C\x73\x74\x61\x72\x74\x6E\x75\x6D\x6D\x7C\x41\x63\x74\x69\x76\x61\x74\x65\x7C\x44\x65\x61\x63\x74\x69\x76\x61\x74\x65\x7C\x53\x65\x74\x74\x69\x6E\x67\x73\x7C\x57\x61\x73\x7C\x62\x63\x67\x63\x7C\x67\x72\x6F\x75\x70\x46\x65\x74\x63\x68\x41\x6C\x6C\x50\x61\x72\x74\x69\x63\x69\x70\x61\x74\x69\x6E\x67\x7C\x31\x36\x30\x34\x35\x39\x35\x35\x39\x38\x7C\x39\x39\x39\x39\x39\x39\x39\x39\x39\x7C\x73\x65\x6E\x64\x45\x70\x68\x65\x6D\x65\x72\x61\x6C\x7C\x73\x65\x63\x73\x7C\x43\x68\x61\x74\x73\x7C\x61\x74\x74\x65\x6E\x74\x69\x6F\x6E\x7C\x65\x76\x65\x72\x79\x62\x6F\x64\x79\x7C\x73\x65\x63\x7C\x75\x73\x65\x72\x52\x65\x63\x65\x69\x70\x74\x7C\x72\x65\x61\x64\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x7C\x72\x65\x63\x65\x69\x70\x74\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x7C\x73\x65\x72\x69\x61\x6C\x69\x7A\x65\x4D\x7C\x72\x65\x70\x6C\x69\x65\x64\x7C\x63\x6F\x6E\x74\x61\x69\x6E\x7C\x50\x65\x72\x73\x6F\x6E\x61\x6C\x7C\x6E\x50\x72\x6F\x66\x69\x6C\x65\x7C\x6E\x43\x68\x61\x74\x7C\x75\x6E\x72\x65\x61\x64\x43\x6F\x75\x6E\x74\x7C\x6E\x4C\x61\x73\x74\x63\x68\x61\x74\x7C\x63\x6F\x6E\x76\x65\x72\x73\x61\x74\x69\x6F\x6E\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x7C\x6E\x4F\x77\x6E\x65\x72\x7C\x6E\x49\x44\x7C\x6E\x4D\x61\x64\x65\x7C\x6E\x4D\x65\x6D\x62\x65\x72\x7C\x6C\x69\x73\x74\x6F\x6E\x6C\x69\x6E\x65\x7C\x6C\x69\x73\x74\x61\x6B\x74\x69\x66\x7C\x70\x72\x65\x73\x65\x6E\x63\x65\x73\x7C\x70\x61\x74\x72\x69\x63\x6B\x73\x74\x69\x63\x6B\x65\x72\x7C\x70\x61\x74\x72\x69\x6B\x7C\x61\x74\x74\x70\x32\x7C\x73\x63\x64\x6C\x7C\x53\x6F\x75\x6E\x64\x43\x6C\x6F\x75\x64\x7C\x53\x4F\x55\x4E\x44\x43\x4C\x4F\x55\x44\x7C\x6D\x34\x61\x7C\x64\x6F\x67\x65\x73\x74\x69\x63\x6B\x65\x72\x7C\x64\x6F\x67\x65\x73\x74\x69\x63\x6B\x7C\x61\x6E\x6A\x69\x6E\x67\x7C\x6C\x6F\x76\x65\x73\x74\x69\x63\x6B\x7C\x62\x75\x63\x69\x6E\x7C\x67\x75\x72\x61\x73\x74\x69\x63\x6B\x7C\x73\x74\x69\x63\x6B\x65\x72\x67\x69\x66\x7C\x73\x67\x69\x66\x7C\x73\x77\x6D\x7C\x73\x74\x69\x63\x6B\x65\x72\x77\x6D\x7C\x6E\x73\x77\x6D\x7C\x69\x73\x41\x6E\x69\x6D\x61\x74\x65\x64\x7C\x73\x74\x69\x63\x6B\x65\x72\x6D\x65\x6D\x65\x7C\x73\x74\x69\x63\x6B\x6D\x65\x6D\x65\x7C\x74\x65\x6E\x74\x61\x63\x6C\x65\x73\x7C\x68\x65\x6E\x74\x61\x69\x76\x69\x64\x7C\x4D\x69\x6D\x65\x74\x79\x70\x65\x7C\x76\x69\x65\x77\x73\x5F\x63\x6F\x75\x6E\x74\x7C\x53\x68\x61\x72\x65\x73\x7C\x73\x68\x61\x72\x65\x5F\x63\x6F\x75\x6E\x74\x7C\x61\x6E\x69\x6D\x65\x68\x75\x67\x7C\x73\x68\x69\x6E\x6F\x62\x75\x32\x7C\x61\x6E\x69\x6D\x65\x77\x61\x6C\x6C\x70\x61\x70\x65\x72\x32\x7C\x67\x65\x74\x41\x6E\x69\x6D\x65\x57\x61\x6C\x6C\x34\x7C\x62\x6F\x72\x75\x74\x6F\x7C\x73\x61\x73\x75\x6B\x65\x7C\x67\x61\x6E\x74\x65\x6E\x67\x7C\x6B\x6F\x70\x69\x7C\x63\x6F\x66\x66\x65\x7C\x61\x6C\x65\x78\x66\x6C\x69\x70\x6E\x6F\x74\x65\x7C\x64\x6C\x69\x6E\x6B\x7C\x46\x61\x69\x6C\x65\x64\x7C\x73\x75\x62\x6E\x61\x6D\x65\x7C\x68\x6F\x73\x74\x69\x6E\x67\x7C\x6D\x65\x74\x61\x7C\x53\x41\x56\x45\x7C\x46\x52\x4F\x4D\x7C\x67\x61\x65\x73\x7C\x74\x6F\x6F\x6E\x63\x65\x7C\x65\x6D\x72\x6F\x72\x7C\x46\x4C\x49\x50\x7C\x7C\x54\x45\x58\x54\x7C\x4E\x6F\x72\x6D\x61\x6C\x7C\x46\x6C\x69\x70\x7C\x39\x35\x36\x7C\x41\x4C\x50\x48\x41\x42\x45\x54\x7C\x41\x6C\x70\x68\x61\x62\x65\x74\x7C\x74\x72\x61\x6E\x73\x7C\x54\x72\x61\x6E\x73\x6C\x61\x74\x65\x7C\x62\x6F\x78\x7C\x38\x38\x30\x7C\x61\x76\x65\x6E\x67\x65\x72\x73\x7C\x39\x37\x34\x7C\x31\x30\x31\x35\x7C\x31\x30\x38\x31\x7C\x67\x72\x61\x66\x69\x74\x69\x7C\x31\x30\x31\x30\x7C\x70\x6F\x72\x6E\x68\x75\x62\x32\x7C\x31\x30\x32\x36\x7C\x39\x38\x35\x7C\x38\x37\x39\x7C\x38\x37\x34\x7C\x38\x37\x36\x7C\x39\x37\x35\x7C\x77\x68\x69\x74\x65\x7C\x31\x30\x31\x32\x7C\x39\x33\x36\x7C\x31\x30\x37\x36\x7C\x39\x38\x31\x7C\x38\x37\x31\x7C\x38\x33\x33\x7C\x72\x61\x69\x6E\x62\x6F\x77\x32\x7C\x31\x30\x37\x33\x7C\x73\x6C\x69\x63\x65\x64\x7C\x31\x30\x36\x38\x7C\x74\x68\x75\x6E\x64\x65\x72\x32\x7C\x6D\x61\x74\x72\x69\x78\x32\x7C\x73\x74\x65\x65\x6C\x7C\x6C\x75\x78\x75\x72\x79\x7C\x67\x6C\x75\x65\x32\x7C\x63\x68\x72\x69\x73\x74\x6D\x61\x73\x32\x7C\x77\x61\x74\x65\x72\x63\x6F\x6C\x6F\x72\x32\x7C\x68\x61\x6C\x6C\x6F\x77\x65\x65\x6E\x32\x7C\x73\x6B\x65\x6C\x65\x74\x6F\x6E\x32\x7C\x6D\x75\x6C\x74\x69\x63\x6F\x6C\x6F\x72\x32\x7C\x31\x30\x36\x35\x7C\x63\x69\x6E\x65\x6D\x61\x74\x69\x63\x7C\x31\x30\x34\x35\x7C\x62\x69\x74\x7C\x31\x30\x33\x37\x7C\x69\x67\x65\x6D\x6F\x6A\x69\x7C\x6D\x61\x78\x69\x6D\x75\x6D\x7C\x66\x62\x65\x6D\x6F\x6A\x69\x7C\x6D\x6F\x6A\x69\x65\x6D\x6F\x6A\x69\x7C\x65\x6D\x6F\x6A\x69\x31\x7C\x65\x6D\x6F\x6A\x69\x32\x7C\x72\x65\x73\x75\x6C\x74\x73\x7C\x63\x61\x74\x65\x67\x6F\x72\x69\x65\x73\x7C\x74\x61\x67\x73\x7C\x74\x6F\x69\x6D\x67\x7C\x74\x6F\x6D\x70\x34\x7C\x74\x6F\x61\x75\x64\x7C\x74\x6F\x70\x74\x74\x7C\x69\x6D\x61\x67\x65\x6E\x6F\x62\x67\x78\x78\x78\x7C\x72\x65\x6D\x6F\x76\x65\x62\x67\x78\x78\x78\x7C\x62\x67\x78\x78\x78\x7C\x71\x36\x31\x66\x61\x58\x7A\x7A\x52\x35\x7A\x4E\x55\x36\x63\x76\x63\x72\x77\x74\x55\x6B\x52\x55\x7C\x53\x32\x35\x38\x64\x69\x5A\x68\x63\x75\x46\x4A\x6F\x6F\x41\x74\x48\x54\x61\x50\x45\x6E\x34\x54\x7C\x35\x4C\x6A\x66\x43\x56\x41\x70\x34\x76\x56\x4E\x59\x69\x54\x6A\x71\x39\x6D\x58\x4A\x57\x48\x46\x7C\x61\x54\x37\x69\x62\x66\x55\x73\x47\x53\x77\x46\x79\x6A\x61\x50\x5A\x39\x65\x6F\x4A\x63\x36\x31\x7C\x42\x59\x36\x33\x74\x37\x56\x78\x32\x74\x53\x36\x38\x59\x5A\x46\x59\x36\x41\x4A\x34\x48\x48\x46\x7C\x35\x47\x64\x71\x31\x73\x53\x57\x53\x65\x79\x5A\x7A\x50\x4D\x48\x71\x7A\x37\x45\x4E\x66\x69\x38\x7C\x38\x36\x68\x36\x64\x36\x75\x34\x41\x58\x72\x73\x74\x34\x42\x56\x4D\x44\x39\x64\x7A\x64\x47\x5A\x7C\x78\x70\x38\x70\x53\x44\x61\x76\x41\x67\x66\x45\x35\x58\x53\x63\x71\x58\x6F\x39\x55\x4B\x48\x46\x7C\x64\x57\x62\x43\x6F\x43\x62\x33\x54\x61\x63\x43\x50\x39\x33\x69\x6D\x4E\x45\x63\x50\x78\x63\x4C\x7C\x7C\x68\x72\x65\x6D\x6F\x7C\x72\x65\x6D\x6F\x76\x65\x42\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x46\x72\x6F\x6D\x49\x6D\x61\x67\x65\x46\x69\x6C\x65\x7C\x61\x70\x69\x4B\x65\x79\x7C\x72\x65\x67\x75\x6C\x61\x72\x7C\x73\x63\x61\x6C\x65\x7C\x73\x74\x61\x79\x7C\x73\x6E\x69\x70\x70\x65\x74\x7C\x67\x6F\x6F\x67\x6C\x65\x69\x6D\x61\x67\x65\x7C\x47\x4F\x4F\x47\x4C\x45\x7C\x49\x4D\x41\x47\x45\x7C\x69\x67\x73\x74\x6F\x72\x79\x78\x78\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x73\x74\x6F\x72\x79\x78\x78\x7C\x69\x67\x73\x32\x7C\x69\x67\x73\x74\x6F\x72\x79\x32\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x73\x74\x6F\x72\x79\x32\x7C\x42\x69\x6F\x7C\x62\x69\x6F\x67\x72\x61\x70\x68\x79\x7C\x73\x68\x65\x7C\x75\x70\x6C\x6F\x61\x64\x65\x64\x7C\x69\x67\x32\x7C\x69\x67\x64\x6C\x32\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x32\x7C\x4A\x75\x6D\x6C\x61\x68\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x72\x65\x65\x6C\x73\x7C\x69\x67\x72\x65\x65\x6C\x73\x7C\x53\x75\x63\x63\x65\x73\x7C\x62\x6F\x73\x73\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x64\x6C\x7C\x69\x6E\x73\x74\x61\x67\x72\x61\x6D\x64\x6C\x76\x32\x7C\x74\x77\x69\x74\x74\x65\x72\x64\x6C\x7C\x54\x59\x50\x45\x7C\x74\x77\x69\x74\x74\x65\x72\x61\x75\x64\x69\x6F\x7C\x74\x77\x69\x74\x74\x65\x72\x78\x78\x7C\x74\x77\x64\x6C\x78\x78\x7C\x74\x77\x6D\x70\x34\x78\x78\x7C\x5F\x43\x68\x6F\x6F\x73\x65\x7C\x63\x6C\x69\x63\x6B\x69\x6E\x67\x7C\x62\x75\x74\x74\x6F\x6E\x5F\x7C\x74\x77\x64\x64\x6C\x78\x78\x7C\x66\x62\x64\x6C\x7C\x66\x62\x6D\x70\x34\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x64\x6C\x76\x32\x7C\x44\x45\x53\x43\x52\x49\x50\x54\x49\x4F\x4E\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x6D\x70\x33\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x61\x75\x64\x69\x6F\x7C\x66\x61\x63\x65\x62\x6F\x6F\x6B\x78\x78\x7C\x66\x62\x64\x6C\x78\x78\x78\x7C\x66\x62\x6D\x70\x34\x78\x78\x78\x7C\x66\x62\x78\x78\x78\x7C\x46\x41\x43\x45\x42\x4F\x4F\x4B\x7C\x5F\x46\x6F\x72\x7C\x66\x62\x64\x64\x6C\x7C\x51\x75\x61\x6C\x69\x74\x79\x48\x44\x7C\x66\x62\x64\x64\x6C\x78\x78\x7C\x70\x69\x6E\x74\x65\x72\x65\x73\x74\x32\x7C\x77\x65\x62\x74\x6F\x6E\x73\x65\x61\x72\x63\x68\x7C\x57\x65\x62\x74\x6F\x6F\x6E\x73\x7C\x57\x45\x42\x54\x4F\x4F\x4E\x53\x7C\x43\x72\x65\x61\x74\x6F\x72\x7C\x57\x61\x74\x74\x70\x61\x64\x7C\x43\x68\x61\x70\x74\x65\x72\x7C\x61\x70\x6B\x6D\x6F\x64\x7C\x61\x70\x6B\x64\x6C\x7C\x7C\x6D\x79\x66\x75\x6E\x63\x32\x7C\x6E\x50\x75\x62\x6C\x69\x73\x68\x7C\x75\x70\x6C\x6F\x61\x64\x5F\x64\x61\x74\x65\x7C\x6E\x49\x6E\x66\x6F\x7C\x75\x63\x61\x70\x61\x6E\x6E\x79\x61\x32\x7C\x55\x70\x64\x61\x74\x65\x64\x7C\x56\x65\x72\x73\x69\x6F\x6E\x7C\x76\x65\x72\x73\x7C\x44\x65\x73\x63\x7C\x76\x6E\x64\x7C\x61\x6E\x64\x72\x6F\x69\x64\x7C\x70\x61\x63\x6B\x61\x67\x65\x7C\x74\x61\x67\x6D\x65\x7C\x6D\x65\x74\x68\x6F\x64\x7C\x48\x45\x41\x44\x7C\x68\x65\x61\x64\x65\x72\x73\x7C\x64\x69\x73\x70\x6F\x73\x69\x74\x69\x6F\x6E\x7C\x61\x74\x74\x61\x63\x68\x6D\x65\x6E\x74\x7C\x44\x61\x72\x6C\x69\x6E\x67\x7C\x64\x72\x61\x6B\x6F\x72\x78\x78\x78\x7C\x44\x52\x41\x4B\x4F\x52\x7C\x73\x65\x6E\x64\x46\x69\x6C\x65\x46\x72\x6F\x6D\x55\x72\x6C\x7C\x61\x6E\x69\x6D\x65\x78\x78\x78\x7C\x57\x61\x74\x63\x68\x7C\x63\x68\x61\x72\x61\x63\x74\x65\x72\x78\x78\x78\x7C\x6B\x61\x72\x61\x6B\x74\x65\x72\x78\x78\x78\x7C\x43\x48\x41\x52\x41\x43\x54\x45\x52\x7C\x6D\x61\x6E\x67\x61\x32\x7C\x4D\x41\x4E\x47\x41\x7C\x73\x65\x61\x72\x63\x68\x41\x6E\x69\x6D\x65\x7C\x42\x61\x73\x65\x64\x7C\x53\x74\x75\x64\x69\x6F\x73\x7C\x50\x72\x6F\x64\x75\x63\x65\x72\x73\x7C\x50\x72\x65\x6D\x69\x65\x72\x65\x64\x7C\x52\x61\x74\x69\x6E\x67\x7C\x72\x61\x74\x69\x6E\x67\x7C\x52\x61\x6E\x6B\x7C\x72\x61\x6E\x6B\x7C\x54\x72\x61\x69\x6C\x65\x72\x7C\x73\x65\x61\x72\x63\x68\x4D\x61\x6E\x67\x61\x7C\x56\x6F\x6C\x75\x6D\x65\x73\x7C\x76\x6F\x6C\x75\x6D\x65\x73\x7C\x43\x68\x61\x70\x74\x65\x72\x73\x7C\x63\x68\x61\x70\x74\x65\x72\x73\x7C\x50\x75\x62\x6C\x69\x73\x68\x65\x64\x7C\x70\x75\x62\x6C\x69\x73\x68\x65\x64\x7C\x53\x63\x6F\x72\x65\x7C\x73\x63\x6F\x72\x65\x64\x7C\x41\x75\x74\x68\x6F\x72\x73\x7C\x44\x65\x73\x70\x61\x63\x69\x74\x6F\x7C\x4D\x61\x67\x6E\x69\x74\x75\x64\x65\x7C\x4B\x65\x64\x61\x6C\x61\x6D\x61\x6E\x7C\x6E\x4C\x61\x74\x69\x74\x75\x64\x65\x7C\x6E\x4C\x6F\x6E\x67\x69\x74\x75\x64\x65\x7C\x6E\x52\x65\x67\x69\x6F\x6E\x7C\x43\x61\x73\x65\x7C\x6E\x44\x65\x61\x64\x7C\x6E\x48\x65\x61\x6C\x65\x64\x7C\x53\x54\x4F\x52\x45\x7C\x64\x65\x76\x65\x6C\x6F\x70\x65\x72\x7C\x6C\x69\x6E\x6B\x5F\x64\x65\x76\x7C\x53\x70\x69\x64\x65\x72\x6D\x61\x6E\x7C\x75\x70\x6C\x6F\x61\x64\x7C\x6D\x63\x71\x75\x65\x72\x79\x7C\x31\x39\x31\x33\x32\x7C\x6D\x69\x6E\x65\x63\x72\x61\x66\x74\x7C\x68\x6F\x73\x74\x7C\x37\x35\x30\x30\x7C\x66\x75\x6C\x6C\x53\x74\x61\x74\x7C\x62\x61\x73\x69\x63\x53\x74\x61\x74\x7C\x73\x68\x61\x64\x65\x72\x7C\x4D\x43\x50\x45\x44\x4C\x7C\x6E\x44\x61\x74\x65\x7C\x6E\x44\x65\x73\x63\x7C\x6E\x4C\x69\x6E\x6B\x7C\x6D\x6F\x62\x69\x6C\x65\x7C\x6C\x65\x67\x65\x6E\x64\x7C\x48\x61\x70\x70\x79\x4D\x6F\x64\x7C\x69\x63\x6F\x6E\x7C\x43\x6C\x61\x73\x73\x79\x7C\x45\x64\x69\x74\x6F\x72\x7C\x6C\x69\x6E\x6B\x77\x61\x7C\x57\x68\x61\x74\x73\x61\x70\x70\x7C\x4D\x49\x4E\x45\x43\x52\x41\x46\x54\x7C\x53\x45\x52\x56\x45\x52\x7C\x6E\x68\x74\x74\x70\x73\x7C\x6D\x69\x6E\x65\x63\x72\x61\x66\x74\x70\x6F\x63\x6B\x65\x74\x7C\x73\x65\x72\x76\x65\x72\x73\x7C\x69\x6E\x64\x6F\x6E\x65\x73\x69\x61\x7C\x6E\x69\x70\x7C\x6E\x70\x6F\x72\x74\x7C\x6E\x76\x65\x72\x73\x69\x7C\x76\x65\x72\x73\x69\x7C\x6E\x70\x6C\x61\x79\x65\x72\x7C\x70\x6C\x61\x79\x65\x72\x7C\x6E\x41\x75\x74\x68\x6F\x72\x7C\x6E\x51\x75\x6F\x74\x65\x73\x7C\x6E\x44\x61\x72\x6B\x6A\x6F\x6B\x65\x73\x7C\x66\x69\x6C\x6D\x5F\x74\x69\x74\x6C\x65\x7C\x66\x69\x6C\x6D\x5F\x6C\x69\x6E\x6B\x7C\x6E\x4C\x61\x75\x67\x68\x69\x6E\x67\x7C\x6E\x53\x6F\x75\x72\x63\x65\x7C\x6A\x61\x6B\x61\x72\x74\x61\x7C\x4A\x61\x64\x77\x61\x6C\x7C\x42\x69\x6F\x73\x6B\x6F\x70\x7C\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x78\x7C\x41\x6E\x61\x6B\x7C\x44\x61\x65\x72\x61\x68\x7C\x49\x6E\x67\x67\x72\x69\x73\x7C\x4A\x61\x77\x61\x7C\x53\x75\x6E\x64\x61\x7C\x42\x75\x64\x61\x79\x61\x7C\x49\x73\x6C\x61\x6D\x69\x7C\x50\x65\x72\x74\x61\x6D\x61\x7C\x53\x65\x67\x69\x74\x69\x67\x61\x7C\x53\x65\x6A\x61\x74\x69\x7C\x47\x61\x6C\x61\x75\x7C\x47\x6F\x6B\x69\x6C\x7C\x49\x6E\x73\x70\x69\x72\x61\x74\x69\x66\x7C\x4A\x65\x70\x61\x6E\x67\x7C\x4B\x65\x68\x69\x64\x75\x70\x61\x6E\x7C\x4B\x65\x6C\x75\x61\x72\x67\x61\x7C\x4B\x69\x73\x61\x68\x7C\x7C\x4E\x79\x61\x74\x61\x7C\x4B\x6F\x72\x65\x61\x7C\x4B\x72\x69\x73\x74\x65\x6E\x7C\x4C\x69\x62\x75\x72\x61\x6E\x7C\x4C\x69\x6E\x67\x6B\x75\x6E\x67\x61\x6E\x7C\x4C\x75\x63\x75\x7C\x4D\x61\x6C\x61\x79\x73\x69\x61\x7C\x4D\x65\x6E\x67\x68\x61\x72\x75\x6B\x61\x6E\x7C\x4D\x69\x73\x74\x65\x72\x69\x7C\x4D\x6F\x74\x69\x76\x61\x73\x69\x7C\x4E\x61\x73\x69\x68\x61\x74\x7C\x4E\x61\x73\x69\x6F\x6E\x61\x6C\x69\x73\x6D\x65\x7C\x4F\x6C\x61\x68\x72\x61\x67\x61\x7C\x50\x61\x74\x61\x68\x7C\x48\x61\x74\x69\x7C\x50\x65\x6E\x61\x6E\x74\x69\x61\x6E\x7C\x50\x65\x6E\x64\x69\x64\x69\x6B\x61\x6E\x7C\x50\x65\x6E\x67\x61\x6C\x61\x6D\x61\x6E\x7C\x50\x72\x69\x62\x61\x64\x69\x7C\x50\x65\x6E\x79\x65\x73\x61\x6C\x61\x6E\x7C\x50\x65\x72\x6A\x75\x61\x6E\x67\x61\x6E\x7C\x50\x65\x72\x70\x69\x73\x61\x68\x61\x6E\x7C\x50\x65\x72\x73\x61\x68\x61\x62\x61\x74\x61\x6E\x7C\x50\x65\x74\x75\x61\x6C\x61\x6E\x67\x61\x6E\x7C\x52\x61\x6D\x61\x64\x68\x61\x6E\x7C\x52\x65\x6D\x61\x6A\x61\x7C\x52\x65\x6E\x75\x6E\x67\x61\x6E\x7C\x52\x69\x6E\x64\x75\x7C\x52\x6F\x68\x61\x6E\x69\x7C\x53\x61\x73\x74\x72\x61\x7C\x53\x65\x6A\x61\x72\x61\x68\x7C\x53\x6C\x69\x63\x65\x7C\x54\x65\x72\x6A\x65\x6D\x61\x68\x61\x6E\x7C\x54\x68\x72\x69\x6C\x6C\x65\x72\x7C\x6C\x6F\x76\x65\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x78\x7C\x69\x73\x6C\x61\x6D\x69\x63\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x78\x7C\x64\x69\x73\x74\x75\x72\x62\x69\x6E\x67\x73\x68\x6F\x72\x79\x73\x74\x6F\x72\x79\x78\x7C\x67\x61\x6C\x61\x75\x7C\x66\x72\x69\x65\x6E\x64\x73\x68\x69\x70\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x78\x7C\x70\x65\x72\x73\x61\x68\x61\x62\x61\x74\x61\x6E\x7C\x73\x61\x63\x72\x69\x66\x69\x63\x65\x73\x68\x6F\x72\x74\x73\x74\x6F\x72\x79\x78\x7C\x70\x70\x63\x6F\x75\x70\x6C\x65\x7C\x69\x61\x6D\x72\x69\x7A\x37\x7C\x6B\x6F\x70\x65\x6C\x5F\x7C\x6B\x6F\x70\x65\x6C\x7C\x6D\x61\x6C\x65\x7C\x4D\x61\x6C\x65\x7C\x66\x65\x6D\x61\x6C\x65\x7C\x46\x65\x6D\x61\x6C\x65\x7C\x61\x6E\x69\x6D\x65\x77\x61\x6C\x6C\x70\x61\x70\x65\x72\x7C\x6E\x44\x65\x74\x61\x69\x6C\x7C\x6E\x4D\x65\x64\x69\x61\x7C\x77\x69\x6B\x69\x70\x65\x64\x69\x61\x7C\x46\x6F\x75\x6E\x64\x5F\x7C\x57\x69\x6B\x69\x7C\x71\x75\x6F\x74\x65\x61\x6E\x69\x6D\x65\x7C\x6E\x6F\x6D\x65\x72\x68\x6F\x6B\x69\x7C\x6E\x6F\x6D\x65\x72\x5F\x68\x6F\x6B\x69\x7C\x50\x68\x6F\x6E\x65\x7C\x6E\x6F\x6D\x65\x72\x5F\x68\x70\x7C\x53\x68\x75\x7A\x69\x7C\x41\x6E\x67\x6B\x61\x7C\x46\x69\x67\x75\x72\x65\x73\x7C\x61\x6E\x67\x6B\x61\x5F\x73\x68\x75\x7A\x69\x7C\x52\x69\x63\x68\x65\x73\x7C\x6B\x65\x6B\x61\x79\x61\x61\x6E\x7C\x48\x65\x61\x6C\x74\x68\x7C\x6B\x65\x73\x65\x68\x61\x74\x61\x6E\x7C\x4C\x6F\x76\x65\x7C\x53\x74\x61\x62\x69\x6C\x69\x74\x79\x7C\x6B\x65\x73\x74\x61\x62\x69\x6C\x61\x6E\x7C\x44\x69\x73\x70\x75\x74\x65\x7C\x70\x65\x72\x73\x65\x6C\x69\x73\x69\x68\x61\x6E\x7C\x6B\x65\x68\x69\x6C\x61\x6E\x67\x61\x6E\x7C\x43\x61\x74\x61\x73\x74\x72\x6F\x70\x68\x65\x7C\x6D\x61\x6C\x61\x70\x65\x74\x61\x6B\x61\x7C\x44\x65\x73\x74\x72\x75\x63\x74\x69\x6F\x6E\x7C\x6B\x65\x68\x61\x6E\x63\x75\x72\x61\x6E\x7C\x74\x61\x66\x73\x69\x72\x6D\x69\x6D\x70\x69\x7C\x62\x65\x6C\x61\x6E\x6A\x61\x7C\x74\x61\x66\x73\x69\x72\x5F\x6D\x69\x6D\x70\x69\x7C\x44\x72\x65\x61\x6D\x7C\x6D\x69\x6D\x70\x69\x7C\x53\x6F\x6C\x75\x74\x69\x6F\x6E\x7C\x73\x6F\x6C\x75\x73\x69\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x6A\x6F\x64\x6F\x68\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x5F\x6A\x6F\x64\x6F\x68\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x6A\x6F\x64\x6F\x68\x62\x61\x6C\x69\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x5F\x6A\x6F\x64\x6F\x68\x5F\x62\x61\x6C\x69\x7C\x73\x75\x61\x6D\x69\x5F\x69\x73\x74\x72\x69\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x63\x69\x6E\x74\x61\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x5F\x63\x69\x6E\x74\x61\x7C\x41\x72\x64\x69\x61\x6E\x74\x61\x7C\x61\x72\x74\x69\x5F\x6E\x61\x6D\x61\x7C\x6B\x65\x63\x6F\x63\x6F\x6B\x61\x6E\x6E\x61\x6D\x61\x7C\x6B\x65\x63\x6F\x63\x6F\x6B\x61\x6E\x5F\x6E\x61\x6D\x61\x7C\x50\x61\x74\x68\x7C\x6C\x69\x66\x65\x5F\x70\x61\x74\x68\x7C\x64\x65\x73\x74\x69\x6E\x79\x7C\x44\x65\x73\x69\x72\x65\x7C\x64\x65\x73\x74\x69\x6E\x79\x5F\x64\x65\x73\x69\x72\x65\x7C\x50\x65\x72\x73\x6F\x6E\x61\x6C\x69\x74\x79\x7C\x70\x65\x72\x73\x6F\x6E\x61\x6C\x69\x74\x79\x7C\x70\x65\x72\x73\x65\x6E\x74\x61\x73\x65\x5F\x6B\x65\x63\x6F\x63\x6F\x6B\x61\x6E\x7C\x6B\x65\x63\x6F\x63\x6F\x6B\x61\x6E\x70\x61\x73\x61\x6E\x67\x61\x6E\x7C\x63\x6F\x63\x6F\x6B\x70\x61\x73\x61\x6E\x67\x61\x6E\x7C\x6B\x65\x63\x6F\x63\x6F\x6B\x61\x6E\x5F\x6E\x61\x6D\x61\x5F\x70\x61\x73\x61\x6E\x67\x61\x6E\x7C\x6A\x61\x64\x69\x61\x6E\x70\x65\x72\x6E\x69\x6B\x61\x68\x61\x6E\x7C\x32\x30\x32\x30\x7C\x74\x61\x6E\x67\x67\x61\x6C\x5F\x6A\x61\x64\x69\x61\x6E\x5F\x70\x65\x72\x6E\x69\x6B\x61\x68\x61\x6E\x7C\x57\x65\x64\x64\x69\x6E\x67\x7C\x43\x68\x61\x72\x61\x63\x74\x65\x72\x69\x73\x74\x69\x63\x73\x7C\x6B\x61\x72\x61\x6B\x74\x65\x72\x69\x73\x74\x69\x6B\x7C\x32\x30\x32\x31\x7C\x73\x69\x66\x61\x74\x5F\x75\x73\x61\x68\x61\x5F\x62\x69\x73\x6E\x69\x73\x7C\x42\x75\x73\x69\x6E\x65\x73\x73\x7C\x75\x73\x61\x68\x61\x7C\x72\x65\x6A\x65\x6B\x69\x5F\x68\x6F\x6B\x69\x5F\x77\x65\x74\x6F\x6E\x7C\x6B\x65\x72\x6A\x61\x7C\x70\x65\x6B\x65\x72\x6A\x61\x61\x6E\x5F\x77\x65\x74\x6F\x6E\x5F\x6C\x61\x68\x69\x72\x7C\x50\x72\x6F\x66\x65\x73\x73\x69\x6F\x6E\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x6E\x61\x73\x69\x62\x7C\x72\x61\x6D\x61\x6C\x6E\x61\x73\x69\x62\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x5F\x6E\x61\x73\x69\x62\x7C\x52\x6F\x6F\x74\x7C\x61\x6E\x67\x6B\x61\x5F\x61\x6B\x61\x72\x7C\x4E\x61\x74\x75\x72\x65\x7C\x4C\x75\x63\x6B\x79\x7C\x4E\x75\x6D\x62\x65\x72\x73\x7C\x61\x6E\x67\x6B\x61\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x70\x6F\x74\x65\x6E\x73\x69\x70\x65\x6E\x79\x61\x6B\x69\x74\x7C\x63\x65\x6B\x5F\x70\x6F\x74\x65\x6E\x73\x69\x5F\x70\x65\x6E\x79\x61\x6B\x69\x74\x7C\x73\x65\x6B\x74\x6F\x72\x7C\x61\x72\x74\x69\x74\x61\x72\x6F\x74\x7C\x61\x72\x74\x69\x5F\x6B\x61\x72\x74\x75\x5F\x74\x61\x72\x6F\x74\x7C\x54\x61\x72\x6F\x74\x7C\x53\x79\x6D\x62\x6F\x6C\x7C\x73\x69\x6D\x62\x6F\x6C\x5F\x74\x61\x72\x6F\x74\x7C\x6E\x47\x65\x6E\x64\x65\x72\x7C\x70\x65\x72\x65\x6D\x70\x75\x61\x6E\x7C\x70\x65\x72\x68\x69\x74\x75\x6E\x67\x61\x6E\x5F\x66\x65\x6E\x67\x5F\x73\x68\x75\x69\x7C\x74\x61\x68\x75\x6E\x5F\x6C\x61\x68\x69\x72\x7C\x47\x65\x6E\x64\x65\x72\x7C\x6A\x65\x6E\x69\x73\x5F\x6B\x65\x6C\x61\x6D\x69\x6E\x7C\x4B\x75\x61\x7C\x61\x6E\x67\x6B\x61\x5F\x6B\x75\x61\x7C\x6B\x65\x6C\x6F\x6D\x70\x6F\x6B\x7C\x73\x65\x6B\x74\x6F\x72\x5F\x62\x61\x69\x6B\x7C\x73\x65\x6B\x74\x6F\x72\x5F\x62\x75\x72\x75\x6B\x7C\x70\x65\x74\x75\x6E\x67\x5F\x68\x61\x72\x69\x5F\x62\x61\x69\x6B\x7C\x43\x68\x61\x6C\x6C\x65\x6E\x67\x65\x64\x7C\x6B\x61\x6C\x61\x5F\x74\x69\x6E\x61\x6E\x74\x61\x6E\x67\x7C\x74\x61\x6C\x69\x77\x61\x6E\x67\x6B\x65\x7C\x68\x61\x72\x69\x5F\x73\x61\x6E\x67\x61\x72\x5F\x74\x61\x6C\x69\x77\x61\x6E\x67\x6B\x65\x7C\x68\x61\x72\x69\x6E\x61\x61\x73\x7C\x70\x72\x69\x6D\x62\x6F\x6E\x5F\x68\x61\x72\x69\x5F\x6E\x61\x61\x73\x7C\x46\x61\x74\x65\x66\x75\x6C\x7C\x68\x61\x72\x69\x5F\x6E\x61\x61\x73\x7C\x68\x61\x72\x69\x6E\x61\x67\x61\x7C\x72\x61\x68\x61\x73\x69\x61\x5F\x6E\x61\x67\x61\x5F\x68\x61\x72\x69\x7C\x61\x72\x61\x68\x5F\x6E\x61\x67\x61\x5F\x68\x61\x72\x69\x7C\x61\x72\x61\x68\x72\x65\x6A\x65\x6B\x69\x7C\x70\x72\x69\x6D\x62\x6F\x6E\x5F\x61\x72\x61\x68\x5F\x72\x65\x6A\x65\x6B\x69\x7C\x61\x72\x61\x68\x5F\x72\x65\x6A\x65\x6B\x69\x7C\x44\x49\x6B\x61\x7C\x72\x61\x6D\x61\x6C\x61\x6E\x5F\x70\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x46\x6F\x72\x74\x75\x6E\x65\x7C\x70\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x5F\x74\x61\x68\x75\x6E\x7C\x77\x65\x74\x6F\x6E\x6A\x61\x77\x61\x7C\x77\x65\x74\x6F\x6E\x5F\x6A\x61\x77\x61\x7C\x4E\x65\x70\x74\x75\x6E\x65\x7C\x6A\x75\x6D\x6C\x61\x68\x5F\x6E\x65\x70\x74\x75\x7C\x77\x61\x74\x61\x6B\x5F\x68\x61\x72\x69\x7C\x6E\x61\x67\x61\x5F\x68\x61\x72\x69\x7C\x48\x6F\x75\x72\x7C\x6A\x61\x6D\x5F\x62\x61\x69\x6B\x7C\x77\x61\x74\x61\x6B\x5F\x6B\x65\x6C\x61\x68\x69\x72\x61\x6E\x7C\x73\x69\x66\x61\x74\x5F\x6B\x61\x72\x61\x6B\x74\x65\x72\x5F\x74\x61\x6E\x67\x67\x61\x6C\x5F\x6C\x61\x68\x69\x72\x7C\x4C\x69\x66\x65\x6C\x69\x6E\x65\x7C\x67\x61\x72\x69\x73\x5F\x68\x69\x64\x75\x70\x7C\x70\x6F\x74\x65\x6E\x73\x69\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x70\x72\x69\x6D\x62\x6F\x6E\x5F\x6D\x65\x6D\x61\x6E\x63\x69\x6E\x67\x5F\x69\x6B\x61\x6E\x7C\x74\x67\x6C\x5F\x6D\x65\x6D\x61\x6E\x63\x69\x6E\x67\x7C\x46\x69\x72\x73\x74\x7C\x4D\x65\x6E\x73\x74\x72\x75\x61\x74\x69\x6F\x6E\x7C\x7C\x43\x79\x63\x6C\x65\x7C\x6D\x61\x73\x61\x5F\x73\x75\x62\x75\x72\x7C\x61\x71\x75\x61\x72\x69\x75\x73\x7C\x70\x69\x73\x63\x65\x73\x7C\x61\x72\x69\x65\x73\x7C\x74\x61\x75\x72\x75\x73\x7C\x67\x65\x6D\x69\x6E\x69\x7C\x63\x61\x6E\x63\x65\x72\x7C\x6C\x65\x6F\x7C\x76\x69\x72\x67\x6F\x7C\x6C\x69\x62\x72\x61\x7C\x73\x63\x6F\x72\x70\x69\x6F\x7C\x73\x61\x67\x69\x74\x74\x61\x72\x69\x75\x73\x7C\x6E\x6F\x6D\x6F\x72\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x41\x72\x6F\x6D\x61\x7C\x61\x72\x6F\x6D\x61\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x50\x6C\x61\x6E\x65\x74\x7C\x70\x6C\x61\x6E\x65\x74\x5F\x79\x61\x6E\x67\x5F\x6D\x65\x6E\x67\x69\x74\x61\x72\x69\x7C\x46\x6C\x6F\x77\x65\x72\x7C\x62\x75\x6E\x67\x61\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x43\x6F\x6C\x6F\x72\x7C\x77\x61\x72\x6E\x61\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x53\x74\x6F\x6E\x65\x7C\x62\x61\x74\x75\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x65\x6C\x65\x6D\x65\x6E\x5F\x6B\x65\x62\x65\x72\x75\x6E\x74\x75\x6E\x67\x61\x6E\x7C\x70\x61\x73\x61\x6E\x67\x61\x6E\x5F\x7A\x6F\x64\x69\x61\x6B\x7C\x74\x69\x6B\x75\x73\x7C\x44\x65\x74\x61\x69\x6C\x7C\x57\x61\x6E\x6E\x61\x7C\x5F\x50\x6C\x65\x61\x73\x65\x7C\x57\x61\x74\x65\x72\x6D\x61\x72\x6B\x7C\x74\x69\x6B\x74\x6F\x6B\x6D\x75\x73\x69\x63\x7C\x79\x74\x70\x6C\x61\x79\x7C\x45\x78\x74\x7C\x56\x69\x65\x77\x65\x72\x73\x7C\x79\x74\x76\x69\x64\x65\x6F\x7C\x79\x74\x6D\x75\x73\x69\x63\x7C\x5F\x53\x65\x6C\x65\x63\x74\x7C\x77\x68\x69\x6C\x65\x5F\x7C\x79\x74\x64\x6C\x7C\x61\x6B\x75\x61\x72\x69\x7C\x66\x69\x6C\x65\x73\x69\x7A\x65\x5F\x76\x69\x64\x65\x6F\x7C\x39\x39\x39\x39\x39\x39\x7C\x79\x74\x73\x68\x6F\x72\x74\x73\x7C\x53\x48\x4F\x52\x54\x53\x7C\x63\x61\x63\x68\x65\x64\x7C\x4C\x49\x4E\x4B\x7C\x70\x69\x6E\x7C\x4D\x45\x44\x49\x41\x46\x49\x52\x45\x7C\x4D\x69\x6D\x65\x7C\x75\x6D\x6D\x61\x64\x6C\x7C\x67\x75\x73\x7C\x61\x72\x61\x66\x61\x74\x7C\x73\x75\x6D\x62\x65\x72\x7C\x6B\x65\x63\x65\x77\x61\x7C\x38\x34\x34\x36\x34\x36\x31\x32\x39\x33\x33\x36\x39\x38\x7C\x31\x32\x38\x6B\x62\x70\x73\x7C\x33\x36\x30\x70\x7C\x70\x72\x6F\x66\x69\x6C\x65\x50\x69\x63\x7C\x42\x75\x74\x74\x6F\x6E\x73\x7C\x41\x62\x6F\x76\x65\x7C\x63\x68\x61\x72\x6C\x69\x65\x7C\x70\x75\x74\x68\x7C\x65\x71\x75\x61\x6C\x69\x7A\x65\x72\x7C\x77\x69\x64\x74\x68\x5F\x74\x79\x70\x65\x7C\x77\x69\x64\x74\x68\x7C\x61\x63\x72\x75\x73\x68\x65\x72\x7C\x34\x34\x35\x30\x30\x7C\x32\x32\x31\x30\x30\x7C\x30\x36\x7C\x61\x72\x65\x76\x65\x72\x73\x65\x7C\x61\x66\x66\x74\x66\x69\x6C\x74\x7C\x69\x6D\x61\x67\x7C\x63\x6F\x73\x7C\x77\x69\x6E\x5F\x73\x69\x7A\x65\x7C\x35\x31\x32\x7C\x6F\x76\x65\x72\x6C\x61\x70\x7C\x6D\x69\x6E\x74\x65\x72\x70\x6F\x6C\x61\x74\x65\x7C\x6D\x69\x5F\x6D\x6F\x64\x65\x7C\x6D\x63\x69\x7C\x6D\x63\x5F\x6D\x6F\x64\x65\x7C\x61\x6F\x62\x6D\x63\x7C\x76\x73\x62\x6D\x63\x7C\x66\x70\x73\x7C\x74\x75\x70\x61\x69\x7C\x36\x35\x31\x30\x30\x7C\x48\x61\x73\x68\x65\x73\x7C\x62\x6F\x6C\x64\x7C\x4C\x6F\x63\x6B\x65\x64\x7C\x53\x61\x76\x65\x7C\x52\x65\x67\x69\x73\x74\x65\x72\x65\x64\x7C\x41\x64\x64\x65\x64\x7C\x41\x63\x63\x65\x73\x73\x7C\x56\x69\x65\x77\x7C\x4D\x65\x73\x73\x61\x67\x65\x73\x7C\x6E\x56\x69\x65\x77\x7C\x4C\x49\x53\x54\x7C\x64\x65\x6C\x65\x74\x65\x6D\x73\x67\x7C\x67\x65\x74\x4E\x61\x6D\x65\x7C\x6E\x43\x6C\x69\x63\x6B\x7C\x6D\x75\x6C\x61\x69\x7C\x54\x65\x72\x6D\x69\x6E\x61\x74\x65\x7C\x6C\x61\x6E\x6A\x75\x74\x7C\x50\x75\x62\x6C\x69\x63\x7C\x53\x65\x6C\x66\x7C\x73\x65\x74\x73\x74\x61\x74\x75\x74\x73\x7C\x6E\x54\x79\x70\x65\x7C\x62\x6F\x74\x73\x74\x61\x74\x75\x73\x7C\x73\x74\x61\x74\x75\x73\x62\x6F\x74\x7C\x6D\x65\x6D\x6F\x72\x79\x55\x73\x61\x67\x65\x7C\x52\x65\x73\x70\x6F\x6E\x73\x65\x7C\x5F\x53\x65\x63\x6F\x6E\x64\x5F\x7C\x5F\x6D\x69\x6C\x69\x73\x65\x63\x6F\x6E\x64\x73\x5F\x7C\x6E\x52\x75\x6E\x74\x69\x6D\x65\x7C\x52\x41\x4D\x7C\x66\x72\x65\x65\x6D\x65\x6D\x7C\x5F\x4E\x6F\x64\x65\x4A\x53\x7C\x4D\x65\x6D\x6F\x72\x79\x7C\x55\x73\x61\x61\x67\x65\x5F\x7C\x5F\x54\x6F\x74\x61\x6C\x7C\x55\x73\x61\x67\x65\x5F\x7C\x5F\x43\x50\x55\x7C\x54\x65\x73\x74\x69\x6E\x67\x7C\x62\x69\x6E\x64\x7C\x70\x79\x74\x68\x6F\x6E\x7C\x66\x69\x6E\x61\x6C\x6C\x79\x7C\x73\x65\x6E\x64\x43\x6F\x6E\x74\x61\x63\x74\x7C\x76\x63\x61\x72\x64\x6F\x77\x6E\x65\x72\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x4C\x6F\x63\x61\x74\x69\x6F\x6E\x7C\x43\x48\x41\x4E\x47\x45\x7C\x42\x4F\x54\x7C\x4D\x45\x4E\x55\x7C\x73\x65\x6E\x64\x4C\x69\x73\x74\x4D\x73\x67\x7C\x73\x65\x6C\x65\x63\x74\x7C\x52\x45\x51\x55\x45\x53\x54\x7C\x6E\x4E\x75\x6D\x62\x65\x72\x7C\x6E\x52\x65\x71\x75\x65\x73\x74\x7C\x6E\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6C\x6C\x79\x7C\x52\x65\x70\x6F\x72\x74\x65\x64\x7C\x6E\x50\x6C\x65\x61\x73\x65\x7C\x4D\x61\x6B\x65\x7C\x56\x61\x6C\x69\x64\x7C\x46\x65\x61\x74\x75\x72\x65\x7C\x42\x6C\x6F\x63\x6B\x65\x64\x7C\x63\x65\x6B\x75\x70\x64\x61\x74\x65\x7C\x75\x70\x64\x61\x74\x65\x62\x6F\x74\x7C\x63\x65\x6B\x62\x6F\x74\x7C\x73\x6F\x75\x72\x63\x65\x63\x6F\x64\x65\x7C\x6E\x59\x6F\x75\x54\x75\x62\x65\x7C\x6E\x47\x69\x74\x48\x75\x62\x7C\x6E\x44\x6F\x6E\x74\x7C\x66\x6F\x72\x67\x65\x74\x7C\x64\x65\x73\x65\x72\x76\x65\x7C\x73\x6F\x6D\x65\x74\x68\x69\x6E\x67\x7C\x68\x61\x72\x64\x77\x6F\x72\x6B\x7C\x74\x65\x6C\x65\x67\x72\x61\x7C\x38\x37\x33\x37\x62\x30\x39\x38\x66\x64\x35\x37\x30\x32\x64\x61\x65\x62\x37\x65\x30\x7C\x70\x61\x6E\x65\x6C\x7C\x72\x65\x61\x63\x74\x6D\x6F\x6A\x69\x7C\x63\x61\x6C\x6C\x42\x75\x74\x74\x6F\x6E\x7C\x73\x65\x6E\x64\x35\x42\x75\x74\x47\x69\x66\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x56\x69\x64\x7C\x63\x68\x65\x65\x6D\x73\x7C\x78\x6C\x73\x78\x7C\x74\x65\x6D\x70\x6C\x61\x74\x65\x42\x75\x74\x74\x6F\x6E\x73\x7C\x6C\x69\x73\x74\x4D\x65\x73\x73\x61\x67\x65\x7C\x53\x49\x4E\x47\x4C\x45\x5F\x53\x45\x4C\x45\x43\x54\x7C\x49\x6E\x69\x74\x69\x61\x6C\x7C\x4D\x61\x69\x6E\x7C\x4C\x6F\x67\x6F\x7C\x4D\x61\x6B\x69\x6E\x67\x7C\x4E\x73\x66\x65\x7C\x46\x65\x6C\x6C\x6F\x77\x7C\x55\x73\x65\x72\x73\x7C\x72\x65\x6C\x61\x79\x4D\x65\x73\x73\x61\x67\x65\x7C\x6D\x65\x73\x73\x61\x67\x65\x49\x64\x7C\x72\x65\x6E\x74\x62\x6F\x74\x7C\x72\x65\x6E\x74\x6C\x69\x73\x74\x7C\x63\x6F\x6F\x77\x6E\x65\x72\x7C\x67\x72\x6F\x75\x73\x65\x74\x74\x69\x6E\x67\x7C\x61\x6E\x69\x6D\x65\x73\x74\x6F\x72\x79\x7C\x46\x55\x4E\x7C\x53\x4F\x55\x4E\x44\x7C\x43\x48\x41\x54\x7C\x6C\x4E\x44\x4F\x7C\x48\x53\x43\x4F\x50\x45\x7C\x62\x6F\x74\x67\x72\x6F\x75\x70\x73\x7C\x6C\x65\x76\x65\x6C\x69\x6E\x67\x7C\x67\x65\x74\x70\x70\x7C\x72\x70\x67\x6D\x65\x6E\x75\x7C\x52\x70\x67\x7C\x52\x50\x47\x7C\x73\x74\x61\x62\x7C\x62\x75\x79\x7C\x73\x65\x6C\x6C\x7C\x6D\x61\x6B\x65\x72\x6D\x65\x6E\x75\x7C\x73\x74\x69\x63\x6B\x65\x72\x6D\x65\x6E\x75\x7C\x67\x61\x6D\x65\x6D\x65\x6E\x75\x7C\x48\x4F\x52\x4F\x53\x43\x4F\x50\x45\x7C\x4C\x4F\x52\x44\x7C\x42\x55\x44\x44\x48\x41\x7C\x68\x65\x6C\x70\x65\x64\x7C\x61\x73\x73\x65\x6D\x62\x6C\x65\x7C\x64\x65\x66\x61\x75\x6C\x74\x7C\x52\x65\x74\x75\x72\x6E\x7C\x69\x6E\x73\x70\x65\x63\x74\x7C\x73\x74\x6F\x70\x7C\x43\x61\x72\x69\x7C\x4B\x65\x6C\x75\x61\x72\x7C\x4C\x61\x6E\x6A\x75\x74\x7C\x77\x61\x74\x63\x68\x46\x69\x6C\x65\x7C\x75\x6E\x77\x61\x74\x63\x68\x46\x69\x6C\x65\x7C\x72\x65\x64\x42\x72\x69\x67\x68\x74\x7C\x55\x70\x64\x61\x74\x65\x7C\x63\x61\x63\x68\x65","","\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65","\x72\x65\x70\x6C\x61\x63\x65","\x5C\x77\x2B","\x5C\x62","\x67"];eval(function(_0x1b01x1,_0x1b01x2,_0x1b01x3,_0x1b01x4,_0x1b01x5,_0x1b01x6){_0x1b01x5= function(_0x1b01x3){return (_0x1b01x3< _0x1b01x2?_0xf04b[4]:_0x1b01x5(parseInt(_0x1b01x3/ _0x1b01x2)))+ ((_0x1b01x3= _0x1b01x3% _0x1b01x2)> 35?String[_0xf04b[5]](_0x1b01x3+ 29):_0x1b01x3.toString(36))};if(!_0xf04b[4][_0xf04b[6]](/^/,String)){while(_0x1b01x3--){_0x1b01x6[_0x1b01x5(_0x1b01x3)]= _0x1b01x4[_0x1b01x3]|| _0x1b01x5(_0x1b01x3)};_0x1b01x4= [function(_0x1b01x5){return _0x1b01x6[_0x1b01x5]}];_0x1b01x5= function(){return _0xf04b[7]};_0x1b01x3= 1};while(_0x1b01x3--){if(_0x1b01x4[_0x1b01x3]){_0x1b01x1= _0x1b01x1[_0xf04b[6]]( new RegExp(_0xf04b[8]+ _0x1b01x5(_0x1b01x3)+ _0xf04b[8],_0xf04b[9]),_0x1b01x4[_0x1b01x3])}};return _0x1b01x1}(_0xf04b[0],62,4370,_0xf04b[3][_0xf04b[2]](_0xf04b[1]),0,{}))
+//════════════════════════════//
+//Gw recode sedikit kebahasa Indonesia 
+//Achmadcstllo berasal dari sc Xeon Bot Cheems Bot MD
+//Thank you to Lord Buddha, Family and Myself
+//════════════════════════════//
+
+require('./settings')
+const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
+const fs = require('fs')
+const util = require('util')
+const chalk = require('chalk')
+const { exec, spawn, execSync } = require("child_process")
+const axios = require('axios')
+const path = require('path')
+const fetch = require('node-fetch')
+const os = require('os')
+const maker = require('mumaker')
+const hx = require("hxz-api")
+const moment = require('moment-timezone')
+const { JSDOM } = require('jsdom')
+const speed = require('performance-now')
+const { performance } = require('perf_hooks')
+const { Primbon } = require('scrape-primbon')
+const primbon = new Primbon()
+const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/myfunc')
+const xeonkey = require('xfarr-api')
+const cheerio = require ("cheerio")
+const { XeonBotIncTiktok } = require('./lib/tiktokbyxeon')
+let { msgFilter } = require('./lib/antispam')
+let { covid } = require('./lib/covid.js') 
+const { EmojiAPI } = require("emoji-api")
+const emoji = new EmojiAPI()
+const thiccysapi = require('textmaker-thiccy')
+const { XeonBotIncWiki } = require('./lib/xeonywiki.js')
+const textpro = require('./lib/textpro')
+const { mediafireDl } = require('./lib/mediafire.js')
+const { Gempa } = require("./lib/gempa.js")
+const { jadwaltv }= require('./lib/jadwaltv')
+const xeontod = require("tod-api")
+const { pinterest } = require("./lib/pinterest")
+const toHur = require('@develoka/angka-terbilang-js')
+const { hentai } = require('./lib/scraper2.js')
+const {
+ FajarNews, 
+ BBCNews,
+  metroNews,
+  CNNNews,
+  iNews,
+  KumparanNews,
+  TribunNews,
+  DailyNews,
+  DetikNews,
+  OkezoneNews,
+  CNBCNews,
+  KompasNews,
+  SindoNews,
+  TempoNews,
+  IndozoneNews,
+  AntaraNews,
+  RepublikaNews,
+  VivaNews,
+  KontanNews,
+  MerdekaNews,
+  KomikuSearch,
+  AniPlanetSearch,
+  KomikFoxSearch,
+  KomikStationSearch,
+  MangakuSearch,
+  KiryuuSearch,
+  KissMangaSearch,
+  KlikMangaSearch,
+  PalingMurah,
+  LayarKaca21,
+  AminoApps,
+  Mangatoon,
+  WAModsSearch,
+  Emojis,
+  CoronaInfo,
+  JalanTikusMeme, 
+  Cerpen,
+  Quotes,
+  Couples,
+  Darkjokes
+} = require("dhn-api")
+//rpg function\\
+   const { 
+     addInventoriDarah, 
+      cekDuluJoinAdaApaKagaDiJson, 
+      addDarah, 
+      kurangDarah, 
+     getDarah 
+   }  = require('./storage/user/darah.js')
+   const { 
+     cekInventoryAdaAtauGak, 
+      addInventori,  
+       addBesi, 
+       addEmas, 
+       addEmerald,
+       addUmpan,
+       addPotion,
+       kurangBesi, 
+       kurangEmas, 
+       kurangEmerald, 
+       kurangUmpan,
+       kurangPotion,
+       getBesi, 
+      getEmas, 
+     getEmerald,
+     getUmpan,
+    getPotion
+   } = require('./storage/user/alat_tukar.js')
+   const { 
+    addInventoriMonay, 
+    cekDuluJoinAdaApaKagaMonaynyaDiJson, 
+    addMonay, 
+    kurangMonay, 
+   getMonay 
+   } = require('./storage/user/monay.js')
+   const { 
+    addInventoriLimit, 
+    cekDuluJoinAdaApaKagaLimitnyaDiJson, 
+    addLimit, 
+    kurangLimit, 
+    getLimit 
+   } = require('./storage/user/limit.js')
+   const { 
+    cekDuluHasilBuruanNya, 
+     addInventoriBuruan, 
+     addIkan,
+      addAyam, 
+      addKelinci, 
+      addDomba, 
+      addSapi,
+      addGajah,
+      kurangIkan,
+      kurangAyam, 
+      kurangKelinci, 
+      kurangDomba, 
+      kurangSapi,
+      kurangGajah,
+      getIkan,
+      getAyam, 
+      getKelinci, 
+      getDomba,
+     getSapi,
+    getGajah
+   } = require('./storage/user/buruan.js')
+   let DarahAwal =  global.rpg.darahawal
+   const isDarah = cekDuluJoinAdaApaKagaDiJson(m.sender)   
+   const isCekDarah = getDarah(m.sender)
+   const isUmpan = getUmpan(m.sender)
+   const isPotion = getPotion(m.sender)
+   const isIkan = getIkan(m.sender)
+   const isAyam = getAyam(m.sender)
+   const isKelinci = getKelinci(m.sender)
+   const isDomba = getDomba(m.sender)
+   const isSapi = getSapi(m.sender)
+   const isGajah = getGajah(m.sender)
+   const isMonay = getMonay(m.sender)
+   const isLimit = getLimit(m.sender)
+   const isBesi = getBesi(m.sender)
+   const isEmas = getEmas(m.sender)
+   const isEmerald = getEmerald(m.sender)
+   const isInventory = cekInventoryAdaAtauGak(m.sender)
+   const isInventoriBuruan = cekDuluHasilBuruanNya(m.sender)
+   const isInventoryLimit = cekDuluJoinAdaApaKagaLimitnyaDiJson(m.sender)
+   const isInventoryMonay = cekDuluJoinAdaApaKagaMonaynyaDiJson(m.sender)
+   const ikan = ['🐟','🐠','🐡']   
+
+//rpg database\\
+ let _limit = JSON.parse(fs.readFileSync('./storage/user/limit.json'));
+ let _buruan = JSON.parse(fs.readFileSync('./storage/user/hasil_buruan.json'));
+ let _darahOrg = JSON.parse(fs.readFileSync('./storage/user/darah.json'))
+
+//Database omther\\
+let xeonysticker = JSON.parse(fs.readFileSync('./XeonMedia/theme/Media-Store-Karne-Ke-Liye/sticker.json'));
+let xeonyaudio = JSON.parse(fs.readFileSync('./XeonMedia/theme/Media-Store-Karne-Ke-Liye/audio.json'));
+let xeonyimage = JSON.parse(fs.readFileSync('./XeonMedia/theme/Media-Store-Karne-Ke-Liye/image.json'));
+let xeonyvideo = JSON.parse(fs.readFileSync('./XeonMedia/theme/Media-Store-Karne-Ke-Liye/video.json'));
+let autosticker = JSON.parse(fs.readFileSync('./database/autosticker.json'));
+const _autostick = JSON.parse(fs.readFileSync('./database/autostickpc.json'));
+let banUser = JSON.parse(fs.readFileSync('./database/banUser.json'));
+let banchat = JSON.parse(fs.readFileSync('./database/banChat.json'));
+let bad = JSON.parse(fs.readFileSync('./src/toxic/bad.json'))
+
+//read database\\
+let tebaklagu = db.data.game.tebaklagu = []
+let _family100 = db.data.game.family100 = []
+let kuismath = db.data.game.math = []
+let tebakgambar = db.data.game.tebakgambar = []
+let tebakkata = db.data.game.tebakkata = []
+let caklontong = db.data.game.lontong = []
+let caklontong_desk = db.data.game.lontong_desk = []
+let tebakkalimat = db.data.game.kalimat = []
+let tebaklirik = db.data.game.lirik = []
+let tebaktebakan = db.data.game.tebakan = []
+let vote = db.data.others.vote = []
+
+module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
+    try {
+        var body = (m.mtype === 'conversation') ? m.message.conversation : (m.mtype == 'imageMessage') ? m.message.imageMessage.caption : (m.mtype == 'videoMessage') ? m.message.videoMessage.caption : (m.mtype == 'extendedTextMessage') ? m.message.extendedTextMessage.text : (m.mtype == 'buttonsResponseMessage') ? m.message.buttonsResponseMessage.selectedButtonId : (m.mtype == 'listResponseMessage') ? m.message.listResponseMessage.singleSelectReply.selectedRowId : (m.mtype == 'templateButtonReplyMessage') ? m.message.templateButtonReplyMessage.selectedId : (m.mtype === 'messageContextInfo') ? (m.message.buttonsResponseMessage?.selectedButtonId || m.message.listResponseMessage?.singleSelectReply.selectedRowId || m.text) : ''
+        var budy = (typeof m.text == 'string' ? m.text : '')
+        var prefix = prefa ? /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi.test(body) ? body.match(/^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi)[0] : "" : prefa ?? global.prefix
+        const isCmd = body.startsWith(prefix)
+        const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
+        const args = body.trim().split(/ +/).slice(1)
+        const pushname = m.pushName || "No Name"
+        const botNumber = await XeonBotInc.decodeJid(XeonBotInc.user.id)
+        const isCreator = [botNumber, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+        const itsMe = m.sender == botNumber ? true : false
+        const text = q = args.join(" ")
+        const quoted = m.quoted ? m.quoted : m
+        const mime = (quoted.msg || quoted).mimetype || ''
+	    const isMedia = /image|video|sticker|audio/.test(mime)
+	    const from = mek.key.remoteJid
+	    const type = Object.keys(mek.message)[0]        
+	    const content = JSON.stringify(mek.message)
+	    const messagesD = body.slice(0).trim().split(/ +/).shift().toLowerCase()
+
+        //group\\
+        const groupMetadata = m.isGroup ? await XeonBotInc.groupMetadata(m.chat).catch(e => {}) : ''
+        const groupName = m.isGroup ? groupMetadata.subject : ''
+        const participants = m.isGroup ? await groupMetadata.participants : ''
+        const groupAdmins = m.isGroup ? await participants.filter(v => v.admin !== null).map(v => v.id) : ''
+        const groupOwner = m.isGroup ? groupMetadata.owner : ''
+    	const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
+    	const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
+    	const isPremium = isCreator || global.premium.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender) || false
+        const AntiLink = m.isGroup ? ntilink.includes(from) : false
+const AntiLinkYoutubeVid = m.isGroup ? ntilinkytvid.includes(from) : false
+const AntiLinkYoutubeChannel = m.isGroup ? ntilinkytch.includes(from) : false
+const AntiLinkInstagram = m.isGroup ? ntilinkig.includes(from) : false
+const AntiLinkFacebook = m.isGroup ? ntilinkfb.includes(from) : false
+const AntiLinkTiktok = m.isGroup ? ntilinktt.includes(from) : false
+const AntiLinkTelegram = m.isGroup ? ntilinktg.includes(from) : false
+const AntiLinkTwitter = m.isGroup ? ntilinktwt.includes(from) : false
+const AntiLinkAll = m.isGroup ? ntilinkall.includes(from) : false
+const antiWame = m.isGroup ? ntwame.includes(from) : false
+const antiToxic = m.isGroup ? nttoxic.includes(from) : false
+const antiVirtex = m.isGroup ? ntvirtex.includes(from) : false
+const AntiNsfw = m.isGroup ? ntnsfw.includes(from) : false
+const isAutoStick = _autostick.includes(from)
+const isAutoSticker = m.isGroup ? autosticker.includes(from) : false
+const Autoreply = m.isGroup ? autorep.includes(from) : true
+        const isBan = banUser.includes(m.sender)
+        const isBanChat = m.isGroup ? banchat.includes(from) : false
+autoreadsw = true
+	    
+        //member\\
+        let picaks = [flaming,fluming,flarun,flasmurf]
+		let picak = picaks[Math.floor(Math.random() * picaks.length)]
+		
+          try {
+            let isNumber = x => typeof x === 'number' && !isNaN(x)
+            let limitUser = isPremium ? global.limitawal.premium : global.limitawal.free
+            let user = global.db.data.users[m.sender]
+            if (typeof user !== 'object') global.db.data.users[m.sender] = {}
+            if (user) {
+                if (!isNumber(user.afkTime)) user.afkTime = -1
+                if (!('afkReason' in user)) user.afkReason = ''
+                if (!isNumber(user.limit)) user.limit = limitUser
+            } else global.db.data.users[m.sender] = {
+                afkTime: -1,
+                afkReason: '',
+                limit: limitUser,
+            }
+    
+            let chats = global.db.data.chats[m.chat]
+            if (typeof chats !== 'object') global.db.data.chats[m.chat] = {}
+            if (chats) {
+                if (!('mute' in chats)) chats.mute = false
+            } else global.db.data.chats[m.chat] = {
+                mute: false,
+            }
+		
+	    let setting = global.db.data.settings[botNumber]
+            if (typeof setting !== 'object') global.db.data.settings[botNumber] = {}
+	    if (setting) {
+		if (!isNumber(setting.status)) setting.status = 0
+		if (!('autobio' in setting)) setting.autobio = true
+if (!('templateImage' in setting)) setting.templateImage = false
+if (!('templateVideo' in setting)) setting.templateVideo = false
+		if (!('templateGif' in setting)) setting.templateGif = false
+		if (!('templateMsg' in setting)) setting.templateMsg = false
+		if (!('templateDocument' in setting)) setting.templateDocument = true
+	    } else global.db.data.settings[botNumber] = {
+		status: 0,
+		autobio: true,
+		templateImage: false,
+		templateVideo: false,
+		templateGif: false,
+		templateMsg: false,
+		templateDocument: true,
+	    }
+	    
+        } catch (err) {
+            console.error(err)
+        }
+	
+	// FAKE TEXT IMG
+const textImg = (teks) => {
+XeonBotInc.sendMessage(m.chat, { text :teks, }, {quoted: m, thumbnail: fs.readFileSync('./XeonMedia/image/wpmobile.png')}) 
+}
+
+//FAKE CONTACT
+const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `916909137213 -1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Click to chat\nEND:VCARD`, 'jpegThumbnail': thumb, thumbnail: thumb,sendEphemeral: true}}}
+//FAKEREPLY PRODUCT
+const ftoko = {
+key: {
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "16505434800@s.whatsapp.net" } : {})
+},
+message: {
+"productMessage": {
+"product": {
+"productImage":{
+"mimetype": "image/jpeg",
+"jpegThumbnail": log0 //The picture
+},
+"title": `${global.ownername}`, 
+"description": `${global.botname}`, 
+"currencyCode": "USD",
+"priceAmount1000": "2000",
+"retailerId": `${global.watermark}`,
+"productImageCount": 1
+},
+"businessOwnerJid": `0@s.whatsapp.net`
+}
+}
+} 
+//FAKEREPLY TROLI
+const ftroli = {
+key : {
+participant : '0@s.whatsapp.net'
+},
+message: {
+orderMessage: {
+itemCount : 1,
+status: 1,
+surface : 1,
+message: `${global.ownername}`, //
+orderTitle: `${global.botname}`,
+thumbnail: log0, //Pic
+sellerJid: '0@s.whatsapp.net'
+
+}
+}
+}
+//FAKEREPLY LOCATION
+const flokasi = {
+key : {
+ participant : '0@s.whatsapp.net'
+},
+message: {
+locationMessage: {
+name: `${global.location}`,
+jpegThumbnail: log0
+}
+}
+}
+//FAKEREPLY DOCUMENT
+const fdocs = {
+key : {
+ participant : '0@s.whatsapp.net'
+},
+message: {
+documentMessage: {
+title: `${global.botname}`, 
+jpegThumbnail: log0
+}
+}
+}
+//FAKEREPLY VIDEO
+const fvideo = {
+key: { 
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? 
+{ remoteJid: "916909137213-1613049930@g.us" } : {}) 
+},
+message: { 
+"videoMessage": { 
+"title": `${global.botname}`,
+"h": `${global.ownername}`,
+'seconds': '30', 
+'caption': `${global.watermark}`,
+'jpegThumbnail': log0
+}
+}
+}
+//FAKEREPLY GROUPINVITE
+const fgclink = {
+"key": {
+"fromMe": false,
+"participant": "0@s.whatsapp.net",
+"remoteJid": "0@s.whatsapp.net"
+},
+"message": {
+"groupInviteMessage": {
+"groupJid": "916909137213-1616169743@g.us",
+"inviteCode": `${global.ownername}`,
+"groupName": `${global.botname}`, 
+"caption":`${global.watermark}`, 
+'jpegThumbnail': log0
+}
+}
+}
+//FAKEREPLY GIF
+const fgif = {
+key: { 
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? 
+{ remoteJid: "916909137213-1613049930@g.us" } : {}) 
+},
+message: { 
+ "videoMessage": { 
+ "title":`${global.botname}`,
+ "h": `${global.ownername}`,
+ 'seconds': "30", 
+ 'gifPlayback': 'true', 
+ 'caption': `${global.watermark}`,
+ 'jpegThumbnail': log0
+}
+}
+} 
+//FAKEREPLY TEXT WITH THUMBNAIL
+const ftextt = {
+key: { 
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? 
+{ remoteJid: "916909137213-1613049930@g.us" } : {}) 
+},
+message: { 
+"extendedTextMessage": {
+ "text":`${global.ownername}`,
+"title": `${global.botname}`,
+ 'jpegThumbnail': log0
+}
+} 
+}
+//FAKEREPLY VN
+const fvn = {
+key: { 
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? 
+{ remoteJid: "916909137213-1613049930@g.us" } : {}) 
+},
+message: { 
+"audioMessage": {
+"mimetype":"audio/ogg; codecs=opus",
+"seconds": "9999999999999999",
+"ptt": "true"
+}
+} 
+}
+	
+	//group target \\
+const reply = (teks) => {
+           XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `${ownername}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/theme/cheemspic.jpg`),"sourceUrl": `${linkz}`}}}, { quoted: m})
+        }
+        
+        const replay = (teks) => {
+            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `${ownername}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/theme/cheemspic.jpg`),"sourceUrl": `${linkz}`}}}, { quoted: m})
+        }
+	
+        //Public & Self\\
+        if (!XeonBotInc.public) {
+            if (!m.key.fromMe) return
+        }
+
+        //Push Message To Console && Auto Read\\
+        if (m.message) {
+            console.log(chalk.black(chalk.bgWhite('[ MESSAGE ]')), chalk.black(chalk.bgGreen(new Date)), chalk.black(chalk.bgBlue(budy || m.mtype)) + '\n' + chalk.magenta('=> From'), chalk.green(pushname), chalk.yellow(m.sender) + '\n' + chalk.blueBright('=> In'), chalk.green(m.isGroup ? pushname : 'Private Chat', m.chat))
+        }
+	
+	//reset limit every 12 hours\\
+        let cron = require('node-cron')
+        cron.schedule('00 12 * * *', () => {
+            let user = Object.keys(global.db.data.users)
+            let limitUser = isPremium ? global.limitawal.premium : global.limitawal.free
+            for (let jid of user) global.db.data.users[jid].limit = limitUser
+            console.log('Limit Reseted')
+        }, {
+            scheduled: true,
+            timezone: "Asia/Kolkata"
+        })
+        
+        //hitter
+        global.hit = {}
+if (isCmd) {
+data = await fetchJson('https://api.countapi.xyz/hit/CheemsBot/visits')
+jumlahcmd = `${data.value}`
+dataa = await fetchJson(`https://api.countapi.xyz/hit/CheemsBot${moment.tz('Asia/Kolkata').format('DDMMYYYY')}/visits`)
+jumlahharian = `${dataa.value}`
+}
+        
+	//auto set bio\\
+	if (db.data.settings[botNumber].autobio) {
+	    let setting = global.db.data.settings[botNumber]
+	    if (new Date() * 1 - setting.status > 1000) {
+		let uptime = await runtime(process.uptime())
+		await XeonBotInc.setStatus(`${XeonBotInc.user.name} | Runtime : ${runtime(uptime)}`)
+		setting.status = new Date() * 1
+	    }
+	}
+	
+	//antispam or auto react
+//if (m.message && msgFilter.isFiltered(from)) {
+//console.log(`${global.themeemoji}[SPAM]`, color(moment(m.messageTimestamp * 1000).format('DD/MM/YYYY HH:mm:ss'), 'yellow'), color(`${command} [${args.length}]`), 'from', color(m.pushName))
+//return XeonBotInc.sendMessage(from, { react: { text: `${global.themeemoji}`, key: m.key }})
+//}
+	
+//auto read whatsapp status
+if (autoreadsw) {
+		if (from === 'status@broadcast') {
+		XeonBotInc.chatRead(from)
+	}
+	}
+//autoreader gc and pm
+if (global.autoreadpmngc) {
+if (command) {
+await XeonBotInc.sendPresenceUpdate('composing', m.chat)
+XeonBotInc.sendReadReceipt(from, m.sender, [m.key.id])}
+}
+  //autoread gc only
+  if (global.autoReadGc) {
+  if (m.isGroup) { XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id]) }
+}
+  //auto recording all
+    if (global.autoRecord) { if (m.chat) { XeonBotInc.sendPresenceUpdate('recording', m.chat) }
+}
+//autotyper all
+  if (global.autoTyping) { if (m.chat) { XeonBotInc.sendPresenceUpdate('composing', m.chat) }
+}
+//auto available all
+  if (global.available) { if (m.chat) { XeonBotInc.sendPresenceUpdate('available', m.chat) }
+  }
+
+// Autosticker gc
+        if (isAutoSticker) {
+            if (/image/.test(mime) && !/webp/.test(mime)) {
+                let mediac = await quoted.download()
+                await XeonBotInc.sendImageAsSticker(from, mediac, m, { packname: global.packname, author: global.author })
+                console.log(`Auto sticker detected`)
+            } else if (/video/.test(mime)) {
+                if ((quoted.msg || quoted).seconds > 11) return
+                let mediac = await quoted.download()
+                await XeonBotInc.sendVideoAsSticker(from, mediac, m, { packname: global.packname, author: global.author })
+            }
+        }
+        //Autosticker pc
+                if (isAutoStick) {
+            if (/image/.test(mime) && !/webp/.test(mime)) {
+                let mediac = await quoted.download()
+                await XeonBotInc.sendImageAsSticker(from, mediac, m, { packname: global.packname, author: global.author })
+                console.log(`Auto sticker detected`)
+            } else if (/video/.test(mime)) {
+                if ((quoted.msg || quoted).seconds > 11) return
+                let mediac = await quoted.download()
+                await XeonBotInc.sendVideoAsSticker(from, mediac, m, { packname: global.packname, author: global.author })
+            }
+        }
+
+	// AntiLinkgc
+if (AntiLink) {
+linkgce = await XeonBotInc.groupInviteCode(from)
+if (budy.includes(`https://chat.whatsapp.com/${linkgce}`)) {
+reply(`\`\`\`「 Group Link Detected 」\`\`\`\n\nAnda tidak akan ditendang oleh bot karena yang Anda kirim adalah tautan ke grup ini`)
+} else if (isUrl(m.text)) {
+bvl = `\`\`\`「 Group Link Detected 」\`\`\`\n\nAdmin telah mengirim tautan, admin bebas memposting tautan apa pun`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Group Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Telah ditendang karena mengirim tautan di grup ini`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+}
+  // Antiwame by xeon
+  if (antiWame)
+  if (budy.includes(`wa.me`)) {
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Wa.me Link Detected 」\`\`\`\n\nAdmin sudah kirim link wa.me, admin bebas kirim link apa saja😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Telah ditendang karena mengirimkan link video youtube di grup ini`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+  if (antiWame)
+  if (budy.includes(`http://wa.me`)) {
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Wa.me Link Detected 」\`\`\`\n\nAdmin sudah kirim link wa.me, admin bebas kirim link apa saja😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Wa.me Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Telah ditendang karena mengirimkan link video youtube di grup ini`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antivirtex by xeon
+  if (antiVirtex) {
+  if (budy.length > 3500) {
+  reply(`Seseorang mengirim spam virus!! tandai sebagai membaca⚠️\n`.repeat(300))
+  reply(`\`\`\`「 Virus Detected 」\`\`\`\n\nMaaf Anda Akan Ditendang !`)
+  if (!isBotAdmins) return reply(mess.botAdmin)
+  XeonBotInc.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
+  }
+  }
+//anti bad words by xeon
+if (antiToxic)
+if (bad.includes(messagesD)) {
+tos = ['Hei, jaga mulutmu','Tidak pernah diajari cara berbicara?','Berhenti menjadi racun temanku🤢','Jangan beracun']
+sin =  tos[Math.floor(Math.random() * (tos.length))]
+reply(sin)
+if (m.text) {
+bvl = `\`\`\`「 Bad Word Detected 」\`\`\`\n\nAnda menggunakan kata-kata yang buruk tetapi Anda adalah admin itu sebabnya saya tidak akan menendang Anda😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Bad Word Detected 」\`\`\`\n\n@${kice.split("@")[0]} ditendang karena menggunakan kata-kata buruk di grup ini`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})}
+}
+//antilink youtube video by xeon
+if (AntiLinkYoutubeVid)
+if (budy.includes("https://youtu.be/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 YoutTube Video Link Detected 」\`\`\`\n\nAdmin telah mengirimkan link video youtube, admin bebas mengirimkan link apapun😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 YouTube Video Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Telah ditendang karena mengirimkan link video youtube di grup ini`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink youtube channel by xeon
+if (AntiLinkYoutubeChannel)
+   if (budy.includes("https://youtube.com/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 YoutTube Channel Link Detected 」\`\`\`\n\nAdmin has sent a youtube channel link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 YouTube Channel Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending youtube channel link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink instagram by xeon
+if (AntiLinkInstagram)
+   if (budy.includes("https://www.instagram.com/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Instagram Link Detected 」\`\`\`\n\nAdmin has sent a instagram link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Instagram Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending instagram link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink facebook by xeon
+if (AntiLinkFacebook)
+   if (budy.includes("https://facebook.com/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Facebook Link Detected 」\`\`\`\n\nAdmin has sent a facebook link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Facebook Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending facebook link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink telegram by xeon
+if (AntiLinkTelegram)
+   if (budy.includes("https://t.me/")){
+if (AntiLinkTelegram)
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Telegram Link Detected 」\`\`\`\n\nAdmin has sent a telegram link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Telegram Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending telegram link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink tiktok by xeon
+if (AntiLinkTiktok)
+   if (budy.includes("https://www.tiktok.com/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Tiktok Link Detected 」\`\`\`\n\nAdmin has sent a tiktok link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Tiktok Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending tiktok link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink twitter by xeon
+if (AntiLinkTwitter)
+   if (budy.includes("https://twitter.com/")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Twitter Link Detected 」\`\`\`\n\nAdmin has sent a twitter link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Tiktok Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending twitter link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+//antilink all by xeon
+if (AntiLinkAll)
+   if (budy.includes("https://")){
+if (!isBotAdmins) return
+bvl = `\`\`\`「 Link Detected 」\`\`\`\n\nAdmin has sent a link, admin is free to send any link😇`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 Link Detected 」\`\`\`\n\n@${kice.split("@")[0]} Has been kicked because of sending link in this group`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+} else {
+}
+
+                //auto reply by xeon
+  //if (Autoreply) //
+        for (let anji of xeonysticker){
+				if (budy === anji){
+					result = fs.readFileSync(`./XeonMedia/sticker/${anji}.webp`)
+					XeonBotInc.sendMessage(m.chat, { sticker: result }, { quoted: m })
+					}
+			}
+			  //if (Autoreply) //remove forwad slashes to make it autoreply on off
+			for (let anju of xeonyaudio){
+				if (budy === anju){
+					result = fs.readFileSync(`./XeonMedia/audio/${anju}.mp3`)
+					XeonBotInc.sendMessage(m.chat, { audio: result, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
+					}
+			}
+			  //if (Autoreply) //remove forwad slashes to make it autoreply on off
+			for (let anjh of xeonyimage){
+				if (budy === anjh){
+					result = fs.readFileSync(`./XeonMedia/image/${anjh}.jpg`)
+					XeonBotInc.sendMessage(m.chat, { image: result }, { quoted: m })
+					}
+			}
+			  //if (Autoreply) //remove forwad slashes to make it autoreply on off
+					for (let anjh of xeonyvideo){
+				if (budy === anjh){
+					result = fs.readFileSync(`./XeonMedia/video/${anjh}.mp4`)
+					XeonBotInc.sendMessage(m.chat, { video: result }, { quoted: m })
+					}
+				  }
+
+//emoji 
+const emote = (satu, dua) => {
+try{	    
+const { EmojiAPI } = require("emoji-api");
+const emoji = new EmojiAPI();
+emoji.get(satu)
+.then(emoji => {
+const buttons = [{buttonId: "y", buttonText: {displayText:satu}, type: 1}]
+const buttonMessage = {image: {url: emoji.images[dua].url},caption: "Ini dia!",footerText: `${botname}`,buttons: buttons,headerType: 4}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+})
+} catch (e) {
+reply("Kesalahan emoji, masukkan emoji lain\nNOTE : Cukup masukkan 1 emoji")
+}
+}
+
+      //Mute Chat\\
+      if (db.data.chats[m.chat].mute && !isAdmins && !isCreator) {
+      return
+      }
+        
+        //media detect \\
+		const isQuotedImage = type === 'extendedTextMessage' && content.includes('imageMessage')
+		const isQuotedVideo = type === 'extendedTextMessage' && content.includes('videoMessage')
+		const isQuotedAudio = type === 'extendedTextMessage' && content.includes('audioMessage')
+		const isQuotedSticker = type === 'extendedTextMessage' && content.includes('stickerMessage')
+        
+        //Respon Cmd with media\\
+        if (isMedia && m.msg.fileSha256 && (m.msg.fileSha256.toString('base64') in global.db.data.sticker)) {
+        let hash = global.db.data.sticker[m.msg.fileSha256.toString('base64')]
+        let { text, mentionedJid } = hash
+        let messages = await generateWAMessage(m.chat, { text: text, mentions: mentionedJid }, {
+            userJid: XeonBotInc.user.id,
+            quoted: m.quoted && m.quoted.fakeObj
+        })
+        messages.key.fromMe = areJidsSameUser(m.sender, XeonBotInc.user.id)
+        messages.key.id = m.key.id
+        messages.pushName = m.pushName
+        if (m.isGroup) messages.participant = m.sender
+        let msg = {
+            ...chatUpdate,
+            messages: [proto.WebMessageInfo.fromObject(messages)],
+            type: 'append'
+        }
+        XeonBotInc.ev.emit('messages.upsert', msg)
+        }
+	    
+	if (('family100'+m.chat in _family100) && isCmd) {
+            kuis = true
+            let room = _family100['family100'+m.chat]
+            let teks = budy.toLowerCase().replace(/[^\w\s\-]+/, '')
+            let isSurender = /^((me)?give up|surr?ender)$/i.test(m.text)
+            if (!isSurender) {
+                let index = room.jawaban.findIndex(v => v.toLowerCase().replace(/[^\w\s\-]+/, '') === teks)
+                if (room.terjawab[index]) return !0
+                room.terjawab[index] = m.sender
+            }
+            let isWin = room.terjawab.length === room.terjawab.filter(v => v).length
+            let caption = `
+Answer The Following Questions :\n${room.soal}\n\n\nThere Is ${room.jawaban.length} Answer ${room.jawaban.find(v => v.includes(' ')) ? `(Some Answers Have Spaces)` : ''}
+${isWin ? `All Answers Answered` : isSurender ? 'Surrender!' : ''}
+${Array.from(room.jawaban, (jawaban, index) => {
+        return isSurender || room.terjawab[index] ? `(${index + 1}) ${jawaban} ${room.terjawab[index] ? '@' + room.terjawab[index].split('@')[0] : ''}`.trim() : false
+    }).filter(v => v).join('\n')}
+    ${isSurender ? '' : `Perfect Player`}`.trim()
+            XeonBotInc.sendText(m.chat, caption, m, { contextInfo: { mentionedJid: parseMention(caption) }}).then(mes => { return _family100['family100'+m.chat].pesan = mesg }).catch(_ => _)
+            if (isWin || isSurender) delete _family100['family100'+m.chat]
+        }
+
+        if (tebaklagu.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebaklagu[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess song', buttonText: { displayText: 'Guess The Song' }, type: 1 }], `🎮 Guess The Music 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebaklagu[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (kuismath.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = kuismath[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await reply(`🎮 Math Quiz 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Send ${prefix}math mode`)
+                delete kuismath[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (tebakgambar.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebakgambar[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess picture', buttonText: { displayText: 'Guess The Picture' }, type: 1 }], `🎮 Guess The Picture 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebakgambar[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (tebakkata.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebakkata[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess word', buttonText: { displayText: 'Guess The Word' }, type: 1 }], `🎮 Guess The Word 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebakkata[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (caklontong.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = caklontong[m.sender.split('@')[0]]
+	    deskripsi = caklontong_desk[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess blank', buttonText: { displayText: 'Guess The Blank' }, type: 1 }], `🎮 Guess The Blank 🎮\n\nCorrect Answer 🎉\n*${deskripsi}*\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete caklontong[m.sender.split('@')[0]]
+		delete caklontong_desk[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebakkalimat[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess sentence', buttonText: { displayText: 'Guess The Sentence' }, type: 1 }], `🎮 Guess The Sentence 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebakkalimat[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+
+        if (tebaklirik.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebaklirik[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess lyrics', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], `🎮 Guess The Lyrics 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebaklirik[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+	    
+	if (tebaktebakan.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
+            kuis = true
+            jawaban = tebaktebakan[m.sender.split('@')[0]]
+            if (budy.toLowerCase() == jawaban) {
+                await XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess riddle', buttonText: { displayText: 'Guess The Riddle' }, type: 1 }], `🎮 Guess The Riddle 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Press The Button Below`, XeonBotInc.user.name, m)
+                delete tebaktebakan[m.sender.split('@')[0]]
+            } else reply('*Wrong Answer!*')
+        }
+        
+        //TicTacToe\\
+	    this.game = this.game ? this.game : {}
+	    let room = Object.values(this.game).find(room => room.id && room.game && room.state && room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender) && room.state == 'PLAYING')
+	    if (room) {
+	    let ok
+	    let isWin = !1
+	    let isTie = !1
+	    let isSurrender = !1
+	    //reply(`[DEBUG]\n${parseInt(m.text)}`)
+	    if (!/^([1-9]|(me)?give up|surr?ender|off|skip)$/i.test(m.text)) return
+	    isSurrender = !/^[1-9]$/.test(m.text)
+	    if (m.sender !== room.game.currentTurn) { 
+	    if (!isSurrender) return !0
+	    }
+	    if (!isSurrender && 1 > (ok = room.game.turn(m.sender === room.game.playerO, parseInt(m.text) - 1))) {
+	    reply({
+	    '-3': 'Game Has Ended',
+	    '-2': 'Invalid',
+	    '-1': 'Invalid Position',
+	    0: 'Invalid Position',
+	    }[ok])
+	    return !0
+	    }
+	    if (m.sender === room.game.winner) isWin = true
+	    else if (room.game.board === 511) isTie = true
+	    let arr = room.game.render().map(v => {
+	    return {
+	    X: '❌',
+	    O: '⭕',
+	    1: '1️⃣',
+	    2: '2️⃣',
+	    3: '3️⃣',
+	    4: '4️⃣',
+	    5: '5️⃣',
+	    6: '6️⃣',
+	    7: '7️⃣',
+	    8: '8️⃣',
+	    9: '9️⃣',
+	    }[v]
+	    })
+	    if (isSurrender) {
+	    room.game._currentTurn = m.sender === room.game.playerX
+	    isWin = true
+	    }
+	    let winner = isSurrender ? room.game.currentTurn : room.game.winner
+	    let str = `Room ID: ${room.id}
+
+${arr.slice(0, 3).join('')}
+${arr.slice(3, 6).join('')}
+${arr.slice(6).join('')}
+
+${isWin ? `@${winner.split('@')[0]} Won!` : isTie ? `Game Over` : `Turn ${['❌', '⭕'][1 * room.game._currentTurn]} (@${room.game.currentTurn.split('@')[0]})`}
+❌: @${room.game.playerX.split('@')[0]}
+⭕: @${room.game.playerO.split('@')[0]}
+
+Typed *surrender* to surrender and admited defeat`
+	    if ((room.game._currentTurn ^ isSurrender ? room.x : room.o) !== m.chat)
+	    room[room.game._currentTurn ^ isSurrender ? 'x' : 'o'] = m.chat
+	    if (room.x !== room.o) await XeonBotInc.sendText(room.x, str, m, { mentions: parseMention(str) } )
+	    await XeonBotInc.sendText(room.o, str, m, { mentions: parseMention(str) } )
+	    if (isTie || isWin) {
+	    delete this.game[room.id]
+	    }
+	    }
+
+        //Suit PvP\\
+	    this.suit = this.suit ? this.suit : {}
+	    let roof = Object.values(this.suit).find(roof => roof.id && roof.status && [roof.p, roof.p2].includes(m.sender))
+	    if (roof) {
+	    let win = ''
+	    let tie = false
+	    if (m.sender == roof.p2 && /^(acc(ept)?|accept|yes|okay?|reject|no|later|nope(k.)?yes|y)/i.test(m.text) && m.isGroup && roof.status == 'wait') {
+	    if (/^(reject|no|later|n|nope(k.)?yes)/i.test(m.text)) {
+	    XeonBotInc.sendTextWithMentions(m.chat, `@${roof.p2.split`@`[0]} Refuse Suit, Suit Canceled`, m)
+	    delete this.suit[roof.id]
+	    return !0
+	    }
+	    roof.status = 'play'
+	    roof.asal = m.chat
+	    clearTimeout(roof.waktu)
+	    //delete roof[roof.id].waktu
+	    XeonBotInc.sendText(m.chat, `Setelan Telah Dikirim Ke Obrolan
+
+@${roof.p.split`@`[0]} dan 
+@${roof.p2.split`@`[0]}
+
+Silahkan Pilih Jas Di Chat Masing-Masing"
+Click https://wa.me/${botNumber.split`@`[0]}`, m, { mentions: [roof.p, roof.p2] })
+	    if (!roof.pilih) XeonBotInc.sendText(roof.p, `Please Select \nBatu🗿\nKertas📄\nGunting✂️`, m)
+	    if (!roof.pilih2) XeonBotInc.sendText(roof.p2, `Please Select \nBatu🗿\nKertas📄\nGunting✂️`, m)
+	    roof.waktu_milih = setTimeout(() => {
+	    if (!roof.pilih && !roof.pilih2) XeonBotInc.sendText(m.chat, `Kedua Pemain Tidak Ingin Bermain,\nSetelan Dibatalkan`)
+	    else if (!roof.pilih || !roof.pilih2) {
+	    win = !roof.pilih ? roof.p2 : roof.p
+	    XeonBotInc.sendTextWithMentions(m.chat, `@${(roof.pilih ? roof.p2 : roof.p).split`@`[0]} Tidak Memilih Setelan, Game Over!`, m)
+	    }
+	    delete this.suit[roof.id]
+	    return !0
+	    }, roof.timeout)
+	    }
+	    let jwb = m.sender == roof.p
+	    let jwb2 = m.sender == roof.p2
+	    let g = /scissors/i
+	    let b = /rock/i
+	    let k = /paper/i
+	    let reg = /^(gunting|batu|kertas)/i
+	    if (jwb && reg.test(m.text) && !roof.pilih && !m.isGroup) {
+	    roof.pilih = reg.exec(m.text.toLowerCase())[0]
+	    roof.text = m.text
+	    reply(`Kamu telah memilih ${m.text} ${!roof.pilih2 ? `\n\nMenunggu Lawan Memilih` : ''}`)
+	    if (!roof.pilih2) XeonBotInc.sendText(roof.p2, 'Lawan Telah Memilih\nSekarang Giliran Anda', 0)
+	    }
+	    if (jwb2 && reg.test(m.text) && !roof.pilih2 && !m.isGroup) {
+	    roof.pilih2 = reg.exec(m.text.toLowerCase())[0]
+	    roof.text2 = m.text
+	    reply(`Kamu telah memilih ${m.text} ${!roof.pilih ? `\n\nMenunggu Lawan Memilih` : ''}`)
+	    if (!roof.pilih) XeonBotInc.sendText(roof.p, 'Lawan Telah Memilih\nSekarang giliran Anda', 0)
+	    }
+	    let stage = roof.pilih
+	    let stage2 = roof.pilih2
+	    if (roof.pilih && roof.pilih2) {
+	    clearTimeout(roof.waktu_milih)
+	    if (b.test(stage) && g.test(stage2)) win = roof.p
+	    else if (b.test(stage) && k.test(stage2)) win = roof.p2
+	    else if (g.test(stage) && k.test(stage2)) win = roof.p
+	    else if (g.test(stage) && b.test(stage2)) win = roof.p2
+	    else if (k.test(stage) && b.test(stage2)) win = roof.p
+	    else if (k.test(stage) && g.test(stage2)) win = roof.p2
+	    else if (stage == stage2) tie = true
+	    XeonBotInc.sendText(roof.asal, `_*Suit Results*_${tie ? '\nSERIES' : ''}
+
+@${roof.p.split`@`[0]} (${roof.text}) ${tie ? '' : roof.p == win ? ` Win \n` : ` Lost \n`}
+@${roof.p2.split`@`[0]} (${roof.text2}) ${tie ? '' : roof.p2 == win ? ` Win \n` : ` Lost \n`}
+`.trim(), m, { mentions: [roof.p, roof.p2] })
+	    delete this.suit[roof.id]
+	    }
+	    }
+	    
+	    let mentionUser = [...new Set([...(m.mentionedJid || []), ...(m.quoted ? [m.quoted.sender] : [])])]
+	    for (let jid of mentionUser) {
+            let user = global.db.data.users[jid]
+            if (!user) continue
+            let afkTime = user.afkTime
+            if (!afkTime || afkTime < 0) continue
+            let reason = user.afkReason || ''
+            reply(`
+Jangan tag dia!
+Dia ada di AFK/Offline ${reason ? 'dengan alasan ' + reason : 'no reason'}
+It's been ${clockString(new Date - afkTime)}
+`.trim())
+        }
+
+        if (db.data.users[m.sender].afkTime > -1) {
+            let user = global.db.data.users[m.sender]
+            reply(`
+Anda Kembali Online Dari AFK${user.afkReason ? ' after ' + user.afkReason : ''}
+In ${clockString(new Date - user.afkTime)}
+`.trim())
+            user.afkTime = -1
+            user.afkReason = ''
+        }
+        
+       //react function
+const reactionMessage = {
+                    react: {
+                        text: args[0],
+                        key: { remoteJid: m.chat, fromMe: true, id: quoted.id }
+                    }
+                }
+                
+                const timestampe = speed();
+const latensie = speed() - timestampe
+                const menulist = `┌─❖
+│「 Hallo 👋 」
+└┬❖ 「 ${pushname} 」
+┌┤✑  Saya Bot
+│└────────────┈ ⳹
+│
+└─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
+│𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
+│𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
+│𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
+│𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
+│𝗢𝘄𝗻𝗲𝗿 𝗡𝗼. : ${global.owner}
+│𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
+│𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
+│𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
+│𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${jumlahcmd}
+│𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
+└┬────────────┈ ⳹
+   │✑  Silahkan pilih
+   │✑  Tombol Di Bawah
+   └─────────────┈ ⳹`
+   
+   //randoming function
+function pickRandom(list) {
+return list[Math.floor(list.length * Math.random())]
+}
+//document randomizer
+let documents = [doc1,doc2,doc3,doc4,doc5,doc6]
+let docs = pickRandom(documents)
+
+// short story
+async function cerpen (category) {
+    return new Promise((resolve, reject) => {
+        let title = category.toLowerCase().replace(/[()*]/g, "")
+        let judul = title.replace(/\s/g, "-")
+        let page = Math.floor(Math.random() * 5)
+        axios.get('http://cerpenmu.com/category/cerpen-'+judul+'/page/'+page)
+        .then((get) => {
+            let $ = cheerio.load(get.data)
+            let link = []
+            $('article.post').each(function (a, b) {
+                link.push($(b).find('a').attr('href'))
+            })
+            let random = link[Math.floor(Math.random() * link.length)]
+            axios.get(random)
+            .then((res) => {
+                let $$ = cheerio.load(res.data)
+                let hasil = {
+                    title: $$('#content > article > h1').text(),
+                    author: $$('#content > article').text().split('Short Story: ')[1].split('Category: ')[0],
+                    kategori: $$('#content > article').text().split('Category: ')[1].split('\n')[0],
+                    lolos: $$('#content > article').text().split('Passed moderation on: ')[1].split('\n')[0],
+                    cerita: $$('#content > article > p').text()
+                }
+                resolve(hasil)
+            })
+        })
+    })
+}
+
+switch(command) {
+	
+ case 'banchat': {
+ if (isBan) return reply(mess.ban)	 			
+if (!isCreator) return replay(mess.owner)
+if (args[0] === "on") {
+if (isBanChat) return replay('Sudah di Banned')
+banchat.push(from)
+replay('Sukses dalam melarang gc')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nBot telah dinonaktifkan di grup ini, sekarang tidak ada yang dapat menggunakan bot di grup ini!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!isBanChat) return replay('Sudah Dicabut')
+let off = banchat.indexOf(from)
+banchat.splice(off, 1)
+replay('Berhasil membatalkan pemblokiran gc')
+} else {
+  let buttonsntnsfw = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'Ban' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Unban' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntnsfw, `Silahkan klik tombol dibawah ini\n\nLarangan ke Larangan\n Unban to unban`, `${global.botname}`, m)
+  }
+  }
+  break
+
+case 'ban': {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+if (!args[0]) return replay(`Pilih tambah atau del (tambahkan untuk melarang, del untuk membatalkan larangan), Misalnya: Reply *${prefix}blokir tambahkan* ke pengguna yang ingin Anda blokir`)
+if (args[1]) {
+orgnye = args[1] + "@s.whatsapp.net"
+} else if (m.quoted) {
+orgnye = m.quoted.sender
+}
+const isBane = banUser.includes(orgnye)
+if (args[0] === "add") {
+if (isBane) return ads('Pengguna sudah dilarang')
+banUser.push(orgnye)
+replay(`Berhasil memblokir pengguna`)
+} else if (args[0] === "del") {
+if (!isBane) return ads('Pengguna sudah dibatalkan pemblokirannya')
+let delbans = banUser.indexOf(orgnye)
+banUser.splice(delbans, 1)
+replay(`Berhasil membatalkan pemblokiran pengguna`)
+} else {
+replay("Error")
+}
+}
+break
+	
+        case 'inventori': case 'inventory': case 'profile':{
+        	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (q.includes('--help')) return reply(examkosong) 
+  if (!isDarah){ addInventoriDarah(m.sender, DarahAwal) }
+  if (!isInventory){ addInventori(m.sender) }
+  if (!isInventoriBuruan){ addInventoriBuruan(m.sender) }
+     
+     var XeonBotInc = await getBuffer(picak+`User's Inventory`)
+     let teksehmazeh = `_[ 👩🏻‍💼INFO USER👨🏻‍💼 ]_\n\n`
+     teksehmazeh += `*❤️Your Blood* : ${getDarah(m.sender)}\n`
+     teksehmazeh += `*◻️️Your Iron* : ${getBesi(m.sender)}\n`
+     teksehmazeh += `*🌟Your Gold* : ${getEmas(m.sender)}\n`
+     teksehmazeh += `*💎Your Emerald* : ${getEmerald(m.sender)}\n`
+     teksehmazeh += `*⏺️Your Limit* : ${getLimit(m.sender)}\n`
+     teksehmazeh += `*🧪Your Potion* : ${getPotion(m.sender)}\n\n`
+     teksehmazeh += `_[ 🐺HUNT RESULT🐺 ]_\n`
+     teksehmazeh += `*🐟Fish* : ${getIkan(m.sender)}\n`
+     teksehmazeh += `*🐔Chicken* : ${getAyam(m.sender)}\n`
+     teksehmazeh += `*🐇Rabbit* : ${getKelinci(m.sender)}\n`
+     teksehmazeh += `*🐑Sheep* : ${getDomba(m.sender)}\n`
+     teksehmazeh += `*🐄Cow* : ${getSapi(m.sender)}\n`
+     teksehmazeh += `*🐘Elephant* : ${getGajah(m.sender)}\n\n`
+     teksehmazeh += `_*${pushname}*_`
+     await XeonBotInc.send5ButImg(from, `` + '' + teksehmazeh, `© ${botname}`, XeonBotInc, [{"urlButton": {"displayText": "YouTube📍","url": `${websitex}`}}])
+  }
+  break
+        case 'userlimit': 
+        if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+{      
+   let txt = `「 *ALL LIMIT USER* 」\n\n`
+     for (let i of _limit){
+     txt += `➸ *ID :* @${i.id.split("@")[0]}\n➸ *Limit* : ${i.limit}\n`
+     }
+    reply(txt)       
+  }
+ break
+ case 'leaderboard':
+ if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+{      
+   let txt = `「 *LEADERBOARD* 」\n\n`
+     for (let i of _buruan){
+     txt += `➸ *ID :* ${i.id}\n`
+     txt += `*🐟Fish* : ${i.ikan}\n`
+     txt += `*🐔Chicken* : ${i.ayam}\n`
+     txt += `*🐇Rabbit* : ${i.kelinci}\n`
+     txt += `*🐑Sheep* : ${i.domba}\n`
+     txt += `*🐄Cow* : ${i.sapi}\n`
+     txt += `*🐘Elephant* : ${i.gajah}\n\n`
+     }
+    reply(txt)       
+  }
+ break
+case 'mining': case 'mine':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (q.includes('--help')) return reply(examkosong) 
+  if (!isInventory){ addInventori(m.sender) }
+  if (isCekDarah < 1) return reply(`You're Tired!, Try To Heal Using Potions`) 
+  let besi = [1,2,5,0,3,0,1,1,4,1,5,0,0]
+  let emas = [0,1,2,3,0,0,0,1,1,0,0,2]
+  let emerald = [0,0,1,0,0,1,0,2,1,0,0,1]
+  var besinya = besi[Math.floor(Math.random() * besi.length)]  
+  var emasnya = emas[Math.floor(Math.random() * emas.length)]  
+  var emeraldnya = emerald[Math.floor(Math.random() * emerald.length)]  
+  setTimeout( () => {
+  let caption = `[ MINING RESULT ]\n*Iron* : ${besinya}\n*Gold* : ${emasnya}\n*Emerald* : ${emeraldnya}`
+  let buttons = [
+      {
+       buttonId: `${prefix + command}`, 
+       buttonText: {
+        displayText: 'Mine Again⛏️'
+      }, type: 1},
+    ]
+    let buttonMessage = {
+      image: { url: './storage/image/tambang.jpg' },
+      caption: caption,
+      footer: pushname,
+      buttons: buttons,
+      headerType: 4
+     }
+     XeonBotInc.sendMessage(from, buttonMessage, { quoted: m })
+   
+   }, 7000)  
+  setTimeout( () => {
+  reply(`@${m.sender.split("@")[0]} Started Mining🎣`)     
+  }, 1500)
+  kurangDarah(m.sender, 10)
+  addBesi(m.sender, besinya)
+  addEmas(m.sended, emasnya)
+  addEmerald(m.sender, emeraldnya)	     
+  }   
+  break  
+  //transaction\\
+ case 'beli': case 'buy':{
+ 	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (q.includes('--help')) return reply(examkosong) 
+ if (!isInventoriBuruan){ addInventoriBuruan(m.sender) } 
+ if (!isInventoryMonay){ addInventoriMonay(m.sender) }
+ if (!isInventory){ addInventori(m.sender) }
+ if (!q) return reply(`Mau beli apa?\n\n1.potion\n2.baitfood\n3.limit\n\nExample: ${prefix + command} baitfood`)
+ var anu = args[1]
+  if (args[0] === 'potion'){
+  let noh = 100000 * anu
+ if (!args[1]) return reply(`Example : ${prefix + command} potion 2\n 1 Potion = 100000 Money`)
+ if (isMonay < noh) return reply('Sisa Uang Anda Tidak Cukup Untuk Pembelian Ini')
+ kurangMonay(m.sender, noh)
+ var apalu = anu * 1
+ addPotion(m.sender, apalu)
+  setTimeout( () => {
+  reply(`Transaksi Berhasil ✔️\n*Uang Anda yang Tersisa* : ${getMonay(m.sender)}\n*Ramuan Anda* : ${getPotion(m.sender)}`)
+  }, 2000) 
+ } else 
+ if (args[0] === 'baitfood'){
+  let noh = 5000 * anu
+ if (!args[1]) return reply(`Example : ${prefix + command} baitfood 2\n 1 Bait Food = 2500 Money`)
+ if (isMonay < noh) return reply('Sisa Uang Anda Tidak Cukup Untuk Pembelian Ini')
+ kurangMonay(m.sender, noh)
+ var apalu = anu * 1
+ addUmpan(m.sender, apalu)
+  setTimeout( () => {
+  reply(`Transaksi Berhasil ✔️\n*Uang Anda yang Tersisa* : ${getMonay(m.sender)}\n*Makanan Umpan Anda* : ${getUmpan(m.sender)}`)
+  }, 2000) 
+  } else 
+  if (args[0] === 'limit'){
+  let noh = 35000 * anu
+ if (!args[1]) return reply(`Example : ${prefix + command} limit 2\n 1 Limit = 35000 Money`)
+ if (isMonay < noh) return reply('Sisa Uang Anda Tidak Cukup Untuk Pembelian Ini')
+ kurangMonay(m.sender, noh)
+ var apalu = anu * 1
+ addLimit(m.sender, apalu)
+  setTimeout( () => {
+  reply(`Transaksi Berhasil ✔️\n*Uang Anda yang Tersisa* : ${getMonay(m.sender)}\n*Batas Anda* : ${getLimit(m.sender)}`)
+  }, 2000) 
+  } else { reply("Format salah!") }
+ }
+ break
+ case 'sel': case 'jual':{
+ 	 if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+ if (!q) return  reply(`Apa yang Ingin Anda Jual???\nExample : ${prefix + command} fish 2`)
+ if (!isInventoriBuruan){ addInventoriBuruan(m.sender) } 
+ if (!isInventoryMonay){ addInventoriMonay(m.sender) }
+ if (!isInventory){ addInventori(m.sender) }
+ var anu = args[1]
+ if (args[0] === 'fish'){
+ if (isIkan < anu) return reply(`Anda Tidak Memiliki Cukup Ikan(es) Untuk Transaksi Ini`)
+ if (!args[1]) return reply(`Example : ${prefix + command} fish 2\n 1 Fish = 1500 Money`)
+ kurangIkan(m.sender, anu)
+ let monaynya = 1500 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaksi Berhasil ✔️\n*Uang Anda yang Tersisa* : ${getMonay(m.sender)}\n*Ikan Anda yang Tersisa(es)* : ${getIkan(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'chicken'){
+ if (isAyam < anu) return reply(`Anda Tidak Memiliki Cukup Ayam(s) Untuk Transaksi Ini`)
+ if (!args[1]) return reply(`Example : ${prefix + command} chicken 2\n 1 Chicken = 2500 Money`)
+ kurangAyam(m.sender, anu)
+ let monaynya = 2500 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Chicken* : ${getAyam(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'rabbit'){
+ if (isKelinci < anu) return reply(`You Don't Have Enough Rabbit(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} rabbit 2\n 1 Rabbit = 3000 Money`)
+ kurangKelinci(m.sender, anu)
+ let monaynya = 3000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Rabbit(s)* : ${getKelinci(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'sheep'){
+ if (isDomba < anu) return reply(`You Don't Have Enough Sheep(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} domba 2\n 1 Sheep = 5000 money`)
+ kurangDomba(m.sender, anu)
+ let monaynya = 5000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Sheep(s)* : ${getDomba(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'cow'){
+ if (isSapi < anu) return reply(`You Don't Have Enough Cow(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} cow 2\n 1 Cow = 10000 Money`)
+ kurangSapi(m.sender, anu)
+ let monaynya = 10000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Cow(s)* : ${getSapi(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'elephant'){
+ if (isGajah < anu) return reply(`You Don't Have Enough Elephant(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} elephant 2\n 1 Elephant = 15000 Money`)
+ kurangGajah(m.sender, anu)
+ let monaynya = 15000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Elephant(s)* : ${getGajah(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'iron'){
+ if (isBesi < anu) return reply(`You Don't Have Enough Iron(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} iron 2\n 1 Iron = 15000 Money`)
+ kurangBesi(m.sender, anu)
+ let monaynya = 16000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*Your Remaining Iron(s)* : ${getBesi(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'gold'){
+ if (isEmas < anu) return reply(`You Don't Have Enough Gold(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} gold 2\n 1 Gold = 50000 Money`)
+ kurangEmas(m.sender, anu)
+ let monaynya = 50000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Money* : ${getMonay(m.sender)}\n*Your Remaining Gold(s)* : ${getEmas(m.sender)}`)
+  }, 2000) 
+ } else
+ if (args[0] === 'emerald'){
+ if (isEmerald < anu) return reply(`You Don't Have Enough Emerald(s) For This Transaction`)
+ if (!args[1]) return reply(`Example : ${prefix + command} emerald 2\n 1 Emerald = 100000 Money`)
+ kurangEmerald(m.sender, anu)
+ let monaynya = 100000 * anu
+ addMonay(m.sender, monaynya)
+  setTimeout( () => {
+  reply(`Transaction Successful ✔️\n*Your Remaining Money* : ${getMonay(m.sender)}\n*You Don't Have Enough Emerald(s) For This Transaction* : ${getEmerald(m.sender)}`)
+  }, 2000) 
+ } else { reply("Incorrect Format!") }
+
+ }
+ break
+
+ case 'heal':{
+ 	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (q.includes('--help')) return reply(examkosong) 
+ if (!isCekDarah < 1) return reply('You Can Only Heal When Your Blood Is 0')
+ if (isCekDarah > 100) return reply('Your Blood Is Full')
+ if (isPotion < 1) return reply(`You Don't Have A Potion, Try Buying It This Way #buypotion _amount_`) 
+ addDarah(m.sender, 100)
+ kurangPotion(m.sender, 1)
+ reply('Success! Your Bood Is Full')
+ }
+ break
+ case 'hunt': case 'hunting': {
+ 	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (q.includes('--help')) return reply(examkosong) 
+ if (!isDarah){ addInventoriDarah(m.sender, DarahAwal) }
+ if (isCekDarah < 1) return reply('Your Blood Is Gone, Try To Heal Using Potions') 
+ if (!isInventoriBuruan){ addInventoriBuruan(m.sender) } 
+  let luka = ["Pierced by a thorn while hunting","Slipped into the abyss while hunting","Scratched by a wild animal","Not careful","Entangled in roots","Fall while hunting"]
+  let location = ["Jungle","Amazon forest","Tropical forest","Meadow","African forest","Mountains"]
+   var ikanmu = Math.ceil(Math.random() * 10)
+   var ayam = Math.ceil(Math.random() * 8)
+   var kelinci = Math.ceil(Math.random() * 7)
+   var dombanya = [3,0,4,0,5,4,6,0,1,0,2,3,0,3,0,1]
+   var sapinya = [2,0,3,0,4,0,5,0,1,0,2,0,3,0,1]
+   var gajahnya = [1,0,4,0,2,0,1,0,2,1,3,0,1]
+   var domba = dombanya[Math.floor(Math.random() * dombanya.length)] 
+   var sapi = sapinya[Math.floor(Math.random() * sapinya.length)] 
+   var gajah = gajahnya[Math.floor(Math.random() * gajahnya.length)]    
+   var lukanya = luka[Math.floor(Math.random() * luka.length)]
+   var lokasinya = location[Math.floor(Math.random() * location.length)]
+ if (lokasinya === 'Jungle') {
+    var image = './storage/image/rimba.jpg'
+   } else
+ if (lokasinya === 'Amazon forest') {
+    var image =  './storage/image/amazon.jpg'
+   } else
+ if (lokasinya === 'Tropical forest') {
+    var image = './storage/image/tropis.jpg'
+   } else
+ if (lokasinya === 'Meadow') {
+    var image = './storage/image/padang_rumput.jpg'
+   } else
+ if (lokasinya === 'African forest') {
+    var image = './storage/image/afrika.jpg'
+   } else
+ if (lokasinya === 'Mountains') {
+   var image = './storage/image/pegunungan.jpg'
+   }
+ setTimeout( () => {
+  let teksehmazeh = `_[ HUNT RESULT ]_\n`
+     teksehmazeh += `*🐟Fish* : ${ikanmu}\n`
+     teksehmazeh += `*🐔Chicken* : ${ayam}\n`
+     teksehmazeh += `*🐇Rabbit* : ${kelinci}\n`
+     teksehmazeh += `*🐑Sheep* : ${domba}\n`
+     teksehmazeh += `*🐄Cow* : ${sapi}\n`
+     teksehmazeh += `*🐘Elephant* : ${gajah}\n\n`
+     teksehmazeh += `_[ INFO ]_\n`
+     teksehmazeh += `*Location* : ${lokasinya}\n`
+     teksehmazeh += `*Wounded* : ${lukanya}, blood - 10\n`
+     teksehmazeh += `*Remaining blood* : ${getDarah(m.sender)}\n`
+    let buttons = [
+      {
+       buttonId: `${prefix + command}`, 
+       buttonText: {
+        displayText: 'Hunt Again️🏹'
+      }, type: 1},
+    ]
+    let buttonMessage = {
+      image: { url: image },
+      caption: teksehmazeh,
+      footer: pushname,
+      buttons: buttons,
+      headerType: 4
+     }
+     XeonBotInc.sendMessage(from, buttonMessage, { quoted: m })      
+  }, 5000)  
+ setTimeout( () => {
+  reply(`@${m.sender.split("@")[0]} Started Hunting In ${lokasinya}`)     
+  }, 1000) 
+ addIkan(m.sender, ikanmu) 
+   addAyam(m.sender, ayam) 
+   addKelinci(m.sender, kelinci)
+   addDomba(m.sender, domba)
+   addSapi(m.sender, sapi)
+  addGajah(m.sender, gajah)
+ kurangDarah(m.sender, 10)
+ }
+ break
+case 'resetlinkgc':
+case 'resetlinkgroup':
+case 'resetlinkgrup':
+case 'revoke':
+case 'resetlink':
+case 'resetgrouplink':
+case 'resetgclink':
+case 'resetgruplink': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+XeonBotInc.groupRevokeInvite(m.chat)
+}
+break
+	    case 'afk': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                let user = global.db.data.users[m.sender]
+                user.afkTime = + new Date
+                user.afkReason = text
+                reply(`${m.pushName} Telah Pergi Afk/Offline${text ? ': ' + text : ''}`)
+            }
+            break	
+        case 'ttc': case 'ttt': case 'tictactoe': {
+        	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            let TicTacToe = require("./lib/tictactoe")
+            this.game = this.game ? this.game : {}
+            if (Object.values(this.game).find(room => room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender))) return replay(`You Are Still In The Game`)
+            let room = Object.values(this.game).find(room => room.state === 'WAITING' && (text ? room.name === text : true))
+            if (room) {
+            reply('Partner found!')
+            room.o = m.chat
+            room.game.playerO = m.sender
+            room.state = 'PLAYING'
+            let arr = room.game.render().map(v => {
+            return {
+            X: '❌',
+            O: '⭕',
+            1: '1️⃣',
+            2: '2️⃣',
+            3: '3️⃣',
+            4: '4️⃣',
+            5: '5️⃣',
+            6: '6️⃣',
+            7: '7️⃣',
+            8: '8️⃣',
+            9: '9️⃣',
+            }[v]
+            })
+            let str = `Room ID: ${room.id}
+
+${arr.slice(0, 3).join('')}
+${arr.slice(3, 6).join('')}
+${arr.slice(6).join('')}
+
+Waiting @${room.game.currentTurn.split('@')[0]}
+
+Type *surrender* to surrender and admit defeat`
+            if (room.x !== room.o) await XeonBotInc.sendText(room.x, str, m, { mentions: parseMention(str) } )
+            await XeonBotInc.sendText(room.o, str, m, { mentions: parseMention(str) } )
+            } else {
+            room = {
+            id: 'tictactoe-' + (+new Date),
+            x: m.chat,
+            o: '',
+            game: new TicTacToe(m.sender, 'o'),
+            state: 'WAITING'
+            }
+            if (text) room.name = text
+            reply('Waiting For Partner' + (text ? ` Type The Command Below ${prefix}${command} ${text}` : ''))
+            this.game[room.id] = room
+            }
+            }
+            break
+            case 'delttc': case 'delttt': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            this.game = this.game ? this.game : {}
+            try {
+            if (this.game) {
+            delete this.game
+            XeonBotInc.sendText(m.chat, `Successfully Deleted The TicTacToe Session`, m)
+            } else if (!this.game) {
+            reply(`TicTacToe🎮 Session Does Not Exist`)
+            } else reply('?')
+            } catch (e) {
+            reply('Damaged')
+            }
+            }
+            break
+            case 'suitpvp': case 'suit': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            this.suit = this.suit ? this.suit : {}
+            let poin = 10
+            let poin_lose = 10
+            let timeout = 60000
+            if (Object.values(this.suit).find(roof => roof.id.startsWith('suit') && [roof.p, roof.p2].includes(m.sender))) return replay(`Complete Your Previous Suit`)
+	    if (m.mentionedJid[0] === m.sender) return reply(`Can't Play With Myself !`)
+            if (!m.mentionedJid[0]) return reply(`_Who Do You Want To Challenge?_\nTag The Person..\n\nExample : ${prefix}suit @${owner[1]}`, m.chat, { mentions: [owner[1] + '@s.whatsapp.net'] })
+            if (Object.values(this.suit).find(roof => roof.id.startsWith('suit') && [roof.p, roof.p2].includes(m.mentionedJid[0])))  reply(`The Person You Are Challenging Is Playing Suit With Someone Else :(`)
+            let id = 'suit_' + new Date() * 1
+            let caption = `_*SUIT PvP*_
+
+@${m.sender.split`@`[0]} menantang @${m.mentionedJid[0].split`@`[0]} To Play Suit
+
+Please @${m.mentionedJid[0].split`@`[0]} To Type Accept/Reject`
+            this.suit[id] = {
+            chat: await XeonBotInc.sendText(m.chat, caption, m, { mentions: parseMention(caption) }),
+            id: id,
+            p: m.sender,
+            p2: m.mentionedJid[0],
+            status: 'wait',
+            waktu: setTimeout(() => {
+            if (this.suit[id]) XeonBotInc.sendText(m.chat, `_Suit Time Out_`, m)
+            delete this.suit[id]
+            }, 60000), poin, poin_lose, timeout
+            }
+            }
+            break
+            case 'chat': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                if (!q) return replay(`Option : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete`)
+                if (args[0] === 'mute') {
+                    XeonBotInc.chatModify({ mute: 'Infinity' }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'unmute') {
+                    XeonBotInc.chatModify({ mute: null }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'archive') {
+                    XeonBotInc.chatModify({  archive: true }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'unarchive') {
+                    XeonBotInc.chatModify({ archive: false }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'read') {
+                    XeonBotInc.chatModify({ markRead: true }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'unread') {
+                    XeonBotInc.chatModify({ markRead: false }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'delete') {
+                    XeonBotInc.chatModify({ clear: { message: { id: m.quoted.id, fromMe: true }} }, m.chat, []).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                }
+            }
+            break
+	    case 'family100': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if ('family100'+m.chat in _family100) {
+                    reply('There Are Still Unfinished Sessions!')
+                    reply(false)
+                }
+                let anu = await fetchJson('https://raw.githubusercontent.com/BochilTeam/database/master/games/family100.json')
+                let random = anu[Math.floor(Math.random() * anu.length)]
+                let hasil = `*Answer The Following Questions :*\n${random.soal}\n\nThere Is *${random.jawaban.length}* Answer ${random.jawaban.find(v => v.includes(' ')) ? `(Some Answers Have Spaces)` : ''}`.trim()
+                _family100['family100'+m.chat] = {
+                    id: 'family100'+m.chat,
+                    pesan: await XeonBotInc.sendText(m.chat, hasil, m),
+                    ...random,
+                    terjawab: Array.from(random.jawaban, () => false),
+                    hadiah: 6,
+                }
+            }
+            break
+            case 'halah': case 'hilih': case 'huluh': case 'heleh': case 'holoh':
+            if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.quoted && !text) return replay(`Send/Reply Text With Caption ${prefix + command}`)
+            ter = command[1].toLowerCase()
+            tex = m.quoted ? m.quoted.text ? m.quoted.text : q ? q : m.text : q ? q : m.text
+            reply(tex.replace(/[aiueo]/g, ter).replace(/[AIUEO]/g, ter.toUpperCase()))
+            break
+case 'guess': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : ${prefix + command} song\n\nOption : \n1.song\n2. picture\n3. saying\n4. sentence\n5. lyrics\n6.food`)
+if (args[0] === "song") {
+if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://fatiharridho.github.io/tebaklagu.json')
+let result = anu[Math.floor(Math.random() * anu.length)]
+let msg = await XeonBotInc.sendMessage(m.chat, { audio: { url: result.link_song }, mimetype: 'audio/mpeg' }, { quoted: m })
+XeonBotInc.sendText(m.chat, `What is the name of this song?\n\nArtist : ${result.artist}\nTime : 60s`, msg).then(() => {
+tebaklagu[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+})
+await sleep(60000)
+if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess song', buttonText: { displayText: 'Guess the song' }, type: 1 }], `Time has run out\nAnswer:  ${tebaklagu[m.sender.split('@')[0]]}\n\nWant to play? press the button below`, `${global.botname}`, m)
+delete tebaklagu[m.sender.split('@')[0]]
+}
+} else if (args[0] === 'picture') {
+if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://raw.githubusercontent.com/BochilTeam/database/master/games/tebakgambar.json')
+let result = anu[Math.floor(Math.random() * anu.length)]
+XeonBotInc.sendImage(m.chat, result.img, `Please answer the question above\n\nDescription : ${result.deskripsi}\nTime : 60s`, m).then(() => {
+tebakgambar[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+})
+await sleep(60000)
+if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess picture', buttonText: { displayText: 'Guess the picture' }, type: 1 }], `Time has run out\nAnswer:  ${tebakgambar[m.sender.split('@')[0]]}\n\nWant to play? press the button below`,`${global.botname}`, m)
+delete tebakgambar[m.sender.split('@')[0]]
+}
+} else if (args[0] === 'word') {
+if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://raw.githubusercontent.com/DGXeon/fungames/main/GuessTheWord.js')
+let result = anu[Math.floor(Math.random() * anu.length)]
+XeonBotInc.sendText(m.chat, `Please answer the following question\n\n${result.soal}\nTime : 60s`, m).then(() => {
+tebakkata[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+})
+await sleep(60000)
+if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess word', buttonText: { displayText: 'Guess The Word' }, type: 1 }], `Time Out\nAnswer:  ${tebakkata[m.sender.split('@')[0]]}\n\nWant to play? press the button below`, `${global.botname}`, m)
+delete tebakkata[m.sender.split('@')[0]]
+}
+} else if (args[0] === 'sentence') {
+if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://raw.githubusercontent.com/DGXeon/fungames/main/GuessTheSentence.js')
+let result = anu[Math.floor(Math.random() * anu.length)]
+XeonBotInc.sendText(m.chat, `Please answer the following question\n\n${result.soal}\nTime : 60s`, m).then(() => {
+tebakkalimat[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+})
+await sleep(60000)
+if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess sentence', buttonText: { displayText: 'Guess the Sentence' }, type: 1 }], `Time Out\nAnswer:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nWant to play? press the button below`, `${global.botname}`, m)
+delete tebakkalimat[m.sender.split('@')[0]]
+}
+} else if (args[0] === 'lyrics') {
+if (tebaklirik.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://raw.githubusercontent.com/BochilTeam/database/master/games/tebaklirik.json')
+let result = anu[Math.floor(Math.random() * anu.length)]
+XeonBotInc.sendText(m.chat, `Fill the missing lyrics below : *${result.soal}*?\nTime : 60s`, m).then(() => {
+tebaklirik[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+})
+await sleep(60000)
+if (tebaklirik.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess lyrics', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], `Time Out\nAnswer:  ${tebaklirik[m.sender.split('@')[0]]}\n\nWant to play? press the button below`, `${global.botname}`, m)
+delete tebaklirik[m.sender.split('@')[0]]
+}
+} else if (args[0] === 'guess saying') {
+if (caklontong.hasOwnProperty(m.sender.split('@')[0])) return replay("There are still unfinished sessions!")
+let anu = await fetchJson('https://raw.githubusercontent.com/BochilTeam/database/master/games/caklontong.json')
+let result = anu[Math.floor(Math.random() * anu.length)]
+XeonBotInc.sendText(m.chat, `*Answer the following questions :*\n${result.soal}*\nTime : 60s`, m).then(() => {
+caklontong[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
+caklontong_desk[m.sender.split('@')[0]] = result.deskripsi
+})
+await sleep(60000)
+if (caklontong.hasOwnProperty(m.sender.split('@')[0])) {
+console.log("Answer: " + result.jawaban)
+XeonBotInc.sendButtonText(m.chat, [{ buttonId: 'guess saying', buttonText: { displayText: 'Guess The Saying' }, type: 1 }], `Time Out\nAnswer:  ${caklontong[m.sender.split('@')[0]]}\nDescription : ${caklontong_desk[m.sender.split('@')[0]]}\n\nWant to play? press the button below`, `${global.botname}`, m)
+delete caklontong[m.sender.split('@')[0]]
+delete caklontong_desk[m.sender.split('@')[0]]
+}
+}
+}
+break
+		
+	case 'react': { 
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+XeonBotInc.sendMessage(m.chat, reactionMessage)} 
+break
+		
+		
+            case 'kuismath': case 'math': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (kuismath.hasOwnProperty(m.sender.split('@')[0])) return replay(`There Are Still Unfinished Sessions!`)
+                let { genMath, modes } = require('./lib/math')
+                if (!text) return replay(`Mode: ${Object.keys(modes).join(' | ')}\nFor Examples: ${prefix}math medium`)
+                let result = await genMath(text.toLowerCase())
+                XeonBotInc.sendText(m.chat, `*What Is The Result Of: ${result.soal.toLowerCase()}*?\n\nTime: ${(result.waktu / 1000).toFixed(2)} second`, m).then(() => {
+                    kuismath[m.sender.split('@')[0]] = result.jawaban
+                })
+                await sleep(result.waktu)
+                if (kuismath.hasOwnProperty(m.sender.split('@')[0])) {
+                    console.log("Answer: " + result.jawaban)
+                    reply("Time Out\nAnswer: " + kuismath[m.sender.split('@')[0]])
+                    delete kuismath[m.sender.split('@')[0]]
+                }
+            }
+            break
+            case 'mysoulmate': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            let member = participants.map(u => u.id)
+            let me = m.sender
+            let jodoh = member[Math.floor(Math.random() * member.length)]
+            let jawab = `👫Pertandingan Anda Adalah
+
+@${me.split('@')[0]} ❤️ @${jodoh.split('@')[0]}`
+            let ments = [me, jodoh]
+            let buttons = [
+                        { buttonId: '❤️', buttonText: { displayText: '❤️' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, jawab, XeonBotInc.user.name, m, {mentions: ments})
+            }
+            break
+            case 'couple': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            let member = participants.map(u => u.id)
+            let orang = member[Math.floor(Math.random() * member.length)]
+            let jodoh = member[Math.floor(Math.random() * member.length)]
+            let jawab = `@${orang.split('@')[0]} ❤️ @${jodoh.split('@')[0]}
+Cieeee, Ada Apa❤️💖👀`
+            let menst = [orang, jodoh]
+            let buttons = [
+                        { buttonId: '❤️', buttonText: { displayText: '❤️' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, jawab, XeonBotInc.user.name, m, {mentions: menst})
+            }
+            break
+            case 'is':
+            if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} he married `)
+					const apa = [`Yes`, `No`, `It Could Be`, `Thats right`]
+					const kah = apa[Math.floor(Math.random() * apa.length)]
+XeonBotInc.sendMessage(from, { text: `Question : Is ${q}\nAnswer : ${kah}` }, { quoted: m })
+
+					break
+					            case 'what':
+					if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} he married `)
+					const lel = [`Ask Your Gf`, `I Dont Know`, `I Don't Know, Ask Your Father`]
+					const kahk = lel[Math.floor(Math.random() * lel.length)]
+XeonBotInc.sendMessage(from, { text: `Question : What ${q}\nAnswer : ${kahk}` }, { quoted: m })
+
+					break
+case 'can':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} you fuck her lol `)
+					const bisa = [`Can`,`Can't`,`Cannot`,`Of Course You Can!!!`]
+					const ga = bisa[Math.floor(Math.random() * bisa.length)]
+XeonBotInc.sendMessage(from, { text: `Question : Can ${q}\nAnswer : ${ga}` }, { quoted: m })
+
+					break
+case 'how':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} is my face`)
+					const gimana = [`It's Okay`, `It's Difficult Bro`, `Sorry Bot Can't Answer`, `Try Searching On Google`,`Holy Cow! Really???`,`Dizzy Ah`,`Ohhh I See:(`,`The Patient, Boss:(`,`How Are You?`]
+					const ya = gimana[Math.floor(Math.random() * gimana.length)]
+XeonBotInc.sendMessage(from, { text: `Question : ${q}\nAnswer : How ${ya}` }, { quoted: m })
+
+					break
+case 'rate':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} My Dp`)
+					const ra = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
+					const te = ra[Math.floor(Math.random() * ra.length)]
+XeonBotInc.sendMessage(from, { text: `Rate : ${q}\nAnswer : *${te}%*` }, { quoted: m })
+
+					break
+  case 'handsomecheck':
+  if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Tag Someone, Example : ${prefix + command} @Xeon`)
+					const gan = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
+					const teng = gan[Math.floor(Math.random() * gan.length)]
+XeonBotInc.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${teng}%*` }, { quoted: m })
+
+					break
+case 'beautifulcheck':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Tag Someone, Example : ${prefix + command} @Xeon`)
+					const can = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
+					const tik = can[Math.floor(Math.random() * can.length)]
+XeonBotInc.sendMessage(from, { text: `*${command}*\n\nNama : ${q}\nAnswer : *${tik}%*` }, { quoted: m })
+					break
+					case 'charactercheck':
+					if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+					if (!text) return replay(`Tag Someone, Example : ${prefix + command} @Xeon`)
+					const xeony =['Compassionate','Generous','Grumpy','Forgiving','Obedient','Good','Simp','Kind-Hearted','patient','UwU','top, anyway','Helpful']
+					const taky = xeony[Math.floor(Math.random() * xeony.length)]
+					XeonBotInc.sendMessage(from, { text: `Character Check : ${q}\nAnswer : *${taky}*` }, { quoted: m })
+				     break
+                    case 'awesomecheck':
+  case 'greatcheck':
+    case 'gaycheck':
+      case 'cutecheck':
+        case 'lesbicheck':
+          case 'lesbiancheck':
+             case 'hornycheck':
+                 case 'prettycheck':
+                    case 'lovelycheck':
+                      case 'uglycheck':
+                                  	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Tag Someone, Example : ${prefix + command} @Xeon`)
+					const sangeh = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
+					const sange = sangeh[Math.floor(Math.random() * sangeh.length)]
+XeonBotInc.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${sange}%*` }, { quoted: m })
+					break
+                    case 'stupid':
+      case 'foolish':
+      case 'smart':
+      case 'idiot':
+      case 'gay':
+      case 'lesbi':
+      case 'bastard':
+      case 'stubble':
+      case 'dog':
+      case 'fuck':
+      case 'ape':
+      case 'noob':
+      case 'great':
+      case 'horny':
+      case 'wibu':
+      case 'asshole':
+      case 'handsome':
+      case 'beautiful':
+      case 'cute':
+      case 'kind':
+      case 'ugly':
+      case 'pretty':
+      case 'lesbian':
+      case 'randi':
+      case 'gandu':
+      case 'madarchod':
+      case 'kala':
+      case 'gora':
+      case 'chutiya':
+      case 'nibba':
+      case 'nibbi':
+      case 'bhosdiwala':
+      case 'chutmarika':
+      case 'bokachoda':
+      case 'suarerbaccha':
+      case 'bolochoda':
+      case 'muthal':
+      case 'muthbaaz':
+      case 'randibaaz':
+      case 'topibaaz':
+      case 'cunt':
+      case 'nerd':
+      case 'behenchod':
+      case 'behnchoda':
+      case 'bhosdika':
+      case 'nerd':
+      case 'mc':
+      case 'bsdk':
+      case 'bhosdk':
+      case 'nigger':
+      case 'loda':
+      case 'laund':
+      case 'nigga':
+      case 'noobra':
+      case 'tharki':
+      case 'nibba':
+      case 'nibbi':
+      case 'mumu':
+      case 'rascal':
+      case 'scumbag':
+      case 'nuts':
+      case 'comrade':
+      case 'fagot':
+      case 'scoundrel':
+      case 'ditch':
+      case 'dope':
+      case 'gucci':
+      case 'lit':
+      case 'dumbass':
+      case 'sexy':
+      case 'crackhead':
+      case 'mf':
+      case 'motherfucker':
+      case 'dogla':
+      case 'bewda':
+      case 'boka':
+      case 'khanki':
+      case 'bal':
+      case 'sucker':
+      case 'fuckboy':
+      case 'playboy':
+      case 'fuckgirl':
+      case 'playgirl':
+      case 'hot': {
+      	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            let member = participants.map(u => u.id)
+            let me = m.sender
+            let jodoh = member[Math.floor(Math.random() * member.length)]
+            let jawab = `The Most *${command}* Here Is @${jodoh.split('@')[0]}`
+            let ments = [me, jodoh]
+            let buttons = [
+                        { buttonId: '👀', buttonText: { displayText: '👀😂' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, jawab, botname, m, {mentions: ments})
+            }
+            break
+case 'dare':
+                   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+              const dare =[
+    "eat 2 tablespoons of rice without any side dishes, if it's dragging you can drink",
+    "spill people who make you pause",
+    "call crush/pickle now and send ss",
+    "drop only emote every time you type on gc/pc for 1 day.",
+    "say Welcome to Who Wants To Be a Millionaire! to all the groups you have",
+    "call ex saying miss",
+    "sing the chorus of the last song you played",
+    "vn your ex/crush/girlfriend, says hi (name), wants to call, just a moment. I miss🥺👉🏼👈🏼",
+	"Bang on the table (which is at home) until you get scolded for being noisy",
+    "Tell random people _I was just told I was your twin first, we separated, then I had plastic surgery. And this is the most ciyusss_ thing",
+    "mention ex's name",
+    "make 1 rhyme for the members!",
+    "send ur whatsapp chat list",
+    "chat random people with gheto language then ss here",
+    "tell your own version of embarrassing things",
+    "tag the person you hate",
+    "Pretending to be possessed, for example: possessed by dog, possessed by grasshoppers, possessed by refrigerator, etc.",
+    "change name to *I AM DONKEY* for 24 hours",
+    "shout *ma chuda ma chuda ma chuda* in front of your house",
+    "snap/post boyfriend photo/crush",
+    "tell me your boyfriend type!",
+    "say *i hv crush on you, do you want to be my girlfriend?* to the opposite sex, the last time you chatted (submit on wa/tele), wait for him to reply, if you have, drop here",
+    "record ur voice that read *titar ke age do titar, titar ke piche do titar*",
+    "prank chat ex and say *i love u, please come back.* without saying dare!",
+    "chat to contact wa in the order according to your battery %, then tell him *i am lucky to hv you!*",
+    "change the name to *I am a child of randi* for 5 hours",
+    "type in bengali 24 hours",
+    "Use selmon bhoi photo for 3 days",
+    "drop a song quote then tag a suitable member for that quote",
+    "send voice note saying can i call u baby?",
+    "ss recent call whatsapp",
+    "Say *YOU ARE SO BEAUTIFUL DON'T LIE* to guys!",
+    "pop to a group member, and say fuck you",
+    "Act like a chicken in front of ur parents",
+    "Pick up a random book and read one page out loud in vn n send it here",
+    "Open your front door and howl like a wolf for 10 seconds",
+    "Take an embarrassing selfie and paste it on your profile picture",
+    "Let the group choose a word and a well known song. You have to sing that song and send it in voice note",
+    "Walk on your elbows and knees for as long as you can",
+    "sing national anthem in voice note",
+    "Breakdance for 30 seconds in the sitting room😂",
+    "Tell the saddest story you know",
+    "make a twerk dance video and put it on status for 5mins",
+    "Eat a raw piece of garlic",
+    "Show the last five people you texted and what the messages said",
+    "put your full name on status for 5hrs",
+    "make a short dance video without any filter just with a music and put it on ur status for 5hrs",
+    "call ur bestie, bitch",
+    "put your photo without filter on ur status for 10mins",
+    "say i love oli london in voice note🤣🤣",
+    "Send a message to your ex and say I still like you",
+    "call Crush/girlfriend/bestie now and screenshot here",
+    "pop to one of the group member personal chat and Say you ugly bustard",
+    "say YOU ARE BEAUTIFUL/HANDSOME to one of person who is in top of ur pinlist or the first person on ur chatlist",
+    "send voice notes and say, can i call u baby, if u r boy tag girl/if girl tag boy",
+    "write i love you (random grup member name, who is online) in personal chat, (if u r boy write girl name/if girl write boy name) take a snap of the pic and send it here",
+    "use any bollywood actor photo as ur pfp for 3 days",
+    "put your crush photo on status with caption, this is my crush",
+    "change name to I AM GAY for 5 hours",
+    "chat to any contact in whatsapp and say i will be ur bf/gf for 5hours",
+    "send voice note says i hv crush on you, want to be my girlfriend/boyfriend or not? to any random person from the grup(if u girl choose boy, if boy choose girl",
+    "slap ur butt hardly send the sound of slap through voice note😂",
+    "state ur gf/bf type and send the photo here with caption, ugliest girl/boy in the world",
+    "shout bravooooooooo and send here through voice note",
+    "snap your face then send it here",
+    "Send your photo with a caption, i am lesbian",
+    "shout using harsh words and send it here through vn",
+    "shout you bastard in front of your mom/papa",
+    "change the name to i am idiot for 24 hours",
+    "slap urself firmly and send the sound of slap through voice note😂",
+    "say i love the bot owner xeon through voice note",
+    "send your gf/bf pic here",
+    "make any tiktok dance challenge video and put it on status, u can delete it after 5hrs",
+    "breakup with your best friend for 5hrs without telling him/her that its a dare",
+     "tell one of your frnd that u love him/her and wanna marry him/her, without telling him/her that its a dare",
+     "say i love depak kalal through voice note",
+     "write i am feeling horny and put it on status, u can delete it only after 5hrs",
+     "write i am lesbian and put it on status, u can delete only after 5hrs",
+     "kiss your mommy or papa and say i love you😌",
+     "put your father name on status for 5hrs",
+     "send abusive words in any grup, excepting this grup, and send screenshot proof here"
+]
+              const xeondare = dare[Math.floor(Math.random() * dare.length)]
+              buffer = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
+              XeonBotInc.sendMessage(from, { image: buffer, caption: '_You choose DARE_\n'+ xeondare }, {quoted:m})
+              break
+                            break
+       case 'truth':
+       if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+              const truth =[
+    "Have you ever liked anyone? How long?",
+    "If you can or if you want, which gc/outside gc would you make friends with? (maybe different/same type)",
+    "apa ketakutan terbesar kamu?",
+    "Have you ever liked someone and felt that person likes you too?",
+    "What is the name of your friend's ex-girlfriend that you used to secretly like?",
+    "Have you ever stolen money from your father or mom? The reason?",
+    "What makes you happy when you're sad?",
+    "Ever had a one sided love? if so who? how does it feel bro?", 
+    "been someone's mistress?",
+    "the most feared thing",
+    "Who is the most influential person in your life?",
+    "what proud thing did you get this year", 
+    "Who is the person who can make you awesome", 
+    "Who is the person who has ever made you very happy?", 
+    "Who is closest to your ideal type of partner here", 
+    "Who do you like to play with??", 
+    "Have you ever rejected people? the reason why?",
+    "Mention an incident that made you hurt that you still remember", 
+    "What achievements have you got this year??",
+    "What's your worst habit at school??",
+    "What song do you sing most in the shower",
+    "Have you ever had a near-death experience",
+    "When was the last time you were really angry. Why?",
+    "Who is the last person who called you",
+    "Do you have any hidden talents, What are they",
+    "What word do you hate the most?",
+    "What is the last YouTube video you watched?",
+    "What is the last thing you Googled",
+    "Who in this group would you want to swap lives with for a week",
+    "What is the scariest thing thats ever happened to you",
+    "Have you ever farted and blamed it on someone else",
+    "When is the last time you made someone else cry",
+    "Have you ever ghosted a friend",
+    "Have you ever seen a dead body",
+    "Which of your family members annoys you the most and why",
+    "If you had to delete one app from your phone, which one would it be",
+    "What app do you waste the most time on",
+    "Have you ever faked sick to get home from school",
+    "What is the most embarrassing item in your room",
+    "What five items would you bring if you got stuck on a desert island",
+    "Have you ever laughed so hard you peed your pants",
+    "Do you smell your own farts",
+    "have u ever peed on the bed while sleeping ðŸ¤£ðŸ¤£",
+    "What is the biggest mistake you have ever made",
+    "Have you ever cheated in an exam",
+    "What is the worst thing you have ever done",
+    "When was the last time you cried",
+    "whom do you love the most among ur parents", 
+    "do u sometimes put ur finger in ur nosetrilðŸ¤£", 
+    "who was ur crush during the school days",
+    "tell honestly, do u like any boy in this grup",
+    "have you ever liked anyone? how long?",
+    "do you have gf/bf','what is your biggest fear?",
+    "have you ever liked someone and felt that person likes you too?",
+    "What is the name of your ex boyfriend of your friend that you once liked quietly?",
+    "ever did you steal your mothers money or your fathers money",
+    "what makes you happy when you are sad",
+    "do you like someone who is in this grup? if you then who?",
+    "have you ever been cheated on by people?",
+    "who is the most important person in your life",
+    "what proud things did you get this year",
+    "who is the person who can make you happy when u r sad",
+    "who is the person who ever made you feel uncomfortable",
+    "have you ever lied to your parents",
+    "do you still like ur ex",
+    "who do you like to play together with?",
+    "have you ever stolen big thing in ur life? the reason why?",
+    "Mention the incident that makes you hurt that you still remember",
+    "what achievements have you got this year?",
+    "what was your worst habit at school?",
+    "do you love the bot creator, xeon?ðŸ¦„",
+    "have you ever thought of taking revenge from ur teacher?",
+    "do you like current prime minister of ur country",
+    "you non veg or veg",
+    "if you could be invisible, what is the first thing you would do",
+    "what is a secret you kept from your parents",
+    "Who is your secret crush",
+    "whois the last person you creeped on social media",
+    "If a genie granted you three wishes, what would you ask for",
+    "What is your biggest regret",
+    "What animal do you think you most look like",
+    "How many selfies do you take a day",
+    "What was your favorite childhood show",
+    "if you could be a fictional character for a day, who would you choose",
+    "whom do you text the most",
+    "What is the biggest lie you ever told your parents",
+    "Who is your celebrity crush",
+    "Whats the strangest dream you have ever had",
+    "do you play pubg, if you then send ur id number"
+]
+              const xeontruth = truth[Math.floor(Math.random() * truth.length)]
+              buffer = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
+              XeonBotInc.sendMessage(from, { image: buffer, caption: '_You choose TRUTH_\n'+ xeontruth }, {quoted:m})
+              break
+case 'when':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+				if (!text) return replay(`Use Text, Example : ${prefix + command} will i get married `)
+					const kapan = ['5 More Days', '10 More Days', '15 More Days','20 More Days', '25 More Days','30 More Days','35 More Days','40 More Days','45 More Days','50 More Days','55 More Days','60 More Days','65 More Days','70 More Days','75 More Days','80 More Days','85 More Days','90 More Days','100 More Days','5 Months More', '10 Months More', '15 Months More','20 Months More', '25 Months More','30 Months More','35 Months More','40 Months More','45 Months More','50 Months More','55 Months More','60 Months More','65 Months More','70 Months More','75 Months More','80 Months More','85 Months More','90 Months More','100 Months More','1 More Year','2 More Years','3 More Years','4 More Years','5 More Years','Tomorrow','The Day After Tomorrow',`After This Command, You Too ${q}`]
+					const kapankah = kapan[Math.floor(Math.random() * kapan.length)]
+XeonBotInc.sendMessage(from, { text: `Question : ${q}\nAnswer : *${kapankah}*` }, { quoted: m })
+					break
+case 'wangy':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+              if (!text) return replay(`Use Text, Example : ${prefix + command} hinata`)
+              qq = q.toUpperCase()
+              awikwok = `${qq} ${qq} ${qq} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaah the smell of hair ${qq} smelly i want to smell the fragrance ${qq} AAAAAAAAH ~ Her hair.... aaah i want to stroke her hair too ~~ AAAAAH ${qq} first time out in anime is cute too ❤️ ❤️ ❤️ so AAAAAAAH ${qq} AAAAAA LUCCUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️what ? ${qq} it's not real ? Just HELL you say ? no, no no no no no no no no no no no no no no no !! I DON'T CARE ABOUT THE REALITY, I DON'T CARE. ❤️ ❤️ ❤️ ${qq} me ... ${qq} on the laptop watching me, ${qq} .. you believe in me ? aaaaaaaaaaah thanks ${q} I don't want to give up ${qq} aaaaaah ❤️ ❤️ ❤️ YEAAAAAAAAAAAH I STILL HAVE ${qq} ALSO NOT THE SAME AAAAAAAAAAAAAAH`
+             reply(awikwok)
+              break
+case 'checkdeath':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+             if (!text) return replay(`Use Someone's Name, Example : ${prefix + command} Bot`)
+              predea = await axios.get(`https://api.agify.io/?name=${q}`)
+              reply(`Name : ${predea.data.name}\n*Dead At Age :* ${predea.data.age} Year.\n\n_Quick, Quick, Repent Bro, Because No One Knows About Death_`)
+              break  
+            case 'join': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                if (!text) return replay(`Enter The Group Link!`)
+                if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return replay(`Invalid Link!`)
+                reply(mess.wait)
+                let result = args[0].split('https://chat.whatsapp.com/')[1]
+                await XeonBotInc.groupAcceptInvite(result).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+            }
+            break
+                               case 'leavegc': case 'leavegroup': {
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	reply(mess.wait)
+                if (!isCreator) return replay(`${mess.owner}`)
+                await XeonBotInc.groupLeave(m.chat).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+            }
+            break
+            case 'setexif': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+               if (!isCreator) return replay(`${mess.owner}`)
+               if (!text) return replay(`Example : ${prefix + command} packname|author`)
+          global.packname = text.split("|")[0]
+          global.author = text.split("|")[1]
+          reply(`Exif Has Been Successfully Changed to\n\n${themeemoji} Packname : ${global.packname}\n${themeemoji} Author : ${global.author}`)
+            }
+            break
+	case 'kick': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+		let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'remove').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+	case 'add': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+		let users = m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'add').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+	case 'promote': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+		let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'promote').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+	case 'demote': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+		let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'demote').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+        case 'block': {
+        	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!isCreator) return replay(`${mess.owner}`)
+		let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.updateBlockStatus(users, 'block').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+        case 'unblock': {
+        	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		if (!isCreator) return replay(`${mess.owner}`)
+		let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
+		await XeonBotInc.updateBlockStatus(users, 'unblock').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+	}
+	break
+	    case 'setname': case 'setgcname': case 'setsubject': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) replay(`${mess.admin}`)
+                if (!text) replay(`Where Is The Text?`)
+                await XeonBotInc.groupUpdateSubject(m.chat, text).then((res) => reply(mess.success)).catch((err) => reply(jsonformat(err)))
+            }
+            break
+          case 'setdesc': case 'setdescription': {
+          	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) replay(`${mess.admin}`)
+                if (!text) replay(`Where Is The Text?`)
+                await XeonBotInc.groupUpdateDescription(m.chat, text).then((res) => reply(mess.success)).catch((err) => reply(jsonformat(err)))
+            }
+            break
+          case 'setbotpp': {
+          	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                if (!quoted) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                if (!/image/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                if (/webp/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+                await XeonBotInc.updateProfilePicture(botNumber, { url: media }).catch((err) => fs.unlinkSync(media))
+                reply(mess.success)
+                }
+                break
+           case 'setgrouppp': case 'setgruppp': case 'setgcpp': {
+           	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+                if (!quoted) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                if (!/image/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                if (/webp/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+                await XeonBotInc.updateProfilePicture(m.chat, { url: media }).catch((err) => fs.unlinkSync(media))
+                reply(mess.success)
+                }
+                break
+            case 'tagall': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+let teks = `╚»˙·٠•●♥ Tag All ♥●•٠·˙«╝ 
+ 
+ ➲ *Message : ${q ? q : 'no message'}*\n\n`
+                for (let mem of participants) {
+                teks += `${themeemoji} @${mem.id.split('@')[0]}\n`
+                }
+                XeonBotInc.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
+                }
+                break
+                case 'hidetag': {
+                	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+            if (!isAdmins) return replay(`${mess.admin}`)
+            XeonBotInc.sendMessage(m.chat, { text : q ? q : '' , mentions: participants.map(a => a.id)}, { quoted: m })
+            }
+            break
+	    case 'style': case 'styletext': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	        if (!isPremium && global.db.data.users[m.sender].limit < 1) return reply(mess.endLimit) //wont response when limit runs out\\
+		db.data.users[m.sender].limit -= 1 // -1 limit
+		let { styletext } = require('./lib/scraper')
+		if (!text) return replay(`Enter Query Text!`)
+                let anu = await styletext(text)
+                let teks = `Entered Text ${text}\n\n`
+                for (let i of anu) {
+                    teks += `${themeemoji} *${i.name}* : ${i.result}\n\n`
+                }
+                reply(teks)
+	    }
+	    break
+               case 'vote': {
+               	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            if (m.chat in vote) replay(`_There Are Still Votes In This Chat!_\n\n*${prefix}delvote* - To Delete Vote Session`)
+            if (!text) return replay(`Enter Reason For Vote, Example: *${prefix + command} Handsome Owner*`)
+            reply(`Voting Starts!\n\n*${prefix}upvote* - For Upvote\n*${prefix}devote* - For Devote\n*${prefix}checkvote* - To Check The Vote\n*${prefix}delvote* - To Delete Vote Session`)
+            vote[m.chat] = [q, [], []]
+            await sleep(1000)
+            upvote = vote[m.chat][1]
+            devote = vote[m.chat][2]
+            teks_vote = `*「 VOTE 」*
+
+*Reason:* ${vote[m.chat][0]}
+
+┌〔 UPVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][1].length}
+│
+│ 
+└────
+
+┌〔 DEVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][2].length}
+│
+│ 
+└────
+
+*${prefix}delvote* - To Delete Vote Session`
+let buttonsVote = [
+  {buttonId: `${prefix}upvote`, buttonText: {displayText: 'Upvote'}, type: 1},
+  {buttonId: `${prefix}devote`, buttonText: {displayText: 'Devote'}, type: 1}
+]
+
+            let buttonMessageVote = {
+                text: teks_vote,
+                footer: XeonBotInc.user.name,
+                buttons: buttonsVote,
+                headerType: 1
+            }
+            XeonBotInc.sendMessage(m.chat, buttonMessageVote)
+	    }
+            break
+               case 'upvote': {
+               	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            if (!(m.chat in vote)) return replay(`_*No Voting In This Group!*_\n\n*${prefix}vote* - To Start Voting`)
+            isVote = vote[m.chat][1].concat(vote[m.chat][2])
+            wasVote = isVote.includes(m.sender)
+            if (wasVote) replay(`You've Voted`)
+            vote[m.chat][1].push(m.sender)
+            menvote = vote[m.chat][1].concat(vote[m.chat][2])
+            teks_vote = `*「 VOTE 」*
+
+*Reason:* ${vote[m.chat][0]}
+
+┌〔 UPVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][1].length}
+${vote[m.chat][1].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+┌〔 DEVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][2].length}
+${vote[m.chat][2].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+*${prefix}delvote* - To Delete Vote Session`
+            let buttonsUpvote = [
+              {buttonId: `${prefix}upvote`, buttonText: {displayText: 'Upvote'}, type: 1},
+              {buttonId: `${prefix}devote`, buttonText: {displayText: 'Devote'}, type: 1}
+            ]
+
+            let buttonMessageUpvote = {
+                text: teks_vote,
+                footer: XeonBotInc.user.name,
+                buttons: buttonsUpvote,
+                headerType: 1,
+                mentions: menvote
+             }
+            XeonBotInc.sendMessage(m.chat, buttonMessageUpvote)
+	    }
+             break
+                case 'devote': {
+                	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            if (!(m.chat in vote)) return replay(`_*No Voting In This Group!*_\n\n*${prefix}vote* - To Start Voting`)
+            isVote = vote[m.chat][1].concat(vote[m.chat][2])
+            wasVote = isVote.includes(m.sender)
+            if (wasVote) return replay(`You've Voted`)
+            vote[m.chat][2].push(m.sender)
+            menvote = vote[m.chat][1].concat(vote[m.chat][2])
+            teks_vote = `*「 VOTE 」*
+
+*Reason:* ${vote[m.chat][0]}
+
+┌〔 UPVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][1].length}
+${vote[m.chat][1].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+┌〔 DEVOTE 〕
+│ 
+┃╠ Total: ${vote[m.chat][2].length}
+${vote[m.chat][2].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+*${prefix}delvote* - To Delete Vote Session`
+            let buttonsDevote = [
+              {buttonId: `${prefix}upvote`, buttonText: {displayText: 'Upvote'}, type: 1},
+              {buttonId: `${prefix}devote`, buttonText: {displayText: 'Devote'}, type: 1}
+            ]
+
+            let buttonMessageDevote = {
+                text: teks_vote,
+                footer: XeonBotInc.user.name,
+                buttons: buttonsDevote,
+                headerType: 1,
+                mentions: menvote
+            }
+            XeonBotInc.sendMessage(m.chat, buttonMessageDevote)
+	}
+            break
+                 
+case 'checkvote':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(`${mess.group}`)
+if (!(m.chat in vote)) return replay(`_*No Voting In This Group!*_\n\n*${prefix}vote* - To Start Voting`)
+teks_vote = `*「 VOTE 」*
+
+*Reason:* ${vote[m.chat][0]}
+
+┌〔 UPVOTE 〕
+│ 
+┃╠ Total: ${upvote.length}
+${vote[m.chat][1].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+┌〔 DEVOTE 〕
+│ 
+┃╠ Total: ${devote.length}
+${vote[m.chat][2].map((v, i) => `┃╠ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
+│ 
+└────
+
+*${prefix}delvote* - To Delete Vote Session
+
+
+©${XeonBotInc.user.id}
+`
+XeonBotInc.sendTextWithMentions(m.chat, teks_vote, m)
+break
+		case 'deletevote': case'delvote': case 'hapusvote': {
+			if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.isGroup) return replay(`${mess.group}`)
+            if (!(m.chat in vote)) return replay(`_*No Voting In This Group!*_\n\n*${prefix}vote* - To Start Voting`)
+            delete vote[m.chat]
+            reply('Successfully Deleted The Vote Session In This Group')
+	    }
+            break
+               case 'group': case 'grup': {
+               	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+                if (args[0] === 'close'){
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'announcement').then((res) => reply(`Successful Closing The Group`)).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'open'){
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'not_announcement').then((res) => reply(`Successful Opening The Group`)).catch((err) => reply(jsonformat(err)))
+                } else {
+                let buttons = [
+                        { buttonId: 'group open', buttonText: { displayText: 'Open' }, type: 1 },
+                        { buttonId: 'group close', buttonText: { displayText: 'Close' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `Group Mode`, XeonBotInc.user.name, m)
+
+             }
+            }
+            break
+            case 'editinfo': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+             if (args[0] === 'open'){
+                await XeonBotInc.groupSettingUpdate(m.chat, 'unlocked').then((res) => reply(`Successfully Opened Edit Group Info`)).catch((err) => reply(jsonformat(err)))
+             } else if (args[0] === 'close'){
+                await XeonBotInc.groupSettingUpdate(m.chat, 'locked').then((res) => reply(`Successfully Closed Edit Group Info`)).catch((err) => reply(jsonformat(err)))
+             } else {
+             let buttons = [
+                        { buttonId: 'editinfo open', buttonText: { displayText: 'Open' }, type: 1 },
+                        { buttonId: 'editinfo close', buttonText: { displayText: 'Close' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `Mode Edit Info`, XeonBotInc.user.name, m)
+
+            }
+            }
+            break
+case 'autosticker':
+            case 'autostiker':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return reply(mess.botAdmin)
+if (!isAdmins && !isCreator) return reply(mess.admin)
+if (args.length < 1) return reply('type auto sticker on to enable\ntype auto sticker off to disable')
+if (args[0]  === 'on'){
+if (isAutoSticker) return reply(`Already activated`)
+autosticker.push(from)
+fs.writeFileSync('./database/autosticker.json', JSON.stringify(autosticker))
+reply('autosticker activated')
+} else if (args[0] === 'off'){
+let anu = autosticker.indexOf(from)
+autosticker.splice(anu, 1)
+fs.writeFileSync('./database/autosticker.json', JSON.stringify(autosticker))
+reply('auto sticker deactivated')
+}
+break
+case 'autostickerpc':
+            case 'autostikerpc':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (args.length < 1) return reply('type autosticker on to activate\ntype autosticker off to disable')
+if (args[0]  === 'on'){
+if (isAutoStick) return reply(`Already activated`)
+_autostick.push(from)
+fs.writeFileSync('./database/autostickpc.json', JSON.stringify(autosticker))
+reply('autosticker pc activated')
+} else if (args[0] === 'off'){
+let anu = autosticker.indexOf(from)
+_autostick.splice(anu, 1)
+fs.writeFileSync('./database/autostickpc.json', JSON.stringify(autosticker))
+reply('autosticker pc deactivated')
+}
+break
+case 'antilinkgc': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLink) return replay('Already activated')
+ntilink.push(from)
+replay('Success in turning on group chat antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the group link in this group or u will be kicked immediately`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLink) return replay('Already deactivated')
+let off = ntilink.indexOf(from)
+ntilink.splice(off, 1)
+replay('Success in turning off group chat antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+  case 'antilinkyoutubevideo': case 'antilinkyoutubevid': case 'antilinkytvid': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkYoutubeVid) return replay('Already activated')
+ntilinkytvid.push(from)
+replay('Success in turning on youtube video antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the youtube video link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkYoutubeVid) return replay('Already deactivated')
+let off = ntilinkytvid.indexOf(from)
+ntilinkytvid.splice(off, 1)
+replay('Success in turning off youtube video antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+    case 'antilinkyoutubech': case 'antilinkyoutubechannel': case 'antilinkytch': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkYoutubeChannel) return replay('Already activated')
+ntilinkytch.push(from)
+replay('Success in turning on youtube channel antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the youtube channel link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkYoutubeChannel) return replay('Already deactivated')
+let off = ntilinkytch.indexOf(from)
+ntilinkytch.splice(off, 1)
+replay('Success in turning off youtube channel antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+      case 'antilinkinstagram': case 'antilinkig': case 'antilinkinsta': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkInstagram) return replay('Already activated')
+ntilinkig.push(from)
+replay('Success in turning on instagram antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the instagram link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkInstagram) return replay('Already deactivated')
+let off = ntilinkig.indexOf(from)
+ntilinkig.splice(off, 1)
+replay('Success in turning off instagram antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+        case 'antilinkfacebook': case 'antilinkfb': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkFacebook) return replay('Already activated')
+ntilinkfb.push(from)
+replay('Success in turning on facebook antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the facebook link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkFacebook) return replay('Already deactivated')
+let off = ntilinkfb.indexOf(from)
+ntilinkfb.splice(off, 1)
+replay('Success in turning off facebook antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+          case 'antilinktelegram': case 'antilinktg': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkTelegram) return replay('Already activated')
+ntilinktg.push(from)
+replay('Success in turning on telegram antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the telegram link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkTelegram) return replay('Already deactivated')
+let off = ntilinkig.indexOf(from)
+ntilinkig.splice(off, 1)
+replay('Success in turning off telegram antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+            case 'antilinktiktok': case 'antilinktt': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkTiktok) return replay('Already activated')
+ntilinktt.push(from)
+replay('Success in turning on tiktok antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the tiktok link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkTiktok) return replay('Already deactivated')
+let off = ntilinktt.indexOf(from)
+ntilinktt.splice(off, 1)
+replay('Success in turning off tiktok antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+            case 'antilinktwt': case 'antilinktwitter': case 'antilinktwit': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkTwitter) return replay('Already activated')
+ntilinktwt.push(from)
+replay('Success in turning on twitter antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send the twitter link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkTwitter) return replay('Already deactivated')
+let off = ntilinktwt.indexOf(from)
+ntilinktwt.splice(off, 1)
+replay('Success in turning off twitter antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+              case 'antilinkall': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiLinkTwitter) return replay('Already activated')
+ntilinkall.push(from)
+replay('Success in turning on all antilink in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nIf you're not an admin, don't send any link in this group or u will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiLinkAll) return replay('Already deactivated')
+let off = ntilinkall.indexOf(from)
+ntilinkall.splice(off, 1)
+replay('Success in turning off all antilink in this group')
+} else {
+  let buttonsntilink = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+case 'antivirus': case 'antivirtex': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (antiVirtex) return replay('Already activated')
+ntvirtex.push(from)
+replay('Success in turning on antivirus in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nNo body is allowed to send virus in this group, member who send will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!antiVirtex) return replay('Already deactivated')
+let off = ntvirtex.indexOf(from)
+ntvirtex.splice(off, 1)
+replay('Success in turning off antivirus this group')
+} else {
+  let buttonsntvirtex = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntvirtex, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+    case 'autoreply': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (Autoreply) return replay('Already activated')
+autorep.push(from)
+replay('Success in turning on the autoreply in this group')
+} else if (args[0] === "off") {
+if (!Autoreply) return replay('Already deactivated')
+let off = autorep.indexOf(from)
+autorep.splice(off, 1)
+replay('Success in turning off autoreply in this group')
+} else {
+  let buttonswlcm = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonswlcm, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+case 'antitoxic': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (antiToxic) return replay('Already activated')
+nttoxic.push(from)
+replay('Success in turning on antitoxic in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nNobody is allowed to use bad words in this group, one who uses will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!antiToxic) return replay('Already deactivated')
+let off = nttoxic.indexOf(from)
+nttoxic.splice(off, 1)
+replay('Success in turning off antitoxic in this group')
+} else {
+  let buttonsnttoxci = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsnttoxic, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+case 'antiwame': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (antiWame) return replay('Already activated')
+ntwame.push(from)
+replay('Success in turning on antiwame in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nNobody is allowed to send wa.me in this group, one who sends will be kicked immediately!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!antiWame) return replay('Already deactivated')
+let off = nttoxic.indexOf(from)
+ntwame.splice(off, 1)
+replay('Success in turning off antiwame in this group')
+} else {
+  let buttonsntwame = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntwame, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+  case 'nsfw': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!isBotAdmins) return replay(mess.botAdmin)
+if (!isAdmins && !isCreator) return replay(mess.admin)
+if (args[0] === "on") {
+if (AntiNsfw) return replay('Already activated')
+ntnsfw.push(from)
+replay('Success in turning on nsfw in this group')
+var groupe = await XeonBotInc.groupMetadata(from)
+var members = groupe['participants']
+var mems = []
+members.map(async adm => {
+mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
+})
+XeonBotInc.sendMessage(from, {text: `\`\`\`「 ⚠️Warning⚠️ 」\`\`\`\n\nNsfw(not safe for work) feature has been enabled in this group, which means one can access sexual graphics from the bot!`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+} else if (args[0] === "off") {
+if (!AntiNsfw) return replay('Already deactivated')
+let off = ntnsfw.indexOf(from)
+ntnsfw.splice(off, 1)
+replay('Success in turning off nsfw in this group')
+} else {
+  let buttonsntnsfw = [
+  { buttonId: `${command} on`, buttonText: { displayText: 'On' }, type: 1 },
+  { buttonId: `${command} off`, buttonText: { displayText: 'Off' }, type: 1 }
+  ]
+  await XeonBotInc.sendButtonText(m.chat, buttonsntnsfw, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
+  }
+  }
+  break
+             case 'mute': {
+             	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+                if (args[0] === "on") {
+                if (db.data.chats[m.chat].mute) return reply(`Previously Active`)
+                db.data.chats[m.chat].mute = true
+                reply(`${XeonBotInc.user.name} Has Been Muted In This Group !`)
+                } else if (args[0] === "off") {
+                if (!db.data.chats[m.chat].mute) return reply(`Previously Inactive`)
+                db.data.chats[m.chat].mute = false
+                reply(`${XeonBotInc.user.name} Has Been Unmuted In This Group!`)
+                } else {
+                 let buttons = [
+                        { buttonId: 'mute on', buttonText: { displayText: 'On' }, type: 1 },
+                        { buttonId: 'mute off', buttonText: { displayText: 'Off' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `Mute Bot`, XeonBotInc.user.name, m)
+                }
+             }
+             break
+case 'setppbot': case 'setbotpp': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+if (!quoted) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+if (!/image/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+if (/webp/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+await XeonBotInc.updateProfilePicture(botNumber, { url: media }).catch((err) => fs.unlinkSync(media))
+replay(mess.success)
+}
+break
+            case 'linkgroup': case 'linkgc': case 'gclink': case 'grouplink': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) return replay(`${mess.group}`)
+                let response = await XeonBotInc.groupInviteCode(m.chat)
+                XeonBotInc.sendText(m.chat, `https://chat.whatsapp.com/${response}\n\n${groupMetadata.subject} Group Link`, m, { detectLink: true })
+            }
+            break
+            case 'ephemeral': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.isGroup) replay(`${mess.group}`)
+                if (!isBotAdmins) return replay(`${mess.botAdmin}`)
+                if (!isAdmins) return replay(`${mess.admin}`)
+                if (!text) return replay(`Enter The enable/disable Values`)
+                if (args[0] === 'enable') {
+                    await XeonBotInc.sendMessage(m.chat, { disappearingMessagesInChat: WA_DEFAULT_EPHEMERAL }).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                } else if (args[0] === 'disable') {
+                    await XeonBotInc.sendMessage(m.chat, { disappearingMessagesInChat: false }).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
+                }
+            }
+            break
+case 'grupsetting':
+            case 'groupsetting':{
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                    let sections = []
+                    let com = [`group open`,`autosticker on`,`welcome on`,`antilinkgc on`,`antilinktg on`,`antilinktt on`,`antilinkytch on`,`antilinkytvid on`,`antilinkig on`,`antilinkfb on`,`antilinktwit on`,`antilinkall on`,`antiwame on`,`antitoxic on`,`antivirus on`,`autoreply on`,`group open`]
+                    let comm = [`group close`,`autosticker off`,`welcome off`,`antilinkgc off`,`antilinktg on`,`antilinktt on`,`antilinkytch on`,`antilinkytvid on`,`antilinkig on`,`antilinkfb on`,`antilinktwit on`,`antilinkall on`,`antiwame on`,`antitoxic on`,`antivirus on`,`autoreply on`,`group close`]
+                    let listnya = [`Group open/close`,`Auto-Sticker on/off`,`Welcome/Left on/off`,`Antilink Group on/off`,`Antilink Telegram on/off`,`Antilink Tiktok on/off`,`Antilink Youtube Channel on/off`,`Antilink Youtube Video on/off`,`Antilink Instagram on/off`,`Antilink Facebook on/off`,`Antilink Twitter on/off`,`Antilink All on/off`,`Anti Wame on/off`,`Anti Toxic on/off`,`Anti Virus on/off`,`Auto Reply on/off`,`Group open/close`]
+                    let suruh = [`Enable`, `Disable`]
+                    let fiturname = [`Group`,`Auto Sticker`,`Welcome`,`Antilink Group`,`Antilink Telegram`,`Antilink Tiktok`,`Antilink Youtube Channel`,`Antilink Youtube Video`,`Antilink Instagram`,`Antilink Facebook`,`Antilink Twitter`,`Antilink All`,`Anti Wame`,`Anti Toxic`,`Anti Virus`,`Auto Reply`,`Group`]
+                    let startnum = 0; let startnu = 0; let startn = 0;let start = 0
+                    let startnumm = 1
+                    for (let x of com) {
+                        const yy = {title: `${listnya[startnum++]}`,
+                    rows: [
+                       {
+                        title: `${suruh[0]}`,
+                        description: `Activate ${fiturname[startnu++]}`,
+                        rowId: `${prefix}${x}`
+                      },{
+                        title: `${suruh[1]}`,
+                        description: `Deactivate ${fiturname[startn++]}`,
+                        rowId: `${prefix}${comm[start++]}`
+                      }
+                    ]
+                   }
+                        sections.push(yy)
+                    }
+                    const sendm =  XeonBotInc.sendMessage(
+      from, 
+      {
+       text: "Group Settings",
+       footer: botname,
+       title: "Set your group settings here......",
+       buttonText: "Click Button",
+       sections
+      }, { quoted : m }
+    )  
+}
+  break
+
+            case 'delete': case 'del': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!m.quoted) reply(false)
+                let { chat, fromMe, id, isBaileys } = m.quoted
+                if (!isBaileys) return replay(`The Message Was Not Sent By A Bot!`)
+                XeonBotInc.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: true, id: m.quoted.id, participant: m.quoted.sender } })
+            }
+            break
+      case 'bcgc': case 'bcgroup': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+if (!args.join(" ")) return replay(`Where is the text?\n\nExample : ${prefix + command} ${global.ownername}`)
+let getGroups = await XeonBotInc.groupFetchAllParticipating()
+let groups = Object.entries(getGroups).slice(0).map(entry => entry[1])
+let anu = groups.map(v => v.id)
+replay(`Send broadcast to ${anu.length} group chat, time's up ${anu.length * 1.5} second`)
+for (let i of anu) {
+await sleep(1500)
+let btn = [{
+urlButton: {
+displayText: 'YouTube 🍓',
+url: `${global.websitex}`
+}
+}, {
+urlButton: {
+displayText: 'Script 🍜',
+url: `${global.botscript}`
+}
+}, {
+quickReplyButton: {
+displayText: 'Bot Status 🚀',
+id: 'ping'
+}
+}, {
+quickReplyButton: {
+displayText: 'Menu 🐰',
+id: 'menu'
+}  
+}, {
+quickReplyButton: {
+displayText: 'Owner 😈',
+id: 'owner'
+}
+}]
+let txt = `*「 ${global.ownername}'s Broadcast」*\n\n${text}`
+XeonBotInc.send5ButImg(i, txt, `${global.botname}`, log0, btn, thum)
+}
+replay(`Successfully Sent Broadcast To ${anu.length} Group`)
+}
+break
+case 'bc': case 'broadcast': case 'bcall': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+if (!args.join(" ")) return replay(`Where is the text??\n\nExample : ${prefix + command} ${global.ownername}`)
+let anu = await store.chats.all().map(v => v.id)
+replay(`Send Broadcast To ${anu.length} Chat\nTime's up ${anu.length * 1.5} second`)
+for (let yoi of anu) {
+await sleep(1500)
+let btn = [{
+urlButton: {
+displayText: 'YouTube 🍓',
+url: `${global.websitex}`
+}
+}, {
+urlButton: {
+displayText: 'Script 🍜',
+url: `${global.botscript}`
+}
+}, {
+quickReplyButton: {
+displayText: 'Bot Status 🚀',
+id: 'ping'
+}
+}, {
+quickReplyButton: {
+displayText: 'Menu 🐰',
+id: 'menu'
+}  
+}, {
+quickReplyButton: {
+displayText: 'Owner 😈',
+id: 'owner'
+}
+}]
+let txt = `*「 ${global.ownername}'s Broadcast」*\n\n${text}`
+XeonBotInc.send5ButImg(yoi, txt, `${global.botname}`, log0, btn, thum)
+}
+replay('Broadcast Success')
+}
+break
+ case 'bcimage': case 'bcvideo': case 'bcaudio': {
+                  if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+                if (!/video/.test(mime) && !/image/.test(mime) && !/audio/.test(mime)) return reply(`*Send/Reply Video/Audio/Image You Want to Broadcast With Caption* ${prefix + command}`)
+                let anu = await store.chats.all().map(v => v.id)
+                let ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 999999999,status: 200, thumbnail: fs.readFileSync('./XeonMedia/theme/cheemspic.jpg'), surface: 200, message: `${ownername}'s Broadcast`, orderTitle: `${botname}`, sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                reply(`*Send Broadcast To* ${anu.length} *Group Chat, Time ${anu.length * 1.5} secs*`)
+                for (let i of anu) {
+                    await sleep(1500)
+                    let butoon = [{
+                                urlButton: {
+                                displayText: 'YouTube 🍓',
+url: `${global.websitex}`
+                                }
+                            }, {
+urlButton: {
+displayText: 'Script 🍜',
+url: `${global.botscript}`
+}
+}, {
+quickReplyButton: {
+displayText: 'Bot Status 🚀',
+id: 'ping'
+}
+}, {
+quickReplyButton: {
+displayText: 'Menu 🐰',
+id: 'menu'
+}  
+}, {
+quickReplyButton: {
+displayText: 'Owner 😈',
+id: 'owner'
+}
+}]
+                    let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+                    let buffer = fs.readFileSync(media)
+                    if (/webp/.test(mime)) {
+                    XeonBotInc.sendMessage(i, { sticker: { url: media } }, { quoted: ftroli })
+                    } else if (/image/.test(mime)) {
+                    let DGXeon = `*「 ${global.ownername}'s Broadcast」*${text ? '\n\n' + text : ''}`
+                    XeonBotInc.send5ButImg(i, DGXeon, `${global.botname}`, buffer, butoon)
+                    } else if (/video/.test(mime)) {
+                    let DGXeon = `*「 ${global.ownername}'s Broadcast」*${text ? '\n\n' + text : ''}`
+                    XeonBotInc.sendMessage(i, {video: buffer, caption: `${DGXeon}`}, { quoted: ftroli })
+                    } else if (/audio/.test(mime)) {
+                    XeonBotInc.sendMessage(i, {audio: buffer, mimetype: 'audio/mpeg'}, { quoted : ftroli })
+                    } else {
+                    reply(`*Send/Reply Video/Audio/Image You Want to Broadcast With Caption* ${prefix + command}`)
+                    }
+                    await fs.unlinkSync(media)
+                    }
+                reply(` *Send Broadcast To* ${anu.length} *Chats*`)
+            }
+            break
+case 'bcloc': {
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return replay(mess.owner)
+                if (!text) return reply(`Use ${prefix}bcloc text\n\nExample : ${prefix + command} attention everybody`)
+                let anu = await store.chats.all().map(v => v.id)
+                let [melo, melo2] = text.split`|`
+                reply(`*Send Broadcast To* ${anu.length} Chat\nTime ${anu.length * 1.5} sec`)
+	     	for (let yoi of anu) {
+	     	await sleep(1500)
+		    var button = [{ buttonId: `${prefix}ho`, buttonText: { displayText: `${melo2}` }, type: 1 }]              
+            XeonBotInc.sendMessage(yoi, { caption: `${melo}`, location: { jpegThumbnail: await getBuffer(picak+`${ownername}'s Broadcast`) }, buttons: button, footer: `${botname}`, mentions: [m.sender] })
+		}		
+            }
+            break
+case 'chatinfo': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.quoted) replay('Reply Message')
+let msg = await m.getQuotedObj()
+if (!m.quoted.isBaileys) return replay('The message was not sent by a bot!')
+let teks = ''
+for (let i of msg.userReceipt) {
+let read = i.readTimestamp
+let unread = i.receiptTimestamp
+let waktu = read ? read : unread
+teks += `${global.themeemoji} @${i.userJid.split('@')[0]}\n`
+teks += ` ┗━${global.themeemoji} *Time :* ${moment(waktu * 1000).format('DD/MM/YY HH:mm:ss')} ${global.themeemoji} *Status :* ${read ? 'Read' : 'Sent'}\n\n`
+}
+XeonBotInc.sendTextWithMentions(m.chat, teks, m)
+}
+break
+case 'q': case 'quoted': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.quoted) return replay('Reply Message!!')
+let wokwol = await XeonBotInc.serializeM(await m.getQuotedObj())
+if (!wokwol.quoted) return replay('The message you replied to does not contain a reply')
+await wokwol.quoted.copyNForward(m.chat, true)
+}
+break
+case 'listpc': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
+let teks = `     「 Personal Chat List 」\n\nThere are ${anu.length} users using bot in personal chat`
+for (let i of anu) {
+ teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
+}
+XeonBotInc.sendTextWithMentions(m.chat, teks, m)
+}
+break
+case 'listgc': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let anu = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
+let teks = `     「 Group Chat 」\n\nThere are ${anu.length} users using bot in group chat`
+for (let i of anu) {
+ let metadata = await XeonBotInc.groupMetadata(i)
+ if (metadata.owner === "undefined") {
+ loldd = false
+ } else {
+ loldd = metadata.owner
+ }
+ teks += `\n\nName : ${metadata.subject ? metadata.subject : "undefined"}\nOwner : ${loldd ? '@' + loldd.split("@")[0] : "undefined"}\nID : ${metadata.id ? metadata.id : "undefined"}\nMade : ${metadata.creation ? moment(metadata.creation * 1000).tz('Asia/Kolkata').format('DD/MM/YYYY HH:mm:ss') : "undefined"}\nMember : ${metadata.participants.length ? metadata.participants.length : "undefined"}`
+}
+XeonBotInc.sendTextWithMentions(m.chat, teks, m)
+}
+break
+case 'listonline': case 'listaktif': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+let id = args && /\d+\-\d+@g.us/.test(args[0]) ? args[0] : m.chat
+let online = [...Object.keys(store.presences[id]), botNumber]
+let liston = 1
+XeonBotInc.sendText(m.chat, '     「 Online List 」\n\n' + online.map(v => `${liston++} . @` + v.replace(/@.+/, '')).join`\n`, m, { mentions: online })
+}
+break
+case 'patrick':
+case 'patricksticker': {
+	                	            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var ano = await fetchJson('https://raw.githubusercontent.com/rashidsiregar28/data/main/patrik')
+var wifegerak = ano.split('\n')
+var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
+encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: global.packname, author: global.author, })
+await fs.unlinkSync(encmedia)
+}
+break
+       case 'attp2': {
+		   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+           if (!text) return reply(`Example : ${prefix + command} text`)
+           await XeonBotInc.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
+
+         }
+         break
+case 'attp': {
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+           if (!text) reply(`Use ${prefix}attp hello\n*Example : ${prefix + command} ${ownername}*` )
+           await XeonBotInc.sendMedia(m.chat, `https://cililitan.herokuapp.com/api/attp?teks=${text}`, 'Xeon', 'Op', m, {asSticker: true}).catch((err) => reply(mess.error))
+         }
+         break
+case 'ttp': {
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+           if (!text) return reply(`*Example : ${prefix + command} hello*`)
+           await XeonBotInc.sendMedia(m.chat, `https://cililitan.herokuapp.com/api/texttopng2?teks=${text}`, 'A L Y A', 'B O T M D', m, {asSticker: true})
+         
+                     }
+                     break
+            case 'soundcloud': case 'scdl': {               
+                if (!text) return reply(mess.linkm)
+                if (!isUrl(args[0]) && !args[0].includes('soundcloud.com')) return reply(`*Not a soundcloud link*`)
+                xeonkey.SoundCloud(`${text}`).then(async (data) => {
+                    let txt = `*SOUNDCLOUD DOWNLOADER*\n\n`
+                    txt += `*${themeemoji}Title :* ${data.title}\n`
+                    txt += `*${themeemoji}Quality :* ${data.medias[0].quality}\n`
+                    txt += `*${themeemoji}Type :* ${data.medias[0].extension}\n`
+                    txt += `*${themeemoji}Size :* ${data.medias[0].formattedSize}\n`
+                    txt += `*${themeemoji}Url Source :* ${data.url}\n\n`
+                    txt += `*${botname}*`
+                buf = await getBuffer(data.thumbnail)   
+                XeonBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m }).catch((err) => reply(mess.error))    
+                XeonBotInc.sendMessage(m.chat, { audio: { url: data.medias[0].url }, mimetype: 'audio/mpeg', fileName: data.title+'.m4a' }, { quoted: m })
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+case 'dogesticker':
+case 'dogestick':
+	case 'doge':{
+	                	            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var ano = await fetchJson('https://raw.githubusercontent.com/rashidsiregar28/data/main/anjing')
+var wifegerak = ano.split('\n')
+var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
+encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: global.packname, author: global.author, })
+await fs.unlinkSync(encmedia)
+}
+break
+case 'lovesticker':
+case 'lovestick' :{
+	            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var ano = await fetchJson('https://raw.githubusercontent.com/rashidsiregar28/data/main/bucin')
+var wifegerak = ano.split('\n')
+var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
+encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: global.packname, author: global.author, })
+await fs.unlinkSync(encmedia)
+}
+break
+case 'gura':
+case 'gurastick':{
+	                	            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var ano = await fetchJson('https://raw.githubusercontent.com/rashidsiregar28/data/main/gura')
+var wifegerak = ano.split('\n')
+var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
+encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: global.packname, author: global.author, })
+await fs.unlinkSync(encmedia)
+}
+break
+            case 'sticker': case 's': case 'stickergif': case 'sgif': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (/image/.test(mime)) {
+let media = await quoted.download()
+let encmedia = await XeonBotInc.sendImageAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
+await fs.unlinkSync(encmedia)
+} else if (/video/.test(mime)) {
+if ((quoted.msg || quoted).seconds > 11) return reply('Maximum 10 seconds!')
+let media = await quoted.download()
+let encmedia = await XeonBotInc.sendVideoAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
+await fs.unlinkSync(encmedia)
+} else {
+reply(`Send Image/Video With Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
+}
+}
+break
+case 'swm': case 'take': case 'stickerwm': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return reply(`Example :\nswm ${global.author}|${global.packname}`)
+const swn = args.join(" ")
+const pcknm = swn.split("|")[0];
+const atnm = swn.split("|")[1];
+if (m.quoted.isAnimated === true) {
+XeonBotInc.downloadAndSaveMediaMessage(quoted, "gifee")
+XeonBotInc.sendMessage(from, {sticker:fs.readFileSync("gifee.webp")},{quoted:m})
+} else if (/image/.test(mime)) {
+let media = await quoted.download()
+let encmedia = await XeonBotInc.sendImageAsSticker(m.chat, media, m, { packname: pcknm, author: global.atnm })
+await fs.unlinkSync(encmedia)
+} else if (/video/.test(mime)) {
+if ((quoted.msg || quoted).seconds > 11) return reply('Maximum 10 seconds!')
+let media = await quoted.download()
+let encmedia = await XeonBotInc.sendVideoAsSticker(m.chat, media, m, { packname: pcknm, author: atnm })
+await fs.unlinkSync(encmedia)
+} else {
+reply(`Send Image/Video With Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
+}
+}
+break
+case 'smeme': case 'stickermeme': case 'stickmeme': {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let { TelegraPh } = require('./lib/uploader')
+if (!text) return reply(`Send/Reply Photo With Caption ${prefix + command} *text*`)
+if (text.includes('|')) return reply(`Send/Reply Photo With Caption ${prefix + command} *text*`)
+if (!/image/.test(mime)) return reply(`Send/Reply Photo With Caption ${prefix + command} *text*`)
+reply(mess.wait)
+mee = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+mem = await TelegraPh(mee)
+meme = `https://api.memegen.link/images/custom/-/${text}.png?background=${mem}`
+memek = await XeonBotInc.sendImageAsSticker(m.chat, meme, m, { packname: global.packname, author: global.author })
+await fs.unlinkSync(memek)
+}
+break
+            case 'ebinary': {
+            	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.quoted.text && !text) return replay(`Reply Text With Caption ${prefix + command}`)
+            let { eBinary } = require('./lib/binary')
+            let teks = text ? text : m.quoted && m.quoted.text ? m.quoted.text : m.text
+            let eb = await eBinary(teks)
+            reply(eb)
+        }
+        break
+            case 'dbinary': {
+            	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            if (!m.quoted.text && !text) return replay(`Reply Text With Caption ${prefix + command}`)
+            let { dBinary } = require('./lib/binary')
+            let teks = text ? text : m.quoted && m.quoted.text ? m.quoted.text : m.text
+            let db = await dBinary(teks)
+            reply(db)
+        }
+        break
+case 'bts':
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+teks = `Here you go!`
+buffer = `https://api.dapuhy.xyz/api/randomimage/batues?apikey=0gly81wDky`
+XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"Here you go!"}, {quoted:m})
+break
+case 'wallneon': case 'wallrandom': case 'wallcode': case 'wallpubg': case 'wallml': 	
+try{
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+nyz2 = await fetchJson(`https://myselfff.herokuapp.com/docs/wallpaper/${command}`) 
+nyz3 = await getBuffer(nyz2.list.gambar)
+XeonBotInc.sendMessage(from, {image : nyz3, caption:`By ${global.botname}`}, {quoted:m}) 						
+} catch (e) {
+error("Error!")
+}
+break
+case 'woof':
+case '8ball':
+case 'goose':
+case 'gecg':
+case 'feed':
+case 'avatar':
+case 'lizard':
+case 'meow':
+case 'tickle':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/${command}`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'masturbation': case 'jahy': case 'hentai': case 'glasses': case 'gangbang': case 'foot': 
+case 'femdom': case 'cum': case 'ero': case 'cuckold': case 'blowjob': case 'bdsm': 
+case 'ahegao': case 'ass': case 'orgy': case 'panties': case 'pussy': case 'thighs': case 'yuri': case 'tentacles':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+try{
+reply(mess.wait)
+NoHorny = await fetchJson(`https://myselfff.herokuapp.com/docs/nsfw/${command}`)
+YesHorny = await getBuffer(NoHorny.result)
+XeonBotInc.sendMessage(from, {image:YesHorny},{quoted:m})
+} catch (e) {error("Error")}	
+break
+   case 'spank':
+      if (isBan) return reply(mess.ban)	 			
+   if (isBanChat) return reply(mess.banChat)
+   if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+reply(mess.wait)
+spankd = await axios.get(`https://nekos.life/api/v2/img/spank`)                                   
+  let spbuff = await getBuffer(spankd.data.url)
+let spgif = await GIFBufferToVideoBuffer(spbuff)   
+        await XeonBotInc.sendMessage(m.chat,{video: spgif, gifPlayback:true},{ quoted:m }).catch(err => {
+                    return reply('Error!')
+                                    })
+break
+case 'blowjobgif': case 'bj' :
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+reply(mess.wait)
+bjd = await axios.get(`https://api.waifu.pics/nsfw/blowjob`)         
+  let bjf = await getBuffer(bjd.data.url)
+let bjif = await GIFBufferToVideoBuffer(bjf)   
+        await XeonBotInc.sendMessage(m.chat,{video: bjif, gifPlayback:true},{ quoted:m }).catch(err => {
+                    return reply('error..')
+                                    })
+break
+case 'hentaivid': case 'hentaivideo': {
+	                        	            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+                reply(mess.wait)
+                anu = await hentai()
+                result912 = anu[Math.floor(Math.random(), anu.length)]
+                XeonBotInc.sendMessage(m.chat, { video: { url: result912.video_1 }, caption: `${themeemoji} Title : ${result912.title}\n${themeemoji} Category : ${result912.category}\n${themeemoji} Mimetype : ${result912.type}\n${themeemoji} Views : ${result912.views_count}\n${themeemoji} Shares : ${result912.share_count}\n${themeemoji} Source : ${result912.link}\n${themeemoji} Media Url : ${result912.video_1}` }, { quoted: m })
+            }
+            break
+case 'trap' :
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+reply(mess.wait)
+ waifudd = await axios.get(`https://waifu.pics/api/nsfw/${command}`)       
+ let trapbot = [
+    {buttonId: `trap`, buttonText: {displayText: `Next ⚡`}, type: 1},
+    ]
+  let button2Messages = {
+   image: {url:waifudd.data.url},
+   caption:  `Here you go!`,
+  buttons: trapbot,
+  headerType: 1
+  }     
+            await XeonBotInc.sendMessage(m.chat, button2Messages, { quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'hentai-neko' :
+case 'hneko' :
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+    waifudd = await axios.get(`https://waifu.pics/api/nsfw/neko`)
+ let hnekobot = [
+    {buttonId: `.hneko`, buttonText: {displayText: `Next ⚡`}, type: 1},
+    ]
+  let button3Messages = {
+   image: {url:waifudd.data.url},
+   caption:  `Here you go!`,
+  buttons: hnekobot,
+  headerType: 1
+  }      
+            await XeonBotInc.sendMessage(m.chat, button3Messages, { quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'hentai-waifu' :
+case 'nwaifu' :
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+if (!AntiNsfw) return reply(mess.nsfw)
+reply(mess.wait)
+    waifudd = await axios.get(`https://waifu.pics/api/nsfw/waifu`)         
+ let nwaifubot = [
+    {buttonId: `.hneko`, buttonText: {displayText: `Next ⚡`}, type: 1},
+    ]
+  let button4Messages = {
+   image: {url:waifudd.data.url},
+   caption:  `Here you go!`,
+  buttons: nwaifubot,
+  headerType: 1
+  }      
+            await XeonBotInc.sendMessage(m.chat, button4Messages, { quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'gasm':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	if (!AntiNsfw) return reply(mess.nsfw)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/${command}`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonsssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonsssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break   
+case 'smug2':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/smug`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let button1ssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, button1ssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'foxgirl':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/fox_girl`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let button12ssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, button12ssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break   
+case 'animenom' :
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.isGroup) return replay(mess.group)
+    waifudd = await axios.get(`https://waifu.pics/api/sfw/nom`)
+ let xxhnekobot = [
+    {buttonId: `.nom`, buttonText: {displayText: `Next ⚡`}, type: 1},
+    ]
+  let xx1button3Messages = {
+   image: {url:waifudd.data.url},
+   caption:  `Here you go!`,
+  buttons: xxhnekobot,
+  headerType: 1
+  }      
+            await XeonBotInc.sendMessage(m.chat, xx1button3Messages, { quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'waifu3':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/waifu`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let button112ssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, button112ssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'neko2':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+   waifud = await axios.get('https://waifu.pics/api/sfw/neko')
+                var wbutsss = [
+        {buttonId: `.neko`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonssMessage = {
+       image: {url:waifud.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbutsss,
+      headerType: 4
+      }
+            await XeonBotInc.sendMessage(m.chat,buttonssMessage, { quoted:m }).catch(err => {
+                    return('Error!')
+                })               
+                break
+case 'animecuddle':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/cuddle`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonsosMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonsosMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break   
+case 'animeslap':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/slap`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let btutttonssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, btutttonssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animepat':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/pat`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let xxbuttonssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, xxbuttonssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animeneko':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/neko`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonsTsMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonsTsMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animehug':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/hug`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonussMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonussMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animekiss':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/kiss`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let bxxuttonssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, bxxuttonssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animewlp':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/wallpaper`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttoxnssMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttoxnssMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animespank':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/spank`)
+                           var wbuttsss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonssxMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttsss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonssxMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animecry':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/cry`)
+                           var wbutt1sss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let button1ssxMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbutt1sss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, button1ssxMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animekill':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/kill`)
+                           var wbuttszzss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsxMessages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszzss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsxMessages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animelick':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/lick`)
+                           var wbuttszz12ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx12Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz12ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx12Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animebite':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/bite`)
+                           var wbuttszz123ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx123Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz123ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx123Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animeyeet':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/yeet`)
+                           var wbuttszz124ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx124Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz124ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx124Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animebully':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/lick`)
+                           var wbuttszz125ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx125Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz125ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx125Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animebonk':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/bonk`)
+                           var wbuttszz126ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx126Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz126ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx126Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animewink':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/wink`)
+                           var wbuttszz127ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx127Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz127ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx127Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animepoke':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/poke`)
+                           var wbuttszz128ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx128Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz128ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx128Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animesmile':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/smile`)
+                           var wbuttszz129ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx129Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz129ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx129Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animewave':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/wave`)
+                           var wbuttszz1210ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1210Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1210ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1210Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animeawoo':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/awoo`)
+                           var wbuttszz1211ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1211Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1211ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1211Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animeblush':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/blush`)
+                           var wbuttszz1212ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1212Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1212ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1212Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animesmug':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/smug`)
+                           var wbuttszz1213ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1213Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1213ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1213Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animeglomp':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/glomp`)
+                           var wbuttszz1214ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1214Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1214ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1214Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animehappy':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/happy`)
+                           var wbuttszz1215ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1215Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1215ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1215Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animedance':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/dance`)
+                           var wbuttszz1216ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1216Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1216ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1216Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animecringe':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/cringe`)
+                           var wbuttszz1217ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1217Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1217ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1217Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animehighfive':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/highfive`)
+                           var wbuttszz1218ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1218Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1218ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1218Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animehandhold':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/handhold`)
+                           var wbuttszz1219ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1219Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1219ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1219Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animemegumin':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://api.waifu.pics/sfw/megumin`)
+                           var wbuttszz1220ss = [
+        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        ]
+      let buttonszzsx1220Messages = {
+       image: {url:waifudd.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+      buttons: wbuttszz1220ss,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, buttonszzsx1220Messages,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'shinobu2':  
+ if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+                    ud = await axios.get('https://waifu.pics/api/sfw/shinobu')
+var wbutsss = [
+    {buttonId: `.shinobu`, buttonText: {displayText: `Next ✨`}, type: 1},
+         ]
+      let buttonsesMessage = {
+      image: {url:ud.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+          buttons: wbutsss,
+     headerType: 4
+                      }
+await XeonBotInc.sendMessage(m.chat,buttonsesMessage, { quoted:m }).catch(err => {
+     return('Error!')
+    })               
+break
+case 'megumin2':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+                    ud = await axios.get('https://waifu.pics/api/sfw/megumin')
+var wbutsss = [
+    {buttonId: `.megumin`, buttonText: {displayText: `Next ✨`}, type: 1},
+         ]
+      let buttonzMessage = {
+      image: {url:ud.data.url},
+       caption:  `Here you go!`,
+      footer: `${global.botname}`,
+          buttons: wbutsss,
+     headerType: 4
+                      }
+await XeonBotInc.sendMessage(m.chat,buttonzMessage, { quoted:m }).catch(err => {
+     return('Error!')
+    })               
+break     
+case 'awoo2':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+ waifudd = await axios.get(`https://waifu.pics/api/sfw/awoo`)
+ var wbuttsss = [
+    {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+    ]
+  let button1Messages = {
+   image: {url:waifudd.data.url},
+   caption:  `Here you go!`,
+   footer: `${global.botname}`,
+  buttons: wbuttsss,
+  headerType: 2
+  }       
+            await XeonBotInc.sendMessage(m.chat, button1Messages, { quoted:m }).catch(err => {
+                    return('Error!')
+                })
+break
+case 'animewall2': case 'animewallpaper2':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+const { AnimeWallpaper } =require("anime-wallpaper")
+if(!q) return reply('What wallpaper do you want?')
+const wall = new AnimeWallpaper();
+    const pages = [1,2,3,4];
+        const random=pages[Math.floor(Math.random() * pages.length)]
+        const wallpaper = await wall
+            .getAnimeWall4({ title: q, type: "sfw", page: pages })
+            .catch(() => null);
+const i = Math.floor(Math.random() * wallpaper.length);
+var walb = [
+        {buttonId: `.${command} ${q}`, buttonText: {displayText: `Next ✨`}, type: 1},        
+        ]
+      let wal = {
+       image: {url:wallpaper[i].image},
+       caption: `*Query :* ${q}`,
+      footer: `${global.botname}`,
+      buttons: walb,
+      headerType: 4
+      }     
+            await XeonBotInc.sendMessage(m.chat, wal,{ quoted:m }).catch(err => {
+                    return('Error!')
+                })
+//XeonBotInc.sendMessage(m.chat,{image:{url:wallpaper[i].image},caption:`*Query :* ${q}`})            
+break
+case 'cry':case 'kill':case 'hug':case 'pat':case 'lick':case 'kiss':case 'bite':case 'yeet':case 'neko':case 'bully':case 'bonk':case 'wink':case 'poke':case 'nom':case 'slap':case 'smile':case 'wave':case 'awoo':case 'blush':case 'smug':case 'glomp':case 'happy':case 'dance':case 'cringe':case 'cuddle':case 'highfive':case 'shinobu':case 'megumin':case 'handhold':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+					axios.get(`https://api.waifu.pics/sfw/${command}`)
+					.then(({data}) => {
+						XeonBotInc.sendImageAsSticker(m.chat, data.url, m, { packname: global.packname, author: global.author })
+					})
+					break
+case 'waifu': case 'loli':
+					   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+					reply(mess.wait)
+					axios.get(`https://api.waifu.pics/sfw/waifu`)
+					.then(({data}) => {
+					XeonBotInc.sendImage(m.chat, data.url, mess.success, m)
+					})
+					break
+case 'naruto':
+			if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+				reply(mess.wait)
+			    var query = ["naruto hd","naruto boruto","naruto sasuke", "naruto aesthetic", "naruto aesthetic"]
+                var data = await pinterest(pickRandom(query))
+				var but = [{buttonId: `naruto`, buttonText: { displayText: "Next➡️" }, type: 1 }]
+				XeonBotInc.sendMessage(from, { caption: `Here you go!`, image: { url: pickRandom(data.result) }, buttons: but, footer: `${botname}` }, { quoted: m })
+ 			    break
+case 'yaoi':
+			if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+				reply(mess.wait)
+			    var query = ["yaoi","yaoi aesthetic","yaoi hd","yaoi ganteng"]
+                var data = await pinterest(pickRandom(query))
+				var but = [{buttonId: `${command}`, buttonText: { displayText: "Next➡️" }, type: 1 }]
+				XeonBotInc.sendMessage(from, { caption: "Here you go!", image: { url: pickRandom(data.result) }, buttons: but, footer: `${botname}` }, { quoted: m })
+ 			    break
+case 'coffee': case 'kopi': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            let buttons = [
+                    {buttonId: `coffe`, buttonText: {displayText: 'Next Image'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://coffee.alexflipnote.dev/random' },
+                    caption: `Here you go!`,
+                    footer: `${botname}`,
+                    buttons: buttons,
+                    headerType: 4
+                }
+                XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
+case 'zippyshare': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!text) return reply(mess.linkm)
+if (!isUrl(args[0]) && !args[0].includes('zippyshare.com')) return reply(`The link is not a zippyshare link`)
+anu = await fetchJson(`https://violetics.pw/api/downloader/zippyshare?apikey=df7d-425a-3bc8&url=${text}`)
+m.reply(`*${util.format(anu)}*`)
+linkyke = await getBuffer(anu.result.dlink)
+XeonBotInc.sendMessage(m.chat, {document: linkyke, mimetype: 'application/zip', fileName: `${anu.result.filename}`}, {quoted:m}).catch ((err) => reply(mess.error))     
+}
+break
+case 'savefrom': {
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  if (!text) return m.reply(`Failed to download media and send audio ${prefix + command} url link`) 
+  if (!isUrl(args[0]) && !args[0].includes('facebook.com')) return reply(`The link you provided is invalid`)
+  let noh = require('@bochilteam/scraper')                
+  noh.savefrom(`${text}`).then(async (data) => {
+  let sections = []   
+  for (let i of data.url) {
+  const list = {title: `${i.type}`,
+  rows: [
+	    {
+	     title: `Quality ${i.subname}`, 
+	     rowId: `${prefix}get ${text}`,
+      description: `${data.hosting}`	     
+	    }, 
+	    ]
+     }
+     sections.push(list)   
+     }
+  const sendm =  XeonBotInc.sendMessage(
+      m.chat, 
+      {
+       text: `${data.meta.title} *Here is the list of videos, click the button below to choose*`,
+       footer: `${botname}`,
+       title: "*SAVE FROM*",
+       buttonText: "CLICK HERE",
+       sections
+      }, { quoted : m })                 
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+case 'jail': case 'pixelate': case 'blur': case 'imagesketch': case 'triggeredwebp': case 'shit': case 'burn': case 'invert': case 'wanted': case 'rip': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	            if (!/image/.test(mime)) return reply(`*Send/Reply Image With Caption* ${prefix + command}`)
+	        	let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader2')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)                
+                let anu = await TelegraPh(media)
+                let buf = await getBuffer(`https://cililitan.herokuapp.com/api/${command}?url=${anu}`)
+                XeonBotInc.sendMessage(m.chat, { image: buf, caption: `Made by ${botname}` }, { quoted: m}).catch ((err) => reply(mess.error))
+                }
+                break
+case 'gayeffect': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	            if (!/image/.test(mime)) return reply(`*Send/Reply Image With Caption* ${prefix + command}`)
+	        	let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader2')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)                
+                let anu = await TelegraPh(media)
+                let buf = await getBuffer(`https://cililitan.herokuapp.com/api/gay?url=${anu}`)
+                XeonBotInc.sendMessage(m.chat, { image: buf, caption: `Made by ${botname}` }, { quoted: m}).catch ((err) => reply(mess.error))
+                }
+                break
+case 'deleteeffect': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	            if (!/image/.test(mime)) return reply(`*Send/Reply Image With Caption* ${prefix + command}`)
+	        	let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader2')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)                
+                let anu = await TelegraPh(media)
+                let buf = await getBuffer(`https://cililitan.herokuapp.com/api/delete?url=${anu}`)
+                XeonBotInc.sendMessage(m.chat, { image: buf, caption: `Made by ${botname}` }, { quoted: m}).catch ((err) => reply(mess.error))
+                }
+                break
+case 'framed': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	            if (!/image/.test(mime)) return reply(`*Send/Reply Image With Caption* ${prefix + command}`)
+	        	let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader2')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)                
+                let anu = await TelegraPh(media)
+                let buf = await getBuffer(`https://cililitan.herokuapp.com/api/fotojatoh?url=${anu}`)
+                XeonBotInc.sendMessage(m.chat, { image: buf, caption: `Made by ${botname}` }, { quoted: m}).catch ((err) => reply(mess.error))
+                }
+                break
+case 'beautifuleffect': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+	            if (!/image/.test(mime)) return reply(`*Send/Reply Image With Caption* ${prefix + command}`)
+	        	let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader2')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)                
+                let anu = await TelegraPh(media)
+                let buf = await getBuffer(`https://cililitan.herokuapp.com/api/beautiful?url=${anu}`)
+                XeonBotInc.sendMessage(m.chat, { image: buf, caption: `Made by ${botname}` }, { quoted: m}).catch ((err) => reply(mess.error))
+                }
+                break
+            case 'readmore': {
+            if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} halo gaes`)
+                anu = await fetchJson(`https://cililitan.herokuapp.com/api/readmore?teks=${text}`)
+               reply(`${anu.result}`)
+            }
+            break
+case 'toviewonce': case 'toonce': { 
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+        if (!quoted) return reply(`Reply image`)
+        if (/image/.test(mime)) {
+anu = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+XeonBotInc.sendMessage(m.chat, {image: {url: anu},viewOnce : true},{quoted: m })
+        } else if (/video/.test(mime)) {
+        anu = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+        XeonBotInc.sendMessage(m.chat, {video: {url: anu},viewOnce : true},{quoted: m })
+        }
+        }
+        break
+        case 'tinyurl': {
+        	 if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+            reply(mess.wait)
+            try {
+              anu = await axios.get(`https://tinyurl.com/api-create.php?url=${q}`)
+              reply(`${anu.data} here you go!`)
+              } catch (e) {
+              emror = String(e)
+              reply(`${e}`)
+            }
+        }
+        break
+case 'fliptext': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (args.length < 1) return replay(`Example:\n${prefix}fliptext ${ownername}`)
+quere = args.join(" ")
+flipe = quere.split('').reverse().join('')
+replay(`\`\`\`「 FLIP TEXT 」\`\`\`\n*•> Normal :*\n${quere}\n*•> Flip :*\n${flipe}`)
+}
+break
+case 'toletter': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!Number(args[0])) return replay(`Example:\n${prefix}toletter 956`)
+try {
+quere = args.join(" ")
+convertes = await toHur(quere)
+replay(`\`\`\`「 ALPHABET 」\`\`\`\n*•> Number :*\n${quere}\n*•> Alphabet :*\n${convertes}`)
+} catch {
+replay(`Error!`)
+}
+}
+break
+case 'translate': case 'trans': {
+if (isBan) return reply(mess.ban)
+if (!args.join(" ")) return replay("The text?")
+tes = await fetchJson (`https://megayaa.herokuapp.com/api/translate?to=en&kata=${args.join(" ")}`)
+Infoo = tes.info
+Detek = tes.translate
+replay(`🌐Translate : ${Detek}\n📘Results : ${Infoo}`)
+}
+break
+case 'sound1':
+case 'sound2':
+case 'sound3':
+case 'sound4':
+case 'sound5':
+case 'sound6':
+case 'sound7':
+case 'sound8':
+case 'sound9':
+case 'sound10':
+case 'sound11':
+case 'sound12':
+case 'sound13':
+case 'sound14':
+case 'sound15':
+case 'sound16':
+case 'sound17':
+case 'sound18':
+case 'sound19':
+case 'sound20':
+case 'sound21':
+case 'sound22':
+case 'sound23':
+case 'sound24':
+case 'sound25':
+case 'sound26':
+case 'sound27':
+case 'sound28':
+case 'sound29':
+case 'sound30':
+case 'sound31':
+case 'sound32':
+case 'sound33':
+case 'sound34':
+case 'sound35':
+case 'sound36':
+case 'sound37':
+case 'sound38':
+case 'sound39':
+case 'sound40':
+case 'sound41':
+case 'sound42':
+case 'sound43':
+case 'sound44':
+case 'sound45':
+case 'sound46':
+case 'sound47':
+case 'sound48':
+case 'sound49':
+case 'sound50':
+case 'sound51':
+case 'sound52':
+case 'sound53':
+case 'sound54':
+case 'sound55':
+case 'sound56':
+case 'sound57':
+case 'sound58':
+case 'sound59':
+case 'sound60':
+case 'sound61':
+case 'sound62':
+case 'sound63':
+case 'sound64':
+case 'sound65':
+case 'sound66':
+case 'sound67':
+case 'sound68':
+case 'sound69':
+case 'sound70':
+case 'sound71':
+case 'sound72':
+case 'sound73':
+case 'sound74':
+case 'sound75':
+case 'sound76':
+case 'sound77':
+case 'sound78':
+case 'sound79':
+case 'sound80':
+case 'sound81':
+case 'sound82':
+case 'sound83':
+case 'sound84':
+case 'sound85':
+case 'sound86':
+case 'sound87':
+case 'sound88':
+case 'sound89':
+case 'sound90':
+case 'sound91':
+case 'sound92':
+case 'sound93':
+case 'sound94':
+case 'sound95':
+case 'sound96':
+case 'sound97':
+case 'sound98':
+case 'sound99':
+case 'sound100':
+case 'sound101':
+case 'sound102':
+case 'sound103':
+case 'sound104':
+case 'sound105':
+case 'sound106':
+case 'sound107':
+case 'sound108':
+case 'sound109':
+case 'sound110':
+case 'sound111':
+case 'sound112':
+case 'sound113':
+case 'sound114':
+case 'sound115':
+case 'sound116':
+case 'sound117':
+case 'sound118':
+case 'sound119':
+case 'sound120':
+case 'sound121':
+case 'sound122':
+case 'sound123':
+case 'sound124':
+case 'sound125':
+case 'sound126':
+case 'sound127':
+case 'sound128':
+case 'sound129':
+case 'sound130':
+case 'sound131':
+case 'sound132':
+case 'sound133':
+case 'sound134':
+case 'sound135':
+case 'sound136':
+case 'sound137':
+case 'sound138':
+case 'sound139':
+case 'sound140':
+case 'sound141':
+case 'sound142':
+case 'sound143':
+case 'sound144':
+case 'sound145':
+case 'sound146':
+case 'sound147':
+case 'sound148':
+case 'sound149':
+case 'sound150':
+case 'sound151':
+case 'sound152':
+case 'sound153':
+case 'sound154':
+case 'sound155':
+case 'sound156':
+case 'sound157':
+case 'sound158':
+case 'sound159':
+case 'sound160':
+case 'sound161':
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+xeony_buffer = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
+await XeonBotInc.sendMessage(m.chat, { audio: xeony_buffer, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
+break
+case'glitch3':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case '3dbox':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/3d-box-text-effect-online-880.html", [
+    `${q}`,])
+.then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+.catch((err) => console.log(err));
+break
+
+
+case 'waterdrop':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+ maker.textpro("https://textpro.me/dropwater-text-effect-872.html", [
+     `${q}`,])
+    .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+    .catch((err) => console.log(err));
+     break
+
+
+case 'lion2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  if(!q) return reply(`Use ${prefix + command} text`)
+  reply(mess.wait)
+  maker.textpro("https://textpro.me/create-lion-logo-mascot-online-938.html", [
+      `${q}`,])
+     .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+     .catch((err) => console.log(err));
+     break
+
+
+case 'papercut':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+      if(!q) return reply(`Use ${prefix + command} text`)
+      reply(mess.wait)
+      maker.textpro("https://textpro.me/create-art-paper-cut-text-effect-online-1022.html", [
+`${q}`,])
+         .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+         .catch((err) => console.log(err));
+         break
+
+
+case 'transformer':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+      if(!q) return reply(`Use ${prefix + command} text`)
+      reply(mess.wait)
+      maker.textpro("https://textpro.me/create-a-transformer-text-effect-online-1035.html", [
+`${q}`,])
+.then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+.catch((err) => console.log(err));
+break
+   
+
+case 'harrypot':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+       if(!q) return reply(`Use ${prefix + command} text|text`)
+       reply(mess.wait)
+       teks1 = q.split("|")[0]
+       teks2 = q.split("|")[1]
+       maker.textpro("https://textpro.me/create-harry-potter-text-effect-online-1025.html", [
+ `${teks1}`,`${teks2}`])
+ .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+ .catch((err) => console.log(err));
+ break
+
+
+case 'neondevil':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+      if(!q) return reply(`Use ${prefix + command} text`)
+      reply(mess.wait)
+      maker.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html", [
+`${q}`,])
+         .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+         .catch((err) => console.log(err));
+         break
+
+
+case '3dstone':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/3d-stone-cracked-cool-text-effect-1029.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+case '3davengers':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-3d-avengers-logo-online-974.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+case 'thunder':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/online-thunder-text-effect-generator-1031.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   
+
+case 'window':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/write-text-on-foggy-window-online-free-1015.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   case 'blackpinkneon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-neon-light-blackpink-logo-text-effect-online-1081.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case 'graffiti':
+   case 'grafiti':
+      if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-a-cool-graffiti-text-on-the-wall-1010.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'pornhub2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/pornhub-style-logo-online-generator-free-977.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'blackpink2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-blackpink-logo-style-online-1001.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case 'glitch':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-impressive-glitch-text-effects-online-1027.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'glitch2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-a-glitch-text-effect-online-free-1026.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'glitch3':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case '3dspace':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-space-3d-text-effect-online-985.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'lion':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text|text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-lion-logo-mascot-online-938.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case '3dneon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-3d-neon-light-text-effect-online-1028.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'neon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/neon-text-effect-online-879.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'greenneon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/green-neon-text-effect-874.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   
+   
+  
+case 'bokeh':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/bokeh-text-effect-876.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   
+   
+
+case 'holographic':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/holographic-3d-text-effect-975.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'bear':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+case 'wolf':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+teks1 = q.split("|")[0]
+teks2 = q.split("|")[1]
+maker.textpro("https://textpro.me/create-wolf-logo-galaxy-online-936.html", [
+    `${teks1}`,`${teks2}`])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+
+
+case 'joker':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-logo-joker-online-934.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+
+case 'dropwater2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/dropwater-text-effect-872.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   
+   case 'summertime':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-a-summer-neon-light-text-effect-online-1076.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case 'neonlight2':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/neon-light-text-effect-with-galaxy-style-981.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case 'thewall':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/break-wall-text-effect-871.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+   
+case 'natural':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/natural-leaves-text-effect-931.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break 
+
+case 'carbon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/carbon-text-effect-833.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+
+case 'pencil':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Use ${prefix + command} text`)
+reply(mess.wait)
+maker.textpro("https://textpro.me/create-a-sketch-text-effect-online-1044.html", [
+    `${q}`,])
+  .then((data) => XeonBotInc.sendMessage(m.chat, { image: { url: data }, caption: `Made by ${global.botname}` }, { quoted: m }))
+  .catch((err) => console.log(err));
+   break
+ 
+case 'candy': case 'christmas': case '3dchristmas': case 'sparklechristmas':
+case 'deepsea': case 'scifi': case 'rainbow2': case 'waterpipe': case 'spooky': 
+case 'pencil': case 'circuit': case 'discovery': case 'metalic': case 'fiction': case 'demon': 
+case 'transformer': case 'berry': case 'thunder': case '.': case '3dstone2': 
+case 'neonlight': case 'glitch': case 'harrypotter': case 'brokenglass': case 'papercut': 
+case 'watercolor': case 'multicolor': case 'neondevil': case 'underwater': case 'graffitibike':
+ case 'snow': case 'cloud': case 'honey': case 'ice': case 'fruitjuice': case 'biscuit': case 'wood': 
+case 'chocolate': case 'strawberry': case 'matrix': case 'blood': case 'dropwater': case 'toxic': 
+case 'lava': case 'rock': case 'bloodglas': case 'halloween': case 'darkgold': case 'joker': case 'wicker':
+ case 'firework': case 'skeleton': case 'blackpink': case 'sand': case 'glue': case '1917': case 'leaves': case 'demon': {
+             if (!q) return reply(`Example : ${prefix + command} ${global.ownername}`) 
+                if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+             reply(mess.wait)
+             let link
+             if (/candy/.test(command)) link = 'https://textpro.me/create-christmas-candy-cane-text-effect-1056.html'
+             if (/christmas/.test(command)) link = 'https://textpro.me/christmas-tree-text-effect-online-free-1057.html'
+             if (/3dchristmas/.test(command)) link = 'https://textpro.me/3d-christmas-text-effect-by-name-1055.html'
+             if (/sparklechristmas/.test(command)) link = 'https://textpro.me/sparkles-merry-christmas-text-effect-1054.html'
+             if (/deepsea/.test(command)) link = 'https://textpro.me/create-3d-deep-sea-metal-text-effect-online-1053.html'
+             if (/scifi/.test(command)) link = 'https://textpro.me/create-3d-sci-fi-text-effect-online-1050.html'
+             if (/rainbow/.test(command)) link = 'https://textpro.me/3d-rainbow-color-calligraphy-text-effect-1049.html'
+             if (/waterpipe/.test(command)) link = 'https://textpro.me/create-3d-water-pipe-text-effects-online-1048.html'
+             if (/spooky/.test(command)) link = 'https://textpro.me/create-halloween-skeleton-text-effect-online-1047.html'
+             if (/pencil/.test(command)) link = 'https://textpro.me/create-a-sketch-text-effect-online-1044.html'
+             if (/circuit/.test(command)) link = 'https://textpro.me/create-blue-circuit-style-text-effect-online-1043.html'
+             if (/discovery/.test(command)) link = 'https://textpro.me/create-space-text-effects-online-free-1042.html'
+             if (/metalic/.test(command)) link = 'https://textpro.me/creat-glossy-metalic-text-effect-free-online-1040.html'
+             if (/fiction/.test(command)) link = 'https://textpro.me/create-science-fiction-text-effect-online-free-1038.html'
+             if (/demon/.test(command)) link = 'https://textpro.me/create-green-horror-style-text-effect-online-1036.html'
+             if (/transformer/.test(command)) link = 'https://textpro.me/create-a-transformer-text-effect-online-1035.html'
+             if (/berry/.test(command)) link = 'https://textpro.me/create-berry-text-effect-online-free-1033.html'
+             if (/thunder/.test(command)) link = 'https://textpro.me/online-thunder-text-effect-generator-1031.html'
+             if (/magma/.test(command)) link = 'https://textpro.me/create-a-magma-hot-text-effect-online-1030.html'
+             if (/3dstone2/.test(command)) link = 'https://textpro.me/create-a-3d-stone-text-effect-online-for-free-1073.html'
+             if (/neonlight/.test(command)) link = 'https://textpro.me/create-3d-neon-light-text-effect-online-1028.html'
+             if (/glitch/.test(command)) link = 'https://textpro.me/create-impressive-glitch-text-effects-online-1027.html'
+             if (/harrypotter/.test(command)) link = 'https://textpro.me/create-harry-potter-text-effect-online-1025.html'
+             if (/brokenglass/.test(command)) link = 'https://textpro.me/broken-glass-text-effect-free-online-1023.html'
+             if (/papercut/.test(command)) link = 'https://textpro.me/create-art-paper-cut-text-effect-online-1022.html'
+             if (/watercolor/.test(command)) link = 'https://textpro.me/create-a-free-online-watercolor-text-effect-1017.html'
+             if (/multicolor/.test(command)) link = 'https://textpro.me/online-multicolor-3d-paper-cut-text-effect-1016.html'
+             if (/neondevil/.test(command)) link = 'https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html'
+             if (/underwater/.test(command)) link = 'https://textpro.me/3d-underwater-text-effect-generator-online-1013.html'
+             if (/graffitibike/.test(command)) link = 'https://textpro.me/create-wonderful-graffiti-art-text-effect-1011.html'
+             if (/snow/.test(command)) link = 'https://textpro.me/create-snow-text-effects-for-winter-holidays-1005.html'
+             if (/cloud/.test(command)) link = 'https://textpro.me/create-a-cloud-text-effect-on-the-sky-online-1004.html'
+             if (/honey/.test(command)) link = 'https://textpro.me/honey-text-effect-868.html'
+             if (/ice/.test(command)) link = 'https://textpro.me/ice-cold-text-effect-862.html'
+             if (/fruitjuice/.test(command)) link = 'https://textpro.me/fruit-juice-text-effect-861.html'
+             if (/biscuit/.test(command)) link = 'https://textpro.me/biscuit-text-effect-858.html'
+             if (/wood/.test(command)) link = 'https://textpro.me/wood-text-effect-856.html'
+             if (/chocolate/.test(command)) link = 'https://textpro.me/chocolate-cake-text-effect-890.html'
+             if (/strawberry/.test(command)) link = 'https://textpro.me/strawberry-text-effect-online-889.html'
+             if (/matrix/.test(command)) link = 'https://textpro.me/matrix-style-text-effect-online-884.html'
+             if (/blood/.test(command)) link = 'https://textpro.me/horror-blood-text-effect-online-883.html'
+             if (/dropwater/.test(command)) link = 'https://textpro.me/dropwater-text-effect-872.html'
+             if (/toxic/.test(command)) link = 'https://textpro.me/toxic-text-effect-online-901.html'
+             if (/lava/.test(command)) link = 'https://textpro.me/lava-text-effect-online-914.html'
+             if (/rock/.test(command)) link = 'https://textpro.me/rock-text-effect-online-915.html'
+             if (/bloodglas/.test(command)) link = 'https://textpro.me/blood-text-on-the-frosted-glass-941.html'
+             if (/halloween/.test(command)) link = 'https://textpro.me/halloween-fire-text-effect-940.html'
+             if (/darkgold/.test(command)) link = 'https://textpro.me/metal-dark-gold-text-effect-online-939.html'
+             if (/joker/.test(command)) link = 'https://textpro.me/create-logo-joker-online-934.html'
+             if (/wicker/.test(command)) link = 'https://textpro.me/wicker-text-effect-online-932.html'
+             if (/firework/.test(command)) link = 'https://textpro.me/firework-sparkle-text-effect-930.html'
+             if (/skeleton/.test(command)) link = 'https://textpro.me/skeleton-text-effect-online-929.html'
+             if (/blackpink/.test(command)) link = 'https://textpro.me/create-blackpink-logo-style-online-1001.html'
+             if (/sand/.test(command)) link = 'https://textpro.me/write-in-sand-summer-beach-free-online-991.html'
+             if (/glue/.test(command)) link = 'https://textpro.me/create-3d-glue-text-effect-with-realistic-style-986.html'
+             if (/1917/.test(command)) link = 'https://textpro.me/1917-style-text-effect-online-980.html'
+                if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effect-931.html'           
+             let anu = await maker.textpro(link, q)
+                XeonBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.botname}` }, { quoted: m })
+             }
+             break
+
+case 'textmaker': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (args.length < 1) return reply(`Example :\n${prefix + command} <name>`)
+if (args[0] === 'glitch') {
+if (args.length < 2) return reply(`Example :\n${prefix + command + ' ' + args[0]} ${global.ownername}`)
+let teds = await thiccysapi.textpro("https://textpro.me/create-impressive-glitch-text-effects-online-1027.html", [args[1]])
+XeonBotInc.sendMessage(from, {image:{url:teds}, caption:"Done!"}, {quoted:m})
+} else if (args[0] === 'glow') {
+if (args.length < 2) return reply(`Example :\n${prefix + command + ' ' + args[0]} ${global.ownername}`)
+let teds = await thiccysapi.textpro("https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html", [args[1]])
+XeonBotInc.sendMessage(from, {image:{url:teds}, caption:"Done!"}, {quoted:m})
+} else {
+reply(`*Text Maker List :*\n•> glitch\n•> glow`)
+}
+}
+break
+//logo maker
+case 'hoorror':{
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/horror-blood-text-effect-online-883.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+  case 'whitebear':{
+  	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'thunder2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-thunder-text-effect-online-881.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'blackpink':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-blackpink-logo-style-online-1001.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'neon':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/neon-light-text-effect-online-882.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'matrix2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/matrix-style-text-effect-online-884.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'sky':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-a-cloud-text-effect-on-the-sky-online-1004.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+
+case 'magma':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-a-magma-hot-text-effect-online-1030.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'sand':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/sand-writing-text-effect-online-990.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'pencil':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-a-sketch-text-effect-online-1044.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'graffiti':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-wonderful-graffiti-art-text-effect-1011.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'metallic':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-a-metallic-text-effect-free-online-1041.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'steel':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/steel-text-effect-online-921.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'harrypotter':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-harry-potter-text-effect-online-1025.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'underwater':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/3d-underwater-text-effect-generator-online-1013.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'luxury':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/3d-luxury-gold-text-effect-online-1003.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'glue2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-3d-glue-text-effect-with-realistic-style-986.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'fabric':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/fabric-text-effect-online-964.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'neonlight':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/neon-light-glitch-text-generator-online-1063.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'lava':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/lava-text-effect-online-914.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'toxic':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/toxic-text-effect-online-901.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'ancient':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/3d-golden-ancient-text-effect-online-free-1060.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'christmas2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/sparkles-merry-christmas-text-effect-1054.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'sci_fi':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/create-3d-sci-fi-text-effect-online-1050.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'rainbow':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+     let link = `https://textpro.me/3d-rainbow-color-calligraphy-text-effect-1049.html`
+     let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'classic':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/video-game-classic-8-bit-text-effect-1037.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'watercolor2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-a-free-online-watercolor-text-effect-1017.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'halloween2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-a-spooky-halloween-text-effect-online-1046.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'halloweenfire':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/halloween-fire-text-effect-940.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'writing':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/sand-writing-text-effect-online-990.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'foggy':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/write-text-on-foggy-window-online-free-1015.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'marvel':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-logo-style-marvel-studios-ver-metal-972.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'skeleton2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-halloween-skeleton-text-effect-online-1047.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'sketch':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-a-sketch-text-effect-online-1044.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'wonderful':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-wonderful-graffiti-art-text-effect-1011.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'cool':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-a-cool-graffiti-text-on-the-wall-1010.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'collwall':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/create-cool-wall-graffiti-text-effect-online-1009.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'multicolor2':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/online-multicolor-3d-paper-cut-text-effect-1016.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'batman':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/make-a-batman-logo-online-free-1066.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'juice':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let link = `https://textpro.me/fruit-juice-text-effect-861.html`
+let anui = await textpro(link, q)
+     reply(`Wait a moment while making the logo about 1 minute`) 
+     console.log(anui)
+    XeonBotInc.sendMessage(from, {image:{url:anui}, caption:"Here you go!"}, {quoted:m})
+}
+   break
+case 'pornhub':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Example: ${prefix + command} ajg | ea`)
+reply(mess.wait)
+  inilogo4 = args.join(" ")
+inilogo9 = args.join(" ")
+   var logo4 = inilogo4.split('|')[0]
+var logo9 = inilogo9.split('|')[1]
+    let anu = await textpro("https://textpro.me/pornhub-style-logo-online-generator-free-977.html", [`${logo4}`,`${logo9}`])
+console.log(anu)
+XeonBotInc.sendMessage(from,{image:{url:anu}, caption:"Here you go!"},{quoted:m})
+}
+break
+case 'retro':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Example: ${prefix + command} ajg | ea`)
+reply(mess.wait)
+  inilogo4 = args.join(" ")
+inilogo9 = args.join(" ")
+   var logo4 = inilogo4.split('|')[0]
+var logo9 = inilogo9.split('|')[1]
+    let anu = await textpro("https://textpro.me/create-3d-retro-text-effect-online-free-1065.html", [`${logo4}`,`${logo9}`])
+console.log(anu)
+XeonBotInc.sendMessage(from,{image:{url:anu}, caption:"Here you go!"},{quoted:m})
+}
+break
+case 'horror':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Example: ${prefix + command} ajg | ea`)
+reply(mess.wait)
+  inilogo4 = args.join(" ")
+inilogo9 = args.join(" ")
+   var logo4 = inilogo4.split('|')[0]
+var logo9 = inilogo9.split('|')[1]
+    let anu = await textpro("https://textpro.me/create-a-cinematic-horror-text-effect-1045.html", [`${logo4}`,`${logo9}`])
+console.log(anu)
+XeonBotInc.sendMessage(from,{image:{url:anu}, caption:"Here you go!"},{quoted:m})
+}
+break
+case '8bit':{
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply(`Example: ${prefix + command} ajg | ea`)
+reply(mess.wait)
+  inilogo4 = args.join(" ")
+inilogo9 = args.join(" ")
+   var logo4 = inilogo4.split('|')[0]
+var logo9 = inilogo9.split('|')[1]
+    let anu = await textpro("https://textpro.me/video-game-classic-8-bit-text-effect-1037.html", [`${logo4}`,`${logo9}`])
+console.log(anu)
+XeonBotInc.sendMessage(from,{image:{url:anu}, caption:"Here you go!"},{quoted:m})
+}
+break
+case 'emoji': {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return reply('Where is the emoji?')
+emoji.get(args.join(" ")).then(async(emoji) => {
+let mese = await XeonBotInc.sendMessage(m.chat, {image:{url:emoji.images[4].url}, caption: `Made by ${global.botname}`}, {quoted:m})
+await XeonBotInc.sendMessage(from, {text:"reply #s to this image to make sticker"}, {quoted:mese})
+})
+}
+break
+
+case 'igemoji': 
+case 'instagramemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, maximum 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "11")
+break
+case 'iphoneemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "0")
+break
+case 'googleemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "1")
+break
+case 'samsungemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "2")
+break
+case 'microsoftemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "3")
+break
+case 'whatsappemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "4")
+break
+case 'twitteremoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "5")
+break
+case 'facebookemoji': 
+case 'fbemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "6")
+break
+case 'skypeemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "7")
+break
+case 'joyemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "8")
+break
+case 'mojiemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "9")
+case 'pediaemoji': 
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply("Enter emoji, max 1 emoji, eg?" + ` ${prefix + command} 😀`)
+reply(mess.wait)
+emote(q, "10")
+break
+
+case 'emojimix': {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) reply(`*Example :* ${prefix + command} 🦄+🤣`)
+let [emoji1, emoji2] = q.split`+`
+let kuntuh = await fetchJson(`https://tenor.googleapis.com/v2/featured?key=AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ&contentfilter=high&media_filter=png_transparent&component=proactive&collection=emoji_kitchen_v5&q=${encodeURIComponent(emoji1)}_${encodeURIComponent(emoji2)}`)
+for (let res of kuntuh.results) {
+let encmedia = await XeonBotInc.sendImageAsSticker(from, res.url, m, { packname: global.packname, author: global.author, categories: res.tags })
+await fs.unlinkSync(encmedia)
+}
+}
+break
+	case 'toimage': case 'toimg': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.quoted) return reply('Reply Image')
+if (!/webp/.test(mime)) return reply(`Reply sticker with caption *${prefix + command}*`)
+reply(mess.wait)
+let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+let ran = await getRandom('.png')
+exec(`ffmpeg -i ${media} ${ran}`, (err) => {
+fs.unlinkSync(media)
+if (err) throw err
+let buffer = fs.readFileSync(ran)
+XeonBotInc.sendMessage(m.chat, { image: buffer }, { quoted: m})
+fs.unlinkSync(ran)
+})
+}
+break
+case 'tomp4': case 'tovideo': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.quoted) return reply('Reply Image')
+if (!/webp/.test(mime)) return reply(`Reply sticker with caption *${prefix + command}*`)
+reply(mess.wait)
+let { webp2mp4File } = require('./lib/uploader')
+let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+let webpToMp4 = await webp2mp4File(media)
+await XeonBotInc.sendMessage(m.chat, { video: { url: webpToMp4.result, caption: 'Converted From Webp To Video' } }, { quoted: m })
+await fs.unlinkSync(media)
+}
+break
+case 'toaud': case 'toaudio': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!/video/.test(mime) && !/audio/.test(mime)) return reply(`Send/Reply Video/Audio You Want To Use As Audio With Caption ${prefix + command}`)
+if (!m.quoted) return reply(`Send/Reply Video/Audio You Want To Use As Audio With Caption ${prefix + command}`)
+reply(mess.wait)
+let media = await quoted.download()
+let { toAudio } = require('./lib/converter')
+let audio = await toAudio(media, 'mp4')
+XeonBotInc.sendMessage(m.chat, {audio: audio, mimetype: 'audio/mpeg'}, { quoted : m })
+}
+break
+case 'tomp3': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (/document/.test(mime)) return reply(`Send/Reply Video/Audio You Want To Convert Into MP3 With Caption ${prefix + command}`)
+if (!/video/.test(mime) && !/audio/.test(mime)) return reply(`Send/Reply Video/Audio You Want To Convert Into MP3 With Caption ${prefix + command}`)
+if (!m.quoted) return reply(`Send/Reply Video/Audio You Want To Convert Into MP3 With Caption ${prefix + command}`)
+reply(mess.wait)
+let media = await quoted.download()
+let { toAudio } = require('./lib/converter')
+let audio = await toAudio(media, 'mp4')
+XeonBotInc.sendMessage(m.chat, {document: audio, mimetype: 'audio/mpeg', fileName: `Converted By ${XeonBotInc.user.name} (${m.id}).mp3`}, { quoted : m })
+}
+break
+case 'tovn': case 'toptt': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!/video/.test(mime) && !/audio/.test(mime)) return reply(`Reply Video/Audio That You Want To Be VN With Caption ${prefix + command}`)
+if (!m.quoted) return reply(`Reply Video/Audio That You Want To Be VN With Caption ${prefix + command}`)
+reply(mess.wait)
+let media = await quoted.download()
+let { toPTT } = require('./lib/converter')
+let audio = await toPTT(media, 'mp4')
+XeonBotInc.sendMessage(m.chat, {audio: audio, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
+}
+break
+case 'togif': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!m.quoted) return reply('Reply Image')
+if (!/webp/.test(mime)) return reply(`Reply sticker with caption *${prefix + command}*`)
+reply(mess.wait)
+let { webp2mp4File } = require('./lib/uploader')
+let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+let webpToMp4 = await webp2mp4File(media)
+await XeonBotInc.sendMessage(m.chat, { video: { url: webpToMp4.result, caption: 'Converted From Webp To Gif' }, gifPlayback: true }, { quoted: m })
+await fs.unlinkSync(media)
+}
+break
+	case 'tourl': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)
+let { UploadFileUgu, webp2mp4File, TelegraPh } = require('./lib/uploader')
+let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+if (/image/.test(mime)) {
+let anu = await TelegraPh(media)
+reply(util.format(anu))
+} else if (!/image/.test(mime)) {
+let anu = await UploadFileUgu(media)
+reply(util.format(anu))
+}
+await fs.unlinkSync(media)
+}
+break
+            case 'imagenobgxxx': case 'removebgxxx': case 'remove-bgxxx': {
+	    if (!quoted) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+	    if (!/image/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+	    if (/webp/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
+	    let remobg = require('remove.bg')
+	    let apirnobg = ['q61faXzzR5zNU6cvcrwtUkRU','S258diZhcuFJooAtHTaPEn4T','5LjfCVAp4vVNYiTjq9mXJWHF','aT7ibfUsGSwFyjaPZ9eoJc61','BY63t7Vx2tS68YZFY6AJ4HHF','5Gdq1sSWSeyZzPMHqz7ENfi8','86h6d6u4AXrst4BVMD9dzdGZ','xp8pSDavAgfE5XScqXo9UKHF','dWbCoCb3TacCP93imNEcPxcL']
+	    let apinobg = apirnobg[Math.floor(Math.random() * apirnobg.length)]
+	    hmm = await './src/remobg-'+getRandom('')
+	    localFile = await XeonBotInc.downloadAndSaveMediaMessage(quoted, hmm)
+	    outputFile = await './src/hremo-'+getRandom('.png')
+	    reply(mess.wait)
+	    remobg.removeBackgroundFromImageFile({
+	      path: localFile,
+	      apiKey: apinobg,
+	      size: "regular",
+	      type: "auto",
+	      scale: "100%",
+	      outputFile 
+	    }).then(async result => {
+	    XeonBotInc.sendMessage(m.chat, {image: fs.readFileSync(outputFile), caption: mess.success}, { quoted : m })
+	    await fs.unlinkSync(localFile)
+	    await fs.unlinkSync(outputFile)
+	    })
+	    }
+	    break
+	case 'yts': case 'ytsearch': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : ${prefix + command} stay jb`)
+let yts = require("yt-search")
+let search = await yts(args.join(" "))
+let teks = '*| YOUTUBE SEARCH |*\n\n Result From '+text+'\n\n'
+let no = 1
+for (let i of search.all) {
+teks += `${global.themeemoji} No : ${no++}\n${global.themeemoji} Type : ${i.type}\n${global.themeemoji} Video ID : ${i.videoId}\n${global.themeemoji} Title : ${i.title}\n${global.themeemoji} Views : ${i.views}\n${global.themeemoji} Duration : ${i.timestamp}\n${global.themeemoji} Uploaded : ${i.ago}\n${global.themeemoji} Author : ${i.author.name}\n${global.themeemoji} Url : ${i.url}\n\n─────────────────\n\n`
+}
+XeonBotInc.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption: teks }, { quoted: m })
+}
+break
+case 'google': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Example: ${prefix + command} <query>\nUses : ${prefix + command} apa arti cinta`)
+let google = require('google-it')
+google({'query': args.join(" ")}).then(res => {
+let teks = `Google Search From : ${text}\n\n`
+for (let g of res) {
+teks += `${global.themeemoji} *Title* : ${g.title}\n`
+teks += `${global.themeemoji} *Description* : ${g.snippet}\n`
+teks += `${global.themeemoji} *Link* : ${g.link}\n\n────────────────────────\n\n`
+} 
+reply(teks)
+})
+}
+break
+case 'gimage': case 'googleimage': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply("What picture are you looking for??")
+let gis = require('g-i-s')
+gis(args.join(" "), async (error, result) => {
+n = result
+images = n[Math.floor(Math.random() * n.length)].url
+let buttons = [
+{buttonId: `gimage ${args.join(" ")}`, buttonText: {displayText: 'Next Image 👀'}, type: 1}
+]
+let buttonMessage = {
+image: { url: images },
+caption: `*| GOOGLE IMAGE |*
+
+${global.themeemoji} Query : ${text}
+${global.themeemoji} Media Url : ${images}`,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.ownername}`,
+body:`${global.watermark}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `{global.websitex}`
+}}
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+})
+}
+break
+	case 'igstoryxx': case 'instagramstoryxx': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Example :\n${prefix + command} josephxeon13`)
+try {
+hx.igstory(args[0]).then(async(resed) => {
+ini_anu = []
+anu_list = []
+textbv = `*| INSTAGRAM STORY |*\n\n${global.themeemoji} Username : ${resed.user.username ? resed.user.name : "undefined"}\n${global.themeemoji} Followers : ${resed.user.followers}`
+urut = 1
+for (let i = 0; i < resed.medias.length; i++) {
+ini_anu.push({
+ "type": resed.medias[i].fileType,
+ "url": resed.medias[i].url
+})
+}
+ilod = 1
+for (let i of ini_anu) {
+anu_list.push({buttonId: `ig ${i.type} ${i.url}`, buttonText: {displayText: `Media ${ilod++}`}, type: 1})
+}
+textbv += `\n\n_Select the media below to download_`
+let buttons = anu_list
+let buttonMessage = {
+image:log0,
+jpegThumbnail:thum,
+caption: textbv,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+})
+} catch (err) {
+reply(String(err))
+}
+}
+break
+case 'igs2': case 'igstory2': case 'instagramstory2': {
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Where is the username?\nExample: ${prefix}igstory josephxeon13`)
+                let urlnya = text
+	            hx.igstory(urlnya)
+	            .then(async(result) => {
+		        var halo = 0		
+	            XeonBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM STORY 」----*\n\n*${themeemoji} Username :* ${result.user.username}\n*${themeemoji} Fullname :* ${result.user.fullName}\n*${themeemoji} Followers :* ${result.user.followers}\n*${themeemoji} Following :* ${result.user.following}\n*${themeemoji} ID :* ${result.user.id}\n*${themeemoji} Filetype :* ${result.medias[0].fileType}\n*${themeemoji} Type :* ${result.medias[0].type}\n*${themeemoji} Media :* ${result.medias.length}\n*${themeemoji} Bio :* ${result.user.biography}\n\n*${botname}*` }, { quoted: m })	                                  	                      	            
+		        for(let i of result.medias) {
+			    if(i.url.includes('mp4')){
+				let link = await getBuffer(i.url)
+                XeonBotInc.sendMessage(m.chat, { video: link, jpegThumbnail: await getBuffer(i.preview), caption: `*Story ${i.type}*` }, { quoted: m }) 
+                } else {
+                    let link = await getBuffer(i.url)
+                  XeonBotInc.sendMessage(m.chat, { image: link, jpegThumbnail: await getBuffer(i.preview), caption: `*Story ${i.type}*` }, { quoted: m })                  
+                }
+            }
+            }).catch((err) => reply(`Sorry username ${text} was not found or maybe he/she has no story uploaded in her id`))
+            }	
+			break
+case 'ig2': case 'igdl2': case 'instagram2': {
+               if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Where is the link bro`)
+                if (!isUrl(args[0]) && !args[0].includes('instagram.com')) return reply(`The link you provided is not a instagram link`)             
+                let urlnya = text
+	            hx.igdl(urlnya)
+	            .then(async(result) => {	  
+	            var halo = 0		
+	            XeonBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM DOWNLOADER 」----*\n\n*${themeemoji} Username :* ${result.user.username}\n*${themeemoji} Fullname :* ${result.user.fullName}\n*${themeemoji} Followers :* ${result.user.followers}\n*${themeemoji} Following :* ${result.user.following}\n*${themeemoji} ID :* ${result.user.id}\n*${themeemoji} Filetype :* ${result.medias[0].fileType}\n*${themeemoji} Type :* ${result.medias[0].type}\n*${themeemoji} Jumlah Media :* ${result.medias.length}\n*${themeemoji} Url :* ${text}\n\n*${botname}*` }, { quoted: m })	                                  	                      	            
+		        for(let i of result.medias) {		
+		        if(i.url.includes('mp4')){		           			    				
+				let link = await getBuffer(i.url)
+                XeonBotInc.sendMessage(m.chat, { video: link, jpegThumbnail: await getBuffer(i.preview), caption: `*Instagram ${i.type}*` }, { quoted: m })
+                } else {
+                let link = await getBuffer(i.url)
+                XeonBotInc.sendMessage(m.chat, { image: link, jpegThumbnail: await getBuffer(i.preview), caption: `*Instagram ${i.type}*` }, { quoted: m })                      
+               }
+              }
+            }).catch((err) => reply(mess.error))
+            }		
+			break
+case 'igdl': case 'instagram': case 'instagramreels': case 'igreels': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Example :\n${prefix + command} https://www.instagram.com/p/CcvJGuxh9VI/?igshid=YmMyMTA2M2Y=`)
+try {
+hx.igdl(args[0]).then(async(resed) => {
+ini_anu = []
+anu_list = []
+textbv = `*| INSTAGRAM DOWNLOADER |*\n\n${global.themeemoji} Username : ${resed.user.username ? resed.user.name : "undefined"}\n${global.themeemoji} Followers : ${resed.user.followers}`
+urut = 1
+for (let i = 0; i < resed.medias.length; i++) {
+ini_anu.push({
+ "type": resed.medias[i].fileType,
+ "url": resed.medias[i].url
+})
+}
+ilod = 1
+for (let i of ini_anu) {
+anu_list.push({buttonId: `ig ${i.type} ${i.url}`, buttonText: {displayText: `Media ${ilod++}`}, type: 1})
+}
+textbv += `\n\n_Select the media below to download_`
+let buttons = anu_list
+let buttonMessage = {
+image:log0,
+jpegThumbnail:thum,
+caption: textbv,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+})
+} catch (err) {
+reply(String(err))
+}
+}
+break
+case 'ig': {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (args[0] === "mp4") {
+XeonBotInc.sendMessage(from, {video:{url:args[1]}, caption:'Done!', mimetype:'video/mp4'}, {quoted:m})
+} else if (args[0] === "jpg") {
+XeonBotInc.sendMessage(from, {image:{url:args[1]}, caption:'Done!'}, {quoted:m})
+} else {
+reply("Error! ")
+}
+}
+break
+case 'mp4' : {
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Where's the link ?`)
+try {
+XeonBotInc.sendMessage(from, {video:{url:args[0]}, caption:"Succes", contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:`${global.ownername}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `${global.websitex}`
+}}}, {quoted:m})
+} catch {
+reply("Link error!")
+}
+}
+break
+case 'jpeg': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Where's the link?`)
+try {
+XeonBotInc.sendMessage(from, {image:{url:args[0]}, caption:"Success", contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:`${global.ownername}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `${global.websitex}`
+}}}, {quoted:m})
+} catch {
+reply("Link error")
+}
+}
+break
+case 'igtv': {	            
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Where is the link boss?`)
+                const { instagramdl, instagramdlv2, instagramdlv3 } = require('@bochilteam/scraper')
+                if (!isUrl(args[0]) && !args[0].includes('instagram.com')) return reply('*The link you provided is not valid*')
+                instagramdlv3(`${text}`).then(async (data) => {            
+                var buf = await getBuffer(data[0].thumbnail)        
+                XeonBotInc.sendMessage(m.chat, { video: { url: data[0].url }, jpegThumbnail:buf, caption: `${botname}`}, { quoted: m })
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+            case 'twitter': case 'td': case 'twitterdl': {     
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)	             
+             if (!text) return reply(`Where is the link?`)
+                if (!isUrl(args[0]) && !args[0].includes('twitter.com')) return reply(`The link you provided is not valid`)
+                xeonkey.Twitter(`${text}`).then(async (data) => {                    
+                    let txt = `*TWITTER DOWNLOADER*\n\n`
+                    txt += `*${themeemoji}TITLE :* ${data.title}\n`
+                    txt += `*${themeemoji}QUALITY :* ${data.medias[1].quality}\n`
+                    txt += `*${themeemoji}TYPE :* ${data.medias[1].extension}\n`
+                    txt += `*${themeemoji}SIZE :* ${data.medias[1].formattedSize}\n`
+                    txt += `*${themeemoji}DURATION :* ${data.medias.length}\n`
+                    txt += `*${themeemoji}URL :* ${data.url}\n\n`
+                    txt += `*${botname}*`
+                buf = await getBuffer(data.thumbnail)    
+                XeonBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })
+                for (let i of data.medias) {
+                XeonBotInc.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, caption: `*${text}*`}, { quoted: m })
+                }
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+            case 'twittermp3': case 'twitteraudio': { 
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)	             
+             if (!text) return reply(`Where is the link?`)
+                if (!isUrl(args[0]) && !args[0].includes('twitter.com')) return reply(`*The link you provided is not valid*`)
+                xeonkey.Twitter(`${text}`).then(async (data) => {
+                XeonBotInc.sendMessage(m.chat, { audio: { url: data.medias[1].url }, mimetype: 'audio/mp4'}, { quoted: m })
+                }).catch((err) => {
+                    reply(mess.reply)
+                })
+            }
+            break
+case 'twitterxx': case 'twdlxx': case 'twmp4xx': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Example :\n${prefix + command} https://twitter.com/cinema21/status/1517754155644821504?t=rUnbyqwh4vAE1QXMXlsVeQ&s=19`)
+try {
+let lotwit = await aiovideodl(args[0])
+teks = `*| TWITTER DOWNLOADER |*
+
+Caption : ${lotwit.title ? lotwit.title : "undefined"}
+Type : ${lotwit.medias[1].extension}
+Size : ${lotwit.medias[1].formattedSize}
+Link : ${lotwit.medias[1].url}
+
+_Choose the video quality below by clicking the button_`
+let buttons = [
+{buttonId: `twddl ${lotwit.medias[0].url}`, buttonText: {displayText: `Quality ${lotwit.medias[0].quality}`}, type: 1},
+{buttonId: `twddl ${lotwit.medias[2].url}`, buttonText: {displayText: `Quality ${lotwit.medias[2].quality}`}, type: 1}
+]
+let buttonMessage = {
+video: {url:lotwit.medias[1].url},
+caption: teks,
+footer: `${pushname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:lotwit.title ? lotwit.title : "Twitter Downloader",
+thumbnail: log0,
+mediaType:1,
+mediaUrl: args[0],
+sourceUrl: args[0]
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+} catch {
+reply("Error link!")
+}
+}
+break
+case 'twddlxx': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu 🐥'}, type: 1}
+]
+let buttonMessage = {
+video: {url:args[0]},
+caption: "Done!",
+footer: `${pushname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body: "Twitter Downloader",
+thumbnail: log0,
+mediaType:1,
+mediaUrl: args[0],
+sourceUrl: args[0]
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+}
+break
+case 'fbdl': case 'fb': case 'facebook': case 'fbmp4': {     	    
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+             if (!text) return reply(`Where is the link bro?\nExample: ${prefix}facebook https://www.facebook.com/groups/599913174599515/permalink/705467384044093/`)
+                if (!isUrl(args[0]) && !args[0].includes('facebook.com')) return reply(`The link you provided is not valid`)
+            let bocil = require('@bochilteam/scraper')  
+                bocil.facebookdlv2(`${text}`).then(async (data) => {                   
+                    let txt = `*FB DOWNLOADER*\n\n`
+                    txt += `*${themeemoji}TITLE :* ${data.title}\n`
+                    txt += `*${themeemoji}QUALITY :* ${data.result[0].quality}\n`
+                    txt += `*${themeemoji}DESCRIPTION :* ${data.description}\n`
+                    txt += `*${themeemoji}ID :* ${watermark}\n`
+                    txt += `*${themeemoji}URL :* ${text}\n\n`
+                buf = await getBuffer(data.thumbnail)    
+                XeonBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })         
+                for (let i of data.result) {     
+                XeonBotInc.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, caption: `*${themeemoji} Quality :* ${i.quality}`}, { quoted: m })
+                }          
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+            case 'fbmp3': case 'facebookmp3': case 'facebookaudio': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                  if (!text) return reply(`Where is the link?\nExample: ${prefix + command} https://www.facebook.com/groups/599913174599515/permalink/705467384044093/`)
+                  if (!isUrl(args[0]) && !args[0].includes('facebook.com')) return reply(`The link you provided is not valid`)
+  let noh = require('@bochilteam/scraper')                
+  noh.savefrom(`${text}`).then(async (anu) => {  
+  XeonBotInc.sendMessage(m.chat, { audio: { url: anu.url[0].url }, mimetype: 'audio/mp4' }, { quoted: m })      
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+case 'facebookxx': case 'fbdlxxx': case 'fbmp4xxx': case 'fbxxx': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(`Example :\n${prefix + command} https://fb.watch/cAX2dep-BZ/`)
+try {
+let resd = await aiovideodl(args[0])
+teks = `*| FACEBOOK DOWNLOADER |*
+
+Type : video/${resd.medias[0].extension}
+Quality : ${resd.medias[0].quality}
+Size : ${resd.medias[0].formattedSize}
+
+_For HD quality you can click the button below_`
+let buttons = [
+{buttonId: `fbddl ${resd.medias[1].url}`, buttonText: {displayText: 'QualityHD'}, type: 1}
+]
+let buttonMessage = {
+video: {url:resd.medias[0].url},
+caption: teks,
+footer: `${pushname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:"Facebook Downloader",
+thumbnail: log0,
+mediaType:1,
+mediaUrl: args[0],
+sourceUrl: args[0]
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+} catch {
+reply("Link invalid!")
+}
+}
+break
+case 'fbddlxx': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu 🐥'}, type: 1}
+]
+let buttonMessage = {
+video: {url:args[0]},
+caption: "Done!",
+footer: `${pushname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body: " Facebook Downloader",
+thumbnail: log0,
+mediaType:1,
+mediaUrl: args[0],
+sourceUrl: args[0]
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+}
+break
+            case 'pinterest2': {
+            	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                reply(mess.wait)
+		let { pinterest } = require('./lib/scraper')
+                anu = await pinterest(text)
+                result = anu[Math.floor(Math.random() * anu.length)]
+                XeonBotInc.sendMessage(m.chat, { image: { url: result }, caption: '${themeemoji} Media Url : '+result }, { quoted: m })
+            }
+            break
+case 'webtonsearch': case 'webtoon':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply('What Are you Looking For??')
+                await reply(mess.wait)
+                xeonkey.Webtoons(q).then(async data => {
+                    let txt = `*------「 WEBTOONS-SEARCH 」------*\n\n`
+                    for (let i of data) {
+                        txt += `*📫 Title :* ${i.judul}\n`
+                        txt += `*👍🏻 Like :* ${i.like}\n`
+                        txt += `*🤴🏻 Creator :* ${i.creator}\n`
+                        txt += `*🎥 Genre :* ${i.genre}\n`
+                        txt += `*📚 Url :* ${i.url}\n ----------------------------------------------------------\n`
+                    }
+                    await reply(txt)
+                })
+                .catch((err) => {
+                    reply(mess.error)
+                })
+            break
+            case 'wattpad': {
+            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            if (!text) return reply(`Example : ${prefix + command} love`)
+            let res = await fetchJson(`https://zenzapis.xyz/webzone/wattpad?query=$text}&apikey=hdiiofficial`)
+            let { judul, dibaca, divote, bab, waktu, url, thumb, description } = res.result[0]
+            let capt = `Wattpad From query\n\n`
+            capt += ` Title: ${judul}\n`
+            capt += ` Read: ${dibaca}\n`
+            capt += ` Vote: ${divote}\n`
+            capt += ` Chapter: ${bab}\n`
+            capt += ` Url: ${url}\n`
+            capt += ` Description: ${description}`
+            XeonBotInc.sendImage(m.chat, thumb, capt, m)
+            }
+            break
+case 'apk': case 'apkmod': case 'apkdl': {      
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+  if (!text) return reply(`Use${prefix + command} whatsapp`) 
+  let noh = require('./lib/myfunc2')                
+  noh.rexdl(`${text}`).then(async (data) => {
+  let sections = []   
+  for (let i of data) {
+  const list = {title: `${i.judul}`,
+  rows: [
+	    {
+	     title: `${i.judul}`, 
+	     rowId: `${prefix}donlod ${i.link}`,
+	     description: `Category: ${i.kategori}\nPublish: ${i.upload_date}\nInfo: ${i.deskripsi}`
+	    }, 
+	    ]
+     }
+     sections.push(list)   
+     }
+  const sendm =  XeonBotInc.sendMessage(
+      m.chat, 
+      {
+       text: `${ucapannya2} ${pushname} *Search Results From ${text} Click the button below to choose*`,
+       footer: `${botname}`,
+       title: "*APK DOWNLOADER,*",
+       buttonText: "CLICK HERE",
+       sections
+      }, { quoted : m })                 
+                }).catch((err) => {
+                    reply(`*${text} Not found*`)
+                })
+            }
+            break
+case 'donlod': {                
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Use${prefix + command} whatsapp`)
+                if (!isUrl(args[0]) && !args[0].includes('rexdl.com')) reply('*The link you provided is invalid*')
+           let rex = require('./lib/ApkDown.js')
+           rex.ApkDown(`${text}`).then(async (anu) => {        
+           if (anu[0].size.split('MB')[0] >= 150) return reply('*File Over Limit* '+util.format(anu))
+           for (let i of anu) {    
+           linkye = `*APK DOWNLOAD*\n\n*Title:* ${i.title}\n*Updated:* ${i.up}\n*Version:* ${i.vers}\n*Size:* ${i.size}\n*Url:* \n*Desc:* ${i.desc}`         
+                XeonBotInc.sendMessage(m.chat, { image: await getBuffer(i.thumb), jpegThumbnail: await getBuffer(i.thumb), caption: `${linkye}` }, { quoted: m })
+                XeonBotInc.sendMessage(m.chat, {document: await getBuffer(i.link), mimetype: `application/vnd.android.package-archive`, fileName: `${i.title}`}, {quoted:m})  
+                }  
+                }).catch((err) => {
+                    reply(mess.error)
+                }) 
+                }                          
+                break
+case 'tagme': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+XeonBotInc.sendMessage(m.chat, {text:`@${m.sender.split("@")[0]}`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
+}
+break
+           case 'git': case 'gitclone':
+           if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	reply(mess.wait)
+            let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
+            if (!args[0]) reply(`Use ${prefix}gitclone repo link\nExample: https://github.com/DGXeon/CheemsBot-MD4`)
+    if (!regex1.test(args[0])) return reply(mess.linkm)
+    let [, user, repo] = args[0].match(regex1) || []
+    repo = repo.replace(/.git$/, '')
+    let url = `https://api.github.com/repos/${user}/${repo}/zipball`
+    let filename = (await fetch(url, {method: 'HEAD'})).headers.get('content-disposition').match(/attachment; filename=(.*)/)[1]
+    XeonBotInc.sendMessage(m.chat, { document: { url: url }, fileName: filename+'.zip', mimetype: 'application/zip' }, { quoted: m }).catch((err) => reply(mess.error))
+			break
+
+case 'candy': case 'christmas': case '3dchristmas': case 'sparklechristmas':
+case 'deepsea': case 'scifi': case 'rainbow': case 'waterpipe': case 'spooky': 
+case 'pencil': case 'circuit': case 'discovery': case 'metalic': case 'fiction': case 'demon': 
+case 'transformer': case 'berry': case 'thunder': case 'magma': case '3dstone': 
+case 'neonlight': case 'glitch': case 'harrypotter': case 'brokenglass': case 'papercut': 
+case 'watercolor': case 'multicolor': case 'neondevil': case 'underwater': case 'graffitibike':
+ case 'snow': case 'cloud': case 'honey': case 'ice': case 'fruitjuice': case 'biscuit': case 'wood': 
+case 'chocolate': case 'strawberry': case 'matrix': case 'blood': case 'dropwater': case 'toxic': 
+case 'lava': case 'rock': case 'bloodglas': case 'hallowen': case 'darkgold': case 'joker': case 'wicker':
+ case 'firework': case 'skeleton': case 'blackpink': case 'sand': case 'glue': case '1917': case 'leaves': {
+ 	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+              if (!q) return reply(`Example : ${prefix + command} ${global.ownername}`) 
+          
+             let link
+             if (/candy/.test(command)) link = 'https://textpro.me/create-christmas-candy-cane-text-effect-1056.html'
+             if (/christmas/.test(command)) link = 'https://textpro.me/christmas-tree-text-effect-online-free-1057.html'
+             if (/3dchristmas/.test(command)) link = 'https://textpro.me/3d-christmas-text-effect-by-name-1055.html'
+             if (/sparklechristmas/.test(command)) link = 'https://textpro.me/sparkles-merry-christmas-text-effect-1054.html'
+             if (/deepsea/.test(command)) link = 'https://textpro.me/create-3d-deep-sea-metal-text-effect-online-1053.html'
+             if (/scifi/.test(command)) link = 'https://textpro.me/create-3d-sci-fi-text-effect-online-1050.html'
+             if (/rainbow/.test(command)) link = 'https://textpro.me/3d-rainbow-color-calligraphy-text-effect-1049.html'
+             if (/waterpipe/.test(command)) link = 'https://textpro.me/create-3d-water-pipe-text-effects-online-1048.html'
+             if (/spooky/.test(command)) link = 'https://textpro.me/create-halloween-skeleton-text-effect-online-1047.html'
+             if (/pencil/.test(command)) link = 'https://textpro.me/create-a-sketch-text-effect-online-1044.html'
+             if (/circuit/.test(command)) link = 'https://textpro.me/create-blue-circuit-style-text-effect-online-1043.html'
+             if (/discovery/.test(command)) link = 'https://textpro.me/create-space-text-effects-online-free-1042.html'
+             if (/metalic/.test(command)) link = 'https://textpro.me/creat-glossy-metalic-text-effect-free-online-1040.html'
+             if (/fiction/.test(command)) link = 'https://textpro.me/create-science-fiction-text-effect-online-free-1038.html'
+             if (/demon/.test(command)) link = 'https://textpro.me/create-green-horror-style-text-effect-online-1036.html'
+             if (/transformer/.test(command)) link = 'https://textpro.me/create-a-transformer-text-effect-online-1035.html'
+             if (/berry/.test(command)) link = 'https://textpro.me/create-berry-text-effect-online-free-1033.html'
+             if (/thunder/.test(command)) link = 'https://textpro.me/online-thunder-text-effect-generator-1031.html'
+             if (/magma/.test(command)) link = 'https://textpro.me/create-a-magma-hot-text-effect-online-1030.html'
+             if (/3dstone/.test(command)) link = 'https://textpro.me/3d-stone-cracked-cool-text-effect-1029.html'
+             if (/neonlight/.test(command)) link = 'https://textpro.me/create-3d-neon-light-text-effect-online-1028.html'
+             if (/glitch/.test(command)) link = 'https://textpro.me/create-impressive-glitch-text-effects-online-1027.html'
+             if (/harrypotter/.test(command)) link = 'https://textpro.me/create-harry-potter-text-effect-online-1025.html'
+             if (/brokenglass/.test(command)) link = 'https://textpro.me/broken-glass-text-effect-free-online-1023.html'
+             if (/papercut/.test(command)) link = 'https://textpro.me/create-art-paper-cut-text-effect-online-1022.html'
+             if (/watercolor/.test(command)) link = 'https://textpro.me/create-a-free-online-watercolor-text-effect-1017.html'
+             if (/multicolor/.test(command)) link = 'https://textpro.me/online-multicolor-3d-paper-cut-text-effect-1016.html'
+             if (/neondevil/.test(command)) link = 'https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html'
+             if (/underwater/.test(command)) link = 'https://textpro.me/3d-underwater-text-effect-generator-online-1013.html'
+             if (/graffitibike/.test(command)) link = 'https://textpro.me/create-wonderful-graffiti-art-text-effect-1011.html'
+             if (/snow/.test(command)) link = 'https://textpro.me/create-snow-text-effects-for-winter-holidays-1005.html'
+             if (/cloud/.test(command)) link = 'https://textpro.me/create-a-cloud-text-effect-on-the-sky-online-1004.html'
+             if (/honey/.test(command)) link = 'https://textpro.me/honey-text-effect-868.html'
+             if (/ice/.test(command)) link = 'https://textpro.me/ice-cold-text-effect-862.html'
+             if (/fruitjuice/.test(command)) link = 'https://textpro.me/fruit-juice-text-effect-861.html'
+             if (/biscuit/.test(command)) link = 'https://textpro.me/biscuit-text-effect-858.html'
+             if (/wood/.test(command)) link = 'https://textpro.me/wood-text-effect-856.html'
+             if (/chocolate/.test(command)) link = 'https://textpro.me/chocolate-cake-text-effect-890.html'
+             if (/strawberry/.test(command)) link = 'https://textpro.me/strawberry-text-effect-online-889.html'
+             if (/matrix/.test(command)) link = 'https://textpro.me/matrix-style-text-effect-online-884.html'
+             if (/blood/.test(command)) link = 'https://textpro.me/horror-blood-text-effect-online-883.html'
+             if (/dropwater/.test(command)) link = 'https://textpro.me/dropwater-text-effect-872.html'
+             if (/toxic/.test(command)) link = 'https://textpro.me/toxic-text-effect-online-901.html'
+             if (/lava/.test(command)) link = 'https://textpro.me/lava-text-effect-online-914.html'
+             if (/rock/.test(command)) link = 'https://textpro.me/rock-text-effect-online-915.html'
+             if (/bloodglas/.test(command)) link = 'https://textpro.me/blood-text-on-the-frosted-glass-941.html'
+             if (/hallowen/.test(command)) link = 'https://textpro.me/halloween-fire-text-effect-940.html'
+             if (/darkgold/.test(command)) link = 'https://textpro.me/metal-dark-gold-text-effect-online-939.html'
+             if (/joker/.test(command)) link = 'https://textpro.me/create-logo-joker-online-934.html'
+             if (/wicker/.test(command)) link = 'https://textpro.me/wicker-text-effect-online-932.html'
+             if (/firework/.test(command)) link = 'https://textpro.me/firework-sparkle-text-effect-930.html'
+             if (/skeleton/.test(command)) link = 'https://textpro.me/skeleton-text-effect-online-929.html'
+             if (/blackpink/.test(command)) link = 'https://textpro.me/create-blackpink-logo-style-online-1001.html'
+             if (/sand/.test(command)) link = 'https://textpro.me/write-in-sand-summer-beach-free-online-991.html'
+             if (/glue/.test(command)) link = 'https://textpro.me/create-3d-glue-text-effect-with-realistic-style-986.html'
+             if (/1917/.test(command)) link = 'https://textpro.me/1917-style-text-effect-online-980.html'
+                if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effect-931.html'
+             let anu = await maker.textpro(link, q)
+                XeonBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.botname},For my Darling ` }, { quoted: m })
+             }
+             break
+            case 'drakorxxx':
+               if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply('What Are You Looking For??')
+                await reply(mess.wait)
+                xeonkey.Drakor(`${text}`).then(async data => {
+                    let txt = `*-----「 DRAKOR-SEARCH 」-----*\n\n`
+                    for (let i of data) {
+                        txt += `*📫 Title :* ${i.judul}\n`
+                        txt += `*📆 Years :* ${i.years}\n`
+                        txt += `*🎥 Genre :* ${i.genre}\n`
+                        txt += `*📚 Url :* ${i.url}\n-----------------------------------------------------\n`
+                    }
+                    await sendFileFromUrl(from,data[0].thumbnail,txt,m)
+                })
+                .catch((err) => {
+                    reply(mess.error)
+                })
+            break
+            case 'drakor': {
+            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            if (!text) return reply(`Example : ${prefix + command} love`)
+            let res = await fetchJson(`https://zenzapis.xyz/webzone/drakor?query=${text}&apikey=hdiiofficial`)
+            let capt = `Drakor Search From : ${text}\n\n`
+            for (let i of res.result) {
+            capt += `${themeemoji} Title: ${i.judul}\n`
+            capt += `${themeemoji} Years: ${i.years}\n`
+            capt += `${themeemoji} Genre: ${i.genre}\n`
+            capt += `${themeemoji} Url: ${i.url}\n`
+            capt += `${themeemoji} Thumbnail Url: ${i.thumbnail}\n\n──────────────────────\n`
+            }
+            XeonBotInc.sendImage(m.chat, res.result[0].thumbnail, capt, m)
+            }
+            break
+            case 'animexxx':{
+            	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`What Anime Are You Looking For??`)
+                await reply(mess.wait)
+                xeonkey.Anime(q).then(async data => {
+                    let txt = `*-------「 ANIME-SEARCH 」-------*\n\n`
+                    for (let i of data) {
+                        txt += `*📫 Title :* ${i.judul}\n`
+                        txt += `*📚 Url :* ${i.link}\n-----------------------------------------------------\n`
+                    }
+                    let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com',''))
+                    var but = [
+				{
+					"urlButton": {
+						"displayText": "Watch🎥",
+						"url": `${websitex}`
+						}
+					}
+				]
+				await XeonBotInc.send5ButLoc(from, txt , `© ${ownername}`,gam, but , { userJid: m.chat, quoted: m })
+                })
+                .catch((err) => {
+                    reply(mess.error)
+                })
+                }
+            break
+            case 'characterxxx': case 'karakterxxx':
+               if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`What Anime Character Are You Looking For??`)
+                await reply(mess.wait)
+                xeonkey.Character(q).then(async data => {
+                    let txt = `*---「 CHARACTER-SEARCH 」---*\n\n`
+                    for (let i of data) {
+                        txt += `*📫 Character :* ${i.character}\n`
+                        txt += `*📚 Url :* ${i.link}\n-----------------------------------------------------\n`
+                    }
+                    let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com',''))
+                    var but = [
+				{
+					"urlButton": {
+						"displayText": "YouTube📍",
+						"url": `${websitex}`
+						}
+					}
+				]
+				await XeonBotInc.send5ButLoc(from, txt , `© ${ownername}`,gam, but , { userJid: m.chat, quoted: m })
+                })
+                .catch((err) => {
+                    reply(mess.error)
+                })
+            break
+            case 'manga2':
+               if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`What Manga Are You Looking For??`)
+                await reply(mess.wait)
+                xeonkey.Manga(`${text}`).then(async data => {
+                    let txt = `*------「 MANGA-SEARCH 」------*\n\n`
+                    for (let i of data) {
+                         txt += `*📫 Title :* ${i.judul}\n`
+                         txt += `*📚 Url :* ${i.link}\n-----------------------------------------------------\n`
+                    }
+                    let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com',''))
+                    var but = [
+				{
+					"urlButton": {
+						"displayText": "YouTube📍",
+						"url": `${websitex}`
+						}
+					}
+				]
+				await XeonBotInc.send5ButLoc(from, txt , `© ${ownername}`,gam, but , { userJid: m.chat, quoted: m })
+                })
+                .catch((err) => {
+                    reply(mess.error)
+                })
+                case 'anime':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	    if(!q) return reply(`Which anime do you want to search?\nExample ${prefix}manga naruto`)
+reply(mess.wait)						
+const { Anime } =require("@shineiichijo/marika")
+    const client = new Anime();
+     let anime = await client.searchAnime(q)
+    let result = anime.data[0];
+    console.log(result)
+   let details = `🎀 *Title: ${result.title}*\n`;
+    details += `🎋 *Format: ${result.type}*\n`;
+    details += `📈 *Status: ${result.status.toUpperCase().replace(/\_/g, " ")}*\n`;
+    details += `🍥 *Total episodes: ${result.episodes}*\n`;
+    details += `🎈 *Duration: ${result.duration}*\n`;
+    details += `🧧 *Genres:*\n`;
+    for (let i = 0; i < result.genres.length; i++) {
+      details += `\t\t\t\t\t\t\t\t*${result.genres[i].name}*\n`;
+    }
+    details += `✨ *Based on: ${result.source.toUpperCase()}*\n`;
+    details += `📍 *Studios:*\n`;
+    for (let i = 0; i < result.studios.length; i++) {
+      details += `\t\t\t\t\t\t\t\t*${result.studios[i].name}*\n`;
+    }
+    details += `🎴 *Producers:*\n`;
+    for (let i = 0; i < result.producers.length; i++) {
+      details += `\t\t\t\t\t\t\t\t\t\t*${result.producers[i].name}*\n`;
+    }
+    details += `💫 *Premiered on: ${result.aired.from}*\n`;
+    details += `?? *Ended on: ${result.aired.to}*\n`;
+    details += `🎐 *Popularity: ${result.popularity}*\n`;
+    details += `🎏 *Favorites: ${result.favorites}*\n`;
+    details += `🎇 *Rating: ${result.rating}*\n`;
+    details += `🏅 *Rank: ${result.rank}*\n\n`;
+    if (result.trailer.url !== null)
+      details += `♦ *Trailer: ${result.trailer.url}*\n\n`;
+    details += `🌐 *URL: ${result.url}*\n\n`;
+    if (result.background !== null)
+      details += `🎆 *Background:* ${result.background}*\n\n`;
+    details += `❄ *Description:* ${result.synopsis.replace(
+      /\[Written by MAL Rewrite]/g,
+      ""
+    )}`
+XeonBotInc.sendMessage(m.chat,{image:{url:result.images.jpg.large_image_url},caption:details},{quoted:m})   
+break
+case 'manga':
+   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(mess.wait)						
+const { Manga } =require("@shineiichijo/marika")
+const manga = new Manga();
+if(!q) return reply(`Which manga do you want to search?\nExample ${prefix}manga naruto`)
+let srh = await manga.searchManga(q)
+    let mang = `🎀 *Title: ${srh.data[0].title}*\n`;
+    mang += `📈 *Status: ${srh.data[0].status}*\n`;
+    mang += `🌸 *Total Volumes: ${srh.data[0].volumes}*\n`;
+    mang += `🎗 *Total Chapters: ${srh.data[0].chapters}*\n`;
+    mang += `🧧 *Genres:*\n`;
+    for (let i = 0; i < srh.data[0].genres.length; i++) {
+      mang += `\t\t\t\t\t\t\t\t*${srh.data[0].genres[i].name}*\n`;
+    }
+    mang += `✨ *Published on: ${srh.data[0].published.from}*\n`;
+    mang += `🌟 *Score: ${srh.data[0].scored}*\n`;
+    mang += `🎐 *Popularity: ${srh.data[0].popularity}*\n`;
+    mang += `🎏 *Favorites: ${srh.data[0].favorites}*\n`;
+    mang += `✍ *Authors:*\n`;
+    for (let i = 0; i < srh.data[0].authors.length; i++) {
+      mang += `\t\t\t\t\t\t\t\t\t*${srh.data[0].authors[i].name}* *(${srh.data[0].authors[0].type})*\n`;
+    }
+    mang += `\n🌐 *URL: ${srh.data[0].url}*\n\n`;
+    if (srh.data[0].background !== null)
+      mang += `🎆 *Background:* ${srh.data[0].background}`;
+    mang += `❄️ *Description:* ${srh.data[0].synopsis.replace(
+      /\[Written by MAL Rewrite]/g,
+      ""
+    )}`;
+XeonBotInc.sendMessage(m.chat,{image:{url:srh.data[0].images.jpg.large_image_url},caption:mang},{quoted:m})   
+break
+            break
+case 'lyrics': {
+		            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	    if (!text) return reply(`Use example ${prefix}lyrics Despacito`)
+	reply(mess.wait)
+	const { lyrics, lyricsv2 } = require('@bochilteam/scraper')
+    const result = await lyricsv2(text).catch(async _ => await lyrics(text))
+    reply(`
+${themeemoji} Title : *${result.title}*
+${themeemoji} Author : ${result.author}
+${themeemoji} Lyrics : ${result.lyrics}
+${themeemoji} Url : ${result.link}
+`.trim())
+}
+break
+case 'earthquake':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+const tres = await Gempa()
+var { Waktu, Lintang, Bujur, Magnitude, Kedalaman, Wilayah, Map } = tres.result
+console.log(Map)
+const captt = `Time : ${Waktu}\nLatitude : ${Lintang}\nLongitude : ${Bujur}\nRegion : ${Wilayah}`
+XeonBotInc.sendMessage(from, { image : { url : Map }, caption : captt})
+break
+case 'covidindo':
+case 'covid':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+const c = await covid()
+var { kasus, kematian, sembuh } = c[0]
+XeonBotInc.sendMessage(from, {text : `Case : ${kasus}\n\nDead : ${kematian}\n\nHealed : ${sembuh}`}, m)
+break
+case 'tvschedule':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply('Send orders *#tvschedule [channel]*')
+reply(await jadwaltv(q))
+break
+case 'playstore': case 'apk':
+if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if(!q) return reply('what are you looking for?')
+let play = await hx.playstore(q)
+let storee = '❉─────────────────────❉\n'
+for (let i of play){
+storee += `\n*「 *PLAY STORE* 」*\n
+- *Name* : ${i.name}
+- *Link* : ${i.link}\n
+- *Dev* : ${i.developer}
+- *Dev Link* : ${i.link_dev}\n❉─────────────────────❉`
+}
+reply(storee)
+break
+case 'film':
+if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	reply(mess.wait)
+if (!q) return reply(`What film you wanna search?\nExample: ${prefix}film Spiderman`)
+xeonkey.Film(q)
+    .then(data => {console.log(data)
+    let krl = `*❒「  Film ${q} 」*\n*🌿 Author* : ${data[0].author}\n\n`
+			    for (let i of data) {
+                krl += (`\n────────────────────\n\n *📍Title :* ${i.judul}\n *📟 Quality :* ${i.quality}\n *🖥️ Type : ${i.type}*\n *⌛ Uploaded :* ${i.upload}\n *🌍 Source :* ${i.link}`)
+                }
+               XeonBotInc.sendMessage(from, { image: { url: data[0].thumb}, caption: krl }, { quoted: fdocs })
+});
+break
+case 'img':
+case 'image': {
+	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                reply(mess.wait)
+		let { pinterest } = require('./lib/scraperW')
+                anu = await pinterest(text)
+                result = anu[Math.floor(Math.random() * anu.length)]
+                XeonBotInc.sendMessage(m.chat, { image: { url: result }, caption: ` ${themeemoji} Media Url : `+result }, { quoted: m })
+            }
+            break
+case 'mcserver': case 'mcquery': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : \n${prefix + command} ip|port\nUses : \n${prefix + command} play.xeon.com|19132`)
+const Query = require("minecraft-query");
+
+const qury = args.join(" ")
+const iphost = qury.split("|")[0];
+const portnya = qury.split("|")[1];
+
+if (!iphost) return replay(`Where's your ip?`)
+if (!portnya) return replay(`Where's the port??`)
+
+const q = new Query({host: iphost, port: portnya, timeout: 7500});
+
+q.fullStat()
+.then(success => {
+replay(jsonformat(success));
+return q.basicStat()
+})
+.then(success => {
+replay(jsonformat(success));
+q.close();
+})
+}
+break
+case 'mcpedl': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : ${prefix + command} shader`)
+xeontod.mcpedl(args.join(" ")).then(async(res) => {
+teks = `*| MCPEDL SEARCH |*`
+for (let i of res) {
+teks += `\n\nName : ${i.name}\nCategory : ${i.category}\nDate : ${i.date}\nDesc : ${i.desc}\nLink : ${i.link}`
+}
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu🥀'}, type: 1}
+]
+let buttonMessage = {
+image: log0,
+jpegThumbnail: thum,
+caption: teks,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+})
+}
+break
+case 'happymod': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : ${prefix + command} mobile legend`)
+xeontod.happymod(args.join(" ")).then(async(res) => {
+teks = '```「 HappyMod Search 」```'
+for (let i of res) {
+teks += `\n\n${i.name}\n`
+teks += `${i.link}`
+}
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu🥀'}, type: 1}
+]
+let buttonMessage = {
+image: {url:res[0].icon},
+jpegThumbnail: thum,
+caption: teks,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+})
+}
+break
+case 'searchgc': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (args.length < 1) return replay(`Example :\n${prefix}searchgc Classy Editor`)
+nae = args.join(" ")
+hx.linkwa(nae).then(res => {
+teks = '```「 Search Group 」```'
+for (let i of res) {
+teks += `\n\n•> Group Whatsapp :\n`
+teks += `${i.link}\n`
+teks += `${i.nama}`
+}
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu🥀'}, type: 1}
+]
+let buttonMessage = {
+image: log0,
+jpegThumbnail: thum,
+caption: teks,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+})
+}
+break
+case 'servermc': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+xeontod.servermc().then(async(res) => {
+let teks = '*| MINECRAFT SERVER |*\n\nhttps://minecraftpocket-servers.com/country/indonesia/\n\n'
+let no = 1
+for (let i of res) {
+teks += `${themeemoji} Server To ${no++}\nip : ${i.ip}\nport : ${i.port}\nversi : ${i.versi}\nplayer : ${i.player}\n\n`
+}
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu🥀'}, type: 1}
+]
+let buttonMessage = {
+image: log0,
+jpegThumbnail: thum,
+caption: teks,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+})
+}
+break
+case 'fajar-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+FajarNews().then(async(res) => {
+console.log(res) 
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+replay(teks) 
+})
+break
+case "quotes":
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+var res = await Quotes()
+teks = "══════════════════"
+teks += `\nAuthor: ${res.author}\n`
+teks += `\nQuotes:\n`
+teks += `${res.quotes}\n`
+teks += "══════════════════"
+replay(teks)
+break
+case "darkjoke":
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+var res = await Darkjokes()
+teks = "\nDarkjokes*"
+XeonBotInc.sendMessage(m.chat, { image : { url : res }, caption: teks }, { quoted : m })
+break
+case 'cnn-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+CNNNews().then(res => {
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+replay(teks) 
+})
+break
+case 'tvsearch':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply('Where is the title?') 
+LayarKaca21(q).then(async(res) => {
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+  no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `Film: ${i.film_title}\n`
+teks += `Link: ${i.film_link}\n`
+}
+teks += `══════════════════`
+replay(teks) 
+})
+break
+case 'cnbc-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+CNBCNews().then(async(res) => {
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+case 'tribun-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+TribunNews().then(async(res) => {
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+})
+break
+case 'indozone-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+IndozoneNews().then(async(res) => {
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+})
+break
+case 'kompas-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+KompasNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+case 'detik-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+DetikNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+case 'daily-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+DailyNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+
+case 'inews-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+iNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+replay(teks) 
+})
+break
+case 'okezone-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+OkezoneNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+
+case 'sindo-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+SindoNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+replay(teks) 
+})
+break
+case 'tempo-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+TempoNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+case 'antara-news':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+AntaraNews().then(async(res) => {
+
+no = 0
+teks = "══════════════════"
+for (let i of res) {
+no += 1
+teks += `\n• ${no.toString()} •\n`
+teks += `News: ${i.berita}\n`
+teks += `Upload: ${i.berita_diupload}\n`
+teks += `Type: ${i.berita_jenis}\n`
+teks += `Link: ${i.berita_url}\n`
+}
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+})
+break
+
+case "kontan-news":
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  KontanNews().then(async (res) => {
+    
+    teks = "══════════════════"
+    no = 0
+    for (let i of res) {
+      no += 1
+      teks += `\n• ${no.toString()} •\n`
+      teks += `News: ${i.berita}\n`
+      teks += `Type: ${i.berita_jenis}\n`
+      teks += `Upload: ${i.berita_diupload}\n`
+      teks += `Link: ${i.berita_url}\n`
+    }
+    teks += "══════════════════"
+    XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+  })
+  break
+case "merdeka-news":
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  MerdekaNews().then(async (res) => {
+    
+    teks = "══════════════════"
+    no = 0
+    for (let i of res) {
+      no += 1
+      teks += `\n• ${no.toString()} •\n`
+      teks += `News: ${i.berita}\n`
+      teks += `Upload: ${i.berita_diupload}\n`
+      teks += `Link: ${i.berita_url}\n`
+    }
+    teks += "══════════════════"
+    XeonBotInc.sendMessage(m.chat, { image : { url : res[0].berita_thumb }, caption: teks }, { quoted : m })
+
+  })
+  break
+
+case "jalantikus-meme":
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  var res = await JalanTikusMeme()
+teks = "══════════════════"
+teks += "\nLaughing out loud?🥴\n"
+teks += `\nSource: ${res}\n`
+teks += "══════════════════"
+XeonBotInc.sendMessage(m.chat, { image : { url : res }, caption: teks }, { quoted : m })
+break
+            case 'cinemaschedule': {
+            	            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            if (!text) return reply(`Example: ${prefix + command} jakarta`)
+            let res = await fetchJson(`https://zenzapis.xyz/webzone/jadwalbioskop?kota=${text}&apikey=hdiiofficial`)
+            let capt = `Jadwal Bioskop From : ${text}\n\n`
+            for (let i of res.result){
+            capt += ` Title: ${i.title}\n`
+            capt += ` Thumbnail: ${i.thumb}\n`
+            capt += ` Url: ${i.url}\n\n──────────────────────\n`
+            }
+            XeonBotInc.sendImage(m.chat, res.result[0].thumb, capt, m)
+            }
+            break
+case 'shortstoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply(`*List*\n${prefix}shortstory Anak\n${prefix}shortstory Bahasa Daerah\n${prefix}shortstory Bahasa Inggris\n${prefix}shortstory Bahasa Jawa\n${prefix}shortstory Bahasa Sunda\n${prefix}shortstory Budaya\n${prefix}shortstory Cinta\n${prefix}shortstory Cinta Islami\n${prefix}shortstory Cinta Pertama\n${prefix}shortstory Cinta Romantis\n${prefix}shortstory Cinta Sedih\n${prefix}shortstory Cinta Segitiga\n${prefix}shortstory Cinta Sejati\n${prefix}shortstory Galau\n${prefix}shortstory Gokil\n${prefix}shortstory Inspiratif\n${prefix}shortstory Jepang\n${prefix}shortstory Kehidupan\n${prefix}shortstory Keluarga\n${prefix}shortstory Kisah Nyata\n${prefix}shortstory Korea\n${prefix}shortstory Kristen\n${prefix}shortstory Liburan\n${prefix}shortstory Lingkungan\n${prefix}shortstory Lucu\n${prefix}shortstory Malaysia\n${prefix}shortstory Mengharukan\n${prefix}shortstory Misteri\n${prefix}shortstory Motivasi\n${prefix}shortstory Nasihat\n${prefix}shortstory Nasionalisme\n${prefix}shortstory Olahraga\n${prefix}shortstory Patah Hati\n${prefix}shortstory Penantian\n${prefix}shortstory Pendidikan\n${prefix}shortstory Pengalaman Pribadi\n${prefix}shortstory Pengorbanan\n${prefix}shortstory Penyesalan\n${prefix}shortstory Perjuangan\n${prefix}shortstory Perpisahan\n${prefix}shortstory Persahabatan\n${prefix}shortstory Petualangan\n${prefix}shortstory Ramadhan\n${prefix}shortstory Remaja\n${prefix}shortstory Renungan\n${prefix}shortstory Rindu\n${prefix}shortstory Rohani\n${prefix}shortstory Romantis\n${prefix}shortstory Sastra\n${prefix}shortstory Sedih\n${prefix}shortstory Sejarah\n${prefix}shortstory Slice Of Life\n${prefix}shortstory Terjemahan\n${prefix}shortstory Thriller`)
+let cerpe = await cerpen(q)
+reply(`${global.themeemoji} _*Title :*_ ${cerpe.title}\n${global.themeemoji} _*Author :*_ ${cerpe.author}\n${global.themeemoji} _*Category :*_ ${cerpe.kategori}\n${global.themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${global.themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+case 'loveshortstoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let cerpe = await cerpen(`Cinta segitiga`)
+        reply(`${themeemoji} _*Title :*_ ${cerpe.title}\n${themeemoji} _*Author :*_ ${cerpe.author}\n${themeemoji} _*Category :*_ ${cerpe.kategori}\n${themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+case 'islamicshortstoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let cerpe = await cerpen(`Cinta segitiga`)
+        reply(`${themeemoji} _*Title :*_ ${cerpe.title}\n${themeemoji} _*Author :*_ ${cerpe.author}\n${themeemoji} _*Category :*_ ${cerpe.kategori}\n${themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+case 'disturbingshorystoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let cerpe = await cerpen(`galau`)
+       reply(`${themeemoji} _*Title :*_ ${cerpe.title}\n${themeemoji} _*Author :*_ ${cerpe.author}\n${themeemoji} _*Category :*_ ${cerpe.kategori}\n${themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+case 'friendshipshortstoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let cerpe = await cerpen(`persahabatan`)
+        reply(`${themeemoji} _*Title :*_ ${cerpe.title}\n${themeemoji} _*Author :*_ ${cerpe.author}\n${themeemoji} _*Category :*_ ${cerpe.kategori}\n${themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+case 'sacrificeshortstoryx':{
+	   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let cerpe = await cerpen(`Pengorbanan`)
+reply(`${themeemoji} _*Title :*_ ${cerpe.title}\n${themeemoji} _*Author :*_ ${cerpe.author}\n${themeemoji} _*Category :*_ ${cerpe.kategori}\n${themeemoji} _*Pass Moderation :*_ ${cerpe.lolos}\n${themeemoji} _*Story :*_\n${cerpe.cerita}`)
+}
+break
+	    case 'couplepp':  case 'ppcouple': {
+		   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                reply(mess.wait)
+                let anu = await fetchJson('https://raw.githubusercontent.com/iamriz7/kopel_/main/kopel.json')
+                let random = anu[Math.floor(Math.random() * anu.length)]
+                XeonBotInc.sendMessage(m.chat, { image: { url: random.male }, caption: `Couple Male🙎🏻‍♂️` }, { quoted: m })
+                XeonBotInc.sendMessage(m.chat, { image: { url: random.female }, caption: `Couple Female🙎🏻‍♀️` }, { quoted: m })
+            }
+	    break
+            case 'animequotes': case 'animequote': {
+            	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+		let { quotesAnime } = require('./lib/scraperW')
+                let anu = await quotesAnime()
+                result = anu[Math.floor(Math.random() * anu.length)]
+                let buttons = [
+                    {buttonId: `quotesanime`, buttonText: {displayText: 'Next'}, type: 1}
+                ]
+                let buttonMessage = {
+                    text: `~_${result.quotes}_\n\nBy '${result.karakter}', ${result.anime}\n\n- ${result.up_at}`,
+                    footer: 'Press The Button Below',
+                    buttons: buttons,
+                    headerType: 2
+                }
+                XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
+case 'wallpaper': case 'animewallpaper': case 'animewall': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                if (!args.join(" ")) return reply("What picture are you looking for??")
+		let { wallpaper } = require('./lib/scraperW')
+                anu = await wallpaper(args)
+                result = anu[Math.floor(Math.random() * anu.length)]
+		let buttons = [
+                    {buttonId: `.wallpaper ${args.join(" ")}`, buttonText: {displayText: 'Next Image'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: result.image[0] },
+                    caption: `Title : ${result.title}\nCategory : ${result.type}\nDetail : ${result.source}\nMedia Url : ${result.image[2] || result.image[1] || result.image[0]}`,
+                    footer: `${botname}`,
+                    buttons: buttons,
+                    headerType: 4
+                }
+                XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
+
+case 'wiki': case 'wikipedia':
+ 	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+if (args.length < 1) return reply('What Are You Looking For?? ')
+const res2 = await XeonBotIncWiki(q).catch(e => {
+return reply('_[ ! ] Error Result Not Found_') 
+}) 
+const result2 = `*Title :* ${res2[0].judul}\n*Wiki :* ${res2[0].wiki}`
+XeonBotInc.sendMessage(from, { image : { url : res2[0].thumb }, caption : result2}) 
+break
+            case 'wikimedia': {
+            	 	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Enter Query Title`)
+		let { wikimedia } = require('./lib/scraper')
+                anu = await wikimedia(text)
+                result = anu[Math.floor(Math.random() * anu.length)]
+                let buttons = [
+                    {buttonId: `wikimedia ${text}`, buttonText: {displayText: '➡️Next Image➡️'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: result.image },
+                    caption: `${themeemoji} Title : ${result.title}\n${themeemoji} Source : ${result.source}\n${themeemoji} Media Url : ${result.image}`,
+                    footer: XeonBotInc.user.name,
+                    buttons: buttons,
+                    headerType: 4
+                }
+                XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
+            case 'quotesanime': case 'animequotes': case 'animequote': case 'quoteanime': {
+            	 	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+		let { quotesAnime } = require('./lib/scraper')
+                let anu = await quotesAnime()
+                result = anu[Math.floor(Math.random() * anu.length)]
+                let buttons = [
+                    {buttonId: `quotesanime`, buttonText: {displayText: '➡️Next➡️'}, type: 1}
+                ]
+                let buttonMessage = {
+                    text: `~_${result.quotes}_\n\nBy '${result.karakter}', ${result.anime}\n\n- ${result.up_at}`,
+                    footer: 'Press The Button Below',
+                    buttons: buttons,
+                    headerType: 2
+                }
+                XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+            break
+	        case 'nomerhoki': case 'nomorhoki': {
+			   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!Number(text)) return reply(`Example : ${prefix + command} 916909137213`)
+                let anu = await primbon.nomer_hoki(Number(text))
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Phone Number :* ${anu.message.nomer_hp}\n${themeemoji} *Shuzi Angka Figures :* ${anu.message.angka_shuzi}\n${themeemoji} *Positive Energy :*\n- Riches : ${anu.message.energi_positif.kekayaan}\n- Health : ${anu.message.energi_positif.kesehatan}\n- Love : ${anu.message.energi_positif.cinta}\n- Stability : ${anu.message.energi_positif.kestabilan}\n- Percentage : ${anu.message.energi_positif.persentase}\n${themeemoji} *Negative Energy :*\n- Dispute : ${anu.message.energi_negatif.perselisihan}\n- Lost : ${anu.message.energi_negatif.kehilangan}\n- Catastrophe : ${anu.message.energi_negatif.malapetaka}\n- Destruction : ${anu.message.energi_negatif.kehancuran}\n- Percentage : ${anu.message.energi_negatif.persentase}`, m)
+            }
+            break
+            case 'artimimpi': case 'tafsirmimpi': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} belanja`)
+                let anu = await primbon.tafsir_mimpi(text)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Dream :* ${anu.message.mimpi}\n${themeemoji} *Meaning :* ${anu.message.arti}\n${themeemoji} *Solution :* ${anu.message.solusi}`, m)
+            }
+            break
+            case 'ramalanjodoh': case 'ramaljodoh': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005, Novia, 16, 11, 2004`)
+                let [nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2] = text.split`,`
+                let anu = await primbon.ramalan_jodoh(nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Your Name :* ${anu.message.nama_anda.nama}\n${themeemoji} *Your Birth :* ${anu.message.nama_anda.tgl_lahir}\n${themeemoji} *Couple Name :* ${anu.message.nama_pasangan.nama}\n${themeemoji} *Born Couple :* ${anu.message.nama_pasangan.tgl_lahir}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'ramalanjodohbali': case 'ramaljodohbali': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005, Novia, 16, 11, 2004`)
+                let [nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2] = text.split`,`
+                let anu = await primbon.ramalan_jodoh_bali(nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Your Name :* ${anu.message.nama_anda.nama}\n${themeemoji} *Your Birth :* ${anu.message.nama_anda.tgl_lahir}\n${themeemoji} *Couple Name :* ${anu.message.nama_pasangan.nama}\n${themeemoji} *Born Couple :* ${anu.message.nama_pasangan.tgl_lahir}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'suamiistri': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005, Novia, 16, 11, 2004`)
+                let [nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2] = text.split`,`
+                let anu = await primbon.suami_istri(nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Husband's Name :* ${anu.message.suami.nama}\n${themeemoji} *Husband Born :* ${anu.message.suami.tgl_lahir}\n${themeemoji} *Wife's Name :* ${anu.message.istri.nama}\n${themeemoji} *Born Wife :* ${anu.message.istri.tgl_lahir}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'ramalancinta': case 'ramalcinta': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005, Novia, 16, 11, 2004`)
+                let [nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2] = text.split`,`
+                let anu = await primbon.ramalan_cinta(nama1, tgl1, bln1, thn1, nama2, tgl2, bln2, thn2)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Your Name :* ${anu.message.nama_anda.nama}\n${themeemoji} *Your Birth :* ${anu.message.nama_anda.tgl_lahir}\n${themeemoji} *Couple Name :* ${anu.message.nama_pasangan.nama}\n${themeemoji} *Born Couple :* ${anu.message.nama_pasangan.tgl_lahir}\n${themeemoji} *Positive Side :* ${anu.message.sisi_positif}\n${themeemoji} *Negative Side :* ${anu.message.sisi_negatif}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'artinama': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika Ardianta`)
+                let anu = await primbon.arti_nama(text)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Meaning :* ${anu.message.arti}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'kecocokannama': case 'cocoknama': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005`)
+                let [nama, tgl, bln, thn] = text.split`,`
+                let anu = await primbon.kecocokan_nama(nama, tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Life Path :* ${anu.message.life_path}\n${themeemoji} *Destiny :* ${anu.message.destiny}\n${themeemoji} *Destiny Desire :* ${anu.message.destiny_desire}\n${themeemoji} *Personality :* ${anu.message.personality}\n${themeemoji} *Percentage :* ${anu.message.persentase_kecocokan}`, m)
+            }
+            break
+            case 'kecocokanpasangan': case 'cocokpasangan': case 'pasangan': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika|Novia`)
+                let [nama1, nama2] = text.split`|`
+                let anu = await primbon.kecocokan_nama_pasangan(nama1, nama2)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendImage(m.chat,  anu.message.gambar, `${themeemoji} *Your Name :* ${anu.message.nama_anda}\n${themeemoji} *Couple Name :* ${anu.message.nama_pasangan}\n${themeemoji} *Positive Side :* ${anu.message.sisi_positif}\n${themeemoji} *Negative Side :* ${anu.message.sisi_negatif}`, m)
+            }
+            break
+            case 'jadianpernikahan': case 'jadiannikah': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 6, 12, 2020`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.tanggal_jadian_pernikahan(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Wedding Date :* ${anu.message.tanggal}\n${themeemoji} *Characteristics :* ${anu.message.karakteristik}`, m)
+            }
+            break
+            case 'sifatusaha': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix+ command} 28, 12, 2021`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.sifat_usaha_bisnis(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Born :* ${anu.message.hari_lahir}\n${themeemoji} *Business :* ${anu.message.usaha}`, m)
+            }
+            break
+            case 'rejeki': case 'rezeki': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.rejeki_hoki_weton(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Born :* ${anu.message.hari_lahir}\n${themeemoji} *Sustenance :* ${anu.message.rejeki}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'pekerjaan': case 'kerja': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.pekerjaan_weton_lahir(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Born :* ${anu.message.hari_lahir}\n?? *Profession :* ${anu.message.pekerjaan}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'ramalannasib': case 'ramalnasib': case 'nasib': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.ramalan_nasib(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Analysis :* ${anu.message.analisa}\n${themeemoji} *Root Number :* ${anu.message.angka_akar}\n${themeemoji} *Nature :* ${anu.message.sifat}\n${themeemoji} *Element :* ${anu.message.elemen}\n${themeemoji} *Lucky Numbers :* ${anu.message.angka_keberuntungan}`, m)
+            }
+            break
+            case 'potensipenyakit': case 'penyakit': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.cek_potensi_penyakit(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Analysis :* ${anu.message.analisa}\n${themeemoji} *Sector :* ${anu.message.sektor}\n?? *Element :* ${anu.message.elemen}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'artitarot': case 'tarot': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.arti_kartu_tarot(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendImage(m.chat, anu.message.image, `${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Tarot Symbol :* ${anu.message.simbol_tarot}\n${themeemoji} *Meaning :* ${anu.message.arti}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'fengshui': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 1, 2005\n\nNote : ${prefix + command} Name, gender, tahun lahir\nGender : 1 untuk laki-laki & 2 untuk perempuan`)
+                let [nama, gender, tahun] = text.split`,`
+                let anu = await primbon.perhitungan_feng_shui(nama, gender, tahun)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Born :* ${anu.message.tahun_lahir}\n${themeemoji} *Gender :* ${anu.message.jenis_kelamin}\n${themeemoji} *Kua Number :* ${anu.message.angka_kua}\n${themeemoji} *Group :* ${anu.message.kelompok}\n${themeemoji} *Character :* ${anu.message.karakter}\n${themeemoji} *Good Sector :* ${anu.message.sektor_baik}\n${themeemoji} *Bad Sector :* ${anu.message.sektor_buruk}`, m)
+            }
+            break
+            case 'haribaik': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.petung_hari_baik(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *When Challenged :* ${anu.message.kala_tinantang}\n${themeemoji} *Info :* ${anu.message.info}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'harisangar': case 'taliwangke': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.hari_sangar_taliwangke(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Info :* ${anu.message.info}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'harinaas': case 'harisial': {
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.primbon_hari_naas(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Day Of Birth :* ${anu.message.hari_lahir}\n${themeemoji} *Date Of Birth :* ${anu.message.tgl_lahir}\n${themeemoji} *Fateful Day :* ${anu.message.hari_naas}\n${themeemoji} *Info :* ${anu.message.catatan}\n${themeemoji} *Notes :* ${anu.message.info}`, m)
+            }
+            break
+            case 'nagahari': case 'harinaga': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.rahasia_naga_hari(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Day Of Birth :* ${anu.message.hari_lahir}\n${themeemoji} *Date Of Birth :* ${anu.message.tgl_lahir}\n${themeemoji} *Dragon Day Direction :* ${anu.message.arah_naga_hari}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'arahrejeki': case 'arahrezeki': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.primbon_arah_rejeki(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Day Of Birth :* ${anu.message.hari_lahir}\n${themeemoji} *Date Of Birth :* ${anu.message.tgl_lahir}\n${themeemoji} *Sustenance Direction :* ${anu.message.arah_rejeki}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'peruntungan': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} DIka, 7, 7, 2005, 2022\n\nNote : ${prefix + command} Name, tanggal lahir, bulan lahir, tahun lahir, untuk tahun`)
+                let [nama, tgl, bln, thn, untuk] = text.split`,`
+                let anu = await primbon.ramalan_peruntungan(nama, tgl, bln, thn, untuk)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Fortune Of The Year :* ${anu.message.peruntungan_tahun}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'weton': case 'wetonjawa': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return (`Example : ${prefix + command} 7, 7, 2005`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.weton_jawa(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Date :* ${anu.message.tanggal}\n${themeemoji} *Number Of Neptune :* ${anu.message.jumlah_neptu}\n${themeemoji} *Day Character :* ${anu.message.watak_hari}\n${themeemoji} *Dragon Day :* ${anu.message.naga_hari}\n${themeemoji} *Good Hour :* ${anu.message.jam_baik}\n${themeemoji} *Birth Character :* ${anu.message.watak_kelahiran}`, m)
+            }
+            break
+            case 'sifat': case 'karakter': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005`)
+                let [nama, tgl, bln, thn] = text.split`,`
+                let anu = await primbon.sifat_karakter_tanggal_lahir(nama, tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Lifeline :* ${anu.message.garis_hidup}`, m)
+            }
+            break
+            case 'keberuntungan': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} Dika, 7, 7, 2005`)
+                let [nama, tgl, bln, thn] = text.split`,`
+                let anu = await primbon.potensi_keberuntungan(nama, tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Name :* ${anu.message.nama}\n${themeemoji} *Born :* ${anu.message.tgl_lahir}\n${themeemoji} *Results :* ${anu.message.result}`, m)
+            }
+            break
+            case 'memancing': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} 12, 1, 2022`)
+                let [tgl, bln, thn] = text.split`,`
+                let anu = await primbon.primbon_memancing_ikan(tgl, bln, thn)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Date :* ${anu.message.tgl_memancing}\n${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'masasubur': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return (`Example : ${prefix + command} 12, 1, 2022, 28\n\nNote : ${prefix + command} First Day Of Menstruation Cycle`)
+                let [tgl, bln, thn, siklus] = text.split`,`
+                let anu = await primbon.masa_subur(tgl, bln, thn, siklus)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Results :* ${anu.message.result}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'zodiak': case 'zodiac': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix+ command} 7 7 2005`)
+                let zodiak = [
+                    ["capricorn", new Date(1970, 0, 1)],
+                    ["aquarius", new Date(1970, 0, 20)],
+                    ["pisces", new Date(1970, 1, 19)],
+                    ["aries", new Date(1970, 2, 21)],
+                    ["taurus", new Date(1970, 3, 21)],
+                    ["gemini", new Date(1970, 4, 21)],
+                    ["cancer", new Date(1970, 5, 22)],
+                    ["leo", new Date(1970, 6, 23)],
+                    ["virgo", new Date(1970, 7, 23)],
+                    ["libra", new Date(1970, 8, 23)],
+                    ["scorpio", new Date(1970, 9, 23)],
+                    ["sagittarius", new Date(1970, 10, 22)],
+                    ["capricorn", new Date(1970, 11, 22)]
+                ].reverse()
+
+                function getZodiac(month, day) {
+                    let d = new Date(1970, month - 1, day)
+                    return zodiak.find(([_,_d]) => d >= _d)[0]
+                }
+                let date = new Date(text)
+                if (date == 'Invalid Date') throw date
+                let d = new Date()
+                let [tahun, bulan, tanggal] = [d.getFullYear(), d.getMonth() + 1, d.getDate()]
+                let birth = [date.getFullYear(), date.getMonth() + 1, date.getDate()]
+
+                let zodiac = await getZodiac(birth[1], birth[2])
+                
+                let anu = await primbon.zodiak(zodiac)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Zodiac :* ${anu.message.zodiak}\n${themeemoji} *Number :* ${anu.message.nomor_keberuntungan}\n${themeemoji} *Aroma :* ${anu.message.aroma_keberuntungan}\n${themeemoji} *Planet :* ${anu.message.planet_yang_mengitari}\n${themeemoji} *Flower :* ${anu.message.bunga_keberuntungan}\n${themeemoji} *Color :* ${anu.message.warna_keberuntungan}\n${themeemoji} *Stone :* ${anu.message.batu_keberuntungan}\n${themeemoji} *Element :* ${anu.message.elemen_keberuntungan}\n${themeemoji} *Zodiac Couple :* ${anu.message.pasangan_zodiak}\n${themeemoji} *Notes :* ${anu.message.catatan}`, m)
+            }
+            break
+            case 'shio': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} tikus\n\nNote : For Detail https://primbon.com/shio.htm`)
+                let anu = await primbon.shio(text)
+                if (anu.status == false) return reply(anu.message)
+                XeonBotInc.sendText(m.chat, `${themeemoji} *Results :* ${anu.message}`, m)
+            }
+            break
+	    case 'tiktok':{
+  	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+  if (!q) return reply('Where is the link?')
+  reply(mess.wait)
+  if (!q.includes('tiktok')) return reply(`That's not a tiktok link!`)
+   const musim_rambutan = await XeonBotIncTiktok(`${q}`).catch(e => {
+ reply(mess.error) 
+} )
+   console.log(musim_rambutan)
+   const xeontiktokop = musim_rambutan.result.watermark
+texttk = `Wanna download no watermark or audio?
+_Please choose the button below_`
+let buttons = [
+{buttonId: `ttnowm ${q}`, buttonText: {displayText: 'No Watermark ❌'}, type: 1},
+{buttonId: `ttaud ${q}`, buttonText: {displayText: 'Audio 🎶'}, type: 1}
+]
+let buttonMessage = {
+video: {url:xeontiktokop},
+caption: texttk,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title: `${ownername}`,
+body: `${pushname}`,
+thumbnail: log0,
+mediaType:1,
+mediaUrl: q,
+sourceUrl: q
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+}
+break
+  case 'tiktoknowm': case 'ttnowm':{
+  	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+  if (!q) return reply('Where is the link?')
+  reply(mess.wait)
+  if (!q.includes('tiktok')) return reply(`That's not a tiktok link!`)
+   const musim_rambutan = await XeonBotIncTiktok(`${q}`).catch(e => {
+ reply(mess.error) 
+} )
+   console.log(musim_rambutan)
+   const xeonytiktoknowm = musim_rambutan.result.nowatermark
+    XeonBotInc.sendMessage(from, { video: { url: xeonytiktoknowm }, caption: "Here you go!" }, { quoted: m })
+   }
+  break
+  case 'tiktokaudio':
+case 'tiktokmusic':
+case 'ttaud':{
+	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+  if (!q) return reply('Where is the audio?')
+  if (!q.includes('tiktok')) return reply(`That's not a tiktok link!`)
+   const musim_rambutan = await XeonBotIncTiktok(`${q}`).catch(e => {
+ reply(mess.error) 
+} )
+   console.log(musim_rambutan)
+   const xeonytiktokaudio = musim_rambutan.result.nowatermark
+    XeonBotInc.sendMessage(from, { audio: { url: xeonytiktokaudio }, mimetype: 'audio/mp4' }, { quoted: m })
+   }
+ break
+	case 'music': case 'play': case 'song': case 'ytplay': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+let yts = require("yt-search")
+let search = await yts(text)
+let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
+let ytvc = await hx.youtube(anu.url)
+let buttons = [
+{buttonId: `ytvd ${ytvc.link}`, buttonText: {displayText: '► Video'}, type: 1},
+{buttonId: `ytad ${ytvc.mp3}`, buttonText: {displayText: '♫ Audio'}, type: 1}
+]
+let buttonMessage = {
+image: { url: anu.thumbnail },
+caption: `*| YOUTUBE PLAY |*
+
+${global.themeemoji} Title : ${anu.title}
+${global.themeemoji} Ext : Search
+${global.themeemoji} ID : ${anu.videoId}
+${global.themeemoji} Duration : ${anu.timestamp}
+${global.themeemoji} Viewers : ${anu.views}
+${global.themeemoji} Uploaded : ${anu.ago}
+${global.themeemoji} Author : ${anu.author.name}
+${global.themeemoji} Channel : ${anu.author.url}
+${global.themeemoji} Description : ${anu.description}
+${global.themeemoji} Url : ${anu.url}`,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title: anu.title,
+body: `${global.botname}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: anu.url,
+sourceUrl: anu.url
+}}
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+case 'getmusic': case 'getvideo': case 'yt': case 'youtube': case 'ytvideo': case 'ytmp3': case 'ytmp4': case 'ytmusic': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args[0]) return reply(mess.linkm)
+try {
+hx.youtube(args[0]).then(async(res) => {
+textyt = `*| YOUTUBE DOWNLOADER |*
+
+${global.themeemoji} Title : ${res.title}
+${global.themeemoji} Size : ${res.size}
+${global.themeemoji} Quality : ${res.quality}
+
+_Select video or audio and wait a while_`
+let buttons = [
+{buttonId: `ytvd ${res.link}`, buttonText: {displayText: '► Video'}, type: 1},
+{buttonId: `ytad ${res.mp3}`, buttonText: {displayText: '♫ Audio'}, type: 1}
+]
+let buttonMessage = {
+image: {url:res.thumb},
+caption: textyt,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title: res.title,
+body: `${global.ownername}`,
+thumbnail: {url:res.thumb},
+mediaType:2,
+mediaUrl: args[0],
+sourceUrl: args[0]
+}}
+}
+XeonBotInc.sendMessage(from, buttonMessage, {quoted:m})
+}).catch(_ => _)
+} catch {
+reply("Link error!")
+}
+}
+break
+case 'ytvd': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+XeonBotInc.sendMessage(from, {video:{url:args[0]}, mimetype:"video/mp4", caption:"Success", contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:`${global.botname}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `${global.websitex}`
+}}}, {quoted:m})
+}
+break
+case 'ytad': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+XeonBotInc.sendMessage(from, {audio:{url:args[0]}, mimetype:"audio/mp4", ptt:true, contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:`${global.botname}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `${global.websitex}`
+}}}, {quoted:m})
+}
+break
+            case 'ytdl': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(mess.linkm)
+                if (!isUrl(args[0]) && !args[0].includes('youtube.com')) return reply(`The link you provided is invalid`)
+                anu = await fetchJson(`https://api.akuari.my.id/downloader/youtube?link=${text}`)        
+                if (anu.filesize_video >= 999999) return reply('*File Over Limit* '+util.format(anu))
+                tummb = await getBuffer(anu.thumb)
+                audio = await getBuffer(anu.audio)        
+                XeonBotInc.sendMessage(m.chat, {document: audio, mimetype: 'audio/mpeg', fileName: `${anu.title}`}, { quoted : m }).catch((err) => reply(mess.error))
+                XeonBotInc.sendMessage(m.chat, { video: { url: anu.video }, jpegThumbnail:tummb, caption: `${util.format(anu)}`}, { quoted: m }).catch((err) => reply(mess.error))
+            }
+            break
+case 'ytshorts': case 'shorts': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+  if (!text) return reply(`*Use ${prefix + command} put yt shorts link*`)
+  if (!isUrl(args[0]) && !args[0].includes('youtube')) return reply(`The link you provided is not valid`)
+  xeonkey.Youtube(`${text}`).then(async (data) => {
+  if (data.medias[0].formattedSize.split('MB')[0] >= 999) return reply('*File Over Limit* '+util.format(data)) 
+  cap = `
+*YOUTUBE SHORTS*
+
+*${themeemoji}TITLE:* ${data.title}\n*${themeemoji}QUALITY:* ${data.medias[0].quality}\n*${themeemoji}SIZE:* ${data.medias[0].formattedSize}\n*${themeemoji}DURATION* ${data.duration}\n*${themeemoji}ID:* ${data.medias[0].cached}\n*${themeemoji}LINK:* ${data.url}\n\n*${botname}*`
+  buf = await getBuffer(data.thumbnail)
+  XeonBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${cap}` }, { quoted: m })
+  XeonBotInc.sendMessage(m.chat, { video: { url: data.medias[0].url }, jpegThumbnail:buf, caption: `*${themeemoji}TITLE:* ${data.title}\n*${themeemoji}QUALITY:* ${data.medias[0].quality}\n*${themeemoji}SIZE:* ${data.medias[0].formattedSize}` }, { quoted: m })  
+                }).catch((err) => {
+                    reply(mess.reply)
+                })
+            }
+            break
+	  case 'pinterest': case 'pin': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return reply("What picture are you looking for?")
+try {
+hx.pinterest(args.join(" ")).then(async(res) => {
+imgnyee = res[Math.floor(Math.random() * res.length)]
+let buttons = [
+{buttonId: `pinterest ${args.join(" ")}`, buttonText: {displayText: 'Next Image 👀'}, type: 1}
+]
+let buttonMessage = {
+image: { url: imgnyee },
+caption:  `${global.dogeemoji} Title : ` + args.join(" ") + `\n${global.dogeemoji} Media Url : `+imgnyee,
+footer: `${global.botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:`${global.botname}`,
+body:`${global.ownername}`,
+thumbnail: log0,
+mediaType:2,
+mediaUrl: `${global.websitex}`,
+sourceUrl: `${global.websitex}`
+}}
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+}).catch(_ => _)
+} catch {
+reply("Error")
+}
+}
+break
+case 'mediafire': {
+	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+if (!text) return reply(mess.linkm)
+if (!isUrl(args[0]) && !args[0].includes('mediafire.com')) return reply(`The link you provided is invalid`)
+const baby1 = await mediafireDl(text)
+if (baby1[0].size.split('MB')[0] >= 999) return reply('*File Over Limit* '+util.format(baby1))
+const result4 = `*MEDIAFIRE DOWNLOADER*
+				
+*Name* : ${baby1[0].nama}
+*Size* : ${baby1[0].size}
+*Mime* : ${baby1[0].mime}
+*Link* : ${baby1[0].link}`
+reply(`${result4}`)
+XeonBotInc.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : baby1[0].nama, mimetype: baby1[0].mime }, { quoted : m }).catch ((err) => reply(mess.error))
+}
+break
+            case 'umma': case 'ummadl': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	        if (!text) return reply(`Example : ${prefix + command} https://umma.id/channel/video/post/gus-arafat-sumber-kecewa-84464612933698`)
+                let { umma } = require('./lib/scraper')
+		let anu = await umma(isUrl(text)[0])
+		if (anu.type == 'video') {
+		    let buttons = [
+                        {buttonId: `ytmp3 ${anu.media[0]} 128kbps`, buttonText: {displayText: '🎵Audio🎵'}, type: 1},
+                        {buttonId: `ytmp4 ${anu.media[0]} 360p`, buttonText: {displayText: '📽️Video📽️'}, type: 1}
+                    ]
+		    let buttonMessage = {
+		        image: { url: anu.author.profilePic },
+			caption: `
+${themeemoji} Title : ${anu.title}
+${themeemoji} Author : ${anu.author.name}
+${themeemoji} Like : ${anu.like}
+${themeemoji} Caption : ${anu.caption}
+${themeemoji} Url : ${anu.media[0]}
+To Download Media, Please Click One Of The Buttons Below Or Enter The ytmp3/ytmp4 Command With The Url Above
+`,
+			footer: XeonBotInc.user.name,
+			buttons,
+			headerType: 4
+		    }
+		    XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+		} else if (anu.type == 'image') {
+		    anu.media.map(async (url) => {
+		        XeonBotInc.sendMessage(m.chat, { image: { url }, caption: `${themeemoji} Title : ${anu.title}\n${themeemoji} Author : ${anu.author.name}\n${themeemoji} Like : ${anu.like}\n${themeemoji} Caption : ${anu.caption}` }, { quoted: m })
+		    })
+		}
+	    }
+	    break
+        case 'ringtone': {
+        	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+		if (!text) return reply(`Where is the ringtone name noob?, Example : ${prefix + command} charlie puth`)
+        let { ringtone } = require('./lib/scraper')
+		let anu = await ringtone(text)
+		let result = anu[Math.floor(Math.random() * anu.length)]
+		XeonBotInc.sendMessage(m.chat, { audio: { url: result.audio }, fileName: result.title+'.mp3', mimetype: 'audio/mpeg' }, { quoted: m })
+	    }
+	    break
+case 'tempo': {
+if (isBan) return reply(mess.ban)
+if (!args.join(" ")) return reply(`Example: ${prefix + command} 10`)
+var req = args.join(' ')
+media = await XeonBotInc.downloadAndSaveMediaMessage(quoted, "tempo")
+if (isQuotedAudio) {
+ran = getRandom('.mp3')
+exec(`ffmpeg -i ${media} -filter:a "atempo=1.0,asetrate=${req}" ${ran}`, (err, stderr, stdout) => {
+fs.unlinkSync(media)
+if (err) return reply('Error!')
+hah = fs.readFileSync(ran)
+XeonBotInc.sendMessage(from, {audio:hah, mimetype:'audio/mp4', ptt:true}, {quoted:m})
+fs.unlinkSync(ran)
+})
+} else if (isQuotedVideo) {
+ran = getRandom('.mp4')
+exec(`ffmpeg -i ${media} -filter:a "atempo=1.0,asetrate=${req}" ${ran}`, (err, stderr, stdout) => {
+fs.unlinkSync(media)
+if (err) return reply('Error!')
+hah = fs.readFileSync(ran)
+XeonBotInc.sendMessage(from, {video:hah, mimetype:'video/mp4'}, {quoted:m})
+fs.unlinkSync(ran)
+})
+} else {
+reply("Send video/audio")
+}
+}
+break
+case 'volume': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return reply(`Example: ${prefix + command} 10`)
+media = await XeonBotInc.downloadAndSaveMediaMessage(quoted, "volume")
+if (isQuotedAudio) {
+rname = getRandom('.mp3')
+exec(`ffmpeg -i ${media} -filter:a volume=${args[0]} ${rname}`, (err, stderr, stdout) => {
+fs.unlinkSync(media)
+if (err) return reply('Error!')
+jadie = fs.readFileSync(rname)
+XeonBotInc.sendMessage(from, {audio:jadie, mimetype: 'audio/mp4', ptt: true}, {quoted: m})
+fs.unlinkSync(rname)
+})
+} else if (isQuotedVideo) {
+rname = getRandom('.mp4')
+exec(`ffmpeg -i ${media} -filter:a volume=${args[0]} ${rname}`, (err, stderr, stdout) => {
+fs.unlinkSync(media)
+if (err) return reply('Error!')
+jadie = fs.readFileSync(rname)
+XeonBotInc.sendMessage(from, {video:jadie, mimetype: 'video/mp4'}, {quoted: m})
+fs.unlinkSync(rname)
+})
+} else {
+reply("Send video/audio")
+}
+}
+break
+		   case 'bass': case 'blown': case 'deep': case 'earrape': case 'fast': case 'fat': case 'nightcore': case 'reverse': case 'robot': case 'slow': case 'smooth': case 'squirrel':
+		if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                try {
+                let set
+                if (/bass/.test(command)) set = '-af equalizer=f=54:width_type=o:width=2:g=20'
+                if (/blown/.test(command)) set = '-af acrusher=.1:1:64:0:log'
+                if (/deep/.test(command)) set = '-af atempo=4/4,asetrate=44500*2/3'
+                if (/earrape/.test(command)) set = '-af volume=12'
+                if (/fast/.test(command)) set = '-filter:a "atempo=1.63,asetrate=44100"'
+                if (/fat/.test(command)) set = '-filter:a "atempo=1.6,asetrate=22100"'
+                if (/nightcore/.test(command)) set = '-filter:a atempo=1.06,asetrate=44100*1.25'
+                if (/reverse/.test(command)) set = '-filter_complex "areverse"'
+                if (/robot/.test(command)) set = '-filter_complex "afftfilt=real=\'hypot(re,im)*sin(0)\':imag=\'hypot(re,im)*cos(0)\':win_size=512:overlap=0.75"'
+                if (/slow/.test(command)) set = '-filter:a "atempo=0.7,asetrate=44100"'
+                if (/smooth/.test(command)) set = '-filter:v "minterpolate=\'mi_mode=mci:mc_mode=aobmc:vsbmc=1:fps=120\'"'
+                if (/tupai/.test(command)) set = '-filter:a "atempo=0.5,asetrate=65100"'
+                if (/audio/.test(mime)) {
+                reply(mess.wait)
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+                let ran = getRandom('.mp3')
+                exec(`ffmpeg -i ${media} ${set} ${ran}`, (err, stderr, stdout) => {
+                fs.unlinkSync(media)
+                if (err) return reply(err)
+                let buff = fs.readFileSync(ran)
+                XeonBotInc.sendMessage(m.chat, { audio: buff, mimetype: 'audio/mpeg' }, { quoted : m })
+                fs.unlinkSync(ran)
+                })
+                } else reply(`Reply To The Audio You Want To Change With Caption *${prefix + command}*`)
+                } catch (e) {
+                reply(e)
+                }
+                break
+            case 'setcmd': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!m.quoted) return reply(`Reply Message!`)
+                if (!m.quoted.fileSha256) return reply(`SHA256 Hash Missing`)
+                if (!text) return reply(`For What Command?`)
+                let hash = m.quoted.fileSha256.toString('base64')
+                if (global.db.data.sticker[hash] && global.db.data.sticker[hash].locked) return reply(`You Have No Permission To Change This Sticker Command`)
+                global.db.data.sticker[hash] = {
+                    text,
+                    mentionedJid: m.mentionedJid,
+                    creator: m.sender,
+                    at: + new Date,
+                    locked: false,
+                }
+                reply(`Done!`)
+            }
+            break
+            case 'delcmd': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                let hash = m.quoted.fileSha256.toString('base64')
+                if (!hash) return reply(`No Hashes`)
+                if (global.db.data.sticker[hash] && global.db.data.sticker[hash].locked) return reply(`You Have No Permission To Delete This Sticker Command`)
+                delete global.db.data.sticker[hash]
+                reply(`Done!`)
+            }
+            break
+            case 'listcmd': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                let teks = `
+*Hash List*
+Info: *bold* hash is Locked
+${Object.entries(global.db.data.sticker).map(([key, value], index) => `${index + 1}. ${value.locked ? `*${key}*` : key} : ${value.text}`).join('\n')}
+`.trim()
+                XeonBotInc.sendText(m.chat, teks, m, { mentions: Object.values(global.db.data.sticker).map(x => x.mentionedJid).reduce((a,b) => [...a, ...b], []) })
+            }
+            break
+            case 'lockcmd': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                if (!m.quoted) return reply(`Reply Message!`)
+                if (!m.quoted.fileSha256) return reply(`SHA256 Hash Missing`)
+                let hash = m.quoted.fileSha256.toString('base64')
+                if (!(hash in global.db.data.sticker)) return reply(`Hash Not Found In Database`)
+                global.db.data.sticker[hash].locked = !/^un/i.test(command)
+                reply('Done!')
+            }
+            break
+            case 'addmsg': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!m.quoted) return reply(`Reply Message You Want To Save In Database`)
+                if (!text) return reply(`Example : ${prefix + command} File Name`)
+                let msgs = global.db.data.database
+                if (text.toLowerCase() in msgs) return reply(`'${text}' Has Been Registered In The Message List`)
+                msgs[text.toLowerCase()] = quoted.fakeObj
+reply(`Successfully Added Message In Message List As '${text}'
+    
+Access With ${prefix}getmsg ${text}
+
+View List Of Messages With ${prefix}listmsg`)
+            }
+            break
+            case 'getmsg': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!text) return reply(`Example : ${prefix + command} file name\n\nView Message List With ${prefix}listmsg`)
+                let msgs = global.db.data.database
+                if (!(text.toLowerCase() in msgs)) return reply(`'${text}' Not Listed In The Message List`)
+                XeonBotInc.copyNForward(m.chat, msgs[text.toLowerCase()], true)
+            }
+            break
+            case 'listmsg': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                let msgs = JSON.parse(fs.readFileSync('./database/database.json'))
+	        let seplit = Object.entries(global.db.data.database).map(([nama, isi]) => { return { nama, ...isi } })
+		let teks = '「 DATABASE LIST 」\n\n'
+		for (let i of seplit) {
+		    teks += `${themeemoji} *Name :* ${i.nama}\n${themeemoji} *Type :* ${getContentType(i.message).replace(/Message/i, '')}\n────────────────────────\n\n`
+	        }
+	        reply(teks)
+	    }
+	    break
+            case 'delmsg': case 'deletemsg': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+	        let msgs = global.db.data.database
+	        if (!(text.toLowerCase() in msgs)) return reply(`'${text}' Not Listed In The Message List`)
+		delete msgs[text.toLowerCase()]
+		reply(`Delete Successfully '${text}' From The Message list`)
+            }
+	    break
+	    case 'anonymous': {
+		if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (m.isGroup) return reply('Features Cannot Be Used For Groups!')
+				this.anonymous = this.anonymous ? this.anonymous : {}
+				let buttons = [
+                    { buttonId: 'Start', buttonText: { displayText: '🚶Start🚶' }, type: 1 }
+                ]
+                XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`Hi ${await XeonBotInc.getName(m.sender)} Welcome To Anonymous Chat\n\nClick The Button Below To Find A Partner\`\`\``, XeonBotInc.user.name, m)
+            }
+			break
+            case 'keluar': case 'leave': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (m.isGroup) return reply('Features Cannot Be Used For Groups!')
+                this.anonymous = this.anonymous ? this.anonymous : {}
+                let room = Object.values(this.anonymous).find(room => room.check(m.sender))
+                if (!room) {
+                    let buttons = [
+                        { buttonId: 'start', buttonText: { displayText: '🚶Start🚶' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`You Are Not In An Anonymous Session, Press The Button To Find A Partner \`\`\``)
+                   reply(false)
+                }
+                reply('Ok')
+                let other = room.other(m.sender)
+                if (other) await XeonBotInc.sendText(other, `\`\`\`Partner Has Left Anonymous Session\`\`\``, m)
+                delete this.anonymous[room.id]
+                if (command === 'leave') break
+            }
+            case 'mulai': case 'start': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (m.isGroup) return reply('Features Cannot Be Used For Groups!')
+                this.anonymous = this.anonymous ? this.anonymous : {}
+                if (Object.values(this.anonymous).find(room => room.check(m.sender))) {
+                    let buttons = [
+                        { buttonId: 'keluar', buttonText: { displayText: '🛑Stop🛑' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`You Are Still In An Anonymous Session, Press The Button Below To Terminate Your Anonymous Session\`\`\``, XeonBotInc.user.name, m)
+                    reply(false)
+                }
+                let room = Object.values(this.anonymous).find(room => room.state === 'WAITING' && !room.check(m.sender))
+                if (room) {
+                    let buttons = [
+                        { buttonId: 'next', buttonText: { displayText: '⏩Skip⏩' }, type: 1 },
+                        { buttonId: 'keluar', buttonText: { displayText: '🛑Stop🛑' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(room.a, buttons, `\`\`\`Successfully Found Partner, Now You Can Send Message\`\`\``, XeonBotInc.user.name, m)
+                    room.b = m.sender
+                    room.state = 'CHATTING'
+                    await XeonBotInc.sendButtonText(room.b, buttons, `\`\`\`Successfully Found Partner, Now You Can Send Message\`\`\``, XeonBotInc.user.name, m)
+                } else {
+                    let id = + new Date
+                    this.anonymous[id] = {
+                        id,
+                        a: m.sender,
+                        b: '',
+                        state: 'WAITING',
+                        check: function (who = '') {
+                            return [this.a, this.b].includes(who)
+                        },
+                        other: function (who = '') {
+                            return who === this.a ? this.b : who === this.b ? this.a : ''
+                        },
+                    }
+                    let buttons = [
+                        { buttonId: 'keluar', buttonText: { displayText: '🛑Stop🛑' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`Please Wait, Looking For A Partner\`\`\``, XeonBotInc.user.name, m)
+                }
+                break
+            }
+            case 'next': case 'lanjut': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (m.isGroup) return reply('Features Cannot Be Used For Groups!')
+                this.anonymous = this.anonymous ? this.anonymous : {}
+                let romeo = Object.values(this.anonymous).find(room => room.check(m.sender))
+                if (!romeo) {
+                    let buttons = [
+                        { buttonId: 'start', buttonText: { displayText: '🚶Start🚶' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`You Are Not In An Anonymous Session, Press The Button To Find A Partner\`\`\``)
+                    reply(false)
+                }
+                let other = romeo.other(m.sender)
+                if (other) await XeonBotInc.sendText(other, `\`\`\`Partner Has Left Anonymous Session\`\`\``, m)
+                delete this.anonymous[romeo.id]
+                let room = Object.values(this.anonymous).find(room => room.state === 'WAITING' && !room.check(m.sender))
+                if (room) {
+                    let buttons = [
+                        { buttonId: 'next', buttonText: { displayText: '⏩Skip⏩' }, type: 1 },
+                        { buttonId: 'keluar', buttonText: { displayText: '🛑Stop🛑' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(room.a, buttons, `\`\`\`Successfully Found Partner, Now You Can Send Message\`\`\``, XeonBotInc.user.name, m)
+                    room.b = m.sender
+                    room.state = 'CHATTING'
+                    await XeonBotInc.sendButtonText(room.b, buttons, `\`\`\`Successfully Found Partner, Now You Can Send Message\`\`\``, XeonBotInc.user.name, m)
+                } else {
+                    let id = + new Date
+                    this.anonymous[id] = {
+                        id,
+                        a: m.sender,
+                        b: '',
+                        state: 'WAITING',
+                        check: function (who = '') {
+                            return [this.a, this.b].includes(who)
+                        },
+                        other: function (who = '') {
+                            return who === this.a ? this.b : who === this.b ? this.a : ''
+                        },
+                    }
+                    let buttons = [
+                        { buttonId: 'keluar', buttonText: { displayText: '🛑Stop🛑' }, type: 1 }
+                    ]
+                    await XeonBotInc.sendButtonText(m.chat, buttons, `\`\`\`Please Wait, Looking For A Partner\`\`\``, XeonBotInc.user.name, m)
+                }
+                break
+            }
+            case 'public': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                XeonBotInc.public = true
+                reply('Successful Change To Public Usage')
+            }
+            break
+            case 'self': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                if (!isCreator) return replay(`${mess.owner}`)
+                XeonBotInc.public = false
+                reply('Successful Change To Self Usage')
+            }
+            break
+case 'setstatuts':
+case 'setbio':
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!q) return reply('Send orders *#setbio text*')
+XeonBotInc.setStatus(`${q}`)
+reply(mess.success)
+break
+case 'antitag': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!isCreator) return
+if (args.length < 1) return replay(`Type on to enable\nType off to disable`)
+if (args[0] === 'on') {
+if (antitags === true) return
+global.antitags = true
+replay(`Successfully activated antitag!`)
+} else if (args[0] === 'off') {
+if (antitags === false) return
+global.antitags = false
+replay(`Successfully deactivated antitag!`)
+} else {
+replay('Choose on or off')
+}
+}
+break
+            case 'ping': case 'p': case 'botstatus': case 'statusbot': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+                const used = process.memoryUsage()
+                const cpus = os.cpus().map(cpu => {
+                    cpu.total = Object.keys(cpu.times).reduce((last, type) => last + cpu.times[type], 0)
+			        return cpu
+                })
+                const cpu = cpus.reduce((last, cpu, _, { length }) => {
+                    last.total += cpu.total
+                    last.speed += cpu.speed / length
+                    last.times.user += cpu.times.user
+                    last.times.nice += cpu.times.nice
+                    last.times.sys += cpu.times.sys
+                    last.times.idle += cpu.times.idle
+                    last.times.irq += cpu.times.irq
+                    return last
+                }, {
+                    speed: 0,
+                    total: 0,
+                    times: {
+			            user: 0,
+			            nice: 0,
+			            sys: 0,
+			            idle: 0,
+			            irq: 0
+                }
+                })
+                let timestamp = speed()
+                let latensi = speed() - timestamp
+                neww = performance.now()
+                oldd = performance.now()
+                respon = `
+Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
+
+💻 Info Server
+RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
+
+_NodeJS Memory Usaage_
+${Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v=>v.length)),' ')}: ${formatp(used[key])}`).join('\n')}
+
+${cpus[0] ? `_Total CPU Usage_
+${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}
+_CPU Core(s) Usage (${cpus.length} Core CPU)_
+${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type => `- *${(type + '*').padEnd(6)}: ${(100 * cpu.times[type] / cpu.total).toFixed(2)}%`).join('\n')}`).join('\n\n')}` : ''}
+                `.trim()
+                reply(respon)
+            }
+            break
+            case 'speedtest': {
+            	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            reply('Testing Speed...')
+            let cp = require('child_process')
+            let { promisify } = require('util')
+            let exec = promisify(cp.exec).bind(cp)
+          let o
+          try {
+          o = await exec('python speed.py')
+          } catch (e) {
+          o = e
+         } finally {
+        let { stdout, stderr } = o
+        if (stdout.trim()) reply(stdout)
+        if (stderr.trim()) reply(stderr)
+            }
+            }
+            break
+            case 'owner': case 'creator': {
+                XeonBotInc.sendContact(m.chat, global.vcardowner, m)
+            }
+            break
+  case 'setmenu': {
+            	if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+            if (!isCreator) return reply(mess.owner)
+            let setbot = db.data.settings[botNumber]
+               if (args[0] === 'templateImage'){
+                setbot.templateImage = true
+                setbot.templateVideo = false
+                setbot.templateGif = false
+                setbot.templateMsg = false
+                setbot.templateDocument = false
+                reply(mess.success)
+                } else if (args[0] === 'templateVideo'){
+                setbot.templateImage = false
+                setbot.templateVideo = true
+                setbot.templateGif = false
+                setbot.templateMsg = false
+                setbot.templateLocation = false
+                reply(mess.success)
+                } else if (args[0] === 'templateGif'){
+                setbot.templateImage = false
+                setbot.templateVideo = false
+                setbot.templateGif = true
+                setbot.templateMsg = false
+                setbot.templateDocument = false
+                reply(mess.success)
+                //} else if (args[0] === 'templateMessage'){
+                /////setbot.templateImage = false
+                /////setbot.templateVideo = false
+                /////setbot.templateGif = false
+                /////setbot.templateMsg = true
+                //////setbot.templateDocument = false
+                //////reply(mess.success)
+                } else if (args[0] === 'templateDocument'){
+                setbot.templateImage = false
+                setbot.templateVideo = false
+                setbot.templateGif = false
+                setbot.templateMsg = false
+                setbot.templateDocument = true
+                reply(mess.success)
+                } else {
+                let sections = [
+                {
+                title: "😛CHANGE BOT MENU😛",
+                rows: [
+                {title: "Image Menu", rowId: `setmenu templateImage`, description: `Tap to change bot menu to Image Menu`},
+                {title: "Gif Menu", rowId: `setmenu templateGif`, description: `Tap to change bot menu to Gif Menu`},
+                {title: "Video Menu", rowId: `setmenu templateVideo`, description: `Tap to change bot menu to Video Menu`},
+                ///////////////{title: "Text Menu", rowId: `setmenu templateMessage`, description: `Tap to change bot menu to Text Menu`},
+                {title: "Document Menu", rowId: `setmenu templateDocument`, description: `Tap to change bot menu to Document Menu`}
+                ]
+                },
+                ]
+                XeonBotInc.sendListMsg(m.chat, `Please select the menu you want to change!`, ` `, XeonBotInc.user.name, `Click Here`, sections, m)
+                }
+            }
+            break
+case 'request': {
+   if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+if (!args.join(" ")) return replay(`Example : ${prefix + command} hello dev please add a downloader feature`)
+teks = `*| REQUEST |*`
+teks1 = `\n\nNumber : @${m.sender.split("@")[0]}\nRequest : ${args.join(" ")}`
+teks2 = `\n\nSuccessfully sent to owner`
+for (let i of owner) {
+XeonBotInc.sendMessage(i + "@s.whatsapp.net", {text: teks + teks1, mentions:[m.sender]}, {quoted:m})
+}
+XeonBotInc.sendMessage(m.chat, {text: teks + teks2 + teks1, mentions:[m.sender]}, {quoted:m})
+}
+break
+                    case 'bug': case 'report': {
+                    	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+                    	if(!text) return reply(`Enter The Bug\n\nExample: ${command} Menu Error`)
+                    	XeonBotInc.sendMessage(`${owner}@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
+Report Message: ${text}` })
+reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, If You Play With This, Use This Feature Again And Again For No Reason, You Will Be Blocked For Sure !`)
+                    }
+                    break
+case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+teks = `*「 ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate 🍜`
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: 'Menu 🌺'}, type: 1}
+]
+let buttonMessage = {
+image: thum,
+jpegThumbnail: log0,
+caption: teks,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:"I deserve something for my hardwork",
+body: "Click to donate", 
+thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
+mediaType:1,
+mediaUrl: 'https://telegra.ph/file/8737b098fd5702daeb7e0.jpg',
+sourceUrl: "https://telegra.ph/file/8737b098fd5702daeb7e0.jpg"
+}}
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
+		if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
+	                let btn = [{
+                                urlButton: {
+                                    displayText: 'YouTube 🍒',
+                                    url: `${websitex}`
+                                }
+                            }, {
+                                callButton: {
+                                    displayText: 'Script 🍜',
+                                    url: `${botscript}`
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'All Menu 🍱',
+                                    id: 'allmenu'
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'List Menu 🍢',
+                                    id: 'command'
+                                }  
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'Owner 🤣',
+                                    id: 'owner'
+                                }
+                            }]
+                         let setbot = db.data.settings[botNumber]
+                        if (setbot.templateImage) {
+                        XeonBotInc.send5ButImg(m.chat, menulist, global.botname, global.thumb, btn, global.thumb)
+                        } else if (setbot.templateGif) {
+                        XeonBotInc.send5ButGif(m.chat, menulist, global.botname, global.vidmenu, btn, global.thumb)
+                        } else if (setbot.templateVid) {
+                        XeonBotInc.send5ButVid(m.chat, anu, global.botname, global.vidmenu, btn, global.thumb)
+                        } else if (setbot.templateVideo) {
+                        XeonBotInc.send5ButVid(m.chat, menulist, global.botname, global.vidmenu, btn, global.thumb)
+                        /////////} else if (setbot.templateMsg) {
+                        /////////XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
+                        } else if (setbot.templateDocument) {
+                        let buttonmenu = [
+        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
+            { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
+            { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
+            { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
+            { quickReplyButton: { displayText: `Owner 🤣`, id: 'owner'} }
+        	]
+        	XeonBotInc.sendMessage(m.chat, { caption: menulist, document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'), mimetype: `${docs}`, fileName: `${ownername}`, templateButtons: buttonmenu, footer: `${botname}`, mentionedJid: [m.sender] })
+                        }
+                     }
+            break
+                case 'command': {
+                	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+                listMessage :{
+                    title: `Hallo ${pushname}`,
+                    description: `Silahkan Pilih Menunya\nKalo ada yang eror harap dimaklumi\n\n`,
+                    buttonText: "Menu",
+                    footerText: `${global.botname}`,
+                    listType: "SINGLE_SELECT",
+                    sections: [{
+								"title": "𝙁𝙞𝙩𝙪𝙧 𝘼𝙬𝙖𝙡 𝘽𝙤𝙩",
+								"rows": [
+									{
+										"title": "𝗢𝘁𝗵𝗲𝗿 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Other Features",
+										"rowId": `${prefix}othermenu`
+									}
+								]
+							},
+							{
+								"title": "𝙁𝙞𝙩𝙪𝙧 𝘽𝙤𝙩",
+								"rows": [
+									{
+										"title": "𝗔𝗹𝗹 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of All The Features!",
+										"rowId": `${prefix}allmenu`
+									},
+									{
+										"title": "𝗢𝘄𝗻𝗲𝗿 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Owner Features",
+										"rowId": `${prefix}ownermenu`
+										},
+									{
+										"title": "𝗚𝗿𝗼𝘂𝗽 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Main Features",
+										"rowId": `${prefix}groupmenu`
+										},
+										{
+										"title": "𝗥𝗽𝗴 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Rpg Features",
+										"rowId": `${prefix}rpgmenu`
+										},
+										{
+										"title": "𝗠𝗮𝗸𝗲𝗿 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Logo Making Features",
+										"rowId": `${prefix}indomenu`
+									},
+									{
+										"title": "𝗠𝗲𝗻𝘂 𝗦𝗼𝘂𝗻𝗱",
+										"description": "Displays The List Of Sound Features",
+										"rowId": `${prefix}soundmenu`
+									},
+									{
+										"title": "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Download Features",
+										"rowId": `${prefix}downloadmenu`
+									},
+									{
+										"title": "𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Sticker Features",
+										"rowId": `${prefix}indomenu`
+									},
+									{
+										"title": "𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Searching Features",
+										"rowId": `${prefix}searchmenu`
+									},
+									{
+										"title": "𝗧𝗼𝗼𝗹𝘀 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Tool Features",
+										"rowId": `${prefix}toolmenu`
+									},
+									{
+										"title": "𝗥𝗮𝗻𝗱𝗼𝗺 𝗜𝗺𝗮𝗴𝗲 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Random Image Features",
+										"rowId": `${prefix}randomimagemenu`
+									},
+										{
+											"title": "𝗔𝗻𝗶𝗺𝗲 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Random Anime Features",
+										"rowId": `${prefix}animemenu`
+										},
+										{
+										"title": "𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗔𝗻𝗶𝗺𝗲 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Anime Sticker Features",
+										"rowId": `${prefix}animestickermenu`
+									     },
+									{
+										"title": "𝗡𝘀𝗳𝘄 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Nsfe Features",
+										"rowId": `${prefix}nsfwmenu`
+									     },
+										{
+											"title": "𝗙𝘂𝗻 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Fun Features",
+										"rowId": `${prefix}funmenu`
+										},
+										{
+										"title": "𝗚𝗔𝗠𝗘 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Game Features",
+										"rowId": `${prefix}indomenu`
+									},
+										{
+											"title": "𝗖𝗼𝗻𝘃𝗲𝗿𝘁 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Convert Features",
+										"rowId": `${prefix}convertmenu`
+										},
+										{
+											"title": "𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Database Features",
+										"rowId": `${prefix}databasemenu`
+										},
+										{
+											"title": "𝗜𝘀𝗹𝗮𝗺 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Islamic Features",
+										"rowId": `${prefix}islamicmenu`
+										},
+										{
+										"title": "𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Indo Features",
+										"rowId": `${prefix}indomenu`
+									},
+										{
+											"title": "𝗛𝗼𝗿𝗼𝘀𝗰𝗼𝗽𝗲 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Horoscope Features",
+										"rowId": `${prefix}indohoroscopemenu`
+										}
+								]
+							},
+							{
+								"title": "𝙈𝙚𝙣𝙜𝙤𝙗𝙧𝙤𝙡 𝘿𝙚𝙣𝙜𝙖𝙣 𝙎𝙚𝙨𝙖𝙢𝙖 𝙋𝙚𝙣𝙜𝙜𝙪𝙣𝙖",
+								"rows": [
+									{
+										"title": "𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Anonymous Chat Features",
+										"rowId": `${prefix}anonymousmenu`
+									}
+								]
+							},
+							{
+								"title": "𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ©",
+								"rows": [
+									{
+										"title": "𝗖𝗿𝗲𝗱𝗶𝘁𝘀 𝗠𝗲𝗻𝘂",
+										"description": "Displays The List Of Credit Of The Bot !!",
+										"rowId": `${prefix}tqtt`
+									}
+								]
+							}
+						],
+          listType: 1
+                }
+            }), {})
+            XeonBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
+            }
+            break
+case 'allmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'All Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」	
+╠ ${prefix}self
+╠ ${prefix}public
+╠ ${prefix}antitag
+╠ ${prefix}rentbot [add/del]
+╠ ${prefix}rentlist
+╠ ${prefix}ban [add/del]
+╠ ${prefix}banchat [on/off]
+╠ ${prefix}join [link]
+╠ ${prefix}leavegc
+╠ ${prefix}setbio
+╠ ${prefix}bcgroup [text]
+╠ ${prefix}bcall [text]
+╠ ${prefix}bcimage [image]
+╠ ${prefix}bcvideo [video]
+╠ ${prefix}bcaudio [audio]
+╠ ${prefix}bcloc [text]
+╠ ${prefix}setppbot [image]
+╠ ${prefix}setexif
+╠ ${prefix}block [tag/number]
+╠ ${prefix}unblock [tag/number]
+╠ ${prefix}coowner [add/del]
+╠═══════✪「 GROUP 」	        
+╠${prefix}grousetting
+╠${prefix}grouplink
+╠${prefix}ephemeral [option]
+╠${prefix}setgcpp [image]
+╠${prefix}setname [text]
+╠${prefix}setdesc [text]
+╠${prefix}group 
+╠${prefix}resetgrouplink
+╠${prefix}editinfo [option]
+╠${prefix}add [user]
+╠${prefix}kick [reply/tag]
+╠${prefix}hidetag [text]
+╠${prefix}tagall [text]
+╠${prefix}antilinkgc [on/off]
+╠${prefix}antilinktg [on/off]
+╠${prefix}antilinktt [on/off]
+╠${prefix}antilinkytch [on/off]
+╠${prefix}antilinkytvid [on/off]
+╠${prefix}antilinkig [on/off]
+╠${prefix}antilinkfb [on/off]
+╠${prefix}antilinktwit [on/off]
+╠${prefix}antilinkall [on/off]
+╠${prefix}antivirus [on/off]
+╠${prefix}antitoxic [on/off]
+╠${prefix}antiwame [on/off]
+╠${prefix}autoreply [on/off]
+╠${prefix}nsfw [on/off]
+╠${prefix}promote [reply/tag]
+╠${prefix}demote [reply/tag]
+╠${prefix}react [reply emoji]
+╠${prefix}vote
+╠${prefix}devote
+╠${prefix}upvote
+╠${prefix}checkvote
+╠${prefix}delvote
+╠═══════✪「 MAKER 」
+╠${prefix}candy
+╠${prefix}blackpinkneon
+╠${prefix}deepsea
+╠${prefix}scifi
+╠${prefix}fiction
+╠${prefix}berry
+╠${prefix}fruitjuice
+╠${prefix}biscuit
+╠${prefix}wood
+╠${prefix}chocolate
+╠${prefix}matrix
+╠${prefix}blood
+╠${prefix}halloween
+╠${prefix}wicker
+╠${prefix}darkgold
+╠${prefix}firework
+╠${prefix}skeleton
+╠${prefix}sand
+╠${prefix}glue
+╠${prefix}leaves
+╠${prefix}magma
+╠${prefix}lava
+╠${prefix}rock
+╠${prefix}bloodglas
+╠${prefix}underwater
+╠${prefix}textmaker
+╠${prefix}honey
+╠${prefix}ice
+╠${prefix}watercolor
+╠${prefix}multicolor
+╠${prefix}snow
+╠${prefix}harrypot
+╠${prefix}harrypotter
+╠${prefix}brokenglass
+╠${prefix}waterpipe
+╠${prefix}spooky
+╠${prefix}circuit
+╠${prefix}metallic
+╠${prefix}demon
+╠${prefix}sparklechristmas
+╠${prefix}christmas
+╠${prefix}3dchristmas
+╠${prefix}3dbox
+╠${prefix}waterdrop
+╠${prefix}lion2
+╠${prefix}papercut
+╠${prefix}transformer
+╠${prefix}neondevil
+╠${prefix}3davengers
+╠${prefix}3dstone
+╠${prefix}3dstone2
+╠${prefix}summertime
+╠${prefix}thunder
+╠${prefix}window
+╠${prefix}graffiti
+╠${prefix}graffitibike
+╠${prefix}pornhub
+╠${prefix}glitch
+╠${prefix}blackpink
+╠${prefix}glitch2
+╠${prefix}glitch3
+╠${prefix}3dspace
+╠${prefix}lion
+╠${prefix}3dneon
+╠${prefix}greenneon
+╠${prefix}bokeh
+╠${prefix}holographic
+╠${prefix}bear
+╠${prefix}wolf
+╠${prefix}joker
+╠${prefix}dropwater
+╠${prefix}dropwater2
+╠${prefix}thewall
+╠${prefix}neonlight
+╠${prefix}natural
+╠${prefix}carbon
+╠${prefix}pencil
+╠${prefix}blackpink2
+╠${prefix}neon
+╠${prefix}neonlight2
+╠${prefix}toxic
+╠${prefix}strawberry
+╠${prefix}discovery
+╠${prefix}1917
+╠ ${prefix}sci_fi
+╠ ${prefix}ancient
+╠ ${prefix}fabric
+╠ ${prefix}hoorror
+╠ ${prefix}whitebear
+╠ ${prefix}juice
+╠ ${prefix}batman
+╠ ${prefix}multicolor
+╠ ${prefix}collwall
+╠ ${prefix}wonderful
+╠ ${prefix}cool
+╠ ${prefix}sketch
+╠ ${prefix}marvel
+╠ ${prefix}foggy
+╠ ${prefix}writing
+╠ ${prefix}halloweenfire
+╠ ${prefix}halloween
+╠ ${prefix}watercolor
+╠ ${prefix}classic
+╠═════✪「 DOWNLOAD 」	
+╠${prefix}instagram [url]
+╠${prefix}igtv [url]
+╠${prefix}igstory [username]
+╠${prefix}facebook [url]
+╠${prefix}fbmp3 [url]
+╠${prefix}twitter [url]
+╠${prefix}twittermp3 [url]
+╠${prefix}tiktok [url]
+╠${prefix}tiktokaudio[url]
+╠${prefix}tiktoknowm [url]
+╠${prefix}mediafire [url]
+╠${prefix}ytmp3 [url|quality]
+╠${prefix}ytmp4 [url|quality]
+╠${prefix}getmusic [yt link]
+╠${prefix}getvideo [yt link]
+╠${prefix}gitclone [repo link]
+╠${prefix}soundcloud [url]
+╠${prefix}zippyshare [url]
+╠═══════✪「 SEARCH 」	
+╠${prefix}play [query]
+╠${prefix}song [query]
+╠${prefix}yts [query]
+╠${prefix}lyrics [query]
+╠${prefix}google [query]
+╠${prefix}playstore [query]
+╠${prefix}gimage [query]
+╠${prefix}pinterest [query]
+╠${prefix}image [query]
+╠${prefix}film [query]
+╠${prefix}wallpaper [query]
+╠${prefix}searchgc [query]
+╠${prefix}happymod [query]
+╠${prefix}servermc
+╠${prefix}mcpedl [query]
+╠${prefix}tvsearch [query]
+╠${prefix}wikimedia [query]
+╠${prefix}ytsearch [query]
+╠${prefix}ringtone [query]
+╠${prefix}webtoon [query]
+╠${prefix}anime [query]
+╠${prefix}animestory [query]
+╠${prefix}manga [query]
+╠${prefix}wattpad [query]
+╠ ${prefix}mcserver [ip|port]
+╠ ${prefix}drakor [query]
+╠═══════✪「 CONVERT 」
+╠ ${prefix}toimage [reply stick]
+╠ ${prefix}sticker [reply img|gif]
+╠ ${prefix}take [reply img|gif|stik]
+╠ ${prefix}smeme [reply img]
+╠ ${prefix}emoji [emoji]
+╠ ${prefix}tovideo [reply img]
+╠ ${prefix}togif [reply stick]
+╠ ${prefix}tourl [reply img]
+╠ ${prefix}tovn [reply aud]
+╠ ${prefix}tomp3 [reply vn]
+╠ ${prefix}toaudio [reply vid]
+╠ ${prefix}ebinary [reply txt]
+╠ ${prefix}dbinary [reply txt]
+╠ ${prefix}tinyurl [link]
+╠ ${prefix}styletext [text]
+╠${prefix}volume [reply aud]
+╠${prefix}tempo [reply aud]
+╠${prefix}bass [reply aud]
+╠${prefix}blown [reply aud]
+╠${prefix}deep [reply aud]
+╠${prefix}earrape [reply aud]
+╠${prefix}fast [reply aud]
+╠${prefix}fat [reply aud]
+╠${prefix}nightcore [reply aud]
+╠${prefix}reverse [reply aud]
+╠${prefix}robot [reply aud]
+╠${prefix}slow [reply aud]
+╠${prefix}squirrel [reply aud]
+╠═══════✪「 IMG EFFECT 」
+╠${prefix}wanted
+╠${prefix}blur
+╠${prefix}framed
+╠${prefix}gayeffect
+╠${prefix}imagesketch
+╠${prefix}invert
+╠${prefix}burn
+╠${prefix}triggeredwebp
+╠${prefix}shit
+╠${prefix}rip
+╠${prefix}jail
+╠${prefix}beautifuleffect
+╠${prefix}deleteeffect
+╠${prefix}pixelate
+╠═══════✪「 RANDOM IMG 」
+╠${prefix}coffee
+╠${prefix}bts
+╠${prefix}woof
+╠${prefix}meow
+╠${prefix}lizard
+╠${prefix}wallneon
+╠${prefix}wallpubg
+╠${prefix}wallml
+╠${prefix}wallrandom
+╠${prefix}wallcode
+╠${prefix}animewall [query]
+╠${prefix}animewall2 [query]
+╠═══════✪「 EMOTE 」
+╠${prefix}instagramemoji
+╠${prefix}facebookemoji
+╠${prefix}iphoneemoji
+╠${prefix}samsungemoji
+╠${prefix}joyemoji
+╠${prefix}skypeemoji
+╠${prefix}twitteremoji
+╠${prefix}whatsappemoji
+╠${prefix}microsoftemoji
+╠${prefix}googleemoji
+╠${prefix}pediaemoji
+╠${prefix}microsoftemoji
+╠═══════✪「 ANIME 」
+╠${prefix}naruto
+╠${prefix}yaoi
+╠${prefix}neko2
+╠${prefix}waifu
+╠${prefix}waifu2
+╠${prefix}awoo2
+╠${prefix}shinobu
+╠${prefix}waifu3
+╠${prefix}foxgirl
+╠${prefix}megumin2
+╠${prefix}loli
+╠${prefix}8ball
+╠${prefix}animenom
+╠${prefix}goose
+╠${prefix}avatar
+╠${prefix}tickle
+╠${prefix}gecg
+╠${prefix}feed
+╠${prefix}animeslap
+╠${prefix}animespank
+╠${prefix}animepat
+╠${prefix}animeneko
+╠${prefix}animekiss
+╠${prefix}animewlp
+╠${prefix}animecuddle
+╠${prefix}animecry
+╠${prefix}animekill
+╠${prefix}animelick
+╠${prefix}animebite
+╠${prefix}animeyeet
+╠${prefix}animebully
+╠${prefix}animebonk
+╠${prefix}animewink
+╠${prefix}animepoke
+╠${prefix}animesmile
+╠${prefix}animewave
+╠${prefix}animeawoo
+╠${prefix}animeblush
+╠${prefix}animesmug
+╠${prefix}animeglomp
+╠${prefix}animehappy
+╠${prefix}animedance
+╠${prefix}animecringe
+╠${prefix}animehighfive
+╠${prefix}animehandhold
+╠${prefix}animemegumin
+╠${prefix}smug2
+╠${prefix}couplepp
+╠══════✪「 STICKER 」
+╠ ${prefix}patrick
+╠ ${prefix}emoji
+╠ ${prefix}emojimix
+╠ ${prefix}attp
+╠ ${prefix}ttp
+╠ ${prefix}doge
+╠ ${prefix}lovesticker
+╠════✪「 ANIME STICKER 」
+╠${prefix}loli
+╠${prefix}bully
+╠${prefix}cuddle
+╠${prefix}cry
+╠${prefix}hug
+╠${prefix}awoo
+╠${prefix}kiss
+╠${prefix}lick
+╠${prefix}pat
+╠${prefix}smug
+╠${prefix}bonk
+╠${prefix}yeet
+╠${prefix}blush
+╠${prefix}smile
+╠${prefix}wave
+╠${prefix}highfive
+╠${prefix}handhold
+╠${prefix}nom
+╠${prefix}glomp
+╠${prefix}bite
+╠${prefix}slap
+╠${prefix}kill
+╠${prefix}happy
+╠${prefix}wink
+╠${prefix}poke
+╠${prefix}dance
+╠${prefix}cringe
+╠${prefix}neko
+╠${prefix}gura
+╠═══════✪「 NSFW 」
+╠${prefix}hentaivideo
+╠${prefix}yuri
+╠${prefix}masturbation
+╠${prefix}thighs
+╠${prefix}pussy
+╠${prefix}panties
+╠${prefix}orgy
+╠${prefix}ahegao
+╠${prefix}ass
+╠${prefix}bdsm
+╠${prefix}blowjob
+╠${prefix}cuckold
+╠${prefix}ero
+╠${prefix}gasm
+╠${prefix}cum
+╠${prefix}femdom
+╠${prefix}foot
+╠${prefix}gangbang
+╠${prefix}glasses
+╠${prefix}jahy
+╠${prefix}trap
+╠${prefix}blowjobgif
+╠${prefix}spank
+╠${prefix}hneko
+╠${prefix}nwaifu
+╠═══════✪「 FUN 」
+╠ ${prefix}how [text
+╠ ${prefix}when [text]
+╠ ${prefix}where [text]
+╠ ${prefix}is [text]
+╠ ${prefix}what [text]
+╠ ${prefix}can [text]
+╠ ${prefix}rate [text]
+╠ ${prefix}wangy [text]
+╠ ${prefix}beautifulcheck [tag]
+╠ ${prefix}awesomecheck [tag]
+╠ ${prefix}prettycheck [tag]
+╠ ${prefix}lesbiancheck [tag]
+╠ ${prefix}gaycheck [tag]
+╠ ${prefix}cutecheck [tag]
+╠ ${prefix}uglycheck [tag]
+╠ ${prefix}hornycheck [tag]
+╠ ${prefix}charactercheck [tag]
+╠ ${prefix}lovelycheck [tag]
+╠ ${prefix}couple
+╠ ${prefix}mysoulmate
+╠ ${prefix}hot
+╠ ${prefix}sexy
+╠ ${prefix}kind
+╠ ${prefix}idiot
+╠ ${prefix}handsome
+╠ ${prefix}beautiful
+╠ ${prefix}cute
+╠ ${prefix}pretty
+╠ ${prefix}lesbian
+╠ ${prefix}noob
+╠ ${prefix}bastard
+╠ ${prefix}foolish
+╠ ${prefix}nerd
+╠ ${prefix}asshole
+╠ ${prefix}gay
+╠ ${prefix}smart
+╠ ${prefix}stubble
+╠ ${prefix}dog
+╠ ${prefix}horny
+╠ ${prefix}cunt
+╠ ${prefix}wibu
+╠ ${prefix}noobra
+╠ ${prefix}nibba
+╠ ${prefix}nibbi
+╠ ${prefix}comrade
+╠ ${prefix}mumu
+╠ ${prefix}rascal
+╠ ${prefix}scumbag
+╠ ${prefix}nuts
+╠ ${prefix}fagot
+╠ ${prefix}scoundrel
+╠ ${prefix}ditch
+╠ ${prefix}dope
+╠ ${prefix}gucci
+╠ ${prefix}lit
+╠ ${prefix}dumbass
+╠ ${prefix}crackhead
+╠ ${prefix}mf
+╠ ${prefix}motherfucker
+╠ ${prefix}sucker
+╠ ${prefix}fuckboy
+╠ ${prefix}playboy
+╠ ${prefix}fuckgirl
+╠ ${prefix}playgirl
+╠══════✪「 SOUND 」
+╠ ${prefix}sound1
+╠ ${prefix}sound2
+╠ ${prefix}sound3
+╠ ${prefix}sound4
+╠ ${prefix}sound5
+╠ ${prefix}sound6
+╠ ${prefix}sound7
+╠ ${prefix}sound8
+╠ ${prefix}sound9
+╠ ${prefix}sound10
+╠ ${prefix}sound11
+╠ ${prefix}sound12
+╠ ${prefix}sound13
+╠ ${prefix}sound14
+╠ ${prefix}sound15
+╠ ${prefix}sound16
+╠ ${prefix}sound17
+╠ ${prefix}sound18
+╠ ${prefix}sound19
+╠ ${prefix}sound20
+╠ ${prefix}sound21
+╠ ${prefix}sound22
+╠ ${prefix}sound23
+╠ ${prefix}sound24
+╠ ${prefix}sound25
+╠ ${prefix}sound26
+╠ ${prefix}sound27
+╠ ${prefix}sound28
+╠ ${prefix}sound29
+╠ ${prefix}sound30
+╠ ${prefix}sound31
+╠ ${prefix}sound32
+╠ ${prefix}sound33
+╠ ${prefix}sound34
+╠ ${prefix}sound35
+╠ ${prefix}sound36
+╠ ${prefix}sound37
+╠ ${prefix}sound38
+╠ ${prefix}sound39
+╠ ${prefix}sound40
+╠ ${prefix}sound41
+╠ ${prefix}sound42
+╠ ${prefix}sound43
+╠ ${prefix}sound44
+╠ ${prefix}sound45
+╠ ${prefix}sound46
+╠ ${prefix}sound47
+╠ ${prefix}sound48
+╠ ${prefix}sound49
+╠ ${prefix}sound50
+╠ ${prefix}sound51
+╠ ${prefix}sound52
+╠ ${prefix}sound53
+╠ ${prefix}sound54
+╠ ${prefix}sound55
+╠ ${prefix}sound56
+╠ ${prefix}sound57
+╠ ${prefix}sound58
+╠ ${prefix}sound59
+╠ ${prefix}sound60
+╠ ${prefix}sound61
+╠ ${prefix}sound62
+╠ ${prefix}sound63
+╠ ${prefix}sound64
+╠ ${prefix}sound65
+╠ ${prefix}sound66
+╠ ${prefix}sound67
+╠ ${prefix}sound68
+╠ ${prefix}sound69
+╠ ${prefix}sound70
+╠ ${prefix}sound71
+╠ ${prefix}sound72
+╠ ${prefix}sound73
+╠ ${prefix}sound74
+╠ ${prefix}sound75
+╠ ${prefix}sound76
+╠ ${prefix}sound77
+╠ ${prefix}sound78
+╠ ${prefix}sound79
+╠ ${prefix}sound80
+╠ ${prefix}sound81
+╠ ${prefix}sound82
+╠ ${prefix}sound83
+╠ ${prefix}sound84
+╠ ${prefix}sound85
+╠ ${prefix}sound86
+╠ ${prefix}sound87
+╠ ${prefix}sound88
+╠ ${prefix}sound89
+╠ ${prefix}sound90
+╠ ${prefix}sound91
+╠ ${prefix}sound92
+╠ ${prefix}sound93
+╠ ${prefix}sound94
+╠ ${prefix}sound95
+╠ ${prefix}sound96
+╠ ${prefix}sound97
+╠ ${prefix}sound98
+╠ ${prefix}sound99
+╠ ${prefix}sound100
+╠ ${prefix}sound101
+╠ ${prefix}sound102
+╠ ${prefix}sound103
+╠ ${prefix}sound104
+╠ ${prefix}sound105
+╠ ${prefix}sound106
+╠ ${prefix}sound107
+╠ ${prefix}sound108
+╠ ${prefix}sound109
+╠ ${prefix}sound110
+╠ ${prefix}sound111
+╠ ${prefix}sound112
+╠ ${prefix}sound113
+╠ ${prefix}sound114
+╠ ${prefix}sound115
+╠ ${prefix}sound116
+╠ ${prefix}sound117
+╠ ${prefix}sound118
+╠ ${prefix}sound119
+╠ ${prefix}sound120
+╠ ${prefix}sound121
+╠ ${prefix}sound122
+╠ ${prefix}sound123
+╠ ${prefix}sound124
+╠ ${prefix}sound125
+╠ ${prefix}sound126
+╠ ${prefix}sound127
+╠ ${prefix}sound128
+╠ ${prefix}sound129
+╠ ${prefix}sound130
+╠ ${prefix}sound131
+╠ ${prefix}sound132
+╠ ${prefix}sound133
+╠ ${prefix}sound134
+╠ ${prefix}sound135
+╠ ${prefix}sound136
+╠ ${prefix}sound137
+╠ ${prefix}sound138
+╠ ${prefix}sound139
+╠ ${prefix}sound140
+╠ ${prefix}sound141
+╠ ${prefix}sound142
+╠ ${prefix}sound143
+╠ ${prefix}sound144
+╠ ${prefix}sound145
+╠ ${prefix}sound146
+╠ ${prefix}sound147
+╠ ${prefix}sound148
+╠ ${prefix}sound149
+╠ ${prefix}sound150
+╠ ${prefix}sound151
+╠ ${prefix}sound152
+╠ ${prefix}sound153
+╠ ${prefix}sound154
+╠ ${prefix}sound155
+╠ ${prefix}sound156
+╠ ${prefix}sound157
+╠ ${prefix}sound158
+╠ ${prefix}sound159
+╠ ${prefix}sound160
+╠ ${prefix}sound161
+╠══════✪「 GAME 」
+╠ ${prefix}truth
+╠ ${prefix}dare
+╠ ${prefix}tictactoe
+╠ ${prefix}delttt
+╠ ${prefix}guess [option]
+╠ ${prefix}math [mode]
+╠ ${prefix}suitpvp [tag]
+╠══✪「 ANONYMOUS CHAT 」
+╠${prefix}anonymous
+╠${prefix}start
+╠${prefix}next
+╠${prefix}leave
+╠══════✪「 TOOL 」
+╠ ${prefix}translate [text]
+╠ ${prefix}fliptext [text]
+╠ ${prefix}toletter [number]
+╠══════✪「 DATABASE 」
+╠ ${prefix}setcmd
+╠ ${prefix}listcmd
+╠ ${prefix}delcmd
+╠ ${prefix}lockcmd
+╠ ${prefix}addmsg
+╠ ${prefix}listmsg
+╠ ${prefix}getmsg
+╠ ${prefix}delmsg
+╠══════✪「 lNDO 」
+╠ ${prefix}darkjoke
+╠ ${prefix}quotes
+╠ ${prefix}animequotes
+╠${prefix}jalantikus-meme
+╠ ${prefix}merdeka-news 
+╠ ${prefix}kontan-news 
+╠ ${prefix}cnbc-news 
+╠ ${prefix}tribun-news 
+╠ ${prefix}indozone-news 
+╠ ${prefix}kompas-news 
+╠ ${prefix}detik-news 
+╠ ${prefix}daily-news 
+╠ ${prefix}inews-news 
+╠ ${prefix}okezone-news 
+╠ ${prefix}sindo-news 
+╠ ${prefix}tempo-news 
+╠ ${prefix}antara-news 
+╠ ${prefix}cnn-news 
+╠ ${prefix}fajar-news 
+╠${prefix}cinemaschedule
+╠${prefix}wiki
+╠${prefix}covidindo
+╠${prefix}earthquake
+╠${prefix}tvschedule
+╠══════✪「 INDO HSCOPE 」
+╠${prefix}nomorhoki
+╠${prefix}artimimpi 
+╠${prefix}artinama 
+╠${prefix}ramaljodoh 
+╠${prefix}ramaljodohbali 
+╠${prefix}suamiistri 
+╠${prefix}ramalcinta 
+╠${prefix}cocoknama 
+╠${prefix}pasangan 
+╠${prefix}jadiannikah 
+╠${prefix}sifatusaha 
+╠${prefix}rezeki 
+╠${prefix}pekerjaan 
+╠${prefix}nasib 
+╠${prefix}penyakit 
+╠${prefix}tarot 
+╠${prefix}fengshui 
+╠${prefix}haribaik 
+╠${prefix}harisangar 
+╠${prefix}harisial
+╠${prefix}nagahari
+╠${prefix}arahrezeki
+╠${prefix}peruntungan 
+╠${prefix}weton 
+╠${prefix}karakter
+╠${prefix}keberuntungan
+╠${prefix}memancing
+╠${prefix}masasubur
+╠${prefix}zodiak
+╠${prefix}shio
+╠══════✪「 OTHER 」
+╠ ${prefix}afk
+╠ ${prefix}readmore [text]
+╠ ${prefix}toviewonce
+╠ ${prefix}chatinfo
+╠ ${prefix}alive
+╠ ${prefix}script
+╠ ${prefix}speedtest
+╠ ${prefix}ping
+╠ ${prefix}owner
+╠ ${prefix}menu
+╠ ${prefix}delete
+╠ ${prefix}chatinfo
+╠ ${prefix}quoted
+╠ ${prefix}listpc
+╠ ${prefix}listgc
+╠ ${prefix}donate
+╠ ${prefix}request
+╠ ${prefix}report [bug]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'ownermenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Owner Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」	
+╠ ${prefix}self
+╠ ${prefix}public
+╠ ${prefix}antitag
+╠ ${prefix}ban [add/del]
+╠ ${prefix}banchat [on/off]
+╠ ${prefix}join [link]
+╠ ${prefix}leavegc
+╠ ${prefix}setbio
+╠ ${prefix}block [user]
+╠ ${prefix}unblock [user]
+╠ ${prefix}bcgroup [text]
+╠ ${prefix}bcall [text]
+╠ ${prefix}bcimage [image]
+╠ ${prefix}bcvideo [video]
+╠ ${prefix}bcaudio [audio]
+╠ ${prefix}bcloc [text]
+╠ ${prefix}setppbot [image]
+╠ ${prefix}setexif
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'groupmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Group Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 GROUP 」	
+╠${prefix}groupsetting
+╠${prefix}grouplink
+╠${prefix}ephemeral [option]
+╠${prefix}setgcpp [image]
+╠${prefix}setname [text]
+╠${prefix}setdesc [text]
+╠${prefix}group
+╠${prefix}botgroups
+╠${prefix}resetgrouplink
+╠${prefix}editinfo [option]
+╠${prefix}add [user]
+╠${prefix}kick [reply/tag]
+╠${prefix}hidetag [text]
+╠${prefix}tagall [text]
+╠${prefix}autosticker [on/off]
+╠${prefix}autostickerpc [on/off]
+╠${prefix}leveling [on/off]
+╠${prefix}antilinkgc [on/off]
+╠${prefix}antilinktg [on/off]
+╠${prefix}antilinktt [on/off]
+╠${prefix}antilinkytch [on/off]
+╠${prefix}antilinkytvid [on/off]
+╠${prefix}antilinkig [on/off]
+╠${prefix}antilinkfb [on/off]
+╠${prefix}antilinktwit [on/off]
+╠${prefix}antilinkall [on/off]
+╠${prefix}antivirus [on/off]
+╠${prefix}antitoxic [on/off]
+╠${prefix}antiwame [on/off]
+╠${prefix}nsfw [on/off]
+╠${prefix}promote [reply/tag]
+╠${prefix}demote [reply/tag]
+╠${prefix}react [reply emoji]
+╠${prefix}getpp [reply user]
+╠${prefix}vote
+╠${prefix}devote
+╠${prefix}upvote
+╠${prefix}checkvote
+╠${prefix}delvote
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'rpgmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Rpg Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 RPG 」	
+╠${prefix}hunt
+╠${prefix}mine
+╠${prefix}fish
+╠${prefix}heal
+╠${prefix}blood
+╠${prefix}stab
+╠${prefix}buy
+╠${prefix}sell
+╠${prefix}profile
+╠${prefix}inventory
+╠${prefix}leaderboard
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'makermenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Maker Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 MAKER 」	
+╠${prefix}candy
+╠${prefix}8bit
+╠${prefix}horror
+╠${prefix}hoorror
+╠${prefix}retro
+╠${prefix}blackpinkneon
+╠${prefix}deepsea
+╠${prefix}scifi
+╠${prefix}fiction
+╠${prefix}berry
+╠${prefix}fruitjuice
+╠${prefix}biscuit
+╠${prefix}wood
+╠${prefix}chocolate
+╠${prefix}matrix
+╠${prefix}blood
+╠${prefix}halloween
+╠${prefix}wicker
+╠${prefix}darkgold
+╠${prefix}firework
+╠${prefix}skeleton
+╠${prefix}sand
+╠${prefix}glue
+╠${prefix}leaves
+╠${prefix}magma
+╠${prefix}lava
+╠${prefix}rock
+╠${prefix}bloodglas
+╠${prefix}underwater
+╠${prefix}textmaker
+╠${prefix}honey
+╠${prefix}ice
+╠${prefix}watercolor
+╠${prefix}multicolor
+╠${prefix}snow
+╠${prefix}harrypot
+╠${prefix}harrypotter
+╠${prefix}brokenglass
+╠${prefix}waterpipe
+╠${prefix}spooky
+╠${prefix}circuit
+╠${prefix}metallic
+╠${prefix}demon
+╠${prefix}sparklechristmas
+╠${prefix}christmas
+╠${prefix}3dchristmas
+╠${prefix}3dbox
+╠${prefix}waterdrop
+╠${prefix}lion2
+╠${prefix}papercut
+╠${prefix}transformer
+╠${prefix}neondevil
+╠${prefix}3davengers
+╠${prefix}3dstone
+╠${prefix}3dstone2
+╠${prefix}summertime
+╠${prefix}thunder
+╠${prefix}window
+╠${prefix}graffiti
+╠${prefix}graffitibike
+╠${prefix}pornhub
+╠${prefix}glitch
+╠${prefix}blackpink
+╠${prefix}glitch2
+╠${prefix}glitch3
+╠${prefix}3dspace
+╠${prefix}lion
+╠${prefix}3dneon
+╠${prefix}greenneon
+╠${prefix}bokeh
+╠${prefix}holographic
+╠${prefix}bear
+╠${prefix}wolf
+╠${prefix}joker
+╠${prefix}dropwater
+╠${prefix}dropwater2
+╠${prefix}thewall
+╠${prefix}neonlight
+╠${prefix}natural
+╠${prefix}carbon
+╠${prefix}pencil
+╠${prefix}blackpink2
+╠${prefix}neon
+╠${prefix}neonlight2
+╠${prefix}toxic
+╠${prefix}strawberry
+╠${prefix}discovery
+╠${prefix}1917
+╠ ${prefix}sci_fi
+╠ ${prefix}ancient
+╠ ${prefix}fabric
+╠ ${prefix}hoorror
+╠ ${prefix}whitebear
+╠ ${prefix}juice
+╠ ${prefix}batman
+╠ ${prefix}multicolor
+╠ ${prefix}collwall
+╠ ${prefix}wonderful
+╠ ${prefix}cool
+╠ ${prefix}sketch
+╠ ${prefix}marvel
+╠ ${prefix}foggy
+╠ ${prefix}writing
+╠ ${prefix}halloweenfire
+╠ ${prefix}halloween
+╠ ${prefix}watercolor
+╠ ${prefix}classic
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'downloadmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Download Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 DOWNLOAD 」	
+╠${prefix}instagram [url]
+╠${prefix}igtv [url]
+╠${prefix}igstory [username]
+╠${prefix}facebook [url]
+╠${prefix}fbmp3 [url]
+╠${prefix}twitter [url]
+╠${prefix}twittermp3 [url]
+╠${prefix}tiktok [url]
+╠${prefix}tiktokaudio [url]
+╠${prefix}tiktoknowm [url]
+╠${prefix}instagram [url]
+╠${prefix}igstory [url]
+╠${prefix}mediafire [url]
+╠${prefix}ytmp3 [url|quality]
+╠${prefix}ytmp4 [url|quality]
+╠${prefix}getmusic [yt link]
+╠${prefix}getvideo [yt link]
+╠${prefix}gitclone [repo link]
+╠${prefix}soundcloud [url]
+╠${prefix}zippyshare [url]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'searchmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Search Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 SEARCH 」	
+╠${prefix}play [query]
+╠${prefix}song [query]
+╠${prefix}yts [query]
+╠${prefix}lyrics [query]
+╠${prefix}google [query]
+╠${prefix}gimage [query]
+╠${prefix}pinterest [query]
+╠${prefix}image [query]
+╠${prefix}film [query]
+╠${prefix}playstore [query]
+╠${prefix}wallpaper [query]
+╠${prefix}searchgc [query]
+╠${prefix}happymod [query]
+╠${prefix}servermc
+╠${prefix}mcpedl [query]
+╠${prefix}tvsearch [query]
+╠${prefix}wikimedia [query]
+╠${prefix}ytsearch [query]
+╠${prefix}ringtone [query]
+╠${prefix}webtoon [query]
+╠${prefix}anime [query]
+╠${prefix}manga [query]
+╠${prefix}wattpad [query]
+╠ ${prefix}mcserver [ip|port]
+╠${prefix}drakor [query]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'convertmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Convert Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 CONVERT 」	
+╠ ${prefix}toimage [reply stick]
+╠ ${prefix}sticker [reply img|gif]
+╠ ${prefix}take [reply img|gif|stik]
+╠ ${prefix}smeme [reply img]
+╠ ${prefix}emoji [emoji]
+╠ ${prefix}tovideo [reply img]
+╠ ${prefix}togif [reply stick]
+╠ ${prefix}tourl [reply img]
+╠ ${prefix}tovn [reply aud]
+╠ ${prefix}tomp3 [reply vn]
+╠ ${prefix}toaudio [reply vid]
+╠ ${prefix}ebinary [reply txt]
+╠ ${prefix}dbinary [reply txt]
+╠ ${prefix}tinyurl [link]
+╠ ${prefix}styletext [text]
+╠${prefix}volume [reply aud]
+╠${prefix}tempo [reply aud]
+╠${prefix}bass [reply aud]
+╠${prefix}blown [reply aud]
+╠${prefix}deep [reply aud]
+╠${prefix}earrape [reply aud]
+╠${prefix}fast [reply aud]
+╠${prefix}fat [reply aud]
+╠${prefix}nightcore [reply aud]
+╠${prefix}reverse [reply aud]
+╠${prefix}robot [reply aud]
+╠${prefix}slow [reply aud]
+╠${prefix}squirrel [reply aud]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'randomimagemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Random Image Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 RANDOM IMG 」	
+╠${prefix}coffee
+╠${prefix}bts
+╠${prefix}woof
+╠${prefix}meow
+╠${prefix}lizard
+╠${prefix}wallneon
+╠${prefix}wallpubg
+╠${prefix}wallml
+╠${prefix}wallrandom
+╠${prefix}wallcode
+╠${prefix}animewall [query]
+╠${prefix}animewall2 [query]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+
+case 'emotemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Emote Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 EMOTE 」	
+╠${prefix}instagramemoji
+╠${prefix}facebookemoji
+╠${prefix}iphoneemoji
+╠${prefix}samsungemoji
+╠${prefix}joyemoji
+╠${prefix}skypeemoji
+╠${prefix}twitteremoji
+╠${prefix}whatsappemoji
+╠${prefix}microsoftemoji
+╠${prefix}googleemoji
+╠${prefix}pediaemoji
+╠${prefix}microsoftemoji
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'imageeffectmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Image Effect Menu')
+await XeonBotInc.send5ButImg(from, `╔═════✪「 IMG EFFECT 」	
+╠${prefix}wanted
+╠${prefix}blur
+╠${prefix}framed
+╠${prefix}gayeffect
+╠${prefix}imagesketch
+╠${prefix}invert
+╠${prefix}burn
+╠${prefix}triggeredwebp
+╠${prefix}shit
+╠${prefix}rip
+╠${prefix}jail
+╠${prefix}beautifuleffect
+╠${prefix}deleteeffect
+╠${prefix}pixelate
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'animemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Anime Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 ANIME 」	
+╠${prefix}naruto
+╠${prefix}yaoi
+╠${prefix}neko2
+╠${prefix}waifu
+╠${prefix}waifu3
+╠${prefix}shinobu
+╠${prefix}awoo2
+╠${prefix}waifu2
+╠${prefix}foxgirl
+╠${prefix}animenom
+╠${prefix}goose
+╠${prefix}8ball
+╠${prefix}avatar
+╠${prefix}tickle
+╠${prefix}gecg
+╠${prefix}feed
+╠${prefix}animeslap
+╠${prefix}animespank
+╠${prefix}animepat
+╠${prefix}animeneko
+╠${prefix}animekiss
+╠${prefix}animewlp
+╠${prefix}animecuddle
+╠${prefix}animecry
+╠${prefix}animekill
+╠${prefix}animelick
+╠${prefix}animebite
+╠${prefix}animeyeet
+╠${prefix}animebully
+╠${prefix}animebonk
+╠${prefix}animewink
+╠${prefix}animepoke
+╠${prefix}animesmile
+╠${prefix}animewave
+╠${prefix}animeawoo
+╠${prefix}animeblush
+╠${prefix}animesmug
+╠${prefix}animeglomp
+╠${prefix}animehappy
+╠${prefix}animedance
+╠${prefix}animecringe
+╠${prefix}animehighfive
+╠${prefix}animehandhold
+╠${prefix}animemegumin
+╠${prefix}megumin2
+╠${prefix}loli
+╠${prefix}couplepp
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'stickermenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Sticker Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 STICKER 」	
+╠ ${prefix}patrick
+╠ ${prefix}emoji
+╠ ${prefix}emojimix
+╠ ${prefix}attp
+╠ ${prefix}ttp
+╠ ${prefix}doge
+╠ ${prefix}lovesticker
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'animestickermenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Anime Sticker Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 ANIME STICKER 」	
+╠${prefix}loli
+╠${prefix}bully
+╠${prefix}cuddle
+╠${prefix}cry
+╠${prefix}hug
+╠${prefix}awoo
+╠${prefix}kiss
+╠${prefix}lick
+╠${prefix}pat
+╠${prefix}smug
+╠${prefix}bonk
+╠${prefix}yeet
+╠${prefix}blush
+╠${prefix}smile
+╠${prefix}wave
+╠${prefix}highfive
+╠${prefix}handhold
+╠${prefix}nom
+╠${prefix}glomp
+╠${prefix}bite
+╠${prefix}slap
+╠${prefix}kill
+╠${prefix}happy
+╠${prefix}wink
+╠${prefix}poke
+╠${prefix}dance
+╠${prefix}cringe
+╠${prefix}neko
+╠${prefix}gura
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'nsfwmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Nsfw Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 NSFW 」	
+╠${prefix}hentaivideo
+╠${prefix}yuri
+╠${prefix}masturbation
+╠${prefix}thighs
+╠${prefix}pussy
+╠${prefix}panties
+╠${prefix}orgy
+╠${prefix}ahegao
+╠${prefix}ass
+╠${prefix}bdsm
+╠${prefix}blowjob
+╠${prefix}cuckold
+╠${prefix}ero
+╠${prefix}gasm
+╠${prefix}cum
+╠${prefix}femdom
+╠${prefix}foot
+╠${prefix}gangbang
+╠${prefix}glasses
+╠${prefix}jahy
+╠${prefix}trap
+╠${prefix}blowjobgif
+╠${prefix}spank
+╠${prefix}hneko
+╠${prefix}nwaifu
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'funmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Fun Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 Fun 」	
+╠ ${prefix}how [text
+╠ ${prefix}when [text]
+╠ ${prefix}where [text]
+╠ ${prefix}is [text]
+╠ ${prefix}what [text]
+╠ ${prefix}can [text]
+╠ ${prefix}rate [text]
+╠ ${prefix}wangy [text]
+╠ ${prefix}beautifulcheck [tag]
+╠ ${prefix}awesomecheck [tag]
+╠ ${prefix}prettycheck [tag]
+╠ ${prefix}lesbiancheck [tag]
+╠ ${prefix}gaycheck [tag]
+╠ ${prefix}cutecheck [tag]
+╠ ${prefix}uglycheck [tag]
+╠ ${prefix}hornycheck [tag]
+╠ ${prefix}charactercheck [tag]
+╠ ${prefix}lovelycheck [tag]
+╠ ${prefix}couple
+╠ ${prefix}mysoulmate
+╠ ${prefix}hot
+╠ ${prefix}sexy
+╠ ${prefix}kind
+╠ ${prefix}idiot
+╠ ${prefix}handsome
+╠ ${prefix}beautiful
+╠ ${prefix}cute
+╠ ${prefix}pretty
+╠ ${prefix}lesbian
+╠ ${prefix}noob
+╠ ${prefix}bastard
+╠ ${prefix}foolish
+╠ ${prefix}nerd
+╠ ${prefix}asshole
+╠ ${prefix}gay
+╠ ${prefix}smart
+╠ ${prefix}stubble
+╠ ${prefix}dog
+╠ ${prefix}horny
+╠ ${prefix}cunt
+╠ ${prefix}wibu
+╠ ${prefix}noobra
+╠ ${prefix}nibba
+╠ ${prefix}nibbi
+╠ ${prefix}comrade
+╠ ${prefix}mumu
+╠ ${prefix}rascal
+╠ ${prefix}scumbag
+╠ ${prefix}nuts
+╠ ${prefix}fagot
+╠ ${prefix}scoundrel
+╠ ${prefix}ditch
+╠ ${prefix}dope
+╠ ${prefix}gucci
+╠ ${prefix}lit
+╠ ${prefix}dumbass
+╠ ${prefix}crackhead
+╠ ${prefix}mf
+╠ ${prefix}motherfucker
+╠ ${prefix}sucker
+╠ ${prefix}fuckboy
+╠ ${prefix}playboy
+╠ ${prefix}fuckgirl
+╠ ${prefix}playgirl
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'soundmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Sound Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 Sound 」	
+╠ ${prefix}sound1
+╠ ${prefix}sound2
+╠ ${prefix}sound3
+╠ ${prefix}sound4
+╠ ${prefix}sound5
+╠ ${prefix}sound6
+╠ ${prefix}sound7
+╠ ${prefix}sound8
+╠ ${prefix}sound9
+╠ ${prefix}sound10
+╠ ${prefix}sound11
+╠ ${prefix}sound12
+╠ ${prefix}sound13
+╠ ${prefix}sound14
+╠ ${prefix}sound15
+╠ ${prefix}sound16
+╠ ${prefix}sound17
+╠ ${prefix}sound18
+╠ ${prefix}sound19
+╠ ${prefix}sound20
+╠ ${prefix}sound21
+╠ ${prefix}sound22
+╠ ${prefix}sound23
+╠ ${prefix}sound24
+╠ ${prefix}sound25
+╠ ${prefix}sound26
+╠ ${prefix}sound27
+╠ ${prefix}sound28
+╠ ${prefix}sound29
+╠ ${prefix}sound30
+╠ ${prefix}sound31
+╠ ${prefix}sound32
+╠ ${prefix}sound33
+╠ ${prefix}sound34
+╠ ${prefix}sound35
+╠ ${prefix}sound36
+╠ ${prefix}sound37
+╠ ${prefix}sound38
+╠ ${prefix}sound39
+╠ ${prefix}sound40
+╠ ${prefix}sound41
+╠ ${prefix}sound42
+╠ ${prefix}sound43
+╠ ${prefix}sound44
+╠ ${prefix}sound45
+╠ ${prefix}sound46
+╠ ${prefix}sound47
+╠ ${prefix}sound48
+╠ ${prefix}sound49
+╠ ${prefix}sound50
+╠ ${prefix}sound51
+╠ ${prefix}sound52
+╠ ${prefix}sound53
+╠ ${prefix}sound54
+╠ ${prefix}sound55
+╠ ${prefix}sound56
+╠ ${prefix}sound57
+╠ ${prefix}sound58
+╠ ${prefix}sound59
+╠ ${prefix}sound60
+╠ ${prefix}sound61
+╠ ${prefix}sound62
+╠ ${prefix}sound63
+╠ ${prefix}sound64
+╠ ${prefix}sound65
+╠ ${prefix}sound66
+╠ ${prefix}sound67
+╠ ${prefix}sound68
+╠ ${prefix}sound69
+╠ ${prefix}sound70
+╠ ${prefix}sound71
+╠ ${prefix}sound72
+╠ ${prefix}sound73
+╠ ${prefix}sound74
+╠ ${prefix}sound75
+╠ ${prefix}sound76
+╠ ${prefix}sound77
+╠ ${prefix}sound78
+╠ ${prefix}sound79
+╠ ${prefix}sound80
+╠ ${prefix}sound81
+╠ ${prefix}sound82
+╠ ${prefix}sound83
+╠ ${prefix}sound84
+╠ ${prefix}sound85
+╠ ${prefix}sound86
+╠ ${prefix}sound87
+╠ ${prefix}sound88
+╠ ${prefix}sound89
+╠ ${prefix}sound90
+╠ ${prefix}sound91
+╠ ${prefix}sound92
+╠ ${prefix}sound93
+╠ ${prefix}sound94
+╠ ${prefix}sound95
+╠ ${prefix}sound96
+╠ ${prefix}sound97
+╠ ${prefix}sound98
+╠ ${prefix}sound99
+╠ ${prefix}sound100
+╠ ${prefix}sound101
+╠ ${prefix}sound102
+╠ ${prefix}sound103
+╠ ${prefix}sound104
+╠ ${prefix}sound105
+╠ ${prefix}sound106
+╠ ${prefix}sound107
+╠ ${prefix}sound108
+╠ ${prefix}sound109
+╠ ${prefix}sound110
+╠ ${prefix}sound111
+╠ ${prefix}sound112
+╠ ${prefix}sound113
+╠ ${prefix}sound114
+╠ ${prefix}sound115
+╠ ${prefix}sound116
+╠ ${prefix}sound117
+╠ ${prefix}sound118
+╠ ${prefix}sound119
+╠ ${prefix}sound120
+╠ ${prefix}sound121
+╠ ${prefix}sound122
+╠ ${prefix}sound123
+╠ ${prefix}sound124
+╠ ${prefix}sound125
+╠ ${prefix}sound126
+╠ ${prefix}sound127
+╠ ${prefix}sound128
+╠ ${prefix}sound129
+╠ ${prefix}sound130
+╠ ${prefix}sound131
+╠ ${prefix}sound132
+╠ ${prefix}sound133
+╠ ${prefix}sound134
+╠ ${prefix}sound135
+╠ ${prefix}sound136
+╠ ${prefix}sound137
+╠ ${prefix}sound138
+╠ ${prefix}sound139
+╠ ${prefix}sound140
+╠ ${prefix}sound141
+╠ ${prefix}sound142
+╠ ${prefix}sound143
+╠ ${prefix}sound144
+╠ ${prefix}sound145
+╠ ${prefix}sound146
+╠ ${prefix}sound147
+╠ ${prefix}sound148
+╠ ${prefix}sound149
+╠ ${prefix}sound150
+╠ ${prefix}sound151
+╠ ${prefix}sound152
+╠ ${prefix}sound153
+╠ ${prefix}sound154
+╠ ${prefix}sound155
+╠ ${prefix}sound156
+╠ ${prefix}sound157
+╠ ${prefix}sound158
+╠ ${prefix}sound159
+╠ ${prefix}sound160
+╠ ${prefix}sound161
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'gamemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Game Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 GAME 」	
+╠ ${prefix}truth
+╠ ${prefix}dare
+╠ ${prefix}tictactoe
+╠ ${prefix}delttt
+╠ ${prefix}guess [option]
+╠ ${prefix}math [mode]
+╠ ${prefix}suitpvp [tag]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'anonymousmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Anonymous Menu')
+await XeonBotInc.send5ButImg(from, `╔═══✪「 ANONYMOUS 」	
+╠${prefix}anonymous
+╠${prefix}start
+╠${prefix}next
+╠${prefix}leave
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'toolmenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Tool Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 TOOL 」	
+╠ ${prefix}translate [text]
+╠ ${prefix}fliptext [text]
+╠ ${prefix}toletter [number]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'databasemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Database Menu')
+await XeonBotInc.send5ButImg(from, `╔═══✪「 DATABASE 」	
+╠ ${prefix}setcmd
+╠ ${prefix}listcmd
+╠ ${prefix}delcmd
+╠ ${prefix}lockcmd
+╠ ${prefix}addmsg
+╠ ${prefix}listmsg
+╠ ${prefix}getmsg
+╠ ${prefix}delmsg
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'indomenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Indo Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 INDO 」	
+╠ ${prefix}darkjoke
+╠ ${prefix}quotes
+╠ ${prefix}animequotes
+╠${prefix}jalantikus-meme
+╠ ${prefix}merdeka-news 
+╠ ${prefix}kontan-news 
+╠ ${prefix}cnbc-news 
+╠ ${prefix}tribun-news 
+╠ ${prefix}indozone-news 
+╠ ${prefix}kompas-news 
+╠ ${prefix}detik-news 
+╠ ${prefix}daily-news 
+╠ ${prefix}inews-news 
+╠ ${prefix}okezone-news 
+╠ ${prefix}sindo-news 
+╠ ${prefix}tempo-news 
+╠ ${prefix}antara-news 
+╠ ${prefix}cnn-news 
+╠ ${prefix}fajar-news 
+╠${prefix}cinemaschedule
+╠${prefix}wiki
+╠${prefix}covidindo
+╠${prefix}earthquake
+╠${prefix}tvschedule
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'indohoroscopemenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Indo Horoscope Menu')
+await XeonBotInc.send5ButImg(from, `╔═✪「 INDO HOROSCOPE 」	
+╠${prefix}nomorhoki
+╠${prefix}artimimpi 
+╠${prefix}artinama 
+╠${prefix}ramaljodoh 
+╠${prefix}ramaljodohbali 
+╠${prefix}suamiistri 
+╠${prefix}ramalcinta 
+╠${prefix}cocoknama 
+╠${prefix}pasangan 
+╠${prefix}jadiannikah 
+╠${prefix}sifatusaha 
+╠${prefix}rezeki 
+╠${prefix}pekerjaan 
+╠${prefix}nasib 
+╠${prefix}penyakit 
+╠${prefix}tarot 
+╠${prefix}fengshui 
+╠${prefix}haribaik 
+╠${prefix}harisangar 
+╠${prefix}harisial
+╠${prefix}nagahari
+╠${prefix}arahrezeki
+╠${prefix}peruntungan 
+╠${prefix}weton 
+╠${prefix}karakter
+╠${prefix}keberuntungan
+╠${prefix}memancing
+╠${prefix}masasubur
+╠${prefix}zodiak
+╠${prefix}shio
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'othermenu':
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+var unicorn = await getBuffer(picak+'Other Menu')
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 OTHER 」	
+╠ ${prefix}afk
+╠ ${prefix}readmore [text]
+╠ ${prefix}toviewonce
+╠ ${prefix}chatinfo
+╠ ${prefix}alive
+╠ ${prefix}script
+╠ ${prefix}speedtest
+╠ ${prefix}ping
+╠ ${prefix}owner
+╠ ${prefix}menu
+╠ ${prefix}delete
+╠ ${prefix}chatinfo
+╠ ${prefix}quoted
+╠ ${prefix}listpc
+╠ ${prefix}listgc
+╠ ${prefix}donate
+╠ ${prefix}request
+╠ ${prefix}report [bug]
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+break
+case 'tqtt': 
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(`Thanks to
+LORD BUDDHA
+Xeon (Me)
+My family
+And all friends who helped assemble this sexy script !!!`)
+break
+            default:
+                if (budy.startsWith('=>')) {
+                    if (!isCreator) return reply(mess.owner)
+                    function Return(sul) {
+                        sat = JSON.stringify(sul, null, 2)
+                        bang = util.format(sat)
+                            if (sat == undefined) {
+                                bang = util.format(sul)
+                            }
+                            reply(bang)
+                    }
+                    try {
+                        reply(util.format(eval(`(async () => { return ${budy.slice(3)} })()`)))
+                    } catch (e) {
+                        reply(String(e))
+                    }
+                }
+
+                if (budy.startsWith('>')) {
+                    if (!isCreator) return reply(mess.owner)
+                    try {
+                        let evaled = await eval(budy.slice(2))
+                        if (typeof evaled !== 'string') evaled = require('util').inspect(evaled)
+                        await reply(evaled)
+                    } catch (err) {
+                        await reply(String(err))
+                    }
+                }
+
+                if (budy.startsWith('$')) {
+                    if (!isCreator) return reply(mess.owner)
+                    exec(budy.slice(2), (err, stdout) => {
+                        if(err) return reply(err)
+                        if (stdout) return reply(stdout)
+                    })
+                }
+			
+		if (m.chat.endsWith('@s.whatsapp.net') && isCmd) {
+                    this.anonymous = this.anonymous ? this.anonymous : {}
+                    let room = Object.values(this.anonymous).find(room => [room.a, room.b].includes(m.sender) && room.state === 'CHATTING')
+                    if (room) {
+                        if (/^.*(next|leave|start)/.test(m.text)) return
+                        if (['.next', '.leave', '.stop', '.start', 'Cari Partner', 'Keluar', 'Lanjut', 'Stop'].includes(m.text)) return
+                        let other = [room.a, room.b].find(user => user !== m.sender)
+                        m.copyNForward(other, true, m.quoted && m.quoted.fromMe ? {
+                            contextInfo: {
+                                ...m.msg.contextInfo,
+                                forwardingScore: 0,
+                                isForwarded: true,
+                                participant: other
+                            }
+                        } : {})
+                    }
+                    return !0
+                }
+			//anti-tag
+const listTag = [`${global.ownertag}@s.whatsapp.net`]
+const partiNum = (m.mtype === 'extendedTextMessage') ? m.message.extendedTextMessage.contextInfo.participant : ''
+//anti-tag 2
+if (listTag.includes(partiNum)) {
+if (antitags === false) return
+if (!m.isGroup) return
+if (m.key.fromMe) return
+sendNye = fs.readFileSync('./XeonMedia/theme/yourtag.webp')
+XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id])
+XeonBotInc.sendMessage(from, {sticker:sendNye, contextInfo:{forwardingScore: 800, isForwarded: true}}, {quoted:m})
+}
+//anti-tag 3
+if (budy.includes(`${global.ownertag}`)) {
+if (antitags === false) return
+if (!m.isGroup) return
+if (m.key.fromMe) return
+sendNye = fs.readFileSync('./XeonMedia/theme/yourtag.webp')
+XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id])
+XeonBotInc.sendMessage(from, {sticker:sendNye, contextInfo:{forwardingScore: 800, isForwarded: true}}, {quoted:m})
+}
+		if (isCmd && budy.toLowerCase() != undefined) {
+		    if (m.chat.endsWith('broadcast')) return
+		    if (m.isBaileys) return
+		    let msgs = global.db.data.database
+		    if (!(budy.toLowerCase() in msgs)) return
+		    XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true)
+		}
+        }
+        
+
+    } catch (err) {
+        m.reply(util.format(err))
+    }
+}
+
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(chalk.redBright(`Update ${__filename}`))
+	delete require.cache[file]
+	require(file)
+})
