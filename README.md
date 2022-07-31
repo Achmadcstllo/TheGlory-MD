@@ -27,8 +27,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Achmadcstllo/TheGlory—MD.git
-cd TheGlory—MD
+git clone https://github.com/Achmadcstllo/TheGlory-MD.git
+cd TheGlory-MD 
 
 npm start
 ```
@@ -44,8 +44,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Achmadcstllo/TheGlory—MD
-cd TheGlory—MD
+git clone https://github.com/Achmadcstllo/TheGlory-MD
+cd TheGlory-MD
 npm start
 ```
 ## `For VPS`
@@ -56,8 +56,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Achmadcstllo/TheGlory—MD
-cd TheGlory—MD
+git clone https://github.com/Achmadcstllo/TheGlory-MD
+cd TheGlory-MD
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
