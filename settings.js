@@ -69,7 +69,7 @@ global.websitex = "https://trakteer.id/Achmdcstllo" //ur website to be displayed
 global.botscript = 'https://github.com/Achmadcstllo/' //script link
 global.reactmoji = "😱" //ur menu react emoji
 global.themeemoji = "🗡️" //ur theme emoji
-global.packname = "TheGlory—MD/n• " //ur sticker watermark packname
+global.packname = "TheGlory—MD• " //ur sticker watermark packname
 global.author = "Achmadcstllo official" //ur sticker watermark author
 
 //Bot theme media
